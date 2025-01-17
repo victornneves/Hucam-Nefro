@@ -1,15 +1,15 @@
 relatorio_consulta_ambulatorial_nefrologia:
   identificacao_paciente: Masculino, 52 anos.
   subjetivo:
-  -  Paciente vem apresentando cãibras eventuais. Estava melhor quando fazia o alongamento. Relata que no final de novembro/24 apresentou provável quadro viral com febre, mas melhorou espontaneamente em 48h.
+    -  Paciente vem apresentando cãibras eventuais. Estava melhor quando fazia o alongamento. Relata que no final de novembro/24 apresentou provável quadro viral com febre, mas melhorou espontaneamente em 48h.
   hipoteses_diagnosticas: DRC estágio 3b - CKD-EPI 32 ml/min/1,73 m². Função renal estável.
   historico_patologico_pregresso:
-  - Etiologia/Doença de Base: Nefrotoxicidade pós-QT devido à neoplasia de testículo em 1997.
-  - Aumento testicular esquerdo e varicocele importante (acompanhado na urologia - aguarda cirurgia).
-  - Comorbidades:
-    - Neoplasia de testículo (dx aos 25 anos; tto com orquiectomia direita + QT/RT).
-    - DUP (úlcera duodenal em 2004).
-    - Encurtamento do MID (sequela do tratamento radioterápico).
+    - Etiologia/Doença de Base: Nefrotoxicidade pós-QT devido à neoplasia de testículo em 1997.
+    - Aumento testicular esquerdo e varicocele importante (acompanhado na urologia - aguarda cirurgia).
+    - Comorbidades:
+      - Neoplasia de testículo (dx aos 25 anos; tto com orquiectomia direita + QT/RT).
+      - DUP (úlcera duodenal em 2004).
+      - Encurtamento do MID (sequela do tratamento radioterápico).
   medicamentos_em_uso:
     - Losartana 50mg 1/2-0-0 - PA caiu com doses maiores de losartan.
     - Omeprazol 20mg 1-0-0.

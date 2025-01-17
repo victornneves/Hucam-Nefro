@@ -1,13 +1,14 @@
 relatorio_consulta_ambulatorial_nefrologia:
   identificacao_paciente: Masculino, 72 anos, divorciado, profissão autônomo (vidraceiro), residente no município de Vitória.
   subjetivo:
-  - Em agosto/2021, paciente passou por consulta de Nefro Triagem, sendo encaminhado ao Prevenir, porém não compareceu.
-  - Paciente com relato de internação recente por provável EAP hipertensivo.
-  - Vacinação Pendente influenza 2024. Hep B 18/07/24 - 16/09/24 - 3º dose em jan/24. '
-  hipoteses_diagnosticas: 'DRC G4aA3
+    - Em agosto/2021, paciente passou por consulta de Nefro Triagem, sendo encaminhado ao Prevenir, porém não compareceu.
+    - Paciente com relato de internação recente por provável EAP hipertensivo.
+    - Vacinação Pendente influenza 2024. Hep B 18/07/24 - 16/09/24 - 3º dose em jan/24.
+  hipoteses_diagnosticas:
+    - DRC estágio: G4aA3
     - Etiologia / doença de base: Nefropatia diabética.
     - Admissão prevenir em: 13/06/2024
-    - CLCR admissão: (13/06/24): eGFR CKD-EPI: 15 mL/min/1.73 m² (CR 4,05) '
+    - CLCR admissão (13/06/24): eGFR CKD-EPI= 15 mL/min/1.73 m² (CR 4,05) '
   historico_patologico_pregresso: 
     - HAS — Afere em domicílio, mas relata estar mal controlada = 180/80mmHg do atendimento.
     - DM - Afere em domicílio, relata estar bem controlada > seguimento com Marta no HUCAM.
@@ -30,108 +31,35 @@ relatorio_consulta_ambulatorial_nefrologia:
   preparo_para_terapia_substituicao_renal:
     - Apresentação de método dialítico 05/07/24 = hemodiálise
     - Avaliação DP 09/01/24, Sorologias 12/07/24 = Anti HIV NR/ Anti HCV NR/ Anti HBC NR/ Anti HBS NR / HBsAg, NR = preemptivo (CICr < 10ml/min) Não se aplica
-
-  exames_laboratoriais: '## EX LAB [15/05/24]
-
-    CAL 5,1 CA 9,5 P 4,8 PTH 88 VITD 19,2 B12 624 H8 11,3 CT 260 HDL 37
-
-    LDL TRIGLICERIDEOS 410 CR 4,05 UR 102 K 4,4 NA 139 eGFR CKD-EPI: 15 ml/min/1.73
-    m³ ( CR 4,05)
-
-
-    ## EX LAB [12/07/24]
-
-    AU 9,3; CA 10; CL 99; CT 160; CR 4,97; FER 174; FA 183; P 5,9; GLIC 150; HBG 7,6%;
-    K 4,4; ALB 3,8;
-
-    IST 35%; NA 138; TGC 226; UR 129; BIC 28,3; HB 9,4; HCT 29,4; VIT DO22;
-
-    EAS COM PROTEINURIA E GLICOSURIA;
-
-
-    ## EX LAB [04/10/24]
-
-    HB 8,4; HCT 24,5; IST 10%; UR 133; CR 5,92; CA 8,4; P 4,1; HBG 5,6%; FER 60;
-
-
-    ## EX LAB [07/11/24]
-
-    ct 141; hdl 31; ldl 68; ca 8,8; alb 3,8; cr 5,44; UR 131; IST 19%; MG 2,17; NA
-    141; K 3,6; FER 263; P 4,7; TGC 209; GLIC 72; AU 6,8; HB 8,8; HCT 28,4; BIC 32;
-    VIT D 18;
-
-    PTH 204; EAS 1013/ 6,5 PTN 100 / GLIC 30;
-
-    '
-  exames_complementares: '## ULTRASSONOGRAFIA DO ABDOME TOTAL [14/12/2023]
-
-    Fígado de morfologia, contornos e dimensões normais, apresentando ecotextura preservada,
-    sem lesões focais detectáveis. Vias biliares intra e extra-hepáticas com calibre
-    normal. Veia porta de calibre e trajeto normais. Vesícula biliar com paredes finas
-    e lisas, contendo cálculo com 2,9 cm. Pâncreas de morfologia, contornos, dimensões
-    e ecotextura normais. Baço de morfologia, contornos, dimensões e ecotextura normais.
-    Rins em topografia, morfologia, dimensões, contornos e ecotextura normais, sem
-    evidências de cálculos ou dilatação plelocalicial. Pequenos cistos corticais bilaterais,
-    menores que 2,0 cm. Bexiga urinária cheia, com paredes delgadas regulares e sem
-    falhas de enchimentos ou cálculos em seu interior. Aorta abdominal de calibre
-    normal nas janelas acústicas acessíveis. Ausência de linfonodosegalias retroperitoneais
-    nas janelas acústicas acessíveis. Ausência de líquido livre na cavidade abdominal.
-
-    Impressão: Colelitíase. Pequenos cistos renais simples bilaterais
-
-
-    ## ECO TRANSTORÁCICO [17/05/2024]
-
-    Fração de ejeção: 71%. VE com função sistólica global e segmentar preservada em
-    repouso, dupla lesão valvular mitral degenerativa em grau discreto. Regurgitação
-    valvular tricúspide discreta. Leve dilatação do átrio esquerdo. Valva aórtica
-    é trivalvular, exibe fibrocalcificação leve dos folhetos e abertura preservada
-    dos mesmos. Fluxo transvalvar de velocidades normais, ausência de regurgitação
-    ao Doppler
-
-    '
-  exame_fisico: '- Bom estado geral, lúcido e orientado.
-
+  exames_laboratoriais:
+    15/05/24: CAL 5,1 CA 9,5 P 4,8 PTH 88 VITD 19,2 B12 624 H8 11,3 CT 260 HDL 37 LDL TRIGLICERIDEOS 410 CR 4,05 UR 102 K 4,4 NA 139 eGFR CKD-EPI= 15 ml/min/1.73m³ ( CR 4,05)
+    12/07/24: AU 9,3; CA 10; CL 99; CT 160; CR 4,97; FER 174; FA 183; P 5,9; GLIC 150; HBG 7,6%; K 4,4; ALB 3,8; IST 35%; NA 138; TGC 226; UR 129; BIC 28,3; HB 9,4; HCT 29,4; VIT DO22; EAS COM PROTEINURIA E GLICOSURIA;
+    04/10/24: HB 8,4; HCT 24,5; IST 10%; UR 133; CR 5,92; CA 8,4; P 4,1; HBG 5,6%; FER 60;
+    07/11/24: ct 141; hdl 31; ldl 68; ca 8,8; alb 3,8; cr 5,44; UR 131; IST 19%; MG 2,17; NA 141; K 3,6; FER 263; P 4,7; TGC 209; GLIC 72; AU 6,8; HB 8,8; HCT 28,4; BIC 32; VIT D 18;PTH 204; EAS 1013/ 6,5 PTN 100 / GLIC 30;
+  exames_complementares: 
+    ULTRASSONOGRAFIA DO ABDOME TOTAL [14/12/2023]:
+      reultado: Fígado de morfologia, contornos e dimensões normais, apresentando ecotextura preservada, sem lesões focais detectáveis. Vias biliares intra e extra-hepáticas com calibre normal. Veia porta de calibre e trajeto normais. Vesícula biliar com paredes finas e lisas, contendo cálculo com 2,9 cm. Pâncreas de morfologia, contornos, dimensões e ecotextura normais. Baço de morfologia, contornos, dimensões e ecotextura normais. Rins em topografia, morfologia, dimensões, contornos e ecotextura normais, sem evidências de cálculos ou dilatação plelocalicial. Pequenos cistos corticais bilaterais, menores que 2,0 cm. Bexiga urinária cheia, com paredes delgadas regulares e sem falhas de enchimentos ou cálculos em seu interior. Aorta abdominal de calibre normal nas janelas acústicas acessíveis. Ausência de linfonodosegalias retroperitoneais nas janelas acústicas acessíveis. Ausência de líquido livre na cavidade abdominal.
+      impressão: Colelitíase. Pequenos cistos renais simples bilaterais
+    ECO TRANSTORÁCICO [17/05/2024]:
+      resultado: Fração de ejeção 71%. VE com função sistólica global e segmentar preservada em repouso, dupla lesão valvular mitral degenerativa em grau discreto. Regurgitação valvular tricúspide discreta. Leve dilatação do átrio esquerdo. Valva aórtica é trivalvular, exibe fibrocalcificação leve dos folhetos e abertura preservada dos mesmos. Fluxo transvalvar de velocidades normais, ausência de regurgitação ao Doppler
+  exame_fisico:
+    - Bom estado geral, lúcido e orientado.
     - MVF + Eupneico, em ar ambiente. PA 160/80 mmHg
-
     - Abdome globoso por adiposidade
-
-    - MID: edvema 3+/4+, panturrilhas livres.
-
-    - MIE: edvema 2+/4+.
-
-    '
-  conduta: '- Paciente mantendo hipertensão > Associo clonidina 0,1mg 12/12h
-
+    - MID= edvema 3+/4+, panturrilhas livres.
+    - MIE= edvema 2+/4+.
+  conduta:
+    - Paciente mantendo hipertensão > Associo clonidina 0,1mg 12/12h
     - Mantenho demais anti-HAS
-
     - Em seguimento do DM2 com Dra. Marta - Relata redução da insulina pelo cardiologista
-
     - Em atualização do calendário vacinal - Pendente 3º dose em jan/24
-
     - Anemia - HB 8,8 - Mantenho EPO 4000/semana (renovo receita e avalio liberação)
-
-    - Deficiência relativa de ferro - IST 19%; FER 263 > Fez uso de sacarato 10 AMP
-    após coleta de exame (atualmente em dose de manutenção a cada 15 dias)
-
+    - Deficiência relativa de ferro - IST 19%; FER 263 > Fez uso de sacarato 10 AMP após coleta de exame (atualmente em dose de manutenção a cada 15 dias)
     - Vit D 18 - Ataque + manutenção colecalciferol
-
-    - Hiperfosfatemia persistente - P 4,8 > 5,9 > 4,1 > 4,7: aumento dose de sevelamer
-    1+2+1 (calcificação valvar e contra indicação a quelantes a base de cálcio (Valva
-    aórtica é trivalvular, exibe fibrocalcificação leve dos folhetos e abertura preservada
-    dos mesmos))
-
-    - Apresentação de método - Optado por hemodiálise - Solicito novamente risco cardio
-    e Doppler para confecção de FAV: Risco cardio marcado 21/01/25 // pendente mapeamento
-    MSD (fez somente MSE)
-
+    - Hiperfosfatemia persistente - P 4,8 > 5,9 > 4,1 > 4,7= aumento dose de sevelamer 1+2+1 (calcificação valvar e contra indicação a quelantes a base de cálcio (Valva aórtica é trivalvular, exibe fibrocalcificação leve dos folhetos e abertura preservada dos mesmos))
+    - Apresentação de método - Optado por hemodiálise - Solicito novamente risco cardio e Doppler para confecção de FAV= Risco cardio marcado 21/01/25 // pendente mapeamento MSD (fez somente MSE)
     - Mantenho demais medicações
-
     - Seguimento conjunto com nutricionista
-
     - Oriento compra de sacarato e dose de ataque 10 ampolas
-
     - Retorno 2 meses
-
-    '
   impressão: ""

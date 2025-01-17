@@ -1,10 +1,10 @@
   relatorio_consulta_ambulatorial_nefrologia:
-    identificacao_paciente: Feminina, 75 anos, negra, 4 filhos, aposentada, mora em
-      Itapemirim. Acompanhada do filho.
+    identificacao_paciente: Feminina, 75 anos, negra, 4 filhos, aposentada, mora em Itapemirim. Acompanhada do filho.
     subjetivo:
-    - Paciente comparece à consulta de retorno. Relata estar em uso da losartana de
-      12/12h e do bicarbonato. Refere ainda ter administrado 6 ampolas do Noripurum.
-      Traz Doppler de membros superiores (04/11/24).
+      - Paciente comparece à consulta de retorno.
+      - Relata estar em uso da losartana de 12/12h e do bicarbonato.
+      - Refere ainda ter administrado 6 ampolas do Noripurum.
+      - Traz Doppler de membros superiores (04/11/24).
     hipoteses_diagnosticas: 
       - "DRC Estágio G4 — TFGe 23 ml/min (CR 2,18 - 06/12/24"
       - Etiologia: Nefropatia relacionada ao diabetes?
@@ -40,12 +40,11 @@
       - Tropicamida 8/8 od (filha está pingando em ao)
       - Ster 6/6 h od (filha está pingando em ao)
     preparo_para_terapia_substituicao_renal:
-      '- Apresentação de método dialítico (10/09/24)
-      foi a consulta, mas sem familiares próximos
+      - Apresentação de método dialítico: (10/09/24) foi a consulta, mas sem familiares próximos
       - Método escolhido: Diálise peritoneal —> Aguardando USG de abdome total
       - Acesso: Não se aplica
       - Sorologias 19/08/24: HBsAg NR | HCV NR | Anti-HBS Reag | HIV NR |
-      - Tx preemptivo (CICr < 10ml/min): Não se aplica'
+      - Tx preemptivo (CICr < 10ml/min): Não se aplica
     exames_laboratoriais: 
       12/07/24:
         CR 2,08 | ALB 3,9 | CT 124 | HDL 37 | LDL 66,8 | CPK 87 | NA 141 | K 4,9 | VIT
@@ -75,16 +74,15 @@
         USG Rins (19/07/24): Rim direito tópico, com formas bem definidas, relação córtico-medular preservada 90,3 x 12,3 mm. Rim esquerdo tópico, com formas bem definidas, relação córtico-medular preservada. 90,6 x 14,6 mm. Imagem linear, hiperecogênica, com sombra acústica posterior de 6,1mm no grupo calicinal médio.
         ECO-TT (18/07/24): AO 29 | AE 39 | DDVE 44 | DSVE 27 | SEPTO 8 | PP 8| FE (Teichholz) 69% | índice  degeneração mitro-aórtica leve. Sem demais alterações.
         Doppler Arterial e Venoso MMSS (04/11/24): Bifurcação precoce das artérias radial e ulnar a nível da prega axilar. Diâmetro reduzido das artérias radiais e ulnas ao nível do punho bilateralmente. Veias cefálica e basílica de diâmetros limítrofes.'
-    exame_fisico: '- GERAL: BEG, hipocorada 1+/4+, afebril.
-      - ACV: RCR 2T, SS. PA: 150 x 60 mmHg. FC 54 bpm.
+    exame_fisico:
+      - GERAL: BEG, hipocorada 1+/4+, afebril.
+      - ACV: RCR 2T, SS. PA= 150 x 60 mmHg. FC 54 bpm.
       - APR: Eupneica, MV presente bilateralmente, não ausculto RA. Sat 98% em AA.
       - MMII: Edema 1+/4+, panturrilhas sem empastamento.'
-    conduta: '- Mantenho losartana 50mg 12/12h + acrescento anlodipino 5mg noite -->
-      controle de PA.
-      - Oriento anotação da pressão arterial e glicemias nas últimas 2 semanas antes
-      do retorno > Avaliar se PA elevada persistentemente ou se HAS jaleco branco.
-      - Prescrevo ataque de vitamina D 50.000 UI/semana por 8 semanas + 1x/mês no dia
-      08 de cada mês.
+    conduta:
+      - Mantenho losartana 50mg 12/12h + acrescento anlodipino 5mg noite --> controle de PA.
+      - Oriento anotação da pressão arterial e glicemias nas últimas 2 semanas antes do retorno > Avaliar se PA elevada persistentemente ou se HAS jaleco branco.
+      - Prescrevo ataque de vitamina D 50.000 UI/semana por 8 semanas + 1x/mês no dia 08 de cada mês.
       - Aumento reposição de bicarbonato de sódio para 2 colheres/dia.
       - Retorno com exames em 04 meses.'
     impressão:
