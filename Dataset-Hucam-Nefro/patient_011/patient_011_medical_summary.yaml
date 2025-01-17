@@ -2,20 +2,22 @@ relatorio_consulta_ambulatorial_nefrologia:
   identificacao_paciente: Feminina, 44 anos, reside em Vitória-ES, casada, 1 filho, desempregada
   subjetivo:
     - Assintomática. Nega sintomas urêmicos, apetite preservado.
-    - VACINAÇÃO: Vacinou 1ª dose para COVID-19. Hepatite B = 22/08/24 - 01/10/24 / 01/11/24.
-    - HPS: Nega tabagismo ou etilismo.
-    - Perda de seguimento de jul/23-jul/24 > Retorno após busca ativa.
+  vacinação:
+    - Vacinou 1ª dose para COVID-19.
+    - Hepatite B = 22/08/24 - 01/10/24 / 01/11/24.
   hipoteses_diagnosticas:
     - DRC Estágio IV (21.7 mL/min/1,73m²) A3
     - Etiologia= nefropatia por IgA? Doença de membrana fina?
     - EAS 18/04/22 com cilindro hemático e de 29/03/22 com codócitos e acantócitos | PTN < 1g.
     - Biópsia renal não realizada devido a rins atróficos.
+    - Perda de seguimento de jul/23-jul/24 > Retorno após busca ativa.
   historico_patologico_pregresso:
     - HAS há 10 anos.
     - Asma Uso de Clenil diário e Salbutamol de resgate.
     - Relato de pressão elevada na gravidez há 17 anos (com 40 semanas).
     - Reação medicamentosa (Anlodipino – edema MMI, Clortalidona – reação cutânea).
     - Colecistectomia há 12 anos.
+    - HPS: Nega tabagismo ou etilismo.
   medicamentos_em_uso:
     - Atenolol 50 mg 2x/dia
     - Furosemida 40 mg 1+1 comp.

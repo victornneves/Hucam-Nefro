@@ -1,15 +1,17 @@
 relatorio_consulta_ambulatorial_nefrologia:
-  identificacao_paciente: Feminina, 64 anos, viúva, moradora de Santa Leopoldina - aposentada.
+  identificacao_paciente:
+    - Feminina, 64 anos, viúva, moradora de Santa Leopoldina - aposentada.
   subjetivo:
     - Relata melhora da hiporexia, das náuseas e vômitos.
-    - Tomou 4 doses COVID
-    - Seguimento Multiprofissional (Data da última avaliação):
-      - Nutrição: 15/08/2023
-      - Assistente Social:
-      - Psicologia:
-      - Enfermagem Nefrologia: 
   hipoteses_diagnosticas: 
     - DRC Estágio 5 → TFGe - CKD-EPI 15 ml/min/1,73 m²
+  vacinação: 
+    - Tomou 4 doses COVID
+  seguimento_multiprofissional:
+    - Nutrição: 15/08/2023
+    - Assistente Social:
+    - Psicologia:
+    - Enfermagem Nefrologia: 
   historico_patologico_pregresso:
     - Nefrite Lúpica - Diagnóstico em 2012
     - HAS

@@ -23,12 +23,6 @@ relatorio_consulta_ambulatorial_nefrologia:
       - Hiperfosfatemia: Presente.
       - PTH > 300: Ausente.
       - Hiperuricemia: Ausente.
-    - Vacinação: Não especificado.
-    - Seguimento multiprofissional (Data da última avaliação):
-      - Nutrição: XX.
-      - Assistente Social: XX.
-      - Psicologia: XX.
-      - Enfermagem Nefrologia: XX.
   medicamentos_em_uso:
     - Losartana 50mg 1-0-1.
     - Anlodipino 5mg 1-0-1.

@@ -1,29 +1,10 @@
 relatorio_consulta_ambulatorial_nefrologia:
-  identificacao_paciente: 
+  identificacao_paciente:
     - "Masculino, 65 anos, divorciado, natural de Resplendor-MG e reside em Vitória-ES há 51 anos. Desacompanhado."
   subjetivo:
-    - situacao no programa: Ativo
-    - Paciente nega novos episódios de hipoglicemia. Parou de perder peso. Nega náuseas
-      ou hiporexia. Aderiu parcialmente à dieta.
+    - Paciente nega novos episódios de hipoglicemia. Parou de perder peso. Nega náuseas ou hiporexia. Aderiu parcialmente à dieta.
     - Em acompanhamento com endocrinologista HUCAM
     - Nega queixas urinárias ou espumúria
-    - complicacoes_drc:
-      - Anemia: Não
-      - Hiperfosfatemia: Não
-      - PTH > 300: Não
-      - Hiperuricemia: Não
-    - vacinacao:
-      - COVID completo
-      - Influenza 2023 — Pendente 2024
-      - DT 3 doses
-      - HBV imunizado -> Anti HBS positivo
-      - FA 2017
-      - PNM 13 2021
-    - seguimento_multiprofissional:
-      - Nutrição: 06/05/24
-      - Assistente Social: ""
-      - Psicologia: ""
-      - Enfermagem Nefrologia: 05/11/24
   historico_patologico_pregresso:
     - CRVM outubro 2009 - duas pontes
     - HAS - há 14 anos
@@ -48,18 +29,34 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Insulina Regular de acordo com glicemia (180-200)
     - Colecalciferol 50.000 UI --> Suspensa por enquanto
   hipoteses_diagnosticas:
+    - DRC Estágio: 3B / A3
+    - TFGe Atual: 31 ml/min/1,73m2
+    - Etiologia / Doença de Base: DRD (Doença Renal Diabética)
+    - Admissão Revenir: em 16/11/23
+    - CLCR Admissão: 36,6 ml/min/1,73m² (11/23)
+    - complicacoes_drc:
+      - Anemia: Não
+      - Hiperfosfatemia: Não
+      - PTH > 300: Não
+      - Hiperuricemia: Não
+  vacinacao:
+    - COVID completo
+    - Influenza 2023 — Pendente 2024
+    - DT 3 doses
+    - HBV imunizado -> Anti HBS positivo
+    - FA 2017
+    - PNM 13 2021
+  seguimento_multiprofissional:
+    - Nutrição: 06/05/24
+    - Assistente Social: ""
+    - Psicologia: ""
+    - Enfermagem Nefrologia: 05/11/24
   preparo_para_terapia_substituicao_renal:
     - Apresentação de Método Dialítico: 05/11/24
     - Método Escolhido: HD
     - Acesso: Não se aplica
     - Sorologias:
     - Tx Preemptivo (CICr < 10ml/min): Não se aplica
-    - DRC Estágio 3B / A3
-    - TFGe Atual: 31 ml/min/1,73m2
-    - Etiologia / Doença de Base: DRD (Doença Renal Diabética)
-    - Admissão Revenir em 16/11/23
-    - CLCR Admissão: 36,6 ml/min/1,73m² (11/23)
-
   exame_fisico:
     - Peso: 90,1kg >> 84,6
     - Geral: BEG, LOTE, anictérico, acianótico, normocorado, hidratado e afebril

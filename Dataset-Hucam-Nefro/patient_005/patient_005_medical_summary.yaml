@@ -1,7 +1,10 @@
 relatorio_consulta_ambulatorial_nefrologia:
   identificacao_paciente: "Feminina, 57 anos, solteira, 2 filhas, pescadora, atualmente 'encostada', natural de João Neiva-ES, residente em Cariacica-ES, acompanhada pela filha Rose."
-  subjetivo: |
-    Paciente refere melhora dos sintomas respiratórios ao longo dos últimos quatro meses; informa uma internação este ano devido quadro de "cistite" com resolução. Mantém quadro de espumúria. Nega demais sintomas.
+  subjetivo:
+    - Paciente refere melhora dos sintomas respiratórios ao longo dos últimos quatro meses
+    - informa uma internação este ano devido quadro de "cistite" com resolução.
+    - Mantém quadro de espumúria.
+    - Nega demais sintomas.
   hipoteses_diagnosticas: 
     - "DRC Estágio G4/A2"
     - "Etiologia/Doença de Base: DRD"
@@ -34,7 +37,6 @@ relatorio_consulta_ambulatorial_nefrologia:
       - "Irmã com DM, doença renal (não soube especificar) em hemodiálise."
       - "Filhos (2) com pré-diabetes."
     - "HPS: Nega tabagismo e uso de álcool."
-
   medicamentos_em_uso:
     - "Losartana 50 mg (1-0-1)"
     - "Atenolol 25 mg (1-0-1)"

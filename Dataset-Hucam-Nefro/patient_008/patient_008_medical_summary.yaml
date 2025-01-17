@@ -3,66 +3,65 @@ relatorio_consulta_ambulatorial_nefrologia:
   subjetivo:
     - "Paciente encaminhado pela cardiologia por aumento de escórias nitrogenadas. História recente de várias internações por descompensação cardíaca. Paciente estava internada até ontem na AFPES e pediu alta porque não estava recebendo atendimento adequado e tinha consulta hoje. Relata dispneia aos pequenos esforços e dispneia paroxística noturna, mas a última noite foi relativamente bem."
     - "Paciente cardiopata com múltiplas descompensações recentes, apresentando aumento de creatinina nos últimos meses. Provável síndrome cardiorrenal. CKD-EPI 43 ml/min/1,73 m². No momento, a prioridade é realizar a compensação cardíaca."
+  hipoteses_diagnosticas:
     - "Complicações DRC: Anemia, hiperfosfatemia, PTH > 300, hiperuricemia."
     - "Admissão prevenir em: 02/01/2025."
     - "CLCR admissão: 43 ml/min/1,73 m²."
-    - Seguimento multiprofissional:
-      - "Nutrição: XX."
-      - "Assistente social: XX."
-      - "Psicologia: XX."
-      - "Enfermagem nefrologia: XX."
-  hipoteses_diagnosticas:
-    - "DRC Estágio 3B > TFGe 43 ml/min (exames de dez/24)."
-    - "Etiologia / Doença de base: Síndrome cardiorrenal."
+    - DRC Estágio: 3B > TFGe 43 ml/min (exames de dez/24).
+    - Etiologia / Doença de base: Síndrome cardiorrenal.
   historico_patologico_pregresso:
-    - "ICFER etiologia isquêmica."
-    - "04 IAM prévios."
-    - "Múltiplas ATC prévias."
-    - "CRVM em 2014 no HUCAM."
-    - "HAS."
-    - "Ex-tabagista (parou há 4 meses), fumou por 50 anos, com quantidade variável."
-    - "Nega alergias medicamentosas."
-    - "Internações por descompensação cardíaca em 2024."
+    - ICFER etiologia isquêmica.
+    - 04 IAM prévios.
+    - Múltiplas ATC prévias.
+    - CRVM em 2014 no HUCAM.
+    - HAS.
+    - Ex-tabagista (parou há 4 meses), fumou por 50 anos, com quantidade variável.
+    - Nega alergias medicamentosas.
+    - Internações por descompensação cardíaca em 2024.
   medicamentos_em_uso:
-    - "Enalapril 10 mg 12/12h (meio comprimido) - suspenso em 20/09/24."
-    - "Hidralazina 25 mg 1-0-1."
-    - "Monocordil 20 mg 1-0-1."
-    - "Metoprolol 50 mg 1-0-1."
-    - "AAS 100 mg 0-1-0."
-    - "Rivaroxabana 2,5 mg 1-0-1."
-    - "Clopidogrel 75 mg 1-0-1."
-    - "Espironolactona 25 mg 1-0-0."
-    - "Clonazepam 2 mg 0-0-1."
-    - "Furosemida 40 mg 2-1-0."
-    - "Atorvastatina 40 mg 0-0-2."
-    - "Citalopram 20 mg 1-0-0."
-    - "Colecalciferol 7000 UI 1x/semana."
-    - "Formoterol + Budesonida 6/200 mcg 2-0-2."
+    - Enalapril 10 mg 12/12h (meio comprimido) - suspenso em 20/09/24.
+    - Hidralazina 25 mg 1-0-1.
+    - Monocordil 20 mg 1-0-1.
+    - Metoprolol 50 mg 1-0-1.
+    - AAS 100 mg 0-1-0.
+    - Rivaroxabana 2,5 mg 1-0-1.
+    - Clopidogrel 75 mg 1-0-1.
+    - Espironolactona 25 mg 1-0-0.
+    - Clonazepam 2 mg 0-0-1.
+    - Furosemida 40 mg 2-1-0.
+    - Atorvastatina 40 mg 0-0-2.
+    - Citalopram 20 mg 1-0-0.
+    - Colecalciferol 7000 UI 1x/semana.
+    - Formoterol + Budesonida 6/200 mcg 2-0-2.
   preparo_para_terapia_substituicao_renal:
-    - "Apresentação de método dialítico: Não se aplica."
-    - "Método escolhido: Não se aplica."
-    - "Acesso: Não se aplica."
-    - "Tx preemptivo (CICr < 10 ml/min): Não se aplica."
+    - Apresentação de método dialítico: Não se aplica.
+    - Método escolhido: Não se aplica.
+    - Acesso: Não se aplica.
+    - Tx preemptivo (CICr < 10 ml/min): Não se aplica.
   exames_laboratoriais:
-    - "17/07/24: Creat 1,14."
-    - "29/08/24: CPK 40 | Hb 11,2 | Ht 36,1 | Leuco 7720 | Plq 212000 | GJ 85 | HbA1c 5,5 | Creat 2,3 | Ur 123 | K 4,6 | Na 139 | Cl 108 | Vit D 14 | Ác Ur 10,6 | Mg 2,2 | CT 198 | HDL 32 | LDL 117 | TG 408 | TGP 21 | TGO 16 | TSH 2,87 | T4L 0,9."
-    - "15/09/24: Creat 1,97 | Ur 80 | TGP 23 | TGO 20 | BT 0,33 | BD 0,10 | BI 0,23 | GGT 26 | FA 132 | Gaso Art pH 7,43 | HCO3 26,4 | Hb 11,9 | Ht 35,7 | Leuco 8500 | Plq 199000 | TAP 13,2 s | INR 1,12 | Amilase 54 | CPK 85 | Na 132 | K 4,6 | Tropo (-) | EAS: proteínas (+), Hb (+), piócitos numerosos | Microalb 24h (11/09/24): 79,1 mg/24h (volume 930 ml)."
-    - "24/11/24: Creat 1,12."
-    - "04/12/24: Creat 1,38 | K 4,2 | Na 137."
-    - "29/12/24: Creat 1,4 | K 3,8 | Na 139 | Ur 71 | Hb 11 | Ht 33 | Leuco 7500 | Plq 171000."
+    - 17/07/24: Creat 1,14.
+    - 29/08/24: CPK 40 | Hb 11,2 | Ht 36,1 | Leuco 7720 | Plq 212000 | GJ 85 | HbA1c 5,5 | Creat 2,3 | Ur 123 | K 4,6 | Na 139 | Cl 108 | Vit D 14 | Ác Ur 10,6 | Mg 2,2 | CT 198 | HDL 32 | LDL 117 | TG 408 | TGP 21 | TGO 16 | TSH 2,87 | T4L 0,9.
+    - 15/09/24: Creat 1,97 | Ur 80 | TGP 23 | TGO 20 | BT 0,33 | BD 0,10 | BI 0,23 | GGT 26 | FA 132 | Gaso Art pH 7,43 | HCO3 26,4 | Hb 11,9 | Ht 35,7 | Leuco 8500 | Plq 199000 | TAP 13,2 s | INR 1,12 | Amilase 54 | CPK 85 | Na 132 | K 4,6 | Tropo (-) | EAS= proteínas (+), Hb (+), piócitos numerosos | Microalb 24h (11/09/24)= 79,1 mg/24h (volume 930 ml).
+    - 24/11/24: Creat 1,12.
+    - 04/12/24: Creat 1,38 | K 4,2 | Na 137.
+    - 29/12/24: Creat 1,4 | K 3,8 | Na 139 | Ur 71 | Hb 11 | Ht 33 | Leuco 7500 | Plq 171000.
   exames_complementares:
-    - "ECOTT (26/11/24): FE 36%. Aumento das cavidades esquerdas. Hipertrofia excêntrica do VE. Disfunção sistólica moderada do VE às custas de acinesia inferior, infero-septal e hipocinesia anterior. Alteração moderada do relaxamento do VE (disfunção diastólica grau 2). Degeneração senil das valvas mitral e aórtica. IM moderada, IT discreta, com PSAP estimada em 40 mmHg."
-    - "Cateterismo cardíaco (10/07/24): TCE 40% terço distal | ADA 95% proximal e 99% médio e distal | ACX exibe stent no terço médio, com enchimento do leito distal por circulação colateral intercambial | CD ocluída no terço proximal (oclusão crônica), com enchimento do leito distal por circulação colateral intracoronária. Ponte de safena aorta-ADA: múltiplos stents, estando ocluída na origem com imagem negativa de trombos em toda sua extensão. Colocado 2 stents em DA."
+    - ECOTT (26/11/24): FE 36%. Aumento das cavidades esquerdas. Hipertrofia excêntrica do VE. Disfunção sistólica moderada do VE às custas de acinesia inferior, infero-septal e hipocinesia anterior. Alteração moderada do relaxamento do VE (disfunção diastólica grau 2). Degeneração senil das valvas mitral e aórtica. IM moderada, IT discreta, com PSAP estimada em 40 mmHg."
+    - Cateterismo cardíaco (10/07/24): TCE 40% terço distal | ADA 95% proximal e 99% médio e distal | ACX exibe stent no terço médio, com enchimento do leito distal por circulação colateral intercambial | CD ocluída no terço proximal (oclusão crônica), com enchimento do leito distal por circulação colateral intracoronária. Ponte de safena aorta-ADA= múltiplos stents, estando ocluída na origem com imagem negativa de trombos em toda sua extensão. Colocado 2 stents em DA."
   exame_fisico:
-    - "GERAL: REG, hipocorada +/4+, hidratada, acianótica, anictérica, afebril."
-    - "ACV: RCR em 2T com BNF, sem sopros, TEC < 3 segundos, FC = 84 bpm, PA: 100x60 mmHg."
-    - "AR: MVF universalmente audível, sem ruídos adventícios, fala entrecortada, dispneia aos pequenos esforços."
-    - "MMII: Sem edemas e panturrilhas sem empastamentos."
+    - GERAL: REG, hipocorada +/4+, hidratada, acianótica, anictérica, afebril.
+    - ACV: RCR em 2T com BNF, sem sopros, TEC < 3 segundos, FC = 84 bpm, PA = 100x60 mmHg.
+    - AR: MVF universalmente audível, sem ruídos adventícios, fala entrecortada, dispneia aos pequenos esforços.
+    - MMII: Sem edemas e panturrilhas sem empastamentos.
   conduta:
-    - "Oriento buscar internação em caso de piora dos sintomas."
-    - "Aumento da dose de furosemida para 3 cps 2x/dia e espironolactona para 75 mg/dia (rever dose na consulta com cardio)."
-    - "Solicito exames para consulta com cardiologista em 22/01/25."
-    - "Retorno em 2 meses (avaliar se haverá modificação da função renal ou do potássio com o aumento da dose de diurético)."
-    - "Oriento restrição hídrica para 800 ml/dia."
+    - Oriento buscar internação em caso de piora dos sintomas.
+    - Aumento da dose de furosemida para 3 cps 2x/dia e espironolactona para 75 mg/dia (rever dose na consulta com cardio).
+    - Solicito exames para consulta com cardiologista em 22/01/25.
+    - Retorno em 2 meses (avaliar se haverá modificação da função renal ou do potássio com o aumento da dose de diurético).
+    - Oriento restrição hídrica para 800 ml/dia.
   impressão:
+    - PACIENTE CARDIOPATA COM MÚLTIPLAS DESCOMPENSAÇÕES RECENTES
+    - APRESENTANDO AUMENTO DE CREATININA NOS ÚLTIMOS MESES. PROVÁVEL SÍNDROME CARDIORRENAL. 
+    - CKD-EPI 43 ML/MIN/1,73 M2
+    - NO MOMENTO A PRIORIDADE É REALIZAR A COMPENSAÇÃO CARDÍACA
 
