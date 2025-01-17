@@ -1,0 +1,152 @@
+DRC
+Creatinina
+CLCR
+TFGe
+Uréia
+Métodos Dialíticos
+Hemodiálise
+DP
+Diurese
+FG
+FAV
+MMSS
+DPOC
+Losartana
+Cozaar
+Hidralazina
+Apresolina
+Furosemida
+Lasix
+Sustrate
+Gabapentina
+Neurontin
+AAS
+Aspirina
+AS
+Dapagliflozina
+Forxiga
+Sinvastatina
+Zocor
+Sinva
+Insulina NPH
+Humulin N
+Novolin N
+Insulina Basaglar
+Basaglar KwikPen
+Sulfato
+Colecalciferol
+Vitamina D
+Metoprolol
+Lopressor
+Toprol-XL
+Metformina
+Glifage
+Glucophage
+Insulina Regular
+Humulin R
+Novolin R
+Risperidona
+Risperdal
+Diazepam
+Valium
+Amitriptilina
+Tryptanol
+Bupropiona
+Zyban
+Wellbutrin
+Levotiroxina
+Puran T4
+Euthyrox
+Atorvastatina
+Lipitor
+Atorva
+Tramadol
+Ultram
+Rosuvastatina
+Crestor
+Fenofibrato
+Lipanon
+Anlodipino
+Norvasc
+Vitamina
+Omeprazol
+Losec
+Alopurinol
+Zyloprim
+Atenolol
+Tenormin
+Acetazolamida
+Diamox
+Nesina
+Gliclazida
+Diamicron
+Doxazosina
+Cardura
+Finasterida
+Proscar
+Propecia
+Ácido Fólico
+Folacin
+Sulfato Ferroso
+Ferrograd
+Cilostazol
+Pletal
+Monocordil
+Rivaroxabana
+Xarelto
+Clopidogrel
+Plavix
+Espironolactona
+Aldactone
+Clonazepam
+Rivotril
+Citalopram
+Celexa
+Formoterol
+Oxis
+Formoterol + Budesonida
+Symbicort
+Carvedilol
+Coreg
+Ezetimiba
+Ezetrol
+Caco3
+Carbonato de Cálcio
+Levotiroxina
+Puran
+Euthyrox
+Vastarel
+Trimetazidina
+Sevelamer
+Renagel
+Renvela
+Dipirona
+Novalgina
+Alfapoetina
+Eritropoetina Alfa
+Duloxetina
+Cymbalta
+Fluoxetina
+Prozac
+Quetiapina
+Seroquel
+Hidroxicloroquina
+Plaquenil
+HCQ
+Mofetil micofenolato
+CellCept
+MMF
+Cloridrato de clonidina
+Clonidina
+Atensina
+Pregabalina
+Lyrica
+Amitriptilina
+Tryptanol
+Doppler de MMSS
+Clearance de Creatinina
+Proteinúria
+Insuficiência Renal Crônica (IRC)
+Síndrome Nefrótica
+Hiperparatireoidismo Secundário
+
