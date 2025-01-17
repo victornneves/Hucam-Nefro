@@ -4,11 +4,11 @@ relatorio_consulta_ambulatorial_nefrologia:
     - "Paciente encaminhado pela cardiologia por aumento de escórias nitrogenadas. História recente de várias internações por descompensação cardíaca. Paciente estava internada até ontem na AFPES e pediu alta porque não estava recebendo atendimento adequado e tinha consulta hoje. Relata dispneia aos pequenos esforços e dispneia paroxística noturna, mas a última noite foi relativamente bem."
     - "Paciente cardiopata com múltiplas descompensações recentes, apresentando aumento de creatinina nos últimos meses. Provável síndrome cardiorrenal. CKD-EPI 43 ml/min/1,73 m². No momento, a prioridade é realizar a compensação cardíaca."
   hipoteses_diagnosticas:
-    - "Complicações DRC: Anemia, hiperfosfatemia, PTH > 300, hiperuricemia."
-    - "Admissão prevenir em: 02/01/2025."
-    - "CLCR admissão: 43 ml/min/1,73 m²."
-    - DRC Estágio: 3B > TFGe 43 ml/min (exames de dez/24).
-    - Etiologia / Doença de base: Síndrome cardiorrenal.
+    estagio_drc: 3B > TFGe 43 ml/min (exames de dez/24).
+    etiologia_doença_de_base: Síndrome cardiorrenal.
+    admissao:
+      data: 02/01/2025
+      CLCR_admissao: 43 ml/min/1,73 m²
   historico_patologico_pregresso:
     - ICFER etiologia isquêmica.
     - 04 IAM prévios.
@@ -18,6 +18,7 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Ex-tabagista (parou há 4 meses), fumou por 50 anos, com quantidade variável.
     - Nega alergias medicamentosas.
     - Internações por descompensação cardíaca em 2024.
+    - Complicações DRC: Anemia, hiperfosfatemia, PTH > 300, hiperuricemia.
   medicamentos_em_uso:
     - Enalapril 10 mg 12/12h (meio comprimido) - suspenso em 20/09/24.
     - Hidralazina 25 mg 1-0-1.

@@ -3,6 +3,10 @@ nefrologia_termos:
     descricao: "Doença Renal Crônica. Condição caracterizada pela perda progressiva e irreversível da função renal."
   - termo: "Creatinina"
     descricao: "Produto do metabolismo muscular, eliminado pelos rins. Sua dosagem no sangue é usada para avaliar a função renal."
+  - termo: CLCR
+    descricao: "Clearance de Creatinina. Medida da taxa de filtração glomerular, usada para avaliar a função renal."
+  - termo: TFGe
+    descricao: "Taxa de Filtração Glomerular Estimada. Estimativa da taxa de filtração glomerular, usada para avaliar a função renal."
   - termo: "Uréia"
     descricao: "Produto do metabolismo das proteínas, eliminado pelos rins. Sua dosagem no sangue é usada para avaliar a função renal."
   - termo: "Métodos Dialíticos"

@@ -5,12 +5,13 @@ relatorio_consulta_ambulatorial_nefrologia:
     dor importante em MID, principalmente em joelho e região tibial, quando anda.
     Apresentou rompimento de tendão no ombro esquerdo. Fez uso de AINES na ocasião.
     Está em uso de sacarato de hidróxido de ferro IV prescrito pela médica do posto.
-  hipoteses_diagnosticas: CKD-EPI 29 ml/min/1,73 m2 (julho/24)
+  hipoteses_diagnosticas:
+    estagio_drc: Incerto. CKD-EPI 29 ml/min/1,73 m2 em julho/24
   historico_patologico_pregresso:
     - HAS
     - DM
     - DRC 4
-    - Inicio de 2024: Mordido por cachorro (ponta do dedo foi arrancada) e fez uso de várias medicações. Na ocasião, houve aumento da creatinina, mas já recuperou.
+    - Inicio de 2024 Mordido por cachorro (ponta do dedo foi arrancada) e fez uso de várias medicações. Na ocasião, houve aumento da creatinina, mas já recuperou.
   medicamentos_em_uso:
     - Anlodipino 5 mg 1-0-1
     - Furosemida 40 mg 2-0-0

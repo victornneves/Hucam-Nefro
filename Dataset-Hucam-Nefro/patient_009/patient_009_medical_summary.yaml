@@ -5,6 +5,12 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Paciente nega novos episódios de hipoglicemia. Parou de perder peso. Nega náuseas ou hiporexia. Aderiu parcialmente à dieta.
     - Em acompanhamento com endocrinologista HUCAM
     - Nega queixas urinárias ou espumúria
+  hipoteses_diagnosticas:
+    estagio_drc: 3B / A3; 31 ml/min/1,73m2
+    etiologia_doença_de_base: DRD (Doença Renal Diabética)
+    admissao:
+      data: 16/11/23
+      CLCR_admissao: 36,6 ml/min/1,73m² (11/23)
   historico_patologico_pregresso:
     - CRVM outubro 2009 - duas pontes
     - HAS - há 14 anos
@@ -17,6 +23,11 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Ex tabagista (fumou por 14 anos cigarro industrial e sabiá // cessou em 1985)
     - Retinopatia diabética não proliferativa leve em ambos os olhos (28/09/24)
     - Zumbido intermitentes. Exposição ocupacional prévia
+    - complicacoes_drc:
+      - Anemia: Não
+      - Hiperfosfatemia: Não
+      - PTH > 300: Não
+      - Hiperuricemia: Não
   medicamentos_em_uso:
     - Sinvastatina 6 mg 0-0-1
     - Ezetimiba 10 mg 0-0-1
@@ -28,17 +39,6 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Insulina NPH 32 UI - 10 UI - 18 UI
     - Insulina Regular de acordo com glicemia (180-200)
     - Colecalciferol 50.000 UI --> Suspensa por enquanto
-  hipoteses_diagnosticas:
-    - DRC Estágio: 3B / A3
-    - TFGe Atual: 31 ml/min/1,73m2
-    - Etiologia / Doença de Base: DRD (Doença Renal Diabética)
-    - Admissão Revenir: em 16/11/23
-    - CLCR Admissão: 36,6 ml/min/1,73m² (11/23)
-    - complicacoes_drc:
-      - Anemia: Não
-      - Hiperfosfatemia: Não
-      - PTH > 300: Não
-      - Hiperuricemia: Não
   vacinacao:
     - COVID completo
     - Influenza 2023 — Pendente 2024

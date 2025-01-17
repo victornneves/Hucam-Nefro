@@ -6,11 +6,12 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Mantém quadro de espumúria.
     - Nega demais sintomas.
   hipoteses_diagnosticas: 
-    - "DRC Estágio G4/A2"
-    - "Etiologia/Doença de Base: DRD"
-    - "Admissão prevenir em: 31/08/2023"
-    - "ClCr admissão: CKD-EPI: 26.2 ml/min/1.73 m²"
-    - "Atual: eGFR CKD-EPI: 26 ml/min/1.73 m²"
+    estagio_drc: G4/A2
+    etiologia_doença_de_base: DRD
+    admissao:
+      data: 31/08/2023
+      CLCR_admissao: CKD-EPI = 26.2 ml/min/1.73 m²
+      CLCR_atual: eGFR CKD-EPI = 26 ml/min/1.73 m²
   historico_patologico_pregresso: 
     - "HAS. Acompanha no ELSA"
     - "DM2 desde 2007"

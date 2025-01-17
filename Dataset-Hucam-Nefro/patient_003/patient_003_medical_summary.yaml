@@ -5,10 +5,11 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Paciente com relato de internação recente por provável EAP hipertensivo.
     - Vacinação Pendente influenza 2024. Hep B 18/07/24 - 16/09/24 - 3º dose em jan/24.
   hipoteses_diagnosticas:
-    - DRC estágio: G4aA3
-    - Etiologia / doença de base: Nefropatia diabética.
-    - Admissão prevenir em: 13/06/2024
-    - CLCR admissão (13/06/24): eGFR CKD-EPI= 15 mL/min/1.73 m² (CR 4,05) '
+    estagio_drc: G4aA3
+    etiologia_doença_de_base: Nefropatia diabética.
+    admissao:
+      data: 13/06/2024
+      CLCR_admissao: eGFR CKD-EPI= 15 mL/min/1.73 m² (CR 4,05)
   historico_patologico_pregresso: 
     - HAS — Afere em domicílio, mas relata estar mal controlada = 180/80mmHg do atendimento.
     - DM - Afere em domicílio, relata estar bem controlada > seguimento com Marta no HUCAM.
