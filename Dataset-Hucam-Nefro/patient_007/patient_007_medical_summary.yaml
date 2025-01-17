@@ -68,4 +68,4 @@ relatorio_consulta_ambulatorial_nefrologia:
   conduta:
   - Suspendo sulfato ferroso até reavaliação, já que está em uso de ferro IV
   - Solicito exames para avaliar DRC
-  outras_informacoes: []
+  impressão: ''

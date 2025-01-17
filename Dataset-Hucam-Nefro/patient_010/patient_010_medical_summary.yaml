@@ -2,6 +2,12 @@ relatorio_consulta_ambulatorial_nefrologia:
   identificacao_paciente: Feminina, 64 anos, viúva, moradora de Santa Leopoldina - aposentada.
   subjetivo:
     - Relata melhora da hiporexia, das náuseas e vômitos.
+    - Tomou 4 doses COVID
+    - Seguimento Multiprofissional (Data da última avaliação):
+      - Nutrição: 15/08/2023
+      - Assistente Social:
+      - Psicologia:
+      - Enfermagem Nefrologia: 
   hipoteses_diagnosticas: 
     - DRC Estágio 5 → TFGe - CKD-EPI 15 ml/min/1,73 m²
   historico_patologico_pregresso:
@@ -60,28 +66,21 @@ relatorio_consulta_ambulatorial_nefrologia:
     - ECOTT com Doppler (30/08/2023): FE 54%, insuficiência discreta ao Doppler colorido. PSAP <36 mmHg.
     - US de Rins e VU (02/10/2023): Rins Tópicos, de contornos regulares, volumes preservados, com leve aumento da ecogenicidade à esquerda, observando-se cistos renais bilaterais, à direita medindo 9,1 x 5,0 x 4,7 cm, volume de 59 cm³. Rim esquerdo= 10,1 x 4,7 x 3,9 cm, volume de 56 cm³. Bexiga Com boa repleção, paredes finas e lisas, conteúdo anecoico homogêneo. Conclusão= Cistos renais bilaterais, destacando-se o maior no terço médio do rim esquerdo com leve aumento da ecogenicidade renal à esquerda, inferindo nefropatia parenquimatosa.
   exame_fisico:
-  - Peso: 57 kg > 52,4 kg > 53,4 kg > 55,45 kg > 52 kg > 51,6 kg | Altura 1,59 m
-  - BEG, normocorada, anictérica, acianótica.
-  - AC: RCR, 2T, BNF, sem sopros. PA= 150/90 mmHg. TREC < 3 segundos. FAV em MSD sem frêmito. FC 76 bpm.
-  - AR: MVF+, sem RA, eupneica em ar ambiente.
-  - Abdome: RHP, dor à palpação superficial QSD, QIE e QID, sem abaulamentos ou retrações. Não palpo massas ou visceromegalias.
-  - MMII: Sem edemas. Sem sinais de empastamento.
+    - Peso: 57 kg > 52,4 kg > 53,4 kg > 55,45 kg > 52 kg > 51,6 kg | Altura 1,59 m
+    - BEG, normocorada, anictérica, acianótica.
+    - AC: RCR, 2T, BNF, sem sopros. PA= 150/90 mmHg. TREC < 3 segundos. FAV em MSD sem frêmito. FC 76 bpm.
+    - AR: MVF+, sem RA, eupneica em ar ambiente.
+    - Abdome: RHP, dor à palpação superficial QSD, QIE e QID, sem abaulamentos ou retrações. Não palpo massas ou visceromegalias.
+    - MMII: Sem edemas. Sem sinais de empastamento.
   conduta:
-  - Como houve melhora da função renal e dada a situação de 2 FAVs colocadas e inutilizadas, opto por não indicar FAV ainda (família muito reticente e no momento se nega a fazer FAV).
-  - PermCath em caso de entrada súbita em TRS.
-  - Progressão: Opto por manter sem IECA/BRA devido à TRS.
-  - Anemia: Perfil de ferro adequado, sem critérios para iniciar EPO (exame set/24).
-  - DMO: Mantenho Sevelamer. Paciente já com dose otimizada nas principais refeições.
-  - Aumento da dose de Sinvastatina (paciente com dificuldade de comprar Atorvastatina).
-  - Retorno em 2 meses.
-  outras_informacoes:
-  - Tomou 4 doses COVID
-  - Seguimento Multiprofissional (Data da última avaliação):
-    - Nutrição: 15/08/2023
-    - Assistente Social:
-    - Psicologia:
-    - Enfermagem Nefrologia: 
-  - Impressão: DRC 4 (CKD-EPI 17 ML/MIN/1,73 M²) - ESTAVA 17 > 15 > 12 > 14 > 17
-  - Paciente já fez 2 FAVs (radial e braquial, última em 2019) por conta de TFG < 20, mas a paciente acabou perdendo as duas por falta de uso (recuperou parte da função renal, e ambas as FAVs não foram usadas e então pararam funcionar). Paciente e a família negaram-se a colocar a FAV por medo de novo insucesso. 
-    Optamos por aguardar a necessidade real de HD e colocar PermCath, visto que a paciente já perdeu 2 acessos venosos.
-  - PA em casa: na meta.
+    - Como houve melhora da função renal e dada a situação de 2 FAVs colocadas e inutilizadas, opto por não indicar FAV ainda (família muito reticente e no momento se nega a fazer FAV).
+    - PermCath em caso de entrada súbita em TRS.
+    - Progressão: Opto por manter sem IECA/BRA devido à TRS.
+    - Anemia: Perfil de ferro adequado, sem critérios para iniciar EPO (exame set/24).
+    - DMO: Mantenho Sevelamer. Paciente já com dose otimizada nas principais refeições.
+    - Aumento da dose de Sinvastatina (paciente com dificuldade de comprar Atorvastatina).
+    - Retorno em 2 meses.
+  impressão:
+    - DRC 4 (CKD-EPI 17 ML/MIN/1,73 M²) - ESTAVA 17 > 15 > 12 > 14 > 17
+    - Paciente já fez 2 FAVs (radial e braquial, última em 2019) por conta de TFG < 20, mas a paciente acabou perdendo as duas por falta de uso (recuperou parte da função renal, e ambas as FAVs não foram usadas e então pararam funcionar). Paciente e a família negaram-se a colocar a FAV por medo de novo insucesso.  Optamos por aguardar a necessidade real de HD e colocar PermCath, visto que a paciente já perdeu 2 acessos venosos.
+    - PA em casa na meta.

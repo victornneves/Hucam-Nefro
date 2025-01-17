@@ -1,53 +1,36 @@
 relatorio_consulta_ambulatorial_nefrologia:
-  identificacao_paciente: Masculino, 72 anos, divorciado, profissão autônomo (vidraceiro),
-    residente no município de Vitória.
+  identificacao_paciente: Masculino, 72 anos, divorciado, profissão autônomo (vidraceiro), residente no município de Vitória.
   subjetivo:
+  - Em agosto/2021, paciente passou por consulta de Nefro Triagem, sendo encaminhado ao Prevenir, porém não compareceu.
   - Paciente com relato de internação recente por provável EAP hipertensivo.
+  - Vacinação Pendente influenza 2024. Hep B 18/07/24 - 16/09/24 - 3º dose em jan/24. '
   hipoteses_diagnosticas: 'DRC G4aA3
-
     - Etiologia / doença de base: Nefropatia diabética.
-
     - Admissão prevenir em: 13/06/2024
-
     - CLCR admissão: (13/06/24): eGFR CKD-EPI: 15 mL/min/1.73 m² (CR 4,05) '
-  historico_patologico_pregresso: '- HAS — Afere em domicílio, mas relata estar mal
-    controlada: 180/80mmHg do atendimento.
-
-    - DM - Afere em domicílio, relata estar bem controlada > seguimento com Marta
-    no HUCAM.
-
+  historico_patologico_pregresso: 
+    - HAS — Afere em domicílio, mas relata estar mal controlada = 180/80mmHg do atendimento.
+    - DM - Afere em domicílio, relata estar bem controlada > seguimento com Marta no HUCAM.
     - Retinopatia diabética - FO pendente.
-
     - Nega tabagismo.
-
     - Nega etilismo.
-
     - Nega exercício físico.
-
-    '
   medicamentos_em_uso:
-  - NPH 20+20+20 - caneta
-  - Insulina regular 26+26+26 - caneta
-  - Rosuvastatina 20mg 1 comp à noite
-  - Fenofibrato 250mg/dia
-  - Furosemida 40mg 1 comp 8 e 16h
-  - Hidralazina 50mg 2 cp 3x ao dia
-  - Anlodipino 5mg O 0 2
-  - Vitamina D 50.000 UI por semana
-  - Omeprazol 20mg SOS
-  - Alopurinol 100mg
-  - Atenolol 25mg 12/12
-  preparo_para_terapia_substituicao_renal: '- Apresentação de método dialítico 05/07/24:
-    hemodiálise
+    - NPH 20+20+20 - caneta
+    - Insulina regular 26+26+26 - caneta
+    - Rosuvastatina 20mg 1 comp à noite
+    - Fenofibrato 250mg/dia
+    - Furosemida 40mg 1 comp 8 e 16h
+    - Hidralazina 50mg 2 cp 3x ao dia
+    - Anlodipino 5mg O 0 2
+    - Vitamina D 50.000 UI por semana
+    - Omeprazol 20mg SOS
+    - Alopurinol 100mg
+    - Atenolol 25mg 12/12
+  preparo_para_terapia_substituicao_renal:
+    - Apresentação de método dialítico 05/07/24 = hemodiálise
+    - Avaliação DP 09/01/24, Sorologias 12/07/24 = Anti HIV NR/ Anti HCV NR/ Anti HBC NR/ Anti HBS NR / HBsAg, NR = preemptivo (CICr < 10ml/min) Não se aplica
 
-    - Avaliação DP 09/01/24:
-
-    - Sorologias 12/07/24: Anti HIV NR/ Anti HCV NR/ Anti HBC NR/ Anti HBS NR / HBsAg
-    NR:
-
-    - Tx preemptivo (CICr < 10ml/min): Não se aplica
-
-    '
   exames_laboratoriais: '## EX LAB [15/05/24]
 
     CAL 5,1 CA 9,5 P 4,8 PTH 88 VITD 19,2 B12 624 H8 11,3 CT 260 HDL 37
@@ -151,7 +134,4 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Retorno 2 meses
 
     '
-  outras_informacoes: '- Em agosto/2021, paciente passou por consulta de Nefro Triagem,
-    sendo encaminhado ao Prevenir, porém não compareceu.
-
-    - Vacinação: Pendente influenza 2024. Hep B 18/07/24 - 16/09/24 - 3º dose em jan/24. '
+  impressão: ""
