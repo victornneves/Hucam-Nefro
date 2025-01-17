@@ -1,0 +1,97 @@
+# ID
+MASCULINO, 72 anos, sexo M, estado civil DIVORCIADO, profissão AUTÔNOMO (VIDRACEIRO), residente no município de VITÓRIA.
+Em agosto/2021 paciente passou por consulta de Nefro Triagem, sendo encaminhado ao Prevenir, porém não compareceu.
+    
+# SUBJETIVO
+PACIENTE COM RELATO DE INTERNAÇÃO RECENTE POR PROVAVEL EAP HIPERTENSIVO
+
+# HÍPOTESES DIAGNÓSTICAS
+DRC G4aA3
+- ETIOLOGIA/ DOENÇA DE BASE: NEFROPATIA DIABETICA
+- ADMISSÃO PREVENIR EM: 13/06/2024
+- CLCR ADMISSÃO: (13/06/24): eGFR CKD-EPI: 15 mL/min/1.73 m² ( CR 4,05)
+
+# PREPARO PARA TSR
+- APRESENTAÇÃO DE MÉTODO DIALÍTICO 05/07/24: HEMODIALISE
+- AVALIAÇÃO DP 09/01/24:
+- SOROLÓGIAS 12/07/24: ANTI HIV NR/ ANTI HCV NR/ ANTI HBC NR/ ANTI HBS NR / HBSAG NR:
+- Tx PREEMPTIVO (CICr < 10ml/min): NÃO SE APLICA
+ 
+# VACINAÇÃO:
+- Pendente influenza 2024.
+- HEP B 18/07/24 - 16/09/24 - 3º DOSE EM JAN/24
+
+# HISTÓRIA PATOLÓGICA PREGRESSA
+- HAS — AFERE EM DOMICÍLIO, MAS RELATA ESTAR MAL CONTROLADA: 180/80mmhG do atendimento.
+- DM - AFERE EM DOMICÍLIO, RELATA ESTAR BEM CONTROLADA > seguimento com Marta no HUCAM
+- RETINOPATIA DIABÉTICA - FO PENDENTE.
+- NEGA Tabagismo
+- NEGA Etilismo
+- NEGA Exercício físico
+
+# MEDICAÇÕES DE USO CONTÍNUO:
+NPH 20+20+20 - caneta
+Insulina regular 26+26+26 - caneta
+ROSUVASTATINA 20mg 1 comp a noite
+Fenofibrato 250mg/d
+furosemida 40mg 1 COMP 8 E 16H
+hidralazina 50mg 2 cp 3x ao dia
+Anlodipino 5mg O 0 2
+Vitamina D 50.000 ui por semana
+Omeprazol 20mg SOS
+Alopurinol 100mg
+ATENOLOL 25MG 12/12
+
+# EXAMES LABORATORIAIS
+## EX LAB [15/05/24]
+CAL 5,1 CA 9,5 P 4,8 PTH 88 VITD 19,2 B12 624 H8 11,3 CT 260 HDL 37
+LDL TRIGLICERIDEOS 410 CR 4,05 UR 102 K 4,4 NA 139 eGFR CKD-EPI: 15 ml/min/1.73 m³ ( CR 4,05)
+
+## EX LAB [12/07/24]
+AU 9,3; CA 10; CL 99; CT 160; CR 4,97; FER 174; FA 183; P 5,9; GLIC 150; HBG 7,6%; K 4,4; ALB 3,8;
+IST 35%; NA 138; TGC 226; UR 129; BIC 28,3; HB 9,4; HCT 29,4; VIT DO22;
+EAS COM PROTEINURIA E GLICOSURIA;
+
+## EX LAB [04/10/24]
+HB 8,4; HCT 24,5; IST 10%; UR 133; CR 5,92; CA 8,4; P 4,1; HBG 5,6%; FER 60;
+
+## EX LAB [07/11/24]
+ct 141; hdl 31; ldl 68; ca 8,8; alb 3,8; cr 5,44; UR 131; IST 19%; MG 2,17; NA 141; K 3,6; FER 263; P 4,7; TGC 209; GLIC 72; AU 6,8; HB 8,8; HCT 28,4; BIC 32; VIT D 18;
+PTH 204; EAS 1013/ 6,5 PTN 100 / GLIC 30;
+
+# EXAMES DE IMAGEM:
+## ULTRASSONOGRAFIA DO ABDOME TOTAL [14/12/2023]
+Fígado de morfologia, contornos e dimensões normais, apresentando ecotextura preservada, sem lesões focais detectáveis. Vias biliares intra e extra-hepáticas com calibre normal. Veia
+porta de calibre e trajeto normais. Vesícula biliar cos paredes finas e lisas, contendo cálculo com 2,9 cm. Pâncreas de morfologia, contornos, dimensões e ecotextura normais. Baço de
+morfologia, contornos, dimensões e ecotextura normais. Rins em topografia, morfologia, dimensões, contornos e ecotextura normais, sem evidências de cálculos ou dilatação
+plelocalicial. Pequenos cistos corticais bilaterais, menores que 2,0 cm. Bexiga urinária cheia, cos paredes delgadas regulares e sem falhas de enchimentos ou cálculos em seu
+interior. Aorta abdominal de calibre normal nas janelas acústicas acessíveis. Ausência de linfonodosegalias retroperitoneaís nas janelas acústicas acessíveis. Ausência de líquido
+livre na cavidade abdonínal.
+Impressão: Colelitíase. Pequenos cistos renais simples bilaterais
+
+## ECO TRANSTORÁCICO [17/05/2024]
+FRAÇÃO DE EJEÇÃO: 71%. VE COM FUNÇÃO SISTOLICA GLOBAL E SEGHENTAR PRESERVADA EM REPOUSO, DUPLA LESÃO VALVULAR MITRAL DEGENERATIVA EM GRAU DISCRETO.
+REGUSGITAÇÃO VALVULAR TRICUSPIDE DISCRET. LEVE DILATAÇÃO DO ATRIO ESQUERDO. Valva aórtica é trivalvular, exibe fibrocalcificação leve dos folhetos e abertura preservada dos mesmos.
+Fluxo transvalvar de velocidades normais, Ausência de regurgitação ao Dopple
+
+# EXAME FÍSICO:
+- BOM ESTADO GERAL, LUCIDO E ORIENTADO.
+- MVF + EUPNEICO, EM AR AMBIENTE. PA 160/80 mmHG
+- ABDOME GLOBOSO POR ADIPOSIDADE
+- MID: EDEMA 3+/4+, PANTURRILHAS LIVRES
+- MIE: EDEMA 2+/4+
+
+# CONDUTAS
+- PACIENTE MANTENDO HIPERTENSÃO > ASSOCIO CLONIDINA 0,1MG 12/12H
+= MANTENHO DEMAIS ANTI HAS
+- EM SEGUIMENTO DO DM2 COM DRA MARTA - RELATA REDUÇÃO DA INSULINA PELO CARDIOLOGISTA
+- EM ATUALIZAÇÃO DO CALENDARIO VACINAL - PENDENTE 3º DOSE EM JAN/24
+- ANEMIA - HB 8,8 - MANTENHO EPO 4000/SEMANA (RENOVO RECEITA E AVALIO LIBERAÇÃO)
+— DEFICIENCIA RELATIVA DE FERRO - IST 19%; FER 263 > FEZ USO DE SACARATO 10 AMP APÓS COLETA DE EXAME (ATUALMENTE EM DOSE DE MANIUTENÇÃO A CADA 15 DIAS)
+- VIT D 18 - ATAQUE + MANUTENÇÃO COLECALCIFEROL
+— HIPERFOSFATÊMIA PERSISTENTE - P 4,8 > 5,9 > 4,1 > 4,7: AUMENTO DOSE DE SEVELAMER 1+2+1 (CALCIFICAÇÃO VALVAR E CONTRA INDICAÇÃO A QUELANTES A BASE DE CALCIO (Valva aórtica é trivalvular, exibe fibrocalcificação leve dos folhetos e abertura preservada dos mesmoS))
+- APRESENTAÇÃO DE MÉTODO - OPTADO POR HEMODIALISE - SOLICITO NOVAMENTE RISCO CARDIO E DOPPLER PARA CONFECÇÃO DE FAV: RISCO CARDIO MARCADO 21/01/25 // PENDENTE MAPEAMENTO MSD (FEZ SOMENTE MSE)
+- MANTENHO DEMAIS MEDICAÇÕES
+- SEGUIMENTO CONJUNTO COM NUTRICIONISTA
+- ORIENTO COMPRA DE SACARATO E DOSE DE ATAQUE 10 AMPOLAS
+- RETORNO 2 MESES

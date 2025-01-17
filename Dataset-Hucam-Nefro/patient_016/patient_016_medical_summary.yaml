@@ -1,0 +1,81 @@
+relatorio_consulta_ambulatorial_nefrologia:
+  identificacao_paciente: Masculino, 60 anos, natural de Vitória, reside em Vitória, casado, 6 filhos.
+  subjetivo:
+    - Paciente encaminhado pela cirurgia vascular por alteração das escórias nitrogenadas.
+    - Relata dor lombar bilateral discreta.
+    - Queixa-se de dor nas panturrilhas quando anda, precisando parar para aliviar a dor.
+    - Também apresenta câimbras.
+    - Sintomas depressivos (choro fácil, apatia).
+  hipoteses_diagnosticas: DRC Estágio 4 A3.
+  historico_patologico_pregresso:
+    - Etiologia/Doença de Base: Doença renal do diabetes.
+    - Admissão Prevenir em: 25/07/24.
+    - CLCR Admissão: 25 ml/min/1,73m².
+    - HAS e DM Tipo 2 diagnosticados em 2013.
+    - Hipotireoidismo.
+    - Ex-tabagista: Fumou por 29 anos - 2 maços/dia.
+    - Ex-etilista.
+    - Tratou tuberculose pulmonar prévia (2013).
+    - Cirurgias prévias: Tumor hipofisário (2019).
+    - Nega AVC e IAM.
+    - Complicações DRC:
+      - Anemia: Presente.
+      - Hiperfosfatemia: Presente.
+      - PTH > 300: Ausente.
+      - Hiperuricemia: Ausente.
+    - Vacinação: Não especificado.
+    - Seguimento multiprofissional (Data da última avaliação):
+      - Nutrição: XX.
+      - Assistente Social: XX.
+      - Psicologia: XX.
+      - Enfermagem Nefrologia: XX.
+  medicamentos_em_uso:
+    - Losartana 50mg 1-0-1.
+    - Anlodipino 5mg 1-0-1.
+    - Sinvastatina 20mg 0-0-2.
+    - Omeprazol 20mg 1-0-0.
+    - Domperidona 10mg 0-1-1.
+    - AAS 100mg 0-1-0.
+    - Insulina NPH 36 UI manhã e 16 UI à noite.
+    - Metformina 500mg/dia - Suspenso.
+  preparo_para_terapia_substituicao_renal:
+    - Apresentação de método dialítico: Não se aplica.
+    - Método escolhido: Não se aplica.
+    - Acesso: XX.
+    - Sorologias (08/10/24): Anti HCV NR, Anti HIV NR, Anti HBC Total Reativo, Anti HBS 37,2, HBSAG NR.
+    - Tx preemptivo (CICr < 10ml/min): Não se aplica.
+  exames_laboratoriais:
+    - 19/12/2023: T4 livre 0,63, TSH 7,66, Lipase 84, Microalbuminúria 614, Vitamina D 19, Anti TPO 196,
+        Vitamina B12 975, Cálcio 9,3, Anti-HBs Reativo, HbA1c 9,9%, Ureia 52,1, Creat 2,82, Amilase 110,
+        Ácido úrico 8,1, VDRL não reativo, HB 12,0, HCT 35,00, Leuco 8410, Plaq 156 mil, Colesterol 190,7,
+        Triglicerídeos 383, EAS Albumina 500, Na 139, K 4,6, HCV e HIV não reativos, PSA 1,04.
+    - Maio/2024: Creat 2,86, Ureia 63,9, K 4,6.
+    - 08/10/24: Ácido úrico 6,9, Cálcio 9,5, Colesterol total 236, HDL 38, LDL ?, TGL 596, Creat 3,3,
+        Ureia 62, TGL 99, Ferritina 31,9, FA 133, P 5,3, Glucose 167, HbA1c 6%, PTH 48, Na 136, K 4,6,
+        Rel. Prot/Creat 2,381, EAS= Proteinúria, Cilindros hialinos, Granulosos finos +, Granulosos grossos +, Leucocitário +.
+  exames_complementares: []
+  exame_fisico:
+    - PA: 160x80 mmHg.
+    - FC: 60 bpm.
+    - RCR 2T.
+    - MVUA sem RA.
+    - Abdome/MMII sem alterações.
+  conduta:
+    - Encaminho à psicóloga do Prevenir.
+    - Início de Citalopram 20 mg/dia.
+    - Associo Hidralazina 50 mg 12/12h.
+    - Associo Ciprofibrato 100 mg/dia.
+    - Reduzo dose de Losartan para 50 mg/dia.
+    - Solicito Doppler arterial de MMII.
+    - Solicito Doppler de aorta e ilíacas.
+    - Aguardo USG renal (marcado para 20/01/25).
+    - Aguardo Doppler carótidas, ECOTT e Doppler MMSS para FAV (marcados para 2025).
+    - Encaminhar para risco cirúrgico (FAV) caso continue piorando a função renal.
+    - Converso sobre risco de TRS.
+    - Retorno em 2 meses.
+  impressão:
+    - Paciente renal crônico estágio G4 com queixa sugestiva de claudicação intermitente (ex-tabagista).
+    - CKD-EPI 21 ml/min/1,73m² (estava 25) - Piora de função renal.
+    - Foi à nutricionista.
+    - Hipertrigliceridemia (>500).
+    - Sintomas depressivos leves.

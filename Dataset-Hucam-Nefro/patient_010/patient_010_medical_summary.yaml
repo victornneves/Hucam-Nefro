@@ -1,0 +1,87 @@
+relatorio_consulta_ambulatorial_nefrologia:
+  identificacao_paciente: Feminina, 64 anos, viúva, moradora de Santa Leopoldina - aposentada.
+  subjetivo:
+    - Relata melhora da hiporexia, das náuseas e vômitos.
+  hipoteses_diagnosticas: 
+    - DRC Estágio 5 → TFGe - CKD-EPI 15 ml/min/1,73 m²
+  historico_patologico_pregresso:
+    - Nefrite Lúpica - Diagnóstico em 2012
+    - HAS
+    - Lúpus
+    - Fibromialgia
+    - Cistos renais Bosniak II
+    - Hipertensão do jaleco branco
+    - Nega tabagismo e etilismo
+    - Atividade Física: Caminhada
+  medicamentos_em_uso:
+    - Sinvastatina 20 mg (0-0-1)
+    - Azatioprina 50 mg (2-0-0)
+    - Metoprolol 50 mg (1-0-1)
+    - Anlodipino 5 mg (2-0-0)
+    - Furosemida 40 mg (2-0-1)
+    - AAS 100 mg (0-1-0)
+    - Sevelamer 800 mg (1-3-1-3)
+    - Omeprazol 20 mg (1-0-0)
+    - Amitriptilina 25 mg (0-0-2)
+    - Citoneurim IM (Prescrito pela Reumato)
+    - Tramadol 50 mg SOS caso de dor forte
+  preparo_para_terapia_substituicao_renal:
+    - Método Escolha: Hemodiálise
+    - Acesso: FAV Braquio-cefálica direita não funcionante | FAV radial direita 04/04/19 - não funcionante
+    - Sorologias (16/09/22): Anti HBS 105 | Anti HCV NR | HBSAG NR | Anti HIV NR | Anti HBC NR
+    - Sorológico (12/04/24): Anti HCV NR | Anti HIV NR | Anti HBC IGM NR | Anti-HBC Total NR | Anti HBS 91,2 | HBSAG NR
+  exames_laboratoriais:
+    - 13/03/23: PTNURIA 229 mg/24h | EAS com ALB 15 | Leucocitúria, hematúria, codócitos, acantócitos, cilindro granuloso grosso
+    - 12/05/23: CR 2,95 | UR 102 | NA 135 | K 5,6 | MG 2,4 | FA 317 | PTH 241 | CAT 9,9 | GLIC 118 | HBA1C 5,7 | HB 11,8 | LEUCO 5770 | PLAQ 292000 | FERRITINA 184 | SAT 24 | PH 7,38 | BIC 28 | PTN 7,7 | ALB 3,9 | GLOB 3,7
+    - 14/07/23: CR 2,92 | UR 124 | MG 2,4 | CA 9,8 | NA 138 | K 4,6 | P 4,4 | TGC 133 | CT 175 | AU 2,3 |  HBG 5,8% | MICROALB 79MG/L | HB 11,8 | HCT 36,29% | EAS COM NUMEROSOS LEUCÓCITOS | BIC 25,9
+    - 17/10/23: CREAT 3,18 | UREIA 144 | FA 270 | TGO 17 | TGP 7 | AC UR 8,9 CL 100 | CA TOTAL 9,4 | GLIC 99 |  MG 3,63 | K 5,1 | ALB 4,2 | NA 138 | HB 11,2 | HCT 34% | PTH 161 | VIT D 38 | EAS COM Leucocitúria E hematúria
+    - 24/11/23: CR 3,28 | UR 122 | NA 133 | K 4,5 | MG 2,46 | CAT 9,1 | P 4,9 | FA 302 | PTH 155 | VIT D 45 | HB 10,5 |  LEUCO 3140 | PLAQ 205000 | FERRITINA 158 | IST 32 | HB1AC 5,6 | CT 191 | LDL 114 | HDL 45 | AC UR 6,9 |  EAS COM ALB NEG, Leucocitúria E hematúria
+    - 19/01/24: HB 11,00 | HT 34,10 | LEUCO 3010 | PLAQ 284000 | P 5,1 | CA TOTAL 9,9 | ALBUMINA 4,4 | HC03 24,2 |  CT 2,97 | UREIA 128 | IST 58% | FERRO 151 | FERRITINA | 169,6 | MG 2,19 | NA 138 | K 3,9 | CLORO 99
+    - 12/04/24: ACID UR 8,5 | CA TOTAL 8,8 | CL 99 | HDL 52 | LDL 150,4 | COL TOTAL 225 | CREAT 3,21 |  FERRITINA 126,7 | FE 79 | FA 310 | P 5,5 | GLI 88 | HBAG 5,8 | MG 2,31 | PARATORMÔNIO 131 |  K 4 | SATURAÇÃO TRANSFERRINA 30 | SÓDIO 135 | TRIGLI 113 | UREIA 173 | VIT D 51,7
+    - 05/06/2024: Ácido úrico 7,3 | CAT 10,0 | COL TOTAL 239 | CREAT 3,03 | PTH 160 | Potássio (K) 4,5 | Sódio (Na) 139 |  U 147 | Magnésio (Mg) 2,52 | Glicose (GLI) 88 | HCO3 27,5 | Hemoglobina (HB) 11,2 | Hematócrito (HT) 33,6  | Leucócitos (LEUC) 3030 | Plaquetas (PLAQ) 235000
+    - 16/08/24: Cálcio (Ca) 8,8 | Creatinina (CREAT) 3,38 | U 168 | IST 23% | Mg 2,44 | Na 140 | K 5,2 | FA 299  | Ferritina 154,8 | P 5,6 | GLI 97 | Ácido úrico 8,6 | HbA1c 5,7% | HB 11,1 | HT 34,6 | Relação Prot/Crea 0,441 | LEUC 3420 | PLAQ 230000 | Vitamina D 48,7 | PTH 210
+    - 30/09/24: Ácido úrico 8,9 | Glicose 96 | CAT 9,8 | Colesterol Total 231 | HDL 62 | LDL 142 | Triglicérides 139  | CREAT 4,4 | U 132 | Ferritina 132,4 | IST 26% | Na 142 | FA 344 | P 6,0 | Mg 2,68 | PTH 178 | K 5,2  | Anti-HBs 67,5 | HBsAg NR | Anti-HBC Total NR | Anti-HCV NR | Anti-HIV NR | HCO3 28 | Vitamina D 41,5
+    - 06/11/24: Ca 8,9 | CREAT 3,88 | U 179 | Mg 2,39 | Na 140 | K 4,8 | P 6,1 | GLI 99 | PTT 31,3 | HB 10,7  | HT 33,4 | LEUC 3810 | PLAQ 214000
+    - 05/12/24: Ca 8,6 | CREAT 3,58 | U 124 | IST 40% | Mg 2,52 | Na 136 | K 4,9 | FA 218 | Ferritina 112,2 | P 4,4 | TGL 121 | GLI 86 | Ácido úrico 7,2 | HbA1c 5,9% | HCO3 25,1 | Ca 4,0 | Vitamina D 35,5 | PTH 149
+    - 30/12/24: Ca 9,1 | CREAT 3,02 | P 5,1 | GLI 93 | Mg 2,52 | K 5,0 | Na 139 | U 51 | HCO3 28,3 | U 121 
+  exames_complementares:
+    - Doppler arterial de MMSS (19/02/2018): Ausência de alterações parietais significativas nos segmentos estudados. Artérias ulnar de calibres reduzidos, bilateralmente.
+    - Doppler venoso MSD: Veia cefálica e basílica de calibres preservados em todo o seu trajeto. MSE= Veia cefálica de calibre reduzido em todo o seu trajeto. Veia basílica de calibre preservado.
+    - US de abdome total (19/01/2018): Vesícula biliar normodistendida, com paredes finas, conteúdo anecoico e homogêneo. Nefropatia crônica. Cisto renal à esquerda.
+    - RNM abdome (21/06/2017): Cistos renais bilaterais destacando o maior no terço médio do rim esquerdo com contornos ligeiramente lobulados e septações internas. Avaliação limitada ao estudo sem contraste.
+    - TC de tórax (28/09/2020): Calcificações parietais ateromatosas na aorta e coronárias.
+    - Ultrassonografia rins e vias urinárias (16/10/2020): Rim direito tópico, de contornos regulares, volume reduzido, ecogenicidade levemente aumentada e córtex de espessura reduzida. Medindo 7,2 x 5,3 x 3,4 cm. Rim esquerdo tópico, de contornos regulares, volume normal, ecogenicidade levemente aumentada. Medindo 9,3 x 5,1 x 3,5 cm. Apresenta ao menos 3 cistos de aspecto simples, o maior no polo inferior medindo cerca de 5 cm. Ureteres Não visualizados. Bexiga Com boa repleção, paredes finas e lisas com conteúdo anecoico homogêneo. Impressão Diagnóstica = Rins com aumento da ecogenicidade, indicativo de nefropatia, de aspecto inespecífico. Rim direito atrófico. Cistos simples nos rins.
+    - Doppler de MSD (04/10/2021): Oclusão segmentar em fístula arteriovenosa braquiocefálica do membro superior direito.
+    - Doppler arterial de MMSS (14/02/2022): FAV ocluídas em cotovelo e punho do MSD. Ausência de alterações parietais significativas nos demais segmentos estudados.
+    - Doppler venoso de MMSS (mapeamento venoso - 14/02/2022): 
+        MSD: Foram avaliadas as veias jugular interna, subclávia, axilar, braquiais, radiais e ulnares, que se apresentam pérvias, compressíveis, com fluxo fásico à respiração e/ou compressão distal. Ausência de trombos em seu interior. Observa-se FAVs ocluídas em fossa cubital (cotovelo) e ao nível de punho. Veia cefálica não caracterizada nos segmentos de FAVs, em demais segmentos, apresenta diâmetros preservados (acima de 8 cm do punho e 6 cm acima da prega cubital). Veia basílica de diâmetro preservado em braço e reduzido em antebraço.
+        MSE: Foram avaliadas as veias jugular interna, subclávia, axilar, braquiais, radiais e ulnares, que se apresentam pérvias, compressíveis, com fluxo fásico à respiração e/ou compressão distal. Ausência de trombos em seu interior. Veia cefálica de diâmetro muito reduzido em todo seu trajeto. Veia basílica de diâmetro preservado em braço e reduzido em antebraço.
+    - Doppler Venoso de MSE (27/07/2023): Veias subclávia, axilar e braquiais e veia basílica apresentam-se pérvias, com paredes lisas e finas, com boa compressibilidade e fluxo fásico com a respiração. Ausência de sinais de trombose aguda ou antiga. Veia cefálica Apresenta-se pérvia, com paredes lisas e finas, com boa compressibilidade e fluxo fásico com a respiração. Calibres muito reduzidos em braço, antebraço, E com fluxo trifásico. Conclusão= Veia cefálica com calibres reduzidos em braço e antebraço.
+    - ECOTT com Doppler (30/08/2023): FE 54%, insuficiência discreta ao Doppler colorido. PSAP <36 mmHg.
+    - US de Rins e VU (02/10/2023): Rins Tópicos, de contornos regulares, volumes preservados, com leve aumento da ecogenicidade à esquerda, observando-se cistos renais bilaterais, à direita medindo 9,1 x 5,0 x 4,7 cm, volume de 59 cm³. Rim esquerdo= 10,1 x 4,7 x 3,9 cm, volume de 56 cm³. Bexiga Com boa repleção, paredes finas e lisas, conteúdo anecoico homogêneo. Conclusão= Cistos renais bilaterais, destacando-se o maior no terço médio do rim esquerdo com leve aumento da ecogenicidade renal à esquerda, inferindo nefropatia parenquimatosa.
+  exame_fisico:
+  - Peso: 57 kg > 52,4 kg > 53,4 kg > 55,45 kg > 52 kg > 51,6 kg | Altura 1,59 m
+  - BEG, normocorada, anictérica, acianótica.
+  - AC: RCR, 2T, BNF, sem sopros. PA= 150/90 mmHg. TREC < 3 segundos. FAV em MSD sem frêmito. FC 76 bpm.
+  - AR: MVF+, sem RA, eupneica em ar ambiente.
+  - Abdome: RHP, dor à palpação superficial QSD, QIE e QID, sem abaulamentos ou retrações. Não palpo massas ou visceromegalias.
+  - MMII: Sem edemas. Sem sinais de empastamento.
+  conduta:
+  - Como houve melhora da função renal e dada a situação de 2 FAVs colocadas e inutilizadas, opto por não indicar FAV ainda (família muito reticente e no momento se nega a fazer FAV).
+  - PermCath em caso de entrada súbita em TRS.
+  - Progressão: Opto por manter sem IECA/BRA devido à TRS.
+  - Anemia: Perfil de ferro adequado, sem critérios para iniciar EPO (exame set/24).
+  - DMO: Mantenho Sevelamer. Paciente já com dose otimizada nas principais refeições.
+  - Aumento da dose de Sinvastatina (paciente com dificuldade de comprar Atorvastatina).
+  - Retorno em 2 meses.
+  outras_informacoes:
+  - Tomou 4 doses COVID
+  - Seguimento Multiprofissional (Data da última avaliação):
+    - Nutrição: 15/08/2023
+    - Assistente Social:
+    - Psicologia:
+    - Enfermagem Nefrologia: 
+  - Impressão: DRC 4 (CKD-EPI 17 ML/MIN/1,73 M²) - ESTAVA 17 > 15 > 12 > 14 > 17
+  - Paciente já fez 2 FAVs (radial e braquial, última em 2019) por conta de TFG < 20, mas a paciente acabou perdendo as duas por falta de uso (recuperou parte da função renal, e ambas as FAVs não foram usadas e então pararam funcionar). Paciente e a família negaram-se a colocar a FAV por medo de novo insucesso. 
+    Optamos por aguardar a necessidade real de HD e colocar PermCath, visto que a paciente já perdeu 2 acessos venosos.
+  - PA em casa: na meta.

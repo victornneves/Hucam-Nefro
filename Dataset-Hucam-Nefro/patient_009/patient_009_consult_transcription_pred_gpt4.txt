@@ -1,0 +1,33 @@
+MÉDICA: Como é que o senhor está? Está aí, quase parado. Como é que está a glicose? Está fazendo o mesmo. Não está mais caindo tanto não, né?
+PACIENTE: Não.
+MÉDICA: Não está mais caindo como estava não, né?
+PACIENTE: Não.
+MÉDICA: Não? Não teve mais nenhuma queira. O senhor tinha tido uma, né? Continuou perdendo peso?
+PACIENTE: Acho que não mesmo. Não, não teve peso.
+MÉDICA: Não teve peso. No dia que ele fez o teste, ele encheu, né?
+PACIENTE: Não encheu.
+MÉDICA: Não está enjoado? Não está comendo nada disso, né? E a dieta?
+PACIENTE: Mais ou menos.
+MÉDICA: Mais ou menos, né? Está comendo menos, não?
+PACIENTE: Normal.
+MÉDICA: Normal, né? É. Está sentindo bem?
+PACIENTE: Está.
+MÉDICA: Voltou, Losartana?
+PACIENTE: Voltei.
+MÉDICA: Ótimo. Já. Qual o seu horário?
+PACIENTE: Já.
+MÉDICA: Hoje. Hoje? Oi, laboratório. Olá. Olá.
+MÉDICA: Você está com a perna inchada? Essa cicatriz foi por quê? Não é um inchaço importante não, porque quando tira essa perna, a perna tende a inchar mais um pouquinho, entendeu? Só um pontinho aqui. Aperta aqui.
+MÉDICA: Vamos manter então a Losartana, tá bom? Deu tudo certo, graças a Deus. A dieta é parte importantíssima do seu tratamento, seu Joaquim. Se o seu corpo não quiser perder o seu rim, é muito importante que o senhor leve a sério a questão da dieta.
+MÉDICA: Está precisando de receita dos remédios?
+PACIENTE: Não.
+MÉDICA: Está novinho ainda? Está certinho?
+PACIENTE: Está.
+MÉDICA: Então, a gente vai manter os mesmos remédios, tá? Está tomando a Losartana, Furosemida, a Eritropoetina. Não precisa de receita mesmo?
+PACIENTE: Não precisa, eu tenho em casa.
+MÉDICA: Tem em casa? Vamos precisar da volta. Pode guardar, fique feliz com os resultados. Vou deixar a sua votação em abril. Está bom?
+PACIENTE: Uhum.
+MÉDICA: Nesse mesmo tempo, por favor, juízo. Está bom?
+PACIENTE: Está bom.
+MÉDICA: Obrigada.
+PACIENTE: Obrigada.

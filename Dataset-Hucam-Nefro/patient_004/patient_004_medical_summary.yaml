@@ -1,0 +1,96 @@
+  relatorio_consulta_ambulatorial_nefrologia:
+    identificacao_paciente: Feminina, 75 anos, negra, 4 filhos, aposentada, mora em
+      Itapemirim. Acompanhada do filho.
+    subjetivo:
+    - Paciente comparece à consulta de retorno. Relata estar em uso da losartana de
+      12/12h e do bicarbonato. Refere ainda ter administrado 6 ampolas do Noripurum.
+      Traz Doppler de membros superiores (04/11/24).
+    hipoteses_diagnosticas: 
+      - "DRC Estágio G4 — TFGe 23 ml/min (CR 2,18 - 06/12/24"
+      - Etiologia: Nefropatia relacionada ao diabetes?
+      - Admissão prevenir em: 26/09/24'
+    historico_patologico_pregresso: 
+      - "DM (há mais de 10 anos) - Sem seguimento com endocrinologista"
+      - "Retinopatia diabética - Realiza injeções anti-VEGF"
+      - "Glaucoma"
+      - "HAS"
+      - "Cirurgia de catarata bilateral"
+      - Complicações:
+        - "Anemia Sim"
+        - "Hiperfosfatemia Não."
+        - "Hipercalemia  Não."
+      - História familiar:
+        - "Irmão falecido há 40 anos, por doença renal (não soube especificar) em hemodiálise."
+        - "Irmã com DM, doença renal (não soube especificar) em hemodiálise."
+        - "Filhos (2) com pré-diabetes."
+      - "HPS: Nega tabagismo e uso de álcool"
+    medicamentos_em_uso:
+    - Acetazolamida (Diamox) 250mg 1 cp 6/6h
+    - Insulina Basaglar (Glargina) (0+0+10 UI)
+    - Nesina (alogliptina) 25mg (0+0+1) —> suspenso pela endocrino
+    - Losartana 50mg (1+0+1)
+    - Atorvastatina 20mg (0+0+1)
+    - Vitamina D 50.000 UI 2cp/semana por 4 semanas + 1cp mês não está tomando desde
+      out/24.
+    - Colírios oftalmológicos:
+      - MT 12/12h ao
+      - Travoprosta 1x/dia - olho esquerdo
+      - Dorzolamida 12/12h ao
+      - Brimonidina 12/12h ao
+      - Tropicamida 8/8 od (filha está pingando em ao)
+      - Ster 6/6 h od (filha está pingando em ao)
+    preparo_para_terapia_substituicao_renal:
+      '- Apresentação de método dialítico (10/09/24)
+      foi a consulta, mas sem familiares próximos
+      - Método escolhido: Diálise peritoneal —> Aguardando USG de abdome total
+      - Acesso: Não se aplica
+      - Sorologias 19/08/24: HBsAg NR | HCV NR | Anti-HBS Reag | HIV NR |
+      - Tx preemptivo (CICr < 10ml/min): Não se aplica'
+    exames_laboratoriais: 
+      12/07/24:
+        CR 2,08 | ALB 3,9 | CT 124 | HDL 37 | LDL 66,8 | CPK 87 | NA 141 | K 4,9 | VIT
+        D | VIT B12 432 | GLIC 149 | HBA1c 9,1% | HB 10,19 | HT 31,4% | LEUCO 7.920 |
+        PLAQ 194.000 | EAS 1009, pH 5.5, PTN NEG, GLIC NORMAL, LEUCO 20, HEMÁCIAS 1 |
+        MICROALB 4,5 MG/L
+
+      19/08/24:
+        CR 2,7 | UR 91 | NA 138 | K 4,2 | MG 2,12 | CL 111 | AU 6,4 | P 5,8 | CA 9,2 |
+        FA 225 | PTH 774 | TSH 2,41 | T4L 1,25 | FERRIT 197,8 | SAT TRANSF 15% | GLIC
+        229 | HBA1c 9,3% | TGO 13 | TGP 15 | HBsAg NR | HCV NR | ANTI-HBS REAG | HIV NR
+        EAS 1015 | pH 5.0 | GLIC 1000 | PTN NEG | 6 LEUCO, 1 HEMÁCIA.
+
+      16/09/24:
+        CA 8,8; CL 104; CR 2,52; FER 216; P 4,5; GLIC 169; HBA1c 9,5%; MG 2,16; RELAÇÃO
+        P/C 0,04; IST 18%; NA 130; UR 74; BIC 16,2; HB 9,69; HCT 30,2; PL 219000; PTH 88.
+
+      06/12/24:
+        HB 10,5 | HT 33,5% | LEUCO 6.580 | PLAQ 202.000 | EAS 1016, Ph 5.0; PTN NEG,
+        GLIC 500, LEUCO 25, HEMÁCIA 1 | VIT D 15,9 | Ph 7.22 | BIC 18.3 | HBA1c 7.1% |
+        GLC 74 | FE 81 | FERRIT 491,5 | IST 41% | UR 108 | CR 2,18 | NA 140 | K 5,7 |
+        MG 2,31 | CL 114 | P 3,9 | CA 8,8.'
+    exames_complementares: 
+      EXAMES DE IMAGEM:
+        EDA (01/02/24): Gastrite erosiva leve de antro. Hérnia hiatal por deslizamento. Monilíase esofagiana moderada. Esofagite erosiva leve.
+        Doppler Carótidas (18/07/24): Sem alterações.
+        USG Rins (19/07/24): Rim direito tópico, com formas bem definidas, relação córtico-medular preservada 90,3 x 12,3 mm. Rim esquerdo tópico, com formas bem definidas, relação córtico-medular preservada. 90,6 x 14,6 mm. Imagem linear, hiperecogênica, com sombra acústica posterior de 6,1mm no grupo calicinal médio.
+        ECO-TT (18/07/24): AO 29 | AE 39 | DDVE 44 | DSVE 27 | SEPTO 8 | PP 8| FE (Teichholz) 69% | índice  degeneração mitro-aórtica leve. Sem demais alterações.
+        Doppler Arterial e Venoso MMSS (04/11/24): Bifurcação precoce das artérias radial e ulnar a nível da prega axilar. Diâmetro reduzido das artérias radiais e ulnas ao nível do punho bilateralmente. Veias cefálica e basílica de diâmetros limítrofes.'
+    exame_fisico: '- GERAL: BEG, hipocorada 1+/4+, afebril.
+      - ACV: RCR 2T, SS. PA: 150 x 60 mmHg. FC 54 bpm.
+      - APR: Eupneica, MV presente bilateralmente, não ausculto RA. Sat 98% em AA.
+      - MMII: Edema 1+/4+, panturrilhas sem empastamento.'
+    conduta: '- Mantenho losartana 50mg 12/12h + acrescento anlodipino 5mg noite -->
+      controle de PA.
+      - Oriento anotação da pressão arterial e glicemias nas últimas 2 semanas antes
+      do retorno > Avaliar se PA elevada persistentemente ou se HAS jaleco branco.
+      - Prescrevo ataque de vitamina D 50.000 UI/semana por 8 semanas + 1x/mês no dia
+      08 de cada mês.
+      - Aumento reposição de bicarbonato de sódio para 2 colheres/dia.
+      - Retorno com exames em 04 meses.'
+    impressão:
+      Paciente hipertensa, com diabetes mellitus há mais de 10 anos, insulinizada,
+      veio encaminhada da oftalmologia, onde realiza acompanhamento para retinopatia
+      diabética em uso de injeções anti VEGF e colírios. Possui história familiar para
+      doenças renais (não especificadas). Retorna hoje com exames com evidência de piora
+      da TFGe em 30%, dentro do limite esperado após o início de iSGLT2.'
+    outras_informacoes: 

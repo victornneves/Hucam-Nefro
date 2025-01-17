@@ -1,0 +1,291 @@
+nefrologia_termos:
+  - termo: "DRC"
+    descricao: "Doença Renal Crônica. Condição caracterizada pela perda progressiva e irreversível da função renal."
+  - termo: "Creatinina"
+    descricao: "Produto do metabolismo muscular, eliminado pelos rins. Sua dosagem no sangue é usada para avaliar a função renal."
+  - termo: "Uréia"
+    descricao: "Produto do metabolismo das proteínas, eliminado pelos rins. Sua dosagem no sangue é usada para avaliar a função renal."
+  - termo: "Métodos Dialíticos"
+    descricao: "Procedimentos de filtragem do sangue para remover toxinas em pacientes com insuficiência renal, incluindo hemodiálise e diálise peritoneal."
+  - termo: "Hemodiálise"
+    descricao: "Procedimento de filtragem do sangue para remover toxinas em pacientes com insuficiência renal."
+  - termo: "DP"
+    descricao: "Diálise Peritoneal. Procedimeno de filtragem do sangue para remover toxinas, utilizando a membrana peritoneal como filtro."
+  - termo: "Diurese"
+    descricao: "Produção de urina pelos rins."
+  - termo: "FG"
+    descricao: "Filtrado Glomerular. Volume de líquido filtrado pelos glomérulos renais por minuto."
+  - termo: "FAV"
+    descricao: "Fístula Arteriovenosa. Conexão cirúrgica entre artéria e veia, usada como acesso vascular para hemodiálise."
+  - termo: "MMSS"
+    descricao: "Membros Superiores. Refere-se aos braços, onde frequentemente são criadas as FAV."
+  - termo: "DPOC"
+    descricao: "Doença Pulmonar Obstrutiva Crônica. Apesar de ser uma doença pulmonar, é relevante na nefrologia por estar associada a comorbidades."
+
+medicamentos:
+  - nome: "Losartana"
+    descricao: "Antagonista do receptor da angiotensina II, usado para controle da hipertensão arterial e proteção renal."
+    nomes_alternativos:
+      - "Cozaar"
+  - nome: "Hidralazina"
+    descricao: "Vasodilatador utilizado para tratar hipertensão arterial."
+    nomes_alternativos:
+      - "Apresolina"
+  - nome: "Furosemida"
+    descricao: "Diurético de alça utilizado para manejo de edema em pacientes com insuficiência renal ou cardíaca."
+    nomes_alternativos:
+      - "Lasix"
+  - nome: "Sustrate"
+    descricao: "Nitrato orgânico usado no tratamento de angina."
+  - nome: "Gabapentina"
+    descricao: "Anticonvulsivante utilizado para tratar neuropatias periféricas."
+    nomes_alternativos:
+      - "Neurontin"
+  - nome: "AAS"
+    descricao: "Ácido acetilsalicílico, usado como antiagregante plaquetário e anti-inflamatório."
+    nomes_alternativos:
+      - "Aspirina"
+      - "AS"
+  - nome: "Dapagliflozina"
+    descricao: "Inibidor do SGLT2 usado no manejo de diabetes mellitus tipo 2 e insuficiência cardíaca."
+    nomes_alternativos:
+      - "Forxiga"
+  - nome: "Sinvastatina"
+    descricao: "Estatina usada para reduzir o colesterol e prevenir doenças cardiovasculares."
+    nomes_alternativos:
+      - "Zocor"
+      - "Sinva"
+  - nome: "Insulina NPH"
+    descricao: "Insulina de ação intermediária usada no controle do diabetes mellitus."
+    nomes_alternativos:
+      - "Humulin N"
+      - "Novolin N"
+  - nome: "Insulina Basaglar"
+    descricao: "Insulina glargina de longa duração usada no controle glicêmico."
+    nomes_alternativos:
+      - "Basaglar KwikPen"
+  - nome: "Sulfato"
+    descricao: "Suplemento mineral usado em deficiências específicas."
+  - nome: "Colecalciferol"
+    descricao: "Vitamina D3 usada para tratar deficiências de vitamina D e distúrbios do metabolismo ósseo."
+    nomes_alternativos:
+      - "Vitamina D"
+  - nome: "Metoprolol"
+    descricao: "Betabloqueador utilizado no tratamento de hipertensão, angina e insuficiência cardíaca."
+    nomes_alternativos:
+      - "Lopressor"
+      - "Toprol-XL"
+  - nome: "Metformina"
+    descricao: "Medicamento de primeira linha para o tratamento de diabetes mellitus tipo 2."
+    nomes_alternativos:
+      - "Glifage"
+      - "Glucophage"
+  - nome: "Insulina Regular"
+    descricao: "Insulina de ação rápida usada no manejo de hiperglicemia."
+    nomes_alternativos:
+      - "Humulin R"
+      - "Novolin R"
+  - nome: "Risperidona"
+    descricao: "Antipsicótico utilizado no tratamento de esquizofrenia e transtorno bipolar."
+    nomes_alternativos:
+      - "Risperdal"
+  - nome: "Diazepam"
+    descricao: "Ansiolítico usado para tratar ansiedade, insônia e convulsões."
+    nomes_alternativos:
+      - "Valium"
+  - nome: "Amitriptilina"
+    descricao: "Antidepressivo tricíclico usado para tratar dor neuropática e depressão."
+    nomes_alternativos:
+      - "Tryptanol"
+  - nome: "Bupropiona"
+    descricao: "Antidepressivo utilizado também para auxiliar no abandono do tabagismo."
+    nomes_alternativos:
+      - "Zyban"
+      - "Wellbutrin"
+  - nome: "Levotiroxina"
+    descricao: "Hormônio tireoidiano utilizado no tratamento do hipotireoidismo."
+    nomes_alternativos:
+      - "Puran T4"
+      - "Euthyrox"
+  - nome: "Atorvastatina"
+    descricao: "Estatina usada para reduzir o colesterol e prevenir doenças cardiovasculares."
+    nomes_alternativos:
+      - "Lipitor"
+      - "Atorva"
+  - nome: "Tramadol"
+    descricao: "Analgésico opioide utilizado para o manejo da dor moderada a intensa."
+    nomes_alternativos:
+      - "Ultram"
+  - nome: "Rosuvastatina"
+    descricao: "Estatina utilizada para controlar os níveis de colesterol."
+    nomes_alternativos:
+      - "Crestor"
+  - nome: "Fenofibrato"
+    descricao: "Utilizado para tratar dislipidemias, reduzindo os níveis de triglicerídeos."
+    nomes_alternativos:
+      - "Lipanon"
+  - nome: "Anlodipino"
+    descricao: "Bloqueador do canal de cálcio usado no tratamento de hipertensão arterial."
+    nomes_alternativos:
+      - "Norvasc"
+  - nome: "Vitamina"
+    descricao: "Suplemento para corrigir deficiências vitamínicas."
+  - nome: "Omeprazol"
+    descricao: "Inibidor da bomba de prótons usado para tratar refluxo gastroesofágico e úlceras."
+    nomes_alternativos:
+      - "Losec"
+  - nome: "Alopurinol"
+    descricao: "Inibidor da xantina oxidase usado no manejo da gota e hiperuricemia."
+    nomes_alternativos:
+      - "Zyloprim"
+  - nome: "Atenolol"
+    descricao: "Betabloqueador utilizado no tratamento de hipertensão e arritmias cardíacas."
+    nomes_alternativos:
+      - "Tenormin"
+  - nome: "Acetazolamida"
+    descricao: "Inibidor da anidrase carbônica usado para tratar glaucoma e edema."
+    nomes_alternativos:
+      - "Diamox"
+  - nome: "Nesina"
+    descricao: "Medicamento antidiabético que atua como inibidor da DPP-4."
+  - nome: "Gliclazida"
+    descricao: "Sulfonilureia utilizada no manejo do diabetes mellitus tipo 2."
+    nomes_alternativos:
+      - "Diamicron"
+  - nome: "Doxazosina"
+    descricao: "Alfa-bloqueador usado para tratar hipertensão arterial e hiperplasia prostática benigna."
+    nomes_alternativos:
+      - "Cardura"
+  - nome: "Finasterida"
+    descricao: "Utilizada no tratamento de hiperplasia prostática benigna e alopécia androgenética."
+    nomes_alternativos:
+      - "Proscar"
+      - "Propecia"
+  - nome: "Ácido Fólico"
+    descricao: "Suplemento vitamínico usado para prevenir anemia megaloblástica."
+    nomes_alternativos:
+      - "Folacin"
+  - nome: "Sulfato Ferroso"
+    descricao: "Suplemento de ferro utilizado no tratamento de anemia ferropriva."
+    nomes_alternativos:
+      - "Ferrograd"
+  - nome: "Cilostazol"
+    descricao: "Utilizado no manejo de doenças vasculares periféricas, como claudicação intermitente."
+    nomes_alternativos:
+      - "Pletal"
+  - nome: "Monocordil"
+    descricao: "Nitrato usado para tratar angina pectoris."
+  - nome: "Rivaroxabana"
+    descricao: "Anticoagulante oral utilizado para prevenir trombose."
+    nomes_alternativos:
+      - "Xarelto"
+  - nome: "Clopidogrel"
+    descricao: "Antiagregante plaquetário usado para prevenir eventos cardiovasculares."
+    nomes_alternativos:
+      - "Plavix"
+  - nome: "Espironolactona"
+    descricao: "Diurético poupador de potássio utilizado no tratamento de insuficiência cardíaca e hipertensão."
+    nomes_alternativos:
+      - "Aldactone"
+  - nome: "Clonazepam"
+    descricao: "Benzodiazepínico usado no tratamento de convulsões e transtornos de ansiedade."
+    nomes_alternativos:
+      - "Rivotril"
+  - nome: "Citalopram"
+    descricao: "Inibidor seletivo de recaptação de serotonina utilizado como antidepressivo."
+    nomes_alternativos:
+      - "Celexa"
+  - nome: "Formoterol"
+    descricao: "Broncodilatador usado para tratar asma e DPOC."
+    nomes_alternativos:
+      - "Oxis"
+  - nome: "Formoterol + Budesonida"
+    descricao: "Combina broncodilatador e corticosteroide inalado para o tratamento de asma e DPOC."
+    nomes_alternativos:
+      - "Symbicort"
+  - nome: "Carvedilol"
+    descricao: "Betabloqueador utilizado no tratamento de insuficiência cardíaca e hipertensão arterial."
+    nomes_alternativos:
+      - "Coreg"
+  - nome: "Ezetimiba"
+    descricao: "Medicamento usado para reduzir os níveis de colesterol no sangue."
+    nomes_alternativos:
+      - "Ezetrol"
+  - nome: "Caco3"
+    descricao: "Carbonato de cálcio utilizado como suplemento de cálcio ou como antiácido."
+    nomes_alternativos:
+      - "Carbonato de Cálcio"
+  - nome: "Levotiroxina"
+    descricao: "Nome comercial de levotiroxina, usada para tratar hipotireoidismo."
+    nomes_alternativos:
+      - "Puran"
+      - "Euthyrox"
+  - nome: "Vastarel"
+    descricao: "Medicamento usado no tratamento de angina e para melhorar o metabolismo cardíaco."
+    nomes_alternativos:
+      - "Trimetazidina"
+  - nome: "Sevelamer"
+    descricao: "Quelante de fósforo usado no manejo de hiperfosfatemia em pacientes com insuficiência renal."
+    nomes_alternativos:
+      - "Renagel"
+      - "Renvela"
+  - nome: "Dipirona"
+    descricao: "Analgésico e antipirético usado para tratar dor e febre."
+    nomes_alternativos:
+      - "Novalgina"
+  - nome: "Alfapoetina"
+    descricao: "Hormônio usado para tratar anemia associada à insuficiência renal."
+    nomes_alternativos:
+      - "Eritropoetina Alfa"
+  - nome: "Duloxetina"
+    descricao: "Antidepressivo utilizado no tratamento de transtorno de ansiedade generalizada e dor neuropática."
+    nomes_alternativos:
+      - "Cymbalta"
+  - nome: "Fluoxetina"
+    descricao: "Inibidor seletivo de recaptação de serotonina usado para tratar depressão e ansiedade."
+    nomes_alternativos:
+      - "Prozac"
+  - nome: "Quetiapina"
+    descricao: "Antipsicótico usado no tratamento de esquizofrenia e transtorno bipolar."
+    nomes_alternativos:
+      - "Seroquel"
+  - nome: "Hidroxicloroquina"
+    descricao: "Utilizada no tratamento de doenças autoimunes como lupus e artrite reumatoide."
+    nomes_alternativos:
+      - "Plaquenil"
+      - HCQ
+  - nome: "Mofetil micofenolato"
+    descricao: "Imunossupressor usado para prevenir rejeição de órgãos transplantados."
+    nomes_alternativos:
+      - "CellCept"
+      - "MMF"
+  - nome: "Cloridrato de clonidina"
+    descricao: "Medicamento usado para tratar hipertensão arterial e sintomas de abstinência."
+    nomes_alternativos:
+      - "Clonidina"
+      - "Atensina"
+  - nome: "Pregabalina"
+    descricao: "Anticonvulsivante usado para tratar dor neuropática e transtorno de ansiedade generalizada."
+    nomes_alternativos:
+      - "Lyrica"
+  - nome: "Amitriptilina"
+    descricao: "Antidepressivo tricíclico usado para tratar dor crônica e transtornos do humor."
+    nomes_alternativos:
+      - "Tryptanol"
+
+exames:
+  - nome: "Doppler de MMSS"
+    descricao: "Exame de ultrassom utilizado para avaliar o fluxo sanguíneo na FAV ou em outros vasos dos membros superiores."
+  - nome: "Clearance de Creatinina"
+    descricao: "Exame que avalia a taxa de filtração glomerular, indicando a função renal."
+  - nome: "Proteinúria"
+    descricao: "Exame que detecta a presença de proteínas na urina, sinal de lesão renal."
+
+condicoes_clinicas:
+  - nome: "Insuficiência Renal Crônica (IRC)"
+    descricao: "Perda progressiva e irreversível da função renal."
+  - nome: "Síndrome Nefrótica"
+    descricao: "Condição caracterizada por proteinúria maciça, hipoalbuminemia, edema e hiperlipidemia."
+  - nome: "Hiperparatireoidismo Secundário"
+    descricao: "Condição comum em pacientes com insuficiência renal, caracterizada pelo aumento do paratormônio devido à hipocalcemia crônica."
+

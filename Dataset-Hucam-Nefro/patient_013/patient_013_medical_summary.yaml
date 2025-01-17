@@ -1,0 +1,172 @@
+relatorio_consulta_ambulatorial_nefrologia:
+  identificacao_paciente: Feminina, 67 anos, sem acompanhante, mora em Cariacica.
+  subjetivo: Paciente assintomática. Nega náuseas, vômitos, perda ponderal.
+  hipoteses_diagnosticas:
+  - DRC estágio G5 A1.
+  - 'Etiologia/Doença de Base: HAS / Rim único (nefrectomia direita em 2010, por CA
+    de células renais).'
+  historico_patologico_pregresso: 'Admissão Prevenir em: 07/03/2017.'
+  medicamentos_em_uso: 'Furosemida 40 mg 2-2-0. Metoprolol 50 mg 0-1/2-0. Sinvastatina
+    20 mg 0-0-1. Sevelamer 2-2-2. Citalopram 20 mg 1-0-0. Clonazepam 2 mg 1/2 cp à
+    noite. Uso esporádico de dipirona (quando cefaleia).
+
+    '
+  preparo_para_terapia_substituicao_renal: 'Apresentação de método dialítico: Data.
+
+    Método escolhido: HD.
+
+    Acesso: FAV Set/2018.
+
+    Sorologias (Ago/22): HBsAg NR, Anti-HBC NR, Anti-HCV NR, Anti-HIV NR.
+
+    Tx preemptivo (ClCr < 10 mL/min): Não se aplica.
+
+    '
+  exames_laboratoriais: '20/08/21: ALB 4,7, TRIG 109, COL T 169, HDL 60, LDL 87,2,
+    IST 33%, FERRITINA 338, AC URICO 9,3, P 4,6, CA 10,5, NA 134, K 5,2, CREAT 3,55,
+    UR 148, HB 11,5, LEUC 3890, PLAQ 153.000, VIT D 42,7, PTH 323,9.
+
+    15/10/21: UR 103, CREAT 3,35, NA 137, K 5,5, CA T 9,6, P 4,2, HB 10,7, LEUC 4140,
+    PLAQ 149.000, PTH 346,9, VIT D 40,6, BIC 28,4.
+
+    26/01/22: MICROALB 53 MG, FOSF ALC 218, ALB 4,3, COL TOTAL 162, HDL 48, LDL 89,8,
+    TRIG 121, CK 95, FERRITINA 328,5, SATURAÇÃO DE TRANSFERRINA 25%, UR 172, CREAT
+    3,58, NA 132, K 5,9, CA 9,0, P 5,1, HB 11,3, LEUC 3930, PLAQ 153.000, ANTI HIV
+    NR, ANTI HBS +, ANTI HCV NR, PTH 311,7, VIT D 52.
+
+    01/04/22: P 4,7, CA 9,8, NA 130, K 5,7, UR 133, CREAT 3,61, IST 13%, FERRITINA
+    254,9, HB 10,7, LEUC 2570, PLAQ 103.000, BIC 29,2, PTH 208.
+
+    13/06/22: VIT B12 286, UR 122, NA 140, SAT TRANSF 29%, K 5,6, PTH 153, IGM 67,7,
+    IGG 927,8, IGA 323,8, P 4,6, FA 203, FE 83, FERRITINA 214, CR 3,73, CL 101, CAT
+    9,8, ALB 4,3, B9 17,5, INR 1,17, TTPA R 1,0, VIT D 59,4, HB 10,5, LEUC 4190, PLAQ
+    149000.
+
+    04/08/22: CR 4,15, UR 138, NA 136, K 5,6, CAT 9,3, P 4,6, PTH 206, VIT D 49, HB
+    10,7, LEUC 4850, PLAQ 156000, FERRITINA 213, IST 29%.
+
+    26/01/23: CA 10,3, CL 100, CR 3,51, FER 172, P 4,5, K 5,6, ALB 4,3, IST 22%, NA
+    137, UR 176, HB 10,6, HCT 31,7, GL 4070, PTH 272, VIT D 48.
+
+    05/04/23: CA TOTAL 10,1, CR 3,85, UR 147, IST 40%, MG 2,3, NA 135, K 5,4, CL 99,
+    ALB 4,4, FA 291, FERRO 96, FOSFORO 4,4, TRIGLICERIDEOS 104, GLICOSE 79, CT 146,
+    ACIDO URICO 9,17, HB 11,3, HT 32,39%, LEUC 4080, PLAQ 165.000, VIT D 56,7.
+
+    16/06/23: CA 9,7, PTN TOTAL 7,2, ALB 4,4, GLOB 2,8, CREAT 3,5, U 157, IST 45%,
+    MG 2,27, NA 136, K 5,7, FA 293, FERRITINA 164, P 4,6, TGL 107, GLI 90, COL 168,
+    AC. URICO 8,7, HBA1C 5,8%, HB 11,3, HT 33,2.
+
+    11/08/23: ÁCIDO URICO 8,3, CA 10,5, CREAT 3,58, FERRITINA 179,7, FA 316, P 5,0,
+    GLI 91, MG 2,12, PTH 362, K 5,0, IST 34%, NA 131, U 166, ANTI HBS 134, HB 11,6,
+    HT 34,6, LEUC 3990.
+
+    05/10/23: CA 9,5, CREAT 3,88, U 154, IST 33%, NA 134, K 6,1, FA 358, FERRITINA
+    169,9, P 4,6, GLI 84, HB 10,9, HT 32,6, LEUC 4580, PLAQ 144000, VIT D 36, PTH
+    228.
+
+    26/10/23: CA 10,4, CREAT 3,49, U 168, IST 37%, MG 2,52, NA 133, K 5,5, FA 288,
+    FERRITINA 176,1, P 4,1, GLI 93, HB 10,9, 4900 LEUC, 164000 PLAQ, VIT D 33,5, PTH
+    267, HCO3 24,4.
+
+    26/12/23: CA 9,9, CREAT 3,87, FERRITINA 210,8, P 4,8, GLI 91, MG 2,24, PTH 465,
+    K 5,4, NA 135, U 175, HB 11,2, HT 33,6, 4470 LEUC, 181000 PLAQ, VIT D 50,7.
+
+    29/02/24: ANTI HCV NR, ANTI HIV 1 E 2 NR, ANTI HBC TOTAL NR, HBSAG NR, ANTI HBS
+    129, CAT 9,7, CREAT 4,51, FERRITINA 202, IST 39%, P 4,9, GLI 85, HBA1C 7, MG 2,06,
+    PTH 227, K 5,4, NA 133, U 195, HCO3 20,2, HB 11,4, HT 34,4, 5110 LEUC, 176000
+    PLAQ, VIT D 44,9.
+
+    05/04/2024: CAT 9,7, CREAT 3,6, FERRITINA 191, FA 297, P 4,7, GLI 74, MG 2,46,
+    PTH 193, K 5,4, NA 129, U 169, IST 10%, PTN TOTAIS 6,9, ALB 4,3, HB 10,8, HT 32,4,
+    4770 LEUC, 139000 PLAQ.
+
+    29/05/24: ÁCIDO ÚRICO 7,4, CAT 10,2, CREAT 4,18, FERRITINA 162,2, FA 255, P 5,0,
+    GLI 85, HBA1C 5,3, MG 2,0, PTH 235, K 5,3, IST 30%, NA 138, U 188, HCO3 22,3,
+    HB 10,9, HT 32,9, 4080 LEUC, 154000 PLAQ, VIT D 55,2.
+
+    01/08/24: CA 9,9, CREAT 4,17, U 187, IST 32%, MG 1,97, NA 137, K 5,1, FERRITINA
+    124,6, P 5,5, GLI 88, HCO3 22,2, HB 11, HT 33,4, 4110 LEUC, 137000 PLAQ, VIT D
+    45,2.
+
+    03/10/24: ÁCIDO ÚRICO 7,2, CA 9,9, CAI 4,9, CAI 4,8, U 199, CREAT 5,17, FERRITINA
+    154, FA 373, P.
+
+    29/11/24: CA 9,5, CREAT 4,22, FERRITINA 136, FA 335, P 4,9, GLI 74, MG 2,1, PTH
+    395, IST 20%, NA 138, HB 11,6, HT 37,2, LEUC 13230, PLAQ 307000, PTNS TOTAIS 7,0,
+    ALB 4,1, HCO3 30,3, CA 4,3, HB 9,8, VIT D 37,3.
+
+    30/12/24: CA 10,3, CREAT 4,2, P 4,6, MG 2,06, K 5,8, NA 136, U 185, HCO3 27,1,
+    CAI 4,4, HB 9,69, HT 30,4, LEUC 4570, PLAQ 163000.
+
+    '
+  exames_complementares: 'ECO TT 28/06/2019: FE 74%, insuficiência valvar mitral discreta.
+
+    US RINS E VU 03/03/2020: Rim esquerdo com cistos corticais simples, nefrectomia
+    direita.
+
+    USG ABDOMINAL TOTAL 13/06/2023: Aumento difuso da ecogenicidade no rim esquerdo,
+    cistos simples no rim inferior, medindo até 2,7 cm.
+
+    '
+  exame_fisico: 'Peso: 47 kg.
+
+    ACV: RCR em 27, BNF, sem sopros.
+
+    PA: 170/80 mmHg.
+
+    SPO2: 98%.
+
+    '
+  conduta: 'DIETA POBRE EM K
+
+    AGUARDO LIBERAÇÃO DE EPO E MANTENHO SEVELAMER
+
+    CONVERSO SOBRE RISCOS DA HIPERCALCEMIA E DE NÃO INICIAR DIÁLISE
+
+    CONVERSO COM PACIENTE SOBRE NECESSIDADE DE INICIAR HD, MAS A MESMA SE RECUSA (ASSINOU
+    TERMO DE RECUSA).
+
+    NO FINAL DA CONVERSA, DISSE QUE IRÁ A APARECIDA NO FINAL DE JANEIRO E QUANDO VOLTAR
+    CONVERSAREMOS SOBRE O INÍCIO DE HD
+
+    MANTENHO MEDICAÇÕES
+
+    RETORNO EM FEVEREIRO/25 COM DR. LEANDRO, POIS ESTAREI DE FÉRIAS E NÃO É POSSÍVEL
+    AGUARDAR MAIS TEMPO PARA REAVALIAÇÃO.
+
+    CASO AINDA SEJA MANTIDA EM TTO CONSERVADOR, MARCAR PRÓXIMA CONSULTA PARA MIM
+
+    '
+  outras_informacoes: 'COMPLICAÇÕES DRC:
+
+    Anemia: Ausente.
+
+    Hiperfosfatemia: Ausente.
+
+    PTH > 300: Presente.
+
+    Hiperuricemia: Presente.
+
+
+    VACINAÇÃO:
+
+    COVID-19: 3 doses (última em 2022).
+
+    Influenza: 1 dose em 2022.
+
+
+    Análise:
+
+    DRC Estágio G5 (CKD-EPI 11 ml/min/1,73 m²): Piora progressiva da função renal.
+
+    Hiperfosfatemia: Mesmo em uso de Sevelamer.
+
+    Anemia: Indicação de EPO já solicitada.
+
+    HIPERCALCEMIA (MELHOR EM RELAÇÃO À ÚLTIMA CONSULTA, MAS AINDA ELEVADO)
+
+    SEM SINAIS DE UREMIA
+
+    FAV FUNCIONANTE
+
+    PACIENTE MUITO RESISTENTE AO INÍCIO DE DIÁLISE, APESAR DE REPETIDAMENTE ORIENTADA'

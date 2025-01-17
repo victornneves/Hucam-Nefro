@@ -1,0 +1,163 @@
+relatorio_consulta_ambulatorial_nefrologia:
+  identificacao_paciente: Masculino, 53 anos, solteiro, acompanhado da irmã Maria
+    Florentina.
+  subjetivo:
+  - Comparece para consulta de rotina. Nega queixas urológicas, nega alteração do
+    volume urinário, nega queixas de uremia. Refere edema em MMSS e face que iniciou
+    há 15 dias.
+  - Fez colecistectomia em junho/24.
+  hipoteses_diagnosticas: '- DRC - CLCR atual (CKD-EPI): 32 ml/min/1,73³ (G3bA1)
+
+    - Etiologia / doença de base: Indeterminada (cardiorrenal? nefropatia diabetica?).
+
+    - Admissão prevenir em: 09/2021
+
+    - CLCR admissão: 28 ml/min
+
+    - Sorologias virais: Anti-HCV: NR, Anti-HIV: NR, HBsAg: NR, Anti-HBg IgM: NR (19/06/2023)
+
+    '
+  historico_patologico_pregresso: '- HAS
+
+    - DM
+
+    - DCV (ICFER - miocardiopatia dilatada de etiologia A/E - alcoólica? > Implante
+    marcapasso + CDI em 02/05/19)
+
+    - Dislipidemia (muito alto risco meta LDL < 50)
+
+    - AVC prévio (sequela motora: paresia MSD)
+
+    - Epilepsia secundária
+
+    - Pancreatite crônica de etiologia alcoólica.
+
+    - Internação 25/04/2022 - 04/05/2022 na AFPES por ICC descompensada + pneumonia
+    + AVC (SIC)
+
+    - Internação HDS 17/02/23 - 28/02/23: Sepse foco abdominal
+
+    - CVL
+
+    '
+  medicamentos_em_uso:
+  - Furosemida 40mg 2cp manhã e 1 cp à tarde
+  - AAS 100mg 1x/dia.
+  - Losartana 50mg 12/12h.
+  - Dapagliflozina 10 mg/dia.
+  - Metoprolol 50 mg 2 cp 12/12h
+  - Metformina 500mg 2x/dia.
+  - Insulina NPH 26UI+10UI+14UI.
+  - Risperidona 1 mg 2x/dia.
+  - Diazepam 10mg 1x/noite.
+  - Amitriptilina 25mg 2x/dia
+  - Bupropiona 150mg 2x/dia
+  - Levotiroxina 25 mcg/manhã
+  - Atorvastatina 40 mg/noite
+  - Tramadol 50mg SOS
+  preparo_para_terapia_substituicao_renal: ''
+  exames_laboratoriais: "## EX LAB [22/11/21]\nNA 139/P 4,3/FAL 175/ FERRITINA 845,6\
+    \ / IST 36/ CR 2,29/ GLIC 108 / HB 9,19 / LEUCO 4690\nPLAQ 165000 / ANTI-HOV NR\
+    \ / ANTI-HIV NR / ANTI-HBC TOTAL NR / ANTI-HBS 50,85 / HBSAG NR / PTH\n81 / BIC\
+    \ 25,3 / RELAÇÃO P/C 0,022.\n\n## EX LAB [26/11/21]\nBT 0,19 / CR 2,5 / FAL 184\
+    \ / GGT 169 / TG0 27 / TGP 24 / UR 100.\n\n## EX LAB [04/03/2022]\nCR 2,16 / UR\
+    \ 71 / NA 137 / K 4,6 / MG 2,8 / P 4,9 / CAT9,8 / HBA1C 16,7 / GLIC 153 / \nFERRITINA\
+    \ 319 / IST 30 / FAL 201 / VITD 24,0 / PTH 96 / HB 10,6 / LEUCO 6700 / PLAQ 188000\
+    \ BIOC 26,0\n\n## EX LAB [06/06/22]\nCAT 9,6/ CL 104/ CR 2,31 / FAL 181 / P 6,2\
+    \ / PTH 35,6/K 4,8/ NA 143/ UR 95 / MB 10,3 / LEUCO\n4870 / PLAQ 155000 / VITD\
+    \ 28,1 / VDRL NR / HBSAG NR / ANTI-HBS > 1000 / ANTI-HBC TOTAL NR/ ANTI-HIV NR\
+    \ /ANTI-HCV NR / BIC 29,5\nEAS (DENS 1017, PH 5,0, ALB NEG, 03 LEUCO, 01 HEM,\
+    \ 01 CELS EPITELIAIS) / HBAIC 7,3.\n\n## EX LAB [14/09/22]\ntgo 30 tgp 55 cpk\
+    \ 99 CA 9,1 ALB 4,4 FA 161 COL TOTAL 195 HDL 34 LDL 134,6 HBAIG\n6,7% NA 138 K\
+    \ 4,9 MG 2,4 P 3,7 IST 37% FERRITINA 183 HB11,7 HT 37,1 4540 LEUC (DIFERENCIAL\n\
+    NORMAL) 127000 PLAQ TSH 7,67 PTH 85,4 VIT D 28,7\nEAS NORMAL; RELAÇÃO PROT/CREA\
+    \ 0,015; MICROALBUMINÚRIA 2,2 MG/L\n\n## EX LAB [29/09/22]\nHCOS 26\n\n## EX LAB\
+    \ [19/02/2023]\nHB 10,5; HUGT 31,5; CR 1,93; UR 79;\n\n## EX LAB [20/02/23]\n\
+    (EXTERNO): HB 9,6; HCT 28,8: GL 8900; PL 201000; GLIC 33; CR 2,03; UR 91; NA 131;\
+    \ K 3,8\n\n## EX LAB [07/03/23]\nCL 101; LDL 95; CT 161; CR 1,96; NA 135; TGC\
+    \ 192; UR 90; TSH 7,56; T4L 1,46;\n \n## EX LAB [19/06/2023]\nÁCIDO ÚRICO: 9,0.\
+    \ CÁLCIO TOTAL: 9,3; CLORO: 98, COLESTEROL TOTAL 140, CR: 2,16\nURÉIA: 94, FERRO:\
+    \ 113, FERRITININA 250,90, SATURAÇÃO DE TRANSFERRINA: 38%, NA: 137, TG: 214, FA:\n\
+    237, P: 4,7, GLICOSE: 103, HBA1C: 6,7%, MG: 2,02, K: 3,2, PT TOTAL: 7,9 (ALBUMINA:\
+    \ 4,4, GLOBULINA: 3,4,\nRELAÇÃO A/G: 1,27), HB: 11,20, HT: 34,90%, LEUCÓCITOS:\
+    \ 6530 (B: 0%, S: 45,8%), PLAQUETAS: 178.000,\nPHT: 101, VIT.D: 39,2,\n> URINÁRIOS:\
+    \ CREATININA 66,50, PT TOTAL: 1,2, RELAÇÃO PROT/CREAT: 0,018, EAS: D 1009, PH\
+    \ 6,0, 5\nLEUCOCITOS/CAMPO, 1 HEMÁCIA/CAMPO, 4 CÉLULAS EPITELIAIS/CAMPO, CRISTAIS\
+    \ AUSENTES,\nCILINDRO HIALINO\n\n## GASOMETRIA VENOSA [22/06/2023]\nPH: 7,35,\
+    \ BIC: 28,6, LACTATO: 2,4665\n\n## EX LAB [15/09/2023]\nCT 122 // HDL 26//LDL\
+    \ 68,2//CT 9,4//PT 7,5//ALB 4,3//CR 2,16//UR 104// MG 2,06 // NA\n135//K4,1//CL\
+    \ 100//P 4,5 // TG 135 // GLICOSE 82 / HBAIC 6,7 // AC URICO 9,1// PH 7,32 BIC\
+    \ 27,7 // HB\n10,6// HT 32,2 // LEUCO 6520 // PLAQ 173000// VITD 35,8 // EAS DENS\
+    \ 1011 PH5 GLICOSE 30 ALB\nNEGATIVO HEMACIAS 1 CRISTAIS E CILINDROS AUSENTES.\n\
+    \n## EX LAB [16/01/24] \nCA TOT 9,4 / PTN 7,9 / ALB 4,1 / CR 2,39 / UR 112 / AC\
+    \ URICO 10,6 / FE 57 / FERRIT 108,6 / SAT\n24% | NA 135 |K4,1 |CL94 | MG 2,04\
+    \ |[P4,8| FA 252 | PTH 82,5 | TRIG 172 |GLI 122 | HBAÍC 6,8 |\nMICROALB 10,9 |\
+    \ GASO VEN BIC 29,2 | HB11,3 | HTC 35,5 | LEUCO 5660 | LEUCO 5660 | PLAQ 176000\
+    \ | EAS PH5, ALB <\n30, GLI 150, FIL MUCO ++, CILINDRO HIALINO+\n\n## EX LAB [08/06/24]\
+    \  \nCAI 5,1 CREAT 202 P3,1 MG2,69 K45 NA 140 U134 HCO3 29,8 HB 11,5 HT 36,5 7600\n\
+    LEUC 155000 PLAQ\n\n## EX LAB [09/12/24]\nCR 1,6: CL 100; AU 8,4; FER 98; P4,2:CA\
+    \ 10; FA 179; HBG 6,8: GLIC 73; PTH 54;/ BIC 28; HB 11,4;\n"
+  exames_complementares: '## ECOTT [18/06/2021]
+
+    FE 52%. Intermediária probabilidade de hipertensão pulmonar (PSAP 36 mmHg). Insuficiência
+    valvar tricúspide discreta. Dilatação discreta do AE.
+
+
+    ## TC ABDOME/PELVE [09/07/2021]
+
+    Rins tópicos, com forma, contornos e dimensões normais. Não há evidência de dilatação
+    dos sistemas pielocalicinais ou cálculos.
+
+
+    ## USG ABDOME TOTAL [25/08/2021]
+
+    Prolongamento caudal do lobo hepático direito, sugerindo lobo de Riedel (variante
+    anatômica). Discreta quantidade de conteúdo ecogênico sem sem sombra acústica
+    posterior, móvel à mudança de deglutito, no interior da vesícula biliar, sugerindo
+    lama biliar, que pode estar associada a microcálculos de permeio. Rins em topografia,
+    morfologia, dimensões, contornos e ecotextura normais. Sistema peilocalicial compacto.
+    Não visibilizadas imagens compatíveis com cálculos no sistema pielocalicial.
+
+
+    ## ECOTT [29/12/22]
+
+    FEVE 55%”; Disf diastolica grau I. Moderada probabilidade de HAP - PSAP 40mmHg
+
+
+    ## USG DOS RINS E VIAS URINÁRIAS [03/04/2028]
+
+    Rim direito: 9,4x4,3x4,1 (vol: 86,1cm³)
+
+    Rim esquerdo: 10,4x4,7x4,1 (vol: 103cm³). Impressão: Leve redução do volume renal
+    a direita.
+
+    '
+  exame_fisico: '- Peso: 79,20 kg > 80,65 kg > 79,80 kg (01/2024)
+
+    - Geral: Bom estado geral, hipocorado (+/4+), hidratado, anictérico, acianótico.
+
+    - Neuro: Vigil, lúcido e orientado, sem déficits focais aparentes
+
+    - ACV: RCR, 2T, BNF, s/ sopros. FC: 78 bpm. PA 90/68 mmHg, TEC < 3 segundos
+
+    - AR: MV fisiológico bilateral, s/ RA. Eupneico. SAT 97%
+
+    - MMII: Edema 1+/4 bilateralmente em terço distal de pernas, s/ empastamento de
+    panturrilhas
+
+    '
+  conduta: '- Paciente com função renal estável, DRC 3A sem complicações significativas.
+
+    - Anemia discreta com fer < 100 > inicio reposição sulfato ferroso 40mg 12/12
+
+    - Mantenho restrição hídrica 800 ml/dia
+
+    - Mantenho medicações
+
+    - Solicito exames labs para próxima consulta
+
+    - Retorno no amb de nefrologia geral.
+
+    '
+  impressão: 'Paciente portador de DRC de etiologia diabética cardiorrenal, aguardando consulta com nutricionista, sem alterações osteometabólicas. Função renal estável.'
+  outras_informacoes:

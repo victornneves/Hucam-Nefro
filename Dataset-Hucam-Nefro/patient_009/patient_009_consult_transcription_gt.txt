@@ -1,0 +1,44 @@
+MÉDICA: Como é que o senhor está? 
+PACIENTE: Estou ai, quase parado.
+MÉDICA: Como é que está a glicose?
+PACIENTE: Tá mais ou menos
+MÉDICA: Não está mais caindo tanto não, né? Não está mais caindo como estava não, né? Não? Não? Não teve mais nenhuma queda? O senhor tinha tido uma, né? Continuou perdendo peso?
+PACIENTE: Acho que tá no mesmo.
+MÉDICA:  Parou de perder peso?
+ACOMPANHANTE: Acho que você engordou. No dia que ele fez o teste, ele engordou, né? Inxou né.
+MÉDICA: Não está enjoado? Não tá nada disso, né? Tá E a dieta?
+PACIENTE: Mais ou menos.
+MÉDICA: Mais ou menos, né? Está comendo menos, não?
+PACIENTE: Normal.
+MÉDICA: Normal, né? Está sentindo bem?
+PACIENTE: Estou.
+MÉDICA: Voltou, o  losartana?
+PACIENTE: Voltei.
+MÉDICA: Ótimo. Já. Deixa eu ver a pressão como é tá. Tá ótima. 12 por 6. Dá o outro braço. Essa cicatriz foi o quê?
+PACIENTE: Ponte de safena.
+MÉDICA: Ah.
+PACIENTE: A veia que tirou, pra fazer a ponte.
+MÉDICA: Sua perna tá inchada sim.
+PACIENTE: Um pouquinho.
+MÉDICA:  Mas assim, não é um inchaço importante, não. Porque quando tira a safena, a perna tende a inchar mais um pouquinho, entendeu? Só um pontinho aqui. Graças a Deus sua creatinina não...assim... Vamos manter então o losartana, tá bom? Deu tudo certo, graças a Deus. Eu tinha te encaminhado pra o otorrino.
+PACIENTE: É, eu botei o papel pra apanhar no postinho, e não consegui aqui não. Tem que voltar lá no postinho.
+MÉDICA: Volta lá então.
+PACIENTE: Disse que ia botar no postinho.
+MÉDICA: O senhor tá com o encaminhamento né?
+PACIENTE: Tô.
+MÉDICA: A dieta é parte importantíssima do seu tratamento, seu Joaquim. Se o seu corpo não quiser perder o seu rim, é muito importante que o senhor leve a sério a questão da dieta. O senhor foi na nutricionista, por agora?
+PACIENTE: Vou lá dia 7 agora.
+MÉDICA: Vai dia 7?
+PACIENTE: É.
+MÉDICA: Ótimo. Mas assim ó. Tá tudo bem graças a deus. Tá tomando losartana, continuar tomando só um de manhã, tá? Dia 7 então o senhor vem na nutricionista, importante vir. E levar a śerio. Não adianta vir e não fazer. Tá bom? Claro que de vez em quando o senhor dá uma fugida eventual, de vez em quando entendeu? De vez em quando não tem problema. Mas... Está precisando de receita dos remédios?
+PACIENTE: Ah?
+MÉDICA: O senhor stá precisando de receita dos remédios? Eu te dei em dezembro né?
+PACIENTE: Deu.
+MÉDICA: Tá novinha ainda, tá certinho?
+PACIENTE: Tá.
+MÉDICA: Então tá. A gente vai manter os mesmo remédios, tá? Tá tomando a dapa, losartana, aas. Não precisa de receita mesmo? Se quiser eu faço pro senhor.   
+PACIENTE: Ah, se quiser fazer. Eu tenho em casa.
+MÉDICA: Tem em casa? Então não precisa não, tá ótimo. Pode guardar, fiquei feliz com os resultados. Vou deixar o senhor voltar em abril, está bom?
+PACIENTE: Uhum.
+MÉDICA: Nesse meio tempo, por favor, juízo. Está bom?
+PACIENTE: Está bom.
