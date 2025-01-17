@@ -90,13 +90,13 @@ ACOMPANHANTE: Você já tomou, já.
 MÉDICA: O sulfato ferroso comprimido não tá tomando mais não, né?
 PACIENTE: Não, ele tirou, eu tomei na veia [ininteligível].
 ACOMPANHANTE: Médico falou que... que o comprimido não tava resolvendo não
-MEDICA: É, o comprimido demora né?
+MÉDICA: É, o comprimido demora né?
 MÉDICA: E esses aí são os exames?  Vamos ver como é que estão os exames, que eu vou comparar os exames da senhora, que a senhora, da semana, da outra vez que a senhora veio e os exames de agora, tá?
 PACIENTE: Tá
 MÉDICA: Esse aqui foi um Doppler, né, que a senhora fez dos braços, né?
 PACIENTE: Isso.
 ACOMPANHANTE: Sim.
-MEDICA: Esse exame aqui, ó, quando a senhora for pro vascular pra poder avaliar, se a senhora, depois que escolheu o método de dialise e tudo mais, se a senhora escolher em hemodiálise, a parte mais importante do exame é esse desenho aqui, ó. A gente chama isso aqui de mapeamento. Então, caso a senhora precise, o senhor da ajuda lembrar também, precisar acompanhar pra ir lá no vascular, tem que levar o exame. Porque essa parte aqui, digitada, fica no computador. Agora, essa daqui, ó, esse desenho aqui, não fica no computador. E essa é a parte que é a mais importante, tá? Então, tem que sempre lembrar. Deixar uma pastinha igual tá aí, ó, com todos os exames pra poder lembrar. Tá? Que ele vai falar, ah, cadê o Doppler? Cadê o ultrassom do braço? Tá bom? E aí, são os exames de sange, né? Vou ver aqui. Aí eu vou anotar, depois eu vou medir a pressão da senhora, tá bom?
+MÉDICA: Esse exame aqui, ó, quando a senhora for pro vascular pra poder avaliar, se a senhora, depois que escolheu o método de dialise e tudo mais, se a senhora escolher em hemodiálise, a parte mais importante do exame é esse desenho aqui, ó. A gente chama isso aqui de mapeamento. Então, caso a senhora precise, o senhor da ajuda lembrar também, precisar acompanhar pra ir lá no vascular, tem que levar o exame. Porque essa parte aqui, digitada, fica no computador. Agora, essa daqui, ó, esse desenho aqui, não fica no computador. E essa é a parte que é a mais importante, tá? Então, tem que sempre lembrar. Deixar uma pastinha igual tá aí, ó, com todos os exames pra poder lembrar. Tá? Que ele vai falar, ah, cadê o Doppler? Cadê o ultrassom do braço? Tá bom? E aí, são os exames de sange, né? Vou ver aqui. Aí eu vou anotar, depois eu vou medir a pressão da senhora, tá bom?
 PACIENTE: Tá bom.
 ACOMPANHANTE: Tinha um de abdômen também. Só que eles não liberaram ainda.
 MÉDICA: O ultrassom da barriga, né? É. Porque quando a gente tá em avaliação de preparo de método, os exames que costuma fazer primeiro são esses doppler do braço, pra ver se às vezes o braço aguenta, né? E o outro é da barriga. Pra saber se tem cálculo na barriga, se tem alguma outra coisa que poderia impedir a senhora de fazer diálise peritoneal, caso a senhora opte por fazer diálise peritoneal e se precisar também, tá? A vitamina D você falou que está tomando, né?
@@ -118,7 +118,7 @@ ACOMPANHANTE: [ininteligível] 48 [ininteligível]
 PACIENTE: [ininteligível]
 MÉDICA: 76 tá marcado aqui.
 PACIENTE: 76.
-MEDICA: É, tá marcado aqui 76.
+MÉDICA: É, tá marcado aqui 76.
 PACIENTE: 76.
 PACIENTE: [ininteligível] tem hora que eu esqueço [ininteligível]
 MÉDICA: A senhora quer ficar mais nova né.
@@ -186,96 +186,96 @@ PACIENTE: Tá bom
 MÉDICA: Tá bom? Até daqui um cadinho.
 PACIENTE: Tá.
 PACIENTE: Ei meu filho.
-MÉDICO_2: Tudo bem? Vamos lá.
+MÉDICO_SUPERVISOR: Tudo bem? Vamos lá.
 MÉDICA: Essa daqui é a D. Maria Jovrelina, é uma paciente de 76 anos. Ela veio encaminhada para cá desde que ela começou a fazer acompanhamento com a oftalmologia por uma retinopatia diabética. Ela já é diabética de longa data, né? E aí nessas consultas com a oftalmo que viram que ela tinha uma alteração da função renal e aí desde então ela está acompanhando aqui no PREVENIR. Hoje ela vem acompanhada do filho, o Edson e o netinho. Tá? A última consulta dela foi em setembro desse ano e não teve nenhuma intercorrência desde a última consulta. Ela é de outras comorbidades, além da diabetes. Ela tem aí um quadro de uma glaucoma e hipertensão. Atualmente faz uso de acetazolamida 250 de 6 em 6, insulina glargina 10 unidades à noite, losartana 50mg de 12 em 12 horas que foi otimizado para de 12 em 12 horas na última consulta em setembro. A Atorvastatina de 20 a noite e o resto são só os colírios da oftalmologia. Tinha uma anotação aqui das consultas prévias que tinha sido orientado para ela o uso da Dapagliflozina, só que parece que não tinha começado a usar e aí você optou por aumentar a losartana e deixava a Dapagliflozina para reavaliação. Ah tá, esqueci de colocar o bicarbonato. Não. Na última consulta, na última consulta também foi prescrito bicarbonato, então ela está com um BIC de 16 e pouco e aí ela está tomando uma colher de chá todos os dias. Ela retornou hoje com os exames, né, está com um HB de 10.5, hematóxidos de 36, plaqueta de 202 mil, EAS com uma glicosúria mas sem proteinúria e sem hematúria, vitamina D de 15. Ela azia o uso previamente de 50 mil unidades mensais, mas parou tem uns dois meses. E dessa anemia aqui também, na última consulta foi prescrito dose de ataque de nNoripurum, ela falou que fez o uso, ela não se recorda muito bem, mas acho que foi entre 5 e 6 ampoulas venosos. Aí o BIC dela dessa vez, tá? O BIC de 18.3, com PH de 7.22, Hb glicada dela 7.1, glicemia de jejum 74.
-MÉDICO_2: Tá usando o que de remédios? Nezina?
+MÉDICO_SUPERVISOR: Tá usando o que de remédios? Nezina?
 MÉDICA: Glargina. A nezina foi suspensa pela endócrina.
-MÉDICO_2: Tá. Mas tá escrito lá nos remédios.
+MÉDICO_SUPERVISOR: Tá. Mas tá escrito lá nos remédios.
 MÉDICA: Tá, eu acho que eu coloquei suspensa aqui.
-MÉDICO_2: E a glargina quantas unidades?
+MÉDICO_SUPERVISOR: E a glargina quantas unidades?
 MÉDICA: Glargina 10, na noite.
-MÉDICO_2: Perfeito
+MÉDICO_SUPERVISOR: Perfeito
 MÉDICA: È... deixa eu ver aqui
-MÉDICO_2: Glicada de 7.1.
+MÉDICO_SUPERVISOR: Glicada de 7.1.
 MÉDICA: É, glicada de 7.1 da cinética do ferro. Ferro sérico 81, ferritina 491, saturação 45. Uréia 108, creato de 2 e 18. O creato dela tá ficando sempre entre 2 e...
-MÉDICO_2: 3 mil.
+MÉDICO_SUPERVISOR: 3 mil.
 MÉDICA: É. O máximo acho que foi 2.7 aqui.
-MÉDICO_2: E ai, Mayara?
+MÉDICO_SUPERVISOR: E ai, Mayara?
 MÉDICA: Então, acho que de complicações aqui. Ah, no exame físico...
-MÉDICO_2: Pressão?
+MÉDICO_SUPERVISOR: Pressão?
 MÉDICA: Exame físico dela. Tá com a pressão de 150 por 60. Ela falou que afere é a pressão em casa com o aparelho daquele de punho, mas ela fala que as pessoas dizem que tá normal, ela não sabe os valores, né? Aí eu não sei se ela tá persistindo com hipertensão ou se ela tá com hipertensão de aberto-método.
-MÉDICO_2: Pelo amor de Deus, hein? Você poderia ver isso aí, mulher.
+MÉDICO_SUPERVISOR: Pelo amor de Deus, hein? Você poderia ver isso aí, mulher.
 MÉDICA: O quê?
-MÉDICO_2: Ela. Ver a pressão.
+MÉDICO_SUPERVISOR: Ela. Ver a pressão.
 MÉDICA: Ah, não.
-MÉDICO_2: Tem que aprender a ver pressão, uai.
+MÉDICO_SUPERVISOR: Tem que aprender a ver pressão, uai.
 MÉDICA: E ela é bem [ininteligível], assim, frequência cardíaca 54 com ritmo regular.
 PACIENTE: Uhum.
 MÉDICA: É, tem uma outra pendência dela também. Ela foi encaminhada, logo que ela chegou, pra apresentação de métodos. Ela foi numa consulta logo antes do retorno dela aqui no mês de setembro. Só que tava uma... tava meio confuso, porque parece que ela não tinha ido com familiares que passam a maior parte do tempo com ela. E aí tinha sido colocado aqui de convocar os familiares pra poder fazer essa questão de representar melhor.
-MÉDICO_2: Não vieram?
+MÉDICO_SUPERVISOR: Não vieram?
 MÉDICA: Veio o filho hoje, né? Mas aí de qualquer forma pediram um Doppler...
-MÉDICO_2: Mas eles iam discutir entre eles, na verdade.
+MÉDICO_SUPERVISOR: Mas eles iam discutir entre eles, na verdade.
 MÉDICA: Ah, entendi. Isso, né?
-MÉDICO_2: E aí, vocês tiveram alguma tendência ali sobre o que foi apresentado dos métodos de diálise?
+MÉDICO_SUPERVISOR: E aí, vocês tiveram alguma tendência ali sobre o que foi apresentado dos métodos de diálise?
 ACOMPANHANTE: Nós pedimos aquela [ininteligível] em casa.
-MÉDICO_2: A que faz em casa, né? Aham.
+MÉDICO_SUPERVISOR: A que faz em casa, né? Aham.
 MÉDICA: Ah, entendi.
-MÉDICO_2: Tá bom. Beleza. Combinado.
+MÉDICO_SUPERVISOR: Tá bom. Beleza. Combinado.
 MÉDICA: A expectorial.
 ACOMPANHANTE: [ininteligível] 
-MÉDICO_2: Ah?
+MÉDICO_SUPERVISOR: Ah?
 ACOMPANHANTE: Quando voltar, será pra... já tá a resposta. 
-MÉDICO_2: Isso, isso aí. Não, tranquilo. A gente tá longe disso, tá? Assim, graças a Deus, inclusive o exame dela de hoje veio até um pouco melhor. Mas... é bom smpre a gente ter essa decisão já tomada pra gente poder saber qual o caminho seguir. Tá bom? Você viu que o Doppler aqui, ela vai pra uma bráquio. Basílica, tudo limítrofe, né?
+MÉDICO_SUPERVISOR: Isso, isso aí. Não, tranquilo. A gente tá longe disso, tá? Assim, graças a Deus, inclusive o exame dela de hoje veio até um pouco melhor. Mas... é bom smpre a gente ter essa decisão já tomada pra gente poder saber qual o caminho seguir. Tá bom? Você viu que o Doppler aqui, ela vai pra uma bráquio. Basílica, tudo limítrofe, né?
 MÉDICA: Sim.
-MÉDICO_2: Basílica, limítrofe, basílica, limítrofe, cefálica, limítrofe, cefálica, limítrofe...
+MÉDICO_SUPERVISOR: Basílica, limítrofe, basílica, limítrofe, cefálica, limítrofe, cefálica, limítrofe...
 MÉDICA: É a radial nem se fala.
-MÉDICO_2: É, a radial nem se fala. A escolha da GP é até bom por isso.
+MÉDICO_SUPERVISOR: É, a radial nem se fala. A escolha da GP é até bom por isso.
 MÉDICA: Sim.
-MÉDICO_2: Tá? Ah, e aí? Essa é sua, Mayara. Não vou nem falar nada pra fazer tá?
+MÉDICO_SUPERVISOR: Tá? Ah, e aí? Essa é sua, Mayara. Não vou nem falar nada pra fazer tá?
 MÉDICA: Olha, é... controle da doença. Acho que talvez daria pra tentar avaliar melhor se essa questão da hipertensão tá controlada ou não. É otimizou o Losartana, né? Tá em dose otimizada. Poderia fazer até um teste com Nimodipino pra ver se controla um pouco mais que ela tá bem fora da meta, né? Com a sistólica, né?
-MÉDICO_2: [ininteligível] da noite, né?
+MÉDICO_SUPERVISOR: [ininteligível] da noite, né?
 MÉDICA: Isso.
-MÉDICO_2: Beleza.
+MÉDICO_SUPERVISOR: Beleza.
 MÉDICA: É, dá diabetes. Acho que agora que tá acompanhando com a endócrino, fica um pouco melhor. A glicada dela não está ruim, né? Ela já tem complicações, mas já está acompanhando. Agora, a parte das complicações. Ela tem essa anemia, né? Que tem a Hb de 10,5. A nossa meta é entre 10 e 12, né? Ainda não preenche critério para a eritropoetina, né?
-MÉDICO_2: Perfeito, a gente não tem que fazer.
+MÉDICO_SUPERVISOR: Perfeito, a gente não tem que fazer.
 MÉDICA: Por enquanto estável, né?
-MÉDICO_2: Você manteria a dose de manutenção de sacará?
+MÉDICO_SUPERVISOR: Você manteria a dose de manutenção de sacará?
 MÉDICA: Dose de manutenção de sacará, ela fez. Acho que eu deixaria, né? Pra dar de 15 em 15.
-MÉDICO_2: Não, saturação maior que 40 por cento.
+MÉDICO_SUPERVISOR: Não, saturação maior que 40 por cento.
 MÉDICA: Ah tá. Então não faz.
-MÉDICO_2: Se é maior que 30, a gente suspende.
+MÉDICO_SUPERVISOR: Se é maior que 30, a gente suspende.
 MÉDICA: Ah, entendi.
-MÉDICO_2: Tá? Beleza, então suspende.
+MÉDICO_SUPERVISOR: Tá? Beleza, então suspende.
 MÉDICA: No dialítico também, né?
-MÉDICO_2: No dialítico também.
+MÉDICO_SUPERVISOR: No dialítico também.
 MÉDICA: Também.
-MÉDICO_2: E a ferritina [ininteligível]
+MÉDICO_SUPERVISOR: E a ferritina [ininteligível]
 MÉDICA: É [ininteligível] tá bem no limite
-MÉDICO_2: Isso, então suspende o sacará, tudo isso. Tem a ampolinha do  do Noripurum em casa ainda?
+MÉDICO_SUPERVISOR: Isso, então suspende o sacará, tudo isso. Tem a ampolinha do  do Noripurum em casa ainda?
 ACOMPANHANTE: Tem.
-MÉDICO_2: Guardar. Não vai usar agora, não, mas guarda que depois pode ser que precise, tá bom? Hum, o que mais?
+MÉDICO_SUPERVISOR: Guardar. Não vai usar agora, não, mas guarda que depois pode ser que precise, tá bom? Hum, o que mais?
 MÉDICA: Acho que reforçar um pouquinho mais com a dieta. O potássio subiu um pouquinho. Pode ter sido pela losartana, né?
-MÉDICO_2: Cadê o potássio.
+MÉDICO_SUPERVISOR: Cadê o potássio.
 MÉDICA: Está 5,7.
-MÉDICO_2: Mas olha só, tem vários fatores. Na dieta tem acidose.
+MÉDICO_SUPERVISOR: Mas olha só, tem vários fatores. Na dieta tem acidose.
 MÉDICA: Aham, tem acidose.
-MÉDICO_2: Isso, tem esse losartana. Então, assim. Ah, mas olha. Deixa você falar. Então, acidose, o que nós vamos fazer?
+MÉDICO_SUPERVISOR: Isso, tem esse losartana. Então, assim. Ah, mas olha. Deixa você falar. Então, acidose, o que nós vamos fazer?
 MÉDICA: Acho que dá pra aumentar esse BIC, então.
-MÉDICO_2: Vamos aumentar duas vezes por dia, tá?
+MÉDICO_SUPERVISOR: Vamos aumentar duas vezes por dia, tá?
 MÉDICA: Ajuda a controlar esse potássio também.
-MÉDICO_2: Show de bola. Doença mineral óssea.
+MÉDICO_SUPERVISOR: Show de bola. Doença mineral óssea.
 MÉDICA: É, não tem Hiperfosfatemia ainda, detectado, né? Cálcio está no limite.
-MÉDICO_2: Vitamina D.
+MÉDICO_SUPERVISOR: Vitamina D.
 MÉDICA: Vitamina D eu acho que vale a pena a gente retornar.
-MÉDICO_2: Show de bola. E é isso.
+MÉDICO_SUPERVISOR: Show de bola. E é isso.
 MÉDICA: É isso. 
-MÉDICO_2: echou?
+MÉDICO_SUPERVISOR: echou?
 MÉDICA: Fechou. Retorno em três?
-MÉDICO_2: Retorno em três.
+MÉDICO_SUPERVISOR: Retorno em três.
 MÉDICA: Em três. 
-MÉDICO_2: Cara, acho que pode ser por quatro.
+MÉDICO_SUPERVISOR: Cara, acho que pode ser por quatro.
 MÉDICA: Tá bem, né?
-MÉDICO_2: É.
+MÉDICO_SUPERVISOR: É.
 MÉDICA: Tá vendo? a senhora está ganhando até uma folga da gente. Tá vendo ala não gostou da gente, ela ficou muito feliz de não voltar. Tá bom? Graças a Deus os exames do senhor estão bons. Tá? Então, eu vou só resumir aqui. Ainda está com anemia, né? A hemoglobina, que é o que a gente mede no sangue, geralmente é em torno, pro doente renal crônico, tem que ficar entre 10 e 12 mesmo. A senhora está mais próximo de 10. Então, está no limite. Mas o ferro que a gente mediu aqui já está mais do que bom. Então, não vamos continuar com o ferro. Deixa guardado lá até dar uma checada na data de vencimento e tudo mais. Se quiser doar para alguém, se estiver muito perto da data de vencimento, pode fazer alguma troca, né? Mas se não estiver perto da data de vencimento, deixa lá guardadinho. Tá? Então, não vamos mexer nessa parte de ferro mais.
 PACIENTE: Tá bom.
 MÉDICA: Da parte, então, da diálise peritoneal está decidida. A gente deixou o Doppler aqui. De qualquer forma, é também uma segunda opção. Vamos aguardar agora o ultrassom da barriga para ver se tem alguma outra coisa que poderia impedir, por exemplo, de fazer diálise peritoneal. Ou se tem cálculo na vesícula, por exemplo, que é uma indicação de tirar a vesícula, né? Para quem for dialisar. Mas aparentemente, nesse momento, não está indicando necessidade de diálise não. A não ser que alguma coisa mude. Dos demais exames da senhora aqui. O bicarbonato ainda está baixo no sangue. E o potássio está um pouquinho alto. Então, a gente vai ter que aumentar um pouquinho aquela colherzinha. Isso, bicarbonato. Em vez de tomar uma vez por dia, aumentar para duas vezes por dia. Isso aí vai ajudar a subir o bicarbonato no sangue. Melhora a disposição e baixar o potássio. Tá bom? Porque o potássio pode ter risco de arritmia e tudo mais. O losartana vamos continuar do mesmo jeito. O que eu preciso que a senhora faça? Tentar medir a pressão da senhora. Durante a semana. Um dia a senhora mede de manhã, no outro dia de tarde. E vai anotando as atas e os valores da pressão.
