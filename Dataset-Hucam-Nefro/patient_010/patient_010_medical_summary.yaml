@@ -4,7 +4,10 @@ relatorio_consulta_ambulatorial_nefrologia:
   subjetivo:
     - Relata melhora da hiporexia, das náuseas e vômitos.
   hipoteses_diagnosticas: 
-    - DRC Estágio 5 → TFGe - CKD-EPI 15 ml/min/1,73 m²
+    estagio_drc: 5 → TFGe - CKD-EPI 15 ml/min/1,73 m²
+    etiologia_doença_de_base: Nefrite Lúpica - Diagnóstico em 2012
+    admissao:
+      data: 2013
   vacinação: 
     - Tomou 4 doses COVID
   seguimento_multiprofissional:
@@ -13,7 +16,6 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Psicologia:
     - Enfermagem Nefrologia: 
   historico_patologico_pregresso:
-    - Nefrite Lúpica - Diagnóstico em 2012
     - HAS
     - Lúpus
     - Fibromialgia

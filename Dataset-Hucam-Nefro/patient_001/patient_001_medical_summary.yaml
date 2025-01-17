@@ -7,11 +7,12 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Nega busca a pronto atendimento desde última consulta.
     - Permanece sedentário.
   hipoteses_diagnosticas:
-    - DRC estágio G4/AÍ -> TFGe atual 18ml/min/1.73m²
-    - Etiologia / doença de base: Doença renal do diabetes / nefroesclerose hipertensiva
-    - Admissão prevenir em: 07/03/24
-      CLCR Admissão: 18 ml/min 
-      Origem: Ambulatorio de nefro geral
+    estagio_drc: G4A1; TFGe atual 18ml/min/1.73m²
+    etiologia_doença_de_base: Doença renal do diabetes; nefroesclerose hipertensiva
+    admissao: 
+      data: 07/03/24
+      CLCR_admissao: 18 ml/min 
+      origem: Ambulatorio de nefro geral
   historico_patologico_pregresso:
     - HAS:há 40 anos - sem acompanhamento
     - DM há 30 anos - acompanha no CRE Metropolitano
@@ -21,10 +22,9 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Etilista (final de semana em grande quantidade, porém no momento muito esporádico nos últimos 10 anos 2 a3 cervejas)
     - Nega IAM
     - Nega AVC
-    - Cirurgias:
-      - Cirurgia de varizes (tirou safena direita) há 40 anos em Minas Gerais
-      - 18/06/24 Safenegtomia magna à esquerda até terço médio de perna + varicectomia bilateral. Procedimento sem intercorrências.
-      - 27/06/24 Cirurgia catarata bilateral"
+    - Cirurgia de varizes (tirou safena direita) há 40 anos em Minas Gerais
+    - Cirurgia (18/06/24) Safenegtomia magna à esquerda até terço médio de perna + varicectomia bilateral. Procedimento sem intercorrências.
+    - Cirurgia (27/06/24) Cirurgia catarata bilateral"
   medicamentos_em_uso:
     - Losartana 50 mg de 12/12 hs
     - Hidralazina 50 mg 6/6 hs

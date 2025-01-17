@@ -5,7 +5,7 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Está em acompanhamento com a psicóloga Paula, que identificou sintomas depressivos importantes. Relata insônia.
     - Cardiologista do Centro de Especialidades (Dr. Anderson Patrick) solicitou laudo autorizando CATE, mas conversamos e ele disse que não há máxima urgência na realização de CATE, e optamos por esperar um pouco.
   hipoteses_diagnosticas:
-    - DRC Estágio 4.
+    estagio_drc: 4
   historico_patologico_pregresso: 
     - Nefrolitíase bilateral desde 1986.
     - Nefrolitotomia percutânea à esquerda em 2011.
@@ -76,4 +76,10 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Já encaminhada ao psiquiatra pela psicóloga (aguarda).
     - Deixo sem medicações psicotrópicas: paciente resistente ao uso, e hoje pareceu menos ansiosa após conversar sobre seus medos em relação à TRS.
     - Retorno em 3 meses.
-  impressão: ''
+  impressão: 
+    - DRC 4 - CKD-EPI 19 mL/min/1,73 m² (estava 20 > 17 > 19).
+    - Fez 3 doses de vacinação Hepatite B - Anti-HBS reativo.
+    - Cardiologista do Centro de Especialidades (Dr. Anderson Patrick) solicitou laudo autorizando CATE, mas conversamos e ele disse que não há máxima urgência na realização de CATE, e optamos por esperar um pouco.
+    - Anti-HBS reativo.
+    - Melhora do P.
+    - Já fez risco cirúrgico (liberado).

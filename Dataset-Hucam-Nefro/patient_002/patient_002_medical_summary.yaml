@@ -6,11 +6,12 @@ relatorio_consulta_ambulatorial_nefrologia:
       há 15 dias.
     - Fez colecistectomia em junho/24.
   hipoteses_diagnosticas:
-    - DRC - CLCR atual (CKD-EPI) = 32 ml/min/1,73³ (G3bA1)
-    - Etiologia / doença de base: Indeterminada (cardiorrenal? nefropatia diabetica?).
-    - Admissão prevenir em 09/2021
-    - CLCR admissão = 28 ml/min
-    - Sorologias virais: Anti-HCV NR, Anti-HIV NR, HBsAg NR, Anti-HBg IgM NR (19/06/2023)
+    estagio_drc: G3bA1; CLCR atual (CKD-EPI) = 32 ml/min/1,73³
+    etiologia_doença_de_base: Indeterminada (cardiorrenal? nefropatia diabetica?).
+    admissao:
+      data: 09/2021
+      CLCR_admissao: 28 ml/min
+    sorologias_virais: Anti-HCV NR, Anti-HIV NR, HBsAg NR, Anti-HBg IgM NR (19/06/2023)
   historico_patologico_pregresso: 
     - HAS
     - DM

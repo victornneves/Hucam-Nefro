@@ -1,9 +1,10 @@
 relatorio_consulta_ambulatorial_nefrologia:
     identificacao_paciente: Feminina, 50 anos, sem outras informações de localidade.
     subjetivo: ""
-    hipoteses_diagnosticas: DRC Estágio IV.
+    hipoteses_diagnosticas:
+        estagio_drc: 4
+        etiologia_doença_de_base:  Nefrite Lúpica (NL IV - biópsia renal agosto de 2015).
     historico_patologico_pregresso:
-        - Etiologia/Doença de Base: Nefrite Lúpica (NL IV - biópsia renal agosto de 2015).
         - Comorbidades: HAS, LES, depressão e fibromialgia.
         - Cirurgia oftalmológica em 17/05/24.
         - HDA/Perfil Social:
@@ -38,51 +39,22 @@ relatorio_consulta_ambulatorial_nefrologia:
         - Método escolhido: HD.
         - Sorologias: Vacinação Hepatite B.
     exames_laboratoriais:
-        - 27/03/23: UR 79, TGP 17, NA 140, SAT TRANSF 26, REL P/C 0,98, PROT URI 120,9,
-            PROT TOTAL URINÁRIA 24H 46,4, PROT TOTAL 6,1, ALB 4,2, K 3,9, PARATORMÔNIO 145,
-            MG 2,1, GJ 79, P 4, FA 156, FE 154, FERRITINA 97,3, VIT D 30,2, CREAT URI 123,4,
-            CREAT 2,21, CL 100, CL TOTAL 8,8, HB 10,7, HT 33,5, LEUCO 5560, PLAQ 208K, ANTI-HBS
-            27,8, ANTI-HCV NR, HBS AG NR, ANTI HBC NR, EAS.
-        - 24/04/23: ANTI DNA NR, C3 96, C4 25,4, CÁLCIO 4,7, CLORO 100, HDL 62, LDL 104,2,
-            CT 192, CR 1,72, FA 182, GGT 15, GLICOSE 79, PTH 154, HB 10,3, HT 31,8, LEUCO 4990,
-            SEG 2824, LINF 1417, PLAQ 202000, PCR 1,8, TGO 21, TGP 20, U 61, VHS 14, VIT B12
-            461, VIT D 28,3, K 4,3, NA 137, P 4,2.
+        - 27/03/23: UR 79, TGP 17, NA 140, SAT TRANSF 26, REL P/C 0,98, PROT URI 120,9, PROT TOTAL URINÁRIA 24H 46,4, PROT TOTAL 6,1, ALB 4,2, K 3,9, PARATORMÔNIO 145, MG 2,1, GJ 79, P 4, FA 156, FE 154, FERRITINA 97,3, VIT D 30,2, CREAT URI 123,4, CREAT 2,21, CL 100, CL TOTAL 8,8, HB 10,7, HT 33,5, LEUCO 5560, PLAQ 208K, ANTI-HBS 27,8, ANTI-HCV NR, HBS AG NR, ANTI HBC NR, EAS.
+        - 24/04/23: ANTI DNA NR, C3 96, C4 25,4, CÁLCIO 4,7, CLORO 100, HDL 62, LDL 104,2, CT 192, CR 1,72, FA 182, GGT 15, GLICOSE 79, PTH 154, HB 10,3, HT 31,8, LEUCO 4990, SEG 2824, LINF 1417, PLAQ 202000, PCR 1,8, TGO 21, TGP 20, U 61, VHS 14, VIT B12 461, VIT D 28,3, K 4,3, NA 137, P 4,2.
         - 16/05/23: CREAT 2,01, U 75.
         - 15/06/23: HCO3 28.
-        - 12/09/23: VIT D 26,3, ALB 500, HB 10,6, HT 32,2, LEUCO 228000, PLAQ, ÁCIDO ÚRICO
-            5,4, CA 9,5, COL TOTAL 135,8, LDL 135,8, HDL 77, TGL 71, CREAT 2,17, FERRITINA
-            88,4, FA 188, P 4,2, GGT 13, GLI 92, HBA1C 5,5%, PTH 225, K 4,0, IST 31%, NA 136,
-            TGO 20, TGP 71, U 75, RELAÇÃO PROT/CREA 1,85.
+        - 12/09/23: VIT D 26,3, ALB 500, HB 10,6, HT 32,2, LEUCO 228000, PLAQ, ÁCIDO ÚRICO 5,4, CA 9,5, COL TOTAL 135,8, LDL 135,8, HDL 77, TGL 71, CREAT 2,17, FERRITINA 88,4, FA 188, P 4,2, GGT 13, GLI 92, HBA1C 5,5%, PTH 225, K 4,0, IST 31%, NA 136, TGO 20, TGP 71, U 75, RELAÇÃO PROT/CREA 1,85.
         - 04/12/23: PTNÚRIA 1086 MG/24H (2880 ML).
-        - 07/12/23: CÁLCIO TOTAL 9,3, CR 2,52, UREIA 67, SAT TRANSF 34%, FA 201, FERRITINA
-            108, GLICOSE 89, ÁCIDO ÚRICO 5,9, TSH 1,81, PTH 201, HB GLICADA 5,4%, FERRO 79,
-            TRIG 94, COL TOTAL 201, HDL 68, LDL 114, TGP 16, TGO 17, C3 99, C4 32, PCR 3,1,
-            UREIA 66, VHS 22, HB 9,69, VCM 88, HCM 27, PLAQ 4160, LINF 1023, PLAQ 208000, VIT
-            D 33, VIT B12 469, EAS ALBUMINA 30, LEUCO 4, HEM 2, FR NR, ANTI RO NR, ELETROF DE
-            PTN NORMAL, ANTI DNA NR.
+        - 07/12/23: CÁLCIO TOTAL 9,3, CR 2,52, UREIA 67, SAT TRANSF 34%, FA 201, FERRITINA 108, GLICOSE 89, ÁCIDO ÚRICO 5,9, TSH 1,81, PTH 201, HB GLICADA 5,4%, FERRO 79, TRIG 94, COL TOTAL 201, HDL 68, LDL 114, TGP 16, TGO 17, C3 99, C4 32, PCR 3,1, UREIA 66, VHS 22, HB 9,69, VCM 88, HCM 27, PLAQ 4160, LINF 1023, PLAQ 208000, VIT D 33, VIT B12 469, EAS ALBUMINA 30, LEUCO 4, HEM 2, FR NR, ANTI RO NR, ELETROF DE PTN NORMAL, ANTI DNA NR.
         - 21/12/23: HCO3 28,9.
-        - 15/02/24: ÁCIDO ÚRICO 5,3, CA TOTAL 9,4, COL TOTAL 174, LDL 88,2, HDL 53, CREAT
-            2,45, FERRITINA 92,5, FA 220, P 4,4, GLI 86, HBA1C 5,5, MG 2,43, PTH 238, K 4,5,
-            PCR 1,2, NA 130, TGO 19, TGP 18, U 76, VHS 8, HB 11, HT 34,6, LEUCO 262000, PLAQ,
-            INR 1,0, VIT D 35,9, IST 40%, EAS ALB 100, LEUCO 500, CILINDROS HIALINOS +, GRANULOSOS
-            FINOS +, GRANULOSOS GROSSOS +, RELAÇÃO PROT/CREA 1,114.
-        - 17/04/24: CA 8,0, CREAT 2,59, U 125, IST 33%, FERRITINA 99,3, MG 2,35, FA 195, P
-            4,9, GLI 82, K 4,5.
-        - 14/05/24: CAT 9,1, CREAT 2,64, U 81, IST 36%, NA 140, K 4,5, FERRITINA 77,5, P 4,6,
-            HCO3 21,7, VIT D 26,6, GLI 79, HB 10,1, HT 32,2, HDL 55, LDL 126,4, HBA1C 5,4,
-            TGO 15, TGP 20, C3 92, C4 26,8, FA 196, GGT 14, LEUC 4610, PLAQ 240000, VIT B12 532,
-            VIT D 27,2, TSH 0,85, T4L 0,88, ANTI DNA NR.
+        - 15/02/24: ÁCIDO ÚRICO 5,3, CA TOTAL 9,4, COL TOTAL 174, LDL 88,2, HDL 53, CREAT 2,45, FERRITINA 92,5, FA 220, P 4,4, GLI 86, HBA1C 5,5, MG 2,43, PTH 238, K 4,5, PCR 1,2, NA 130, TGO 19, TGP 18, U 76, VHS 8, HB 11, HT 34,6, LEUCO 262000, PLAQ, INR 1,0, VIT D 35,9, IST 40%, EAS ALB 100, LEUCO 500, CILINDROS HIALINOS +, GRANULOSOS FINOS +, GRANULOSOS GROSSOS +, RELAÇÃO PROT/CREA 1,114.
+        - 17/04/24: CA 8,0, CREAT 2,59, U 125, IST 33%, FERRITINA 99,3, MG 2,35, FA 195, P 4,9, GLI 82, K 4,5.
+        - 14/05/24: CAT 9,1, CREAT 2,64, U 81, IST 36%, NA 140, K 4,5, FERRITINA 77,5, P 4,6, HCO3 21,7, VIT D 26,6, GLI 79, HB 10,1, HT 32,2, HDL 55, LDL 126,4, HBA1C 5,4, TGO 15, TGP 20, C3 92, C4 26,8, FA 196, GGT 14, LEUC 4610, PLAQ 240000, VIT B12 532, VIT D 27,2, TSH 0,85, T4L 0,88, ANTI DNA NR.
         - 24/07/24: HB 11,5, HT 35,4, LEUC 6100, PLAQ 304000, U 86, CREAT 3,16.
-        - 12/08/24: CA 9,2, PTNS TOTAIS 6,5, ALB 4,1, CREAT 3,07, U 79, IST 32%, MG 2,15,
-            NA 136, K 4,5, FA 196, P 5,2, GLI 81, ÁCIDO ÚRICO 5,4, HBA1C 5%, HCO3 19,2,
-            VIT D 44,3, PTH 269, C4 27,4, C3 103, PCR 3,1, TGO 14, TGP 16, HB 11,7, HT 37,2,
-            LEUC 4660, PLAQ 268000.
+        - 12/08/24: CA 9,2, PTNS TOTAIS 6,5, ALB 4,1, CREAT 3,07, U 79, IST 32%, MG 2,15, NA 136, K 4,5, FA 196, P 5,2, GLI 81, ÁCIDO ÚRICO 5,4, HBA1C 5%, HCO3 19,2, VIT D 44,3, PTH 269, C4 27,4, C3 103, PCR 3,1, TGO 14, TGP 16, HB 11,7, HT 37,2, LEUC 4660, PLAQ 268000.
         - 23/09/24: CREAT 3,45, K 4,7, HB 11,2.
         - 15/10/24: HB 11,4, HT 34,8, LEUC 4100, PLAQ 231000, CREAT 3,23, K 4,4.
-        - 12/12/24: COL TOTAL 190, HDL 49, LDL 110,2, TGL 154, CA 10, PTNS TOTAIS 6,3, ALB
-            4,0, CREAT 3,74, U 102, IST 25%, MG 2,36, NA 140, K 4,0, FA 164, FERRITINA 66,9,
-            P 5,1, GLI 79, ÁCIDO ÚRICO 5,5, HBA1C 5,4%. EAS= CILINDROS HIALINOS, GRANULOSOS FINOS +, LEUCOCITÁRIOS +, GRANULOSOS GROSSOS
-            +, MICROALBUMINÚRIA 680,6 MG/L.
+        - 12/12/24: COL TOTAL 190, HDL 49, LDL 110,2, TGL 154, CA 10, PTNS TOTAIS 6,3, ALB 4,0, CREAT 3,74, U 102, IST 25%, MG 2,36, NA 140, K 4,0, FA 164, FERRITINA 66,9, P 5,1, GLI 79, ÁCIDO ÚRICO 5,5, HBA1C 5,4%. EAS= CILINDROS HIALINOS, GRANULOSOS FINOS +, LEUCOCITÁRIOS +, GRANULOSOS GROSSOS +, MICROALBUMINÚRIA 680,6 MG/L.
     exames_complementares:
         - EDA 24/11/21: Diminuto pólipo séssil em corpo gástrico - correlacionar com histopatológico (ainda não liberado); gastrite erosiva plana leve de antro.
         - EDA 10/01/24: Esofagite erosiva grau B. Gastrite erosiva elevada moderada de anto. Biópsia= alterações inflamatórias discretas e inespecíficas. Pesquisa de bactérias espiraladas negativa.

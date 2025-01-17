@@ -6,7 +6,8 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Queixa-se de dor nas panturrilhas quando anda, precisando parar para aliviar a dor.
     - Também apresenta câimbras.
     - Sintomas depressivos (choro fácil, apatia).
-  hipoteses_diagnosticas: DRC Estágio 4 A3.
+  hipoteses_diagnosticas:
+    estagio_drc: 4 A3.
   historico_patologico_pregresso:
     - Etiologia/Doença de Base: Doença renal do diabetes.
     - Admissão Prevenir em: 25/07/24.
@@ -39,14 +40,9 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Sorologias (08/10/24): Anti HCV NR, Anti HIV NR, Anti HBC Total Reativo, Anti HBS 37,2, HBSAG NR.
     - Tx preemptivo (CICr < 10ml/min): Não se aplica.
   exames_laboratoriais:
-    - 19/12/2023: T4 livre 0,63, TSH 7,66, Lipase 84, Microalbuminúria 614, Vitamina D 19, Anti TPO 196,
-        Vitamina B12 975, Cálcio 9,3, Anti-HBs Reativo, HbA1c 9,9%, Ureia 52,1, Creat 2,82, Amilase 110,
-        Ácido úrico 8,1, VDRL não reativo, HB 12,0, HCT 35,00, Leuco 8410, Plaq 156 mil, Colesterol 190,7,
-        Triglicerídeos 383, EAS Albumina 500, Na 139, K 4,6, HCV e HIV não reativos, PSA 1,04.
-    - Maio/2024: Creat 2,86, Ureia 63,9, K 4,6.
-    - 08/10/24: Ácido úrico 6,9, Cálcio 9,5, Colesterol total 236, HDL 38, LDL ?, TGL 596, Creat 3,3,
-        Ureia 62, TGL 99, Ferritina 31,9, FA 133, P 5,3, Glucose 167, HbA1c 6%, PTH 48, Na 136, K 4,6,
-        Rel. Prot/Creat 2,381, EAS= Proteinúria, Cilindros hialinos, Granulosos finos +, Granulosos grossos +, Leucocitário +.
+    - 19/12/2023: T4 livre 0,63, TSH 7,66, Lipase 84, Microalbuminúria 614, Vitamina D 19, Anti TPO 196, Vitamina B12 975, Cálcio 9,3, Anti-HBs Reativo, HbA1c 9,9%, Ureia 52,1, Creat 2,82, Amilase 110, Ácido úrico 8,1, VDRL não reativo, HB 12,0, HCT 35,00, Leuco 8410, Plaq 156 mil, Colesterol 190,7, Triglicerídeos 383, EAS Albumina 500, Na 139, K 4,6, HCV e HIV não reativos, PSA 1,04.
+    - 05/2024: Creat 2,86, Ureia 63,9, K 4,6.
+    - 08/10/24: Ácido úrico 6,9, Cálcio 9,5, Colesterol total 236, HDL 38, LDL ?, TGL 596, Creat 3,3, Ureia 62, TGL 99, Ferritina 31,9, FA 133, P 5,3, Glucose 167, HbA1c 6%, PTH 48, Na 136, K 4,6, Rel. Prot/Creat 2,381, EAS= Proteinúria, Cilindros hialinos, Granulosos finos +, Granulosos grossos +, Leucocitário +.
   exames_complementares: []
   exame_fisico:
     - PA: 160x80 mmHg.
