@@ -116,11 +116,6 @@ PACIENTE: O senhor passou o número?
 MÉDICO: Passei nada, rapaz. Eu só...
 PACIENTE: Está de férias, hein?
 MÉDICO: Quem dera, eu vou entrar de férias ainda. Não, eu estava de férias, mas essas férias que eu tirei agora eu não passei, não. 
-SECRETÁRIA: Doutor, aquele paciente que você pediu para ver é seu mesmo.
-MÉDICO: É?
-SECRETÁRIA: É, a Olívia só atendeu nas suas férias.
-MÉDICO: Tá, beleza. É que eu vi duas consultas dela.
-SECRETÁRIA: É, é porque ela atendeu.
 MÉDICO: Tá, tá bom. É, Vamos lá, então é... Deixa eu só passar aqui, quero ver a pressão dele, por favor. Bota o braço aqui, por favor. Me conta uma coisa, o senhor está fazendo xuxi tranquilo?
 PACIENTE: Até demais.
 MÉDICO: Até demais? O cocô também está normal?
