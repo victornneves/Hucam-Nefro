@@ -1,0 +1,71 @@
+relatorio_consulta_ambulatorial_nefrologia:
+  identificacao_paciente: Masculino, 87 anos, ambulatório de nefrologia - Prevenir
+    (primeira vez).
+  subjetivo:
+  - Em outubro/24 ficou internado por 1 mês na AFPES por "anemia e potássio". Relata
+    dor importante em MID, principalmente em joelho e região tibial, quando anda.
+    Apresentou rompimento de tendão no ombro esquerdo. Fez uso de AINES na ocasião.
+    Está em uso de sacarato de hidróxido de ferro IV prescrito pela médica do posto.
+  hipoteses_diagnosticas: CKD-EPI 29 ml/min/1,73 m2 (julho/24)
+  historico_patologico_pregresso:
+  - HAS
+  - DM
+  - DRC 4
+  - Inicio de 2024: Mordido por cachorro (ponta do dedo foi arrancada) e fez uso de
+      várias medicações. Na ocasião, houve aumento da creatinina, mas já recuperou.
+  medicamentos_em_uso:
+  - Anlodipino 5 mg 1-0-1
+  - Furosemida 40 mg 2-0-0
+  - AAS 100 mg 0-1-0
+  - Gliclazida 30 mg 1-1-1
+  - Doxazosina 2 mg 0-0-1
+  - Finasterida 5 mg 0-0-1
+  - Ácido fólico 5 mg 0-1-0
+  - Sulfato ferroso 0-2-2
+  - Cilostazol 100 mg 1/2-0-1/2
+  - Omeprazol 20 mg 1-0-0
+  preparo_para_terapia_substituicao_renal: []
+  exames_laboratoriais:
+  - Creat 3,14 - Nessa época foi mordido por cachorro
+  - Creat 2,86
+  - K 5,3
+  - Creat 2,17
+  - HB 9,8
+  - HT 31,3
+  - Leucocitos 11300
+  - Plaquetas 231000
+  - HBA1C 7,8%
+  - Col Total 175
+  - HDL 84,9
+  - LDL 80
+  - TGL 50,6
+  - U 115,5
+  - Creat 2,16
+  - TGO 20,9
+  - TGP 21,4
+  - Na 144
+  - K 5,3
+  - TSH 1,28
+  - T4L 1,15
+  - Vit B12 999
+  - HBsAg NR
+  - Vit D 19,8
+  - Gli 149,5
+  - EAS Normal
+  - EPF Negativo
+  exames_complementares:
+  - RD 11,3x5,4x4,0cm
+  - RE 11,6xaaxasa Ambos com aumento da ecogenicidade parenquimatosa e múltiplos cistos
+    bilaterais aspecto simples e alguns com finos septos os maiores à direita no polo
+    inferior medindo 5 cm e à esquerda no terço superior medindo 5,4 cm
+  - Bexiga com conteúdo anecoico homogêneo. Próstata de dimensões aumentadas.
+  exame_fisico:
+  - PA 110x60 mmHg
+  - FC 72 bpm
+  - RCR2T
+  - MVUA sem RA
+  - Sem edemas
+  conduta:
+  - Suspendo sulfato ferroso até reavaliação, já que está em uso de ferro IV
+  - Solicito exames para avaliar DRC
+  outras_informacoes: []

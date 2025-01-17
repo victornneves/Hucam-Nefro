@@ -1,0 +1,48 @@
+relatorio_consulta_ambulatorial_nefrologia:
+  identificacao_paciente: Masculino, 52 anos.
+  subjetivo:
+  - Paciente vem apresentando cãibras eventuais. Estava melhor quando fazia o alongamento. Relata que no final de novembro/24 apresentou provável quadro viral com febre, mas melhorou espontaneamente em 48h.
+  hipoteses_diagnosticas: DRC estágio 3b - CKD-EPI 32 ml/min/1,73 m². Função renal estável.
+  historico_patologico_pregresso:
+  - Etiologia/Doença de Base: Nefrotoxicidade pós-QT devido à neoplasia de testículo em 1997.
+  - Aumento testicular esquerdo e varicocele importante (acompanhado na urologia - aguarda cirurgia).
+  - Comorbidades:
+    - Neoplasia de testículo (dx aos 25 anos; tto com orquiectomia direita + QT/RT).
+    - DUP (úlcera duodenal em 2004).
+    - Encurtamento do MID (sequela do tratamento radioterápico).
+  medicamentos_em_uso:
+  - Losartana 50mg 1/2-0-0 - PA caiu com doses maiores de losartan.
+  - Omeprazol 20mg 1-0-0.
+  - Observação: Uso EPO esse ano? Não.
+  exames_laboratoriais:
+  - 07/01/21: ALB 4,2, CR 2,38, UR 73, RELAÇÃO P/C 0,42, P 3,1, FERRITINA 101,6, IST 26%, FAL 356, NA 141, K 4,3, CAT 8,8, HB 13,8, LEUCO 6080, PLAQ 221000, PSA 0,96, PTH 63,5, VITD 44,1, BIC 28,0.
+  - 11/11/21: CR 2,41, GLIC 98, K 4,5, NA 140, TSH 3,4, UR 91, HB 14,0, LEUCO 4900, PLAQ 217000, BIC 27,6.
+  - 18/05/22: CAT 9,6, CR 2,41, FERRITINA 118,6, P 3,6, PTH 33,5, K 4,0, IST 26%, NA 139, UR 84, HB 14,0, LEUCO 5370, PLAQ 205000, VITD 43,4.
+  - 12/09/22: CR 2,18, UR 84, NA 146, K 4,1, CL 110, CAT 8,8, P 2,5, HB 13,6, LEUCO 6220, PLAQ 207000, BIC 26,3, FAL 241, PTH 39,9, RELAÇÃO P/C 0,516, MICROALB 24H 68MG.
+  - 12/12/22: CAT 8,7, CL 109, CR 2,37, FERRITINA 104,6, FAL 228, P 2,9, GLIC 84, HBA1C 5,8%, PTH 45,9, K 4,2, IST 14%, NA 143, UR 90, ALB 4,1, HB 13,0, LEUCO 5010, PLAQ 213000.
+  - 24/04/23: ÁCIDO ÚRICO 2,8, CA 10,3, COL TOTAL 170, HDL 106, LDL 105,4, TGL 118, CREAT 2,2, P 4,2, GLI 96, HBA1C 5,8, MG 2,7, K 4,1, NA 142, U 96, VIT D 37,8, HB 13,3, HT 39,4, LEUCO 6800 (DIFERENCIAL NORMAL), 21600 PLAQ.
+  - 10/10/23: ÁCIDO ÚRICO 2,8, CA 9,3, CREAT 2,29, FERRITINA 120,6, FA 282, P 3,4, GLI 93, HBA1C 6%, ANTI HBS NR, MG 2,69, PTH 38,6, K 3,6, IST 25%, NA 135, U 84, PTN TOTAL 6,9, ALB 4,4, GLOB 2,4, HB 13,9, HT 42,7, LEUCO 5580, PLAQ 219000, VIT D 34,2, HCO3 24,9.
+  - 05/03/24: ÁCIDO ÚRICO 3,2, PSA 0,67, CA 9,5, COL TOTAL 186, TGL 199, CREAT 2,18, FERRITINA 137,1, FA 275, P 2,8, GLI 92, HBA1C 5,7%, MG 2,63, K 3,8, NA 136, U 80, PTNS TOTAIS 6,7, ALB 4,3, HBSAG NR, ANTI HBC TOTAL NR, ANTIHIV NR, ANTI HCV NR, ANTI HBS NR.
+  - 12/08/24: HBA1C 5,6%, ÁCIDO ÚRICO 3,2, CA 8,9, COL TOTAL 195, HDL 33, LDL 113,8, TGL 241, CREAT 2,21, U 73, FERRITINA 91,2, FA 285, P 2,7, GLI 90, ANTI HBS NR, MG 2,52, PTH 49,5, K 4,1, IST 22%, NA 140, HCO3 24,7, HB 14, HT 43,4, LEUC 5020, PLAQ 204000, VIT D 42,4.
+  - 05/12/24: ÁCIDO ÚRICO 3,5, CA 8,8, CREAT 2,37, U 94, COL TOTAL 124, TGL 99, FERRITINA 154,2, FA 243, P 3,1, GLI 95, HBA1C 6%, MG 2,67, PTH 48,5, K 3,7, NA 138, IST 19%, HCO3 23, CAI 4,3, VIT D 38,3, ANTI HCV NR, ANTI HIV NR, ANTI HBC TOTAL NR, ANTI HBS NR, HBSAG NR, MICROALBUMINURIA 43,7 MG/ML.
+  exames_complementares:
+  - EDA 21/08/2018: Hérnia hiatal grau I. Gastrite endoscópica enantematosa leve. Teste da urease negativo.
+  - ECOTT 24/08/2018: FE 74%. Dentro dos parâmetros da normalidade.
+  - USG RVU 25/06/2019: Rins tópicos, com morfologia e contornos usuais, de dimensões discretamente reduzidas, apresentando aumento da ecogenicidade parenquimatosa bilateralmente. RD= 8,3 x 3,6 x 3,9 cm. RE= 8,7 x 4,1 x 5,0 cm.
+  - USG de rins e vias urinárias 07/03/23: RD 8,1 x 4,0 x 4,1 cm / RE 9,1 x 5,0 x 5,4 cm. RD com dimensões reduzidas, ecogenicidade do parênquima normal, sem cálculos ou dilatação pielocalicial. RE com dimensões preservadas, ecogenicidade do parênquima normal, sem cálculos, apresentando discreta dilatação pielocalicial. Bexiga normal.
+  exame_fisico:
+  - Geral: Bom estado geral, normocorado, hidratado, anictérico, acianótico.
+  - Neuro: Vigil, lúcido e orientado em tempo e espaço, sem déficits focais aparentes.
+  - ACV: RCR, 2T, BNF, sem sopros. FC 60 BPM. PA 110x80 mmHg.
+  - AR: MV fisiológico bilateral, sem RA. Eupneico.
+  - MMII: Sem edemas, sem sinais de empastamento de panturrilhas.
+  conduta:
+  - Oriento retornar alongamento de MMII e fazer exercícios de força.
+  - Mantenho medicações.
+  - Oriento procurar vacinação hepatite B dose dobrada (dei encaminhamento).
+  - Seguir em acompanhamento com urologista do HUCAM.
+  - Retorno em 4 meses.
+  outras_informacoes:
+  - Diagnóstico diferencial: DR estágio 3b, já fez 3 doses de vacina hepatite B - anti HBS NR.
+  - Evolução: Melhora importante da dislipidemia após início de atorvastatina.
+  - Equipe multidisciplinar: Nutrição (18/03/19), Enfermagem (04/09/19).

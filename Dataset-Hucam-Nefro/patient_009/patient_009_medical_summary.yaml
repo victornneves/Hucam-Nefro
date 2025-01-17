@@ -1,0 +1,245 @@
+relatorio_consulta_ambulatorial_nefrologia:
+  identificacao_paciente: 
+    - "Masculino, 65 anos, divorciado, natural de Resplendor-MG e reside em Vitória-ES há 51 anos. Desacompanhado."
+  subjetivo:
+    - "situacao no programa: Ativo"
+    - Paciente nega novos episódios de hipoglicemia. Parou de perder peso. Nega náuseas
+      ou hiporexia. Aderiu parcialmente à dieta.
+    - Em acompanhamento com endocrinologista HUCAM
+    - Nega queixas urinárias ou espumúria
+  historico_patologico_pregresso:
+    - CRVM outubro 2009 - duas pontes
+    - HAS - há 14 anos
+    - DM tipo 2 insulino-dependente diagnóstico aos 43 anos de idade
+    - DAOP - acompanha com vascular
+    - Chikungunya em abril/2020
+    - Nego alergias
+    - COVID 2021, sem internação
+    - Cirurgia catarata 2010 bilateral
+    - Ex tabagista (fumou por 14 anos cigarro industrial e sabiá // cessou em 1985)
+    - Retinopatia diabética não proliferativa leve em ambos os olhos (28/09/24)
+    - Zumbido intermitentes. Exposição ocupacional prévia
+  medicamentos_em_uso:
+    - Sinvastatina 6 mg 0-0-1
+    - Ezetimiba 10 mg 0-0-1
+    - Dapagliflozina 10 mg 1-0-0
+    - Anlodipino 5 mg 0-0-2
+    - Furosemida 40 mg 2-0-0
+    - Carvedilol 12,5 mg - 2-0-2
+    - AAS 100 mg - 0-1-0
+    - Insulina NPH 32 UI - 10 UI - 18 UI
+    - Insulina Regular de acordo com glicemia (180-200)
+    - Colecalciferol 50.000 UI --> Suspensa por enquanto
+  hipoteses_diagnosticas:
+  preparo_para_terapia_substituicao_renal:
+    - Apresentação de Método Dialítico: 05/11/24
+    - Método Escolhido: HD
+    - Acesso: Não se aplica
+    - Sorologias:
+    - Tx Preemptivo (CICr < 10ml/min): Não se aplica
+    - DRC Estágio 3B / A3
+    - TFGe Atual: 31 ml/min/1,73m2
+    - Etiologia / Doença de Base: DRD (Doença Renal Diabética)
+    - Admissão Revenir em 16/11/23
+    - CLCR Admissão: 36,6 ml/min/1,73m² (11/23)
+  complicacoes_drc:
+    - Anemia: Não
+    - Hiperfosfatemia: Não
+    - PTH > 300: Não
+    - Hiperuricemia: Não
+  vacinacao:
+    - COVID completo
+    - Influenza 2023 — Pendente 2024
+    - DT 3 doses
+    - HBV imunizado -> Anti HBS positivo
+    - FA 2017
+    - PNM 13 2021
+  seguimento_multiprofissional:
+    - Nutrição: 06/05/24
+    - Assistente Social: ""
+    - Psicologia: ""
+    - Enfermagem Nefrologia: 05/11/24
+  exame_fisico:
+    - Peso: 90,1kg >> 84,6
+    - Geral: BEG, LOTE, anictérico, acianótico, normocorado, hidratado e afebril
+    - ACV: RCR, 2T, BNF, sem sopros
+    - PA: 120/60 mmHg
+    - FC: 52 bpm
+    - AR: MV presente globalmente, s/ RA, eupneico em ar ambiente. ST 98% AA
+    - MIi: Edema discreto em MMII, panturrilhas livres
+  exames_laboratoriais:
+    20/06/23:
+    - Cálcio Total: 9,7
+    - Cloro: 109
+    - HDL: 32
+    - LDL: 80
+    - CT: 128
+    - CR: 2,04
+    - Ferritina: 40
+    - Ferro: 103
+    - FA: 193
+    - P: 5,4
+    - Glicose: 53
+    - HbA1c: 9
+    - Microalbuminúria: 1856,7 mg em 24h
+    - MG: 2,06
+    - PTH: 36
+    - K: 5,8
+    - SAT Transferrina: 32
+    - Na: 141
+    - TGP: 19
+    - TGLC: 80
+    - UR: 59
+    - Vit D: 15,8
+    - HB: 12,90
+    - Leuco: 8140
+    - Plaq: 212.000
+    21/11/23:
+    - CR: 2,04
+    - UR: 65
+    - NA: 136
+    - K: 5,3
+    - MG: 2,5
+    - CAT: 9,8
+    - P: 4,5
+    - PTH: 53
+    - FA: 172
+    - Vit D: 18
+    - HB: 12,6
+    - Leuco: 10250
+    - Plaq: 180000
+    - IST: 29
+    - Ferritina: 48
+    - CT: 111
+    - TGC: 112
+    - HbA1c: 8,3
+    - Ac Ur: 8,4
+    - Bic: 22
+    - Anti HBS: 35
+    - Anti HBC NR
+    - HBsAg NR
+    - Microalb: 251 mg/L
+    - EAS com Alb < 30
+    - Glicose normal
+    12/04/24:
+    - CR: 2,23
+    - UR: 90
+    - Ac Ur: 10,6
+    - Ca Tot: 9,4
+    - P: 4,5
+    - Vit D: 21,7
+    - Cl: 104
+    - MG: 2,39
+    - K: 4,6
+    - NA: 135
+    - HDL: 28
+    - LDL: 56,5
+    - Col Tot: 102
+    - TRG: 87
+    - Glic Jej: 90
+    - HbA1c: 8,2%
+    - HB: 12,2
+    - HT: 37,2
+    - Leuco: 8220
+    - Plaq: 181000
+    - Gaso v: Bic 22,4
+    - EAS: PH 5,0
+    - Dens: 1007
+    - Alb Neg
+    - Glicose normal
+    - Leuco: 5 Cels
+    - Epit: 10
+    - Fil Mucoso ++
+    03/08/24:
+    - Col Total: 118
+    - HDL: 29
+    - LDL: 71,4
+    - TGL: 88
+    - Gli: 78
+    - Ácido Úrico: 8,6
+    - HbAC: 7,1%
+    - HCO3: 23,9
+    - HB: 12,3
+    - HT: 38,6
+    - 7390
+    - Leuc: 19700
+    - Plaq: 197000
+    - TSH: 2,31
+    - Anti HBC Total NR
+    - Anti HBS: 38,1
+    - HBsAg NR
+    - Anti HCV NR
+    - Anti HIV NR
+    - Vit D: 27,6
+    - PTH: 77,9
+    - Ca: 9,9
+    - PTNS Totais: 7,3
+    - Alb: 4,4
+    - Creat: 2,4
+    - U: 96
+    - IST: 22%
+    - MG: 2,59
+    - NA: 144
+    - K: 5,7
+    - FA: 179
+    - Ferritina: 33,5
+    - P: 4,4
+    - Relação Prot/Crea: 0,152
+    - EAS: Glicosúria (em uso de Dapagliflozina)
+    25/09/24:
+    - Creat: 3,13
+    - U: 103
+    - NA: 141
+    - K: 5,2
+    12/12/24:
+    - HB: 13,8
+    - Leuco: 9350
+    - Plaq: 198000
+    - Ca Tot: 9,7
+    - Cl: 100
+    - CR: 2,29
+    - Ferritina: 28,6
+    - P: 5,1
+    - MG: 2,54
+    - K: 4,7
+    - Prot Tot: 7
+    - Alb: 4,3
+    - Glog: 2,6
+    - Sat Transf: 24%
+    - NA: 137
+    - UR: 92
+    - H2CO3: 25,4
+    - PTH: 73,6
+    - Vit D: 30,3
+    30/12/24:
+    - P: 5,0
+    - NA: 141
+    - K: 5,0
+    - U: 101
+    - CREAT: 2,37
+    - CA: 9,9
+    - HCO3: 26,7
+    - CAI: 4,4
+  exames_complementares:
+  - ECO (24/04/18): AO 26 AE 36 VE 50/30 FEVE 70% Função Sistólica Global e Segmentar Biventricular Preservada em Repouso. Movimento anômalo do septo interventricular.
+  - Doppler de Carótidas e Vertebrais (24/04/18): A. Carótida Interna Direita com estenose entre 50-60%. A. Carótida Externa Direita com estenose > 50%. A. Carótida Interna Esquerda com estenose entre 30-40%.
+  - Doppler de MMII (24/04/18): Calcificação Parietal Difusa. A Femoral Superficial com estenose < 50% Bilateral. Tronco Tíbio-Fibular Direito com estenose > 50%. A Fibular Esquerda com estenoses segmentares > 50%.
+  - Doppler MMII MID: Safenectomia Parcial à Direita. Veia Perfurante Insuficiente à Direita, Varizes Não Sistêmicas na Perna Bilateralmente.
+  - ECG (23/05/19): Sinusal. Progressão lenta de R em Parede Anterior. BDASE.
+  - Doppler de AA Renais: Artérias Renais com Avaliação Prejudicada pelo Método Direto. Sinais Indiretos sugerem não haver estenoses proximais significativas detectáveis. IR Aumentado em Artérias Parenquimatosas Bilateralmente.
+  - Doppler de MSD (21/11/24): Exame dentro do padrão da normalidade.
+  - Doppler de MSE (21/11/24): Veia Basílica com Calibres Reduzidos em Antebraço e Punho.
+  impressao:
+    - DRC estágio 4A3 (CKD-EPI 29 ml/min/1,73m²) - Função Renal Estável.
+    - Função Renal voltou ao valor basal, mesmo após reintrodução do Losartan.
+    - Relata aderência parcial à dieta.
+    - Aguardo USG Abdominal Total.
+    - Apresentação de métodos realizada: HD.
+  conduta:
+    - Encaminhar para FAV quando TFG < 20.
+    - Manter Losartan 50 mg pela manhã.
+    - Oriento marcar otorrino (dei o encaminhamento na última consulta).
+    - Conversar sobre a importância de seguir dieta - consulta com nutricionista em
+      07/01/25.
+    - Retorno em 3 meses.
+  outras_informacoes: []

@@ -1,0 +1,120 @@
+MÉDICA: Creatinina deu uma caidinha foi pra 3, louvado seja o senhor.
+PACIENTE: Foi pra 3?
+MÉDICA: É, Chegou a 3.8, 3.6, veio 3 dessa vez. deus é bom, obrigada senhor
+PACIENTE: graças a deus
+MÉDICA: Graças a deus. Claro que é uma creatinina alta, a gente sabe, mas assim, qualquer coisa que a gente ganha já é benefício.
+PACIENTE: É verdade
+MÉDICA: Entendeu? Deixa eu tentar achar aqui... Deixa eu fazer uma continha aqui, a gente ganha tempo com isso, né? Tá 17.
+PACIENTE: Tá 17?
+MÉDICA: Chegou a 11, e foi pra 17. Vamos lá. Que estranho, não veio um exame aqui.
+MÉDICA: Tá conseguindo pegar o sevelamer?
+PACIENTE: Sim, eu estou sem receita para ele, mas eu tenho um frasco em casa ainda.
+MÉDICA: Tem frasco?
+PACIENTE: Tem.
+MÉDICA: Agora que você deu uma melhoradinha, eu vou conseguir te dar um tempinho. Eu vou ir pra férias em fevereiro esse fevereiro. Então fevereiro, janeiro, não tem porque você voltar em janeiro, você já está vindo agora. E vou te dizer pra voltar em março. Está bom?
+PACIENTE: Tá, março.
+MÉDICA: Sua consulta hoje vai ser rapidinho, que é mais pra ver isso aqui. Então graças a Deus tudo certo, isso é bom.
+PACIENTE: A receita do tramadol você pode me dar? Eu fiquei com pedra outra vez.
+MÉDICA: Te dou. E a receita dos outros remédios, tá precisando?
+PACIENTE: Aham. Lá na nefro, eles esqueceram de dar quando eu fui ver o papel, porque o que eles passam é a tioprina, pra seis meses.
+MÉDICA: Entendi. Você está enjoada?
+PACIENTE: Não.
+MÉDICA: Teve uma época que você estava, né? Melhorou.
+PACIENTE: Eu tinha atinhaé a comprado a medicação, usei uns três comprimidos mais ou menos, mas não deu mais nada.
+MÉDICA: Entendi. AAS é o amlodipino. Peraí, deixa eu ver aqui. Deixa eu te falar, Valdete, é muito difícil você comprar um remédio, uns quarenta reais todo mês? Fica apertado?
+PACIENTE: Qual é a medicação?
+MÉDICA: Atorvastatina. Vai trocar pela simvastatina.
+PACIENTE: Ela eu pego no CRE, não tem como você me dar para pegar lá não?
+MÉDICA: Então, o nefrologista não pode pedir. A primeira vez tem que ser o...
+PACIENTE: Ah é?
+MÉDICA: Tem que ser o cardiologista ou endocrinologista. Você tem que consulta algum deles? Não, né?
+PACIENTE: Não.
+MÉDICA: Não, então, vamos manter a simvastatina. Vamos aumentar a sua dose. Você está tomando um só?
+PACIENTE: Sim.
+MÉDICA: Vamos passar para dois.
+PACIENTE: Colesterol tá alto?
+PACIENTE: Um pouquinho. Vamos passar para dois. Vamos ver primeiro se consegue.
+PACIENTE: Tá bom.
+MÉDICA: Entendeu? AS, amlodipinos tá dois de manhã.
+PACIENTE: Isso.
+MÉDICA: Esse EZETIMIBE você tá tomando?
+PACIENTE: Não, não tomo mais.
+MÉDICA: Tá tomando dois amlodipinos de manhã.
+PACIENTE: Isso.
+MÉDICA: Duas furosemidas de manhã. O AS na hora do almoço.
+PACIENTE: Isso.
+MÉDICA: O metropolol, um de manhã e um de noite.
+PACIENTE: É.
+MÉDICA: Omeprazol tá tomando?
+PACIENTE: De manhã. 
+MÉDICA: No jejum.
+PACIENTE: Isso.
+MÉDICA: E a simvastatina agora vai ser doi. Só que você toma, né?
+PACIENTE: É.
+MÉDICA: Simvastatina...AMITRIPTILINA você tá tomando?
+PACIENTE: Estou
+MÉDICA: Você tá precisando da receita da AMITRIPTILINA, não
+PACIENTE: Da AMITRIPTILINA não. Ele me dá na farmácia. Tramadol eu pego na farmácia cidadâ também, tá?
+MÉDICA: Você pega na farmácia cidadâ? Você precisa só da receita ou precisa do laudo?
+PACIENTE: O laudo e a receita.
+MÉDICA:  Quem te passa esse remédio é o reumato?
+PACIENTE: É. Ele me pediu o exame, me passou a AMITRIPTILINA, e ai ficou faltando. Quando eu fui ver, eu ja tava em casa.
+MÉDICA: Fluoxetina você não toma mais não né?
+PACIENTE: Não.
+MÉDICA: Sevelamer... Você toma dois comprimidos à noite, né?
+PACIENTE: Isso.
+MÉDICA: E o Tramadol, você toma de 12 em 12 horas, é isso?
+PACIENTE: É, de 12 em 12. De 12 em 12, não, de 8 em 8. É 60 comprimidos, que eles não passam a...
+MÉDICA: 60 é o máximo que eles dão?
+PACIENTE: Uhum.
+MÉDICA: E a amitriptilina, eu vou passar também os comprimidos.
+PACIENTE: Uhum.
+MÉDICA: Tramadol será que eles não dão 90 não? Você toma três por dia?
+PACIENTE: Acho que dão, porque estava 120, às vezes eu dou três por dia, às vezes [ININTELIGÍVEL] mas era 120 que eu pegava.
+MÉDICA: Será que eles dão?
+PACIENTE: Uhum.
+MÉDICA: Você mora em Santa Leopoldina?
+PACIENTE: Eu moro aqui em Maruípe, perto do quartel. Mas eu fico em Santa Leopoldina na casa do meu filho. Para mim, eu acho mais fresco.
+MÉDICA: Então. Você fica mais lá, não é?
+PACIENTE: É.
+MÉDICA: Aí quando eu tenho consulta, tenho que fazer exame, ai eu venho para cá.
+MÉDICA: Deixa eu ver sua pressão, meu bem. Dá o bracinho aqui. Você tirou o sangue hoje? Você tirou o sangue do dia 30?
+PACIENTE: Isso. 
+MÉDICA: Foi difícil de colher? Você ficou com hematoma ai?
+PACIENTE: Uhum.
+MÉDICA: Ruim essa parte, né?
+MÉDICA: 15 por 9
+PACIENTE: Tá 15 por 9?
+MÉDICA: Está um pouquinho alta hoje, né? Você tomou seu remédio?
+PACIENTE: Tomei.
+MÉDICA: Está agitada, preocupada?
+MÉDICA: Não? Está tranquila, né? 
+PACIENTE: Uhum.
+MÉDICA: [ININTELIGÍVEL] Você tem visto em casa?
+PACIENTE: Tem. Foi... Segunda-feira estava 10 por 7.
+MÉDICA: É. Pode ser que seja só você estar aqui, né? Porque você vem aqui e sua pressão fica mais alta um pouco, né?
+PACIENTE: É.
+MÉDICA: Pedir um exame de urina, tem tempo que você não faz. 
+MÉDICA: Ó, isso aqui é pra você marcar para março, tá?
+PACIENTE: tá
+MÉDICA: espera só um pouquinho, vou pegar os papéis lá.
+MÉDICA: Você precisa do laudo do tramadol também?
+PACIENTE: Uhum.
+MÉDICA: O pessoal da reumato que te dá, né? Então, olha só. Espera aí, vou só te dar o laudo. Essa é a sua receita, tá?
+PACIENTE: Tá
+MÉDICA: Normal. Aqui da AMITRIPTILINA, esse aqui é do tramadol e você vai lá. Esse aqui é o exame para a próxima consulta. Então, você vai marcar aqui para março e depois vai lá no laboratório marcar esse aqui. Tá bom?
+MÉDICA: Mas ai... Esse aqui eu vou te dar ainda. Espera um minutinho. Botei 120... Ah, não posso colocar 120. Já está 90. Esse é de 12 em 12, se é de 8 em 8 eles não vão aceitar dessa forma. Você não tem nenhum ai né?
+PACIENTE: O quê?
+MÉDICA: Nenhum laudo de tramadol, né?
+PACIENTE: Não, a folha é a mesma que eu dou entrada do sevelamer.
+MÉDICA: Não, eu sei. É porque não é a folha, é o código, por que tem vários códigos pra...[ININTELIGÍVEL]. Você toma isso ai para que dor, exatamente?
+PACIENTE: [ININTELIGÍVEL]
+MÉDICA: Você tem Lúpus?
+PACIENTE: Uhum. Tenho.s
+MÉDICA: Esse aqui é do sevelamer, tá?
+PACIENTE: Uhum.
+MÉDICA: Esse aqui é do Tramadol, tá? Pronto, tá liberada. Ai você marca lá, e depois já marca no laboratório. 
+PACIENTE: Tá bom.
+MÉDICA: Tá bom, meu bem?
+PACIENTE: Tá bom.
+MÉDICA: Vai com Deus.

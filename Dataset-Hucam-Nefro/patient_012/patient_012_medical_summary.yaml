@@ -1,0 +1,80 @@
+relatorio_consulta_ambulatorial_nefrologia:
+  identificacao_paciente: Feminina, 67 anos.
+  subjetivo:
+  - Filho compareceu à consulta em 31/10/24, e conversei longamente com ambos sobre TRS.
+  - Está em acompanhamento com a psicóloga Paula, que identificou sintomas depressivos importantes. Relata insônia.
+  - Cardiologista do Centro de Especialidades (Dr. Anderson Patrick) solicitou laudo autorizando CATE, mas conversamos e ele disse que não há máxima urgência na realização de CATE, e optamos por esperar um pouco.
+  hipoteses_diagnosticas:
+  - DRC Estágio 4.
+  - Nefrolitíase bilateral desde 1986.
+  - Nefrolitotomia percutânea à esquerda em 2011.
+  - DM desde 2000.
+  - HAS desde 2000.
+  - Operada devido catarata à esquerda em 07/11/21 e à direita em 09/12/21 no HEVV.
+  - Colecistectomia em 2016.
+  - Hernioplastia incisional epigástrica em 20/04/2017.
+  - Transtorno depressivo.
+  - Ateromatose aórtica com calcificação.
+  - Estenose de artéria renal esquerda em terço proximal. Foi avaliada pela cirurgia vascular, que indicou angio-TC ou arteriografia.
+  - Doppler de abr/24 com sinais de DRC.
+  - Retinopatia diabética não proliferativa leve em ambos os olhos (fundo de olho realizado em 28/06/24).
+  historico_patologico_pregresso: []
+  medicamentos_em_uso:
+  - Furosemida 40 mg 1-0-0.
+  - Anlodipino 5 mg 1-0-1.
+  - Metoprolol 50 mg 1-0-1.
+  - Alopurinol 100 mg 1-0-0.
+  - Puran T4 50 mcg 1-0-0.
+  - Atorvastatina 20 mg 0-0-2.
+  - AAS 100 mg 0-1-0.
+  - Vastarel MR 35 mg (Trimetazidina) 1-0-1.
+  - Colecalciferol 7000 UI/semana.
+  - Insulina NPH: 22+14+16 UI.
+  preparo_para_terapia_substituicao_renal:
+  - Apresentação de métodos: Escolheu HD.
+  - Risco cirúrgico liberado em 19/11/24.
+  - Consulta com vascular prevista para 17/02/25.
+  exames_laboratoriais:
+  - TRI 183, HBA1C 9,2%, CT 167, HDL 42, LDL 88, TGP 20, GLI 115, AU 6,6, Na 140, K 3,5, Cl 101, Ca 9,9, P 3,2, Mg 1,8, CK 94, Ur 64, Cr 1,57, TGO 18, IPC 1,059, HB 13,5, Leuco 7920, Plaq 242.000, TSH 5,33, VitD 31,9, EAS= Densidade 1008 / pH 6,5 / ALBU 30 / Leuco numerosos / Hem 3 / Cél 6 / CIL Hialino + (18/04/22)
+  - TGP 16, GLI 74, AU 6,2, Na 142, K 3,9, Cl 101, Ca 10, P 3,8, CPK 109, Ur 59, Cr 1,77, TGO 22, IPC 1,287, HBA1C 8,6%, CT 166, HDL 40, LDL 96, TRI 150, HB 13,4, Leuco 7340, Plaq 227.000, PTH 78,9, VitD 26,7, TSH 4,35, EAS= Densidade 1005 / pH 6,5 / ALBU 30 / Gli 30 / Leuco 15 / Hem 1 (16/08/22)
+  - TRI 197, CT 186, HDL 46, LDL 100,6, HBA1C 8,0%, TGP 20, GLI 81, AU 7,0, Na 140, K 3,2, Cl 98, Ca 9,7, P 4,1, CK 140, Ur 72, Cr 1,75, TGO 24, IPC 1,934, HB 14,1, Leuco 7470, Plaq 248.000, PTH 64,9, VitD 27,8, EAS= ALBU 30 / CIL Hial + (29/11/22)
+  - CT 189, HDL 49, LDL 105, TRI 173, TGP 20, GLI 113, AU 7,4, Na 141, K 3,4, Cl 99, Ca 9,9, P 4,2, Mg 1,87, CPK 109, Ur 70, Cr 1,95, TGO 20, IPC 1,998, HB 13,7, Leuco 7230, Plaq 228.000, Eosino 6%, PTH 90,5, VitD 23, EAS= ALBU 30 / Leuco numerosos / Hem 1 / Cél 2 / CIL Hialino + / CIL Gran Grosso +, TSH 7,12, HBA1C 7,2 (12/06/23)
+  - CT 171, HDL 47, LDL 87, TRI 181, AU 8,5, TGP 20, TGO 19, Ca 10,5, CPK 77, Cr 1,97, P 3,2, GLI 121, Mg 2,24, Na 136, K 3,3, Cl 96, Ur 71, IPC 1,147, HB 13,7, Leuco 7720, Plaq 230.000, TSH 0,65, T4L 1,21, VitD 29,9, PTH 84,9, EAS= ALBU 30 (11/10/23)
+  - BIC 31,5 (23/10/23)
+  - CR 2,36, UR 77, NA 138, K 3,6, MG 2, CAT 10,4, P 4,4, PTH 87, VIT D 37,6, HB 13,8, LEUCO 6650, PLAQ 216000, Glicose 88, HBA1C 7,5, CT 169, LDL 92, HDL 45, TGL 158, TGO 19, TGP 17, CPK 93, Ác Úrico 7,9, TSH 3,13, EAS= ALB 30, sem elementos anormais | Rel Prot/CR 1,6 g/g (08/02/24)
+  - CAI 4,9, CAT 9,5, PTN Total 6,7, ALB 4,0, Creat 1,8, U 72, NA 135, K 3,4, P 4,4, GLI 88, HBA1C 7,2, HCO3 30,1, HB 13,4, HT 40,1, LEUCO 6160, PLAQ 200000, Anti-HBC Total NR, Anti-HBS NR, HBS NR, Anti-HCV NR, Anti-HIV NR, Vit D 37,2 (27/03/24)
+  - Ácido úrico 5,7, CAT 10,2, COL TOTAL 199, LDL 110,8, HDL 46, TGL 209, CREAT 2,59, PTNS totais 6,1, ALB 3,8, U 101, IST 31%, MG 2,1, NA 141, K 3,7, FA 186, ferritina 102,3, P 4,8, GLI 73, ACIDO ÚRICO 5,7, HBA1C 6,8%, HCO3 28,9, HT 13,3, HB 39,6, leucócitos 6250, plaquetas 207000, vitamina D 25,6, PTH 122, Relação proteína/creatinina 3,51 (01/07/24)
+  - CA 9,8, creatinina 2,63, glicose 81, IST 26%, MG 2,04, NA 138, K 4,0, FA 247, ferritina 140,9, P 4,1, GLI 105, ácido úrico 4,7, HBA1C 6,5%, HCO3 29,3, HB 13,4, HT 40,6, leucócitos 8550, plaquetas 274000, vitamina D 26,6, PTH 138 (29/08/24)
+  - CPK 64, TGP 20, TGO 24, colesterol total 155, HDL 38, LDL 85,8, CAT 9,7, creatinina 2,99, U 98, IST 29%, MG 2,13, NA 140, K 3,7, FA 176, ferritina 140,7, P 4,8, TGL 155, GLI 83, ácido úrico 5,6, HBA1C 6,1%, HB 12,1, HT 37, leucócitos 7410, plaquetas 206000, TSH 1,07, vitamina D 39, PTH 140, Anti-HBC total NR, Anti-HBS 311, HBSAG NR, Anti-HCV NR, Anti-HIV I e II NR (16/10/24)
+  - Ácido úrico 5,6, CA 9,6, creatinina 2,68, ferritina 118,4, FA 241, P 4,5, GLI 77, MG 2,36, K 3,6, IST 21%, NA 140, U 89, HCO3 28,3, HT 36,7, HB 12,2, leucócitos 7520, plaquetas 215000, Proteínas totais 6,6, ALB 3,8, INR 1,08, PTT 31,4 (31/12/24)
+  exames_complementares:
+  - Teste ergométrico em 01/12/16: Positivo para isquemia miocárdica. Comportamento fisiológico da PA. Presença de déficit cronotrópico.
+  - USG de rins e vias urinárias em 07/03/18 e 12/07/2: RD terço inferior= 0,7cm; RE terço médio= 0,6cm; Terço inferior de RE= 0,5cm. Nefrolitíase não obstrutiva bilateral. Dilatação pielocalicial difusa e bilateral. Afilamento cortical de RE. RD= 12cm, RE= 10,7cm. Esteatose hepática.
+  - Cintilografia miocárdica em 28/06/18: Sem evidências de lesões isquêmicas e/ou cicatriciais em VE. FE= 68%.
+  - Doppler de aorta abdominal e de artérias renais em 16/10/20: Ateromatose moderada e calcificações severas em aorta abdominal e artérias renais. Ateromatose moderada em segmento ostial; Sinais indiretos indicando estenose hemodinamicamente significativa proximal à esquerda. IR preservada.
+  - USG de rins e vias urinárias em 16/11/20: RD mede 12,2cm e apresenta calcificações e/ou pequenos cálculos de até 0,7cm. RE mede 11,5cm, apresenta contornos lobulados e calcificações. Hiperecogenicidade medular bilateralmente. Nefropatia parenquimatosa bilateralmente.
+  - Doppler de aorta e artérias renais em 01/04/22: Ateromatose e calcificações moderadas em aorta abdominal e origem de artérias renais. Placa calcificada em óstio de artérias renais, sem condicionar estenoses hemodinamicamente significativas. Índice de resistência preservado em artérias renais parenquimatosas; RD mede 11,4cm; RE com bordas irregulares e medindo 10,8cm.
+  - ECO em 19/04/22: FE 70%, alteração diastólica tipo I, remodelamento concêntrico de VE.
+  - Cintilografia miocárdica em 24/10/22: Hipoperfusão transitória consistente com isquemia miocárdica induzida por esforço físico, de pequena extensão na parede septal e ápice do ventrículo esquerdo. VE com Função sistólica global dentro dos limites da normalidade.
+  - FE 82%. Alteração do relaxamento diastólico do VE grau I. Insuficiência aórtica discreta (03/24).
+  - Doppler de aorta abdominal e artérias renais em 04/24: Ateromatose e calcificações moderadas em aorta abdominal com artérias renais pérvias, sem estenoses hemodinamicamente significativas. Índice de resistência elevado em artérias parenquimatosas de ambos os rins.
+  - Doppler arterial de MMII em 25/07/24: Artéria tibial posterior com oclusão segmentar (bilateral).
+  - USG Abdominal Total em 23/09/24: RD 8,7 x 4,7 cm / RE 8,6 x 3,5 cm. Perda de dissociação córtico-medular e aumento da ecogenicidade. Restante sem alterações.
+  - RNM de Coluna Lombo-sacra em 25/09/24: Hipohidratação discal multissegmentar em região lombar.
+  - Doppler venoso de MMSS em 30/10/24: Laudo em anexo.
+  - Mapeamento para FAV em 19/11/24: Veia basílica e cefálica com calibres reduzidos em punho direito. Veia cefálica com calibres reduzidos em antebraço e punho esquerdos. Veia basílica com calibres reduzidos em punho esquerdo.
+  exame_fisico:
+  - Corada, hidratada, lúcida, orientada, acianótica, anictérica, afebril.
+  - Peso: 70 kg.
+  - ACV: RCR, 2T, BNF, sem sopros.
+  - MVF: Sem RA. Eupneica em ar ambiente.
+  - PA: 130/70 mmHg.
+  - SATO2: 96%.
+  - Sem edema de MMII.
+  conduta:
+  - Encaminhada ao vascular (DAOP?).
+  - Consulta com vascular (FAV) em 17/02/25.
+  - Já encaminhada ao psiquiatra pela psicóloga (aguarda).
+  - Deixo sem medicações psicotrópicas: paciente resistente ao uso, e hoje pareceu menos ansiosa após conversar sobre seus medos em relação à TRS.
+  - Retorno em 3 meses.
+  outras_informacoes: []
