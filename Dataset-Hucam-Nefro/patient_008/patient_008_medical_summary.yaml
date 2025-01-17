@@ -64,5 +64,5 @@ relatorio_consulta_ambulatorial_nefrologia:
     - "Solicito exames para consulta com cardiologista em 22/01/25."
     - "Retorno em 2 meses (avaliar se haverá modificação da função renal ou do potássio com o aumento da dose de diurético)."
     - "Oriento restrição hídrica para 800 ml/dia."
-  outras_informacoes:
+  impressão:
 

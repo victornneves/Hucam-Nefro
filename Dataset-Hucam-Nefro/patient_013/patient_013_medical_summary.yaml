@@ -3,25 +3,30 @@ relatorio_consulta_ambulatorial_nefrologia:
   subjetivo: Paciente assintomática. Nega náuseas, vômitos, perda ponderal.
   hipoteses_diagnosticas:
   - DRC estágio G5 A1.
-  - 'Etiologia/Doença de Base: HAS / Rim único (nefrectomia direita em 2010, por CA
-    de células renais).'
-  historico_patologico_pregresso: 'Admissão Prevenir em: 07/03/2017.'
-  medicamentos_em_uso: 'Furosemida 40 mg 2-2-0. Metoprolol 50 mg 0-1/2-0. Sinvastatina
-    20 mg 0-0-1. Sevelamer 2-2-2. Citalopram 20 mg 1-0-0. Clonazepam 2 mg 1/2 cp à
-    noite. Uso esporádico de dipirona (quando cefaleia).
-
-    '
-  preparo_para_terapia_substituicao_renal: 'Apresentação de método dialítico: Data.
-
+  - Etiologia/Doença de Base: HAS / Rim único (nefrectomia direita em 2010, por CA de células renais).
+  historico_patologico_pregresso:    
+    Admissão Prevenir em: 07/03/2017.
+    COMPLICAÇÕES DRC:
+    Anemia: Ausente.
+    Hiperfosfatemia: Ausente.
+    PTH > 300: Presente.
+    Hiperuricemia: Presente.
+    VACINAÇÃO:
+    COVID-19: 3 doses (última em 2022).
+    Influenza: 1 dose em 2022.
+  medicamentos_em_uso:
+    Furosemida: 40 mg 2-2-0
+    Metoprolol: 50 mg 0-1/2-0
+    Sinvastatina: 20 mg 0-0-1
+    Sevelamer: 2-2-2.
+    Citalopram: 20 mg 1-0-0.
+    Clonazepam: 2 mg 1/2 cp à noite.
+    dipirona: Uso esporádico quando cefaleia
+  preparo_para_terapia_substituicao_renal:
     Método escolhido: HD.
-
     Acesso: FAV Set/2018.
-
     Sorologias (Ago/22): HBsAg NR, Anti-HBC NR, Anti-HCV NR, Anti-HIV NR.
-
     Tx preemptivo (ClCr < 10 mL/min): Não se aplica.
-
-    '
   exames_laboratoriais: '20/08/21: ALB 4,7, TRIG 109, COL T 169, HDL 60, LDL 87,2,
     IST 33%, FERRITINA 338, AC URICO 9,3, P 4,6, CA 10,5, NA 134, K 5,2, CREAT 3,55,
     UR 148, HB 11,5, LEUC 3890, PLAQ 153.000, VIT D 42,7, PTH 323,9.
@@ -100,73 +105,35 @@ relatorio_consulta_ambulatorial_nefrologia:
 
     '
   exames_complementares: 'ECO TT 28/06/2019: FE 74%, insuficiência valvar mitral discreta.
-
     US RINS E VU 03/03/2020: Rim esquerdo com cistos corticais simples, nefrectomia
     direita.
-
     USG ABDOMINAL TOTAL 13/06/2023: Aumento difuso da ecogenicidade no rim esquerdo,
     cistos simples no rim inferior, medindo até 2,7 cm.
 
     '
   exame_fisico: 'Peso: 47 kg.
-
     ACV: RCR em 27, BNF, sem sopros.
-
     PA: 170/80 mmHg.
-
     SPO2: 98%.
 
     '
   conduta: 'DIETA POBRE EM K
-
     AGUARDO LIBERAÇÃO DE EPO E MANTENHO SEVELAMER
-
     CONVERSO SOBRE RISCOS DA HIPERCALCEMIA E DE NÃO INICIAR DIÁLISE
-
     CONVERSO COM PACIENTE SOBRE NECESSIDADE DE INICIAR HD, MAS A MESMA SE RECUSA (ASSINOU
     TERMO DE RECUSA).
-
     NO FINAL DA CONVERSA, DISSE QUE IRÁ A APARECIDA NO FINAL DE JANEIRO E QUANDO VOLTAR
     CONVERSAREMOS SOBRE O INÍCIO DE HD
-
     MANTENHO MEDICAÇÕES
-
     RETORNO EM FEVEREIRO/25 COM DR. LEANDRO, POIS ESTAREI DE FÉRIAS E NÃO É POSSÍVEL
     AGUARDAR MAIS TEMPO PARA REAVALIAÇÃO.
-
     CASO AINDA SEJA MANTIDA EM TTO CONSERVADOR, MARCAR PRÓXIMA CONSULTA PARA MIM
-
     '
-  outras_informacoes: 'COMPLICAÇÕES DRC:
-
-    Anemia: Ausente.
-
-    Hiperfosfatemia: Ausente.
-
-    PTH > 300: Presente.
-
-    Hiperuricemia: Presente.
-
-
-    VACINAÇÃO:
-
-    COVID-19: 3 doses (última em 2022).
-
-    Influenza: 1 dose em 2022.
-
-
-    Análise:
-
-    DRC Estágio G5 (CKD-EPI 11 ml/min/1,73 m²): Piora progressiva da função renal.
-
-    Hiperfosfatemia: Mesmo em uso de Sevelamer.
-
-    Anemia: Indicação de EPO já solicitada.
-
-    HIPERCALCEMIA (MELHOR EM RELAÇÃO À ÚLTIMA CONSULTA, MAS AINDA ELEVADO)
-
-    SEM SINAIS DE UREMIA
-
-    FAV FUNCIONANTE
-
-    PACIENTE MUITO RESISTENTE AO INÍCIO DE DIÁLISE, APESAR DE REPETIDAMENTE ORIENTADA'
+  impressão:
+    - DRC Estágio G5 (CKD-EPI 11 ml/min/1,73 m²): Piora progressiva da função renal.
+    - Hiperfosfatemia: Mesmo em uso de Sevelamer.
+    - Anemia: Indicação de EPO já solicitada.
+    - HIPERCALCEMIA (MELHOR EM RELAÇÃO À ÚLTIMA CONSULTA, MAS AINDA ELEVADO)
+    - SEM SINAIS DE UREMIA
+    - FAV FUNCIONANTE
+    - PACIENTE MUITO RESISTENTE AO INÍCIO DE DIÁLISE, APESAR DE REPETIDAMENTE ORIENTADA

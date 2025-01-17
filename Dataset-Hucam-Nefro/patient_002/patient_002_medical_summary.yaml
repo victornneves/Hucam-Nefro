@@ -1,60 +1,42 @@
 relatorio_consulta_ambulatorial_nefrologia:
-  identificacao_paciente: Masculino, 53 anos, solteiro, acompanhado da irmã Maria
-    Florentina.
+  identificacao_paciente: Masculino, 53 anos, solteiro, acompanhado da irmã.
   subjetivo:
-  - Comparece para consulta de rotina. Nega queixas urológicas, nega alteração do
-    volume urinário, nega queixas de uremia. Refere edema em MMSS e face que iniciou
-    há 15 dias.
-  - Fez colecistectomia em junho/24.
-  hipoteses_diagnosticas: '- DRC - CLCR atual (CKD-EPI): 32 ml/min/1,73³ (G3bA1)
-
+    - Admissão prevenir em 09/2021
+    - CLCR admissão = 28 ml/min
+    - Comparece para consulta de rotina. Nega queixas urológicas, nega alteração do
+      volume urinário, nega queixas de uremia. Refere edema em MMSS e face que iniciou
+      há 15 dias.
+    - Fez colecistectomia em junho/24.
+  hipoteses_diagnosticas:
+    - DRC - CLCR atual (CKD-EPI) = 32 ml/min/1,73³ (G3bA1)
     - Etiologia / doença de base: Indeterminada (cardiorrenal? nefropatia diabetica?).
-
-    - Admissão prevenir em: 09/2021
-
-    - CLCR admissão: 28 ml/min
-
-    - Sorologias virais: Anti-HCV: NR, Anti-HIV: NR, HBsAg: NR, Anti-HBg IgM: NR (19/06/2023)
-
-    '
-  historico_patologico_pregresso: '- HAS
-
+    - Sorologias virais: Anti-HCV NR, Anti-HIV NR, HBsAg NR, Anti-HBg IgM NR (19/06/2023)
+  historico_patologico_pregresso: 
+    - HAS
     - DM
-
-    - DCV (ICFER - miocardiopatia dilatada de etiologia A/E - alcoólica? > Implante
-    marcapasso + CDI em 02/05/19)
-
+    - DCV (ICFER - miocardiopatia dilatada de etiologia A/E - alcoólica? > Implante marcapasso + CDI em 02/05/19)
     - Dislipidemia (muito alto risco meta LDL < 50)
-
-    - AVC prévio (sequela motora: paresia MSD)
-
+    - AVC prévio (sequela motora = paresia MSD)
     - Epilepsia secundária
-
     - Pancreatite crônica de etiologia alcoólica.
-
-    - Internação 25/04/2022 - 04/05/2022 na AFPES por ICC descompensada + pneumonia
-    + AVC (SIC)
-
-    - Internação HDS 17/02/23 - 28/02/23: Sepse foco abdominal
-
+    - Internação 25/04/2022 - 04/05/2022 na AFPES por ICC descompensada + pneumonia + AVC (SIC)
+    - Internação HDS 17/02/23 - 28/02/23 = Sepse foco abdominal
     - CVL
-
-    '
   medicamentos_em_uso:
-  - Furosemida 40mg 2cp manhã e 1 cp à tarde
-  - AAS 100mg 1x/dia.
-  - Losartana 50mg 12/12h.
-  - Dapagliflozina 10 mg/dia.
-  - Metoprolol 50 mg 2 cp 12/12h
-  - Metformina 500mg 2x/dia.
-  - Insulina NPH 26UI+10UI+14UI.
-  - Risperidona 1 mg 2x/dia.
-  - Diazepam 10mg 1x/noite.
-  - Amitriptilina 25mg 2x/dia
-  - Bupropiona 150mg 2x/dia
-  - Levotiroxina 25 mcg/manhã
-  - Atorvastatina 40 mg/noite
-  - Tramadol 50mg SOS
+    - Furosemida 40mg 2cp manhã e 1 cp à tarde
+    - AAS 100mg 1x/dia.
+    - Losartana 50mg 12/12h.
+    - Dapagliflozina 10 mg/dia.
+    - Metoprolol 50 mg 2 cp 12/12h
+    - Metformina 500mg 2x/dia.
+    - Insulina NPH 26UI+10UI+14UI.
+    - Risperidona 1 mg 2x/dia.
+    - Diazepam 10mg 1x/noite.
+    - Amitriptilina 25mg 2x/dia
+    - Bupropiona 150mg 2x/dia
+    - Levotiroxina 25 mcg/manhã
+    - Atorvastatina 40 mg/noite
+    - Tramadol 50mg SOS
   preparo_para_terapia_substituicao_renal: ''
   exames_laboratoriais: "## EX LAB [22/11/21]\nNA 139/P 4,3/FAL 175/ FERRITINA 845,6\
     \ / IST 36/ CR 2,29/ GLIC 108 / HB 9,19 / LEUCO 4690\nPLAQ 165000 / ANTI-HOV NR\
@@ -97,67 +79,24 @@ relatorio_consulta_ambulatorial_nefrologia:
     \  \nCAI 5,1 CREAT 202 P3,1 MG2,69 K45 NA 140 U134 HCO3 29,8 HB 11,5 HT 36,5 7600\n\
     LEUC 155000 PLAQ\n\n## EX LAB [09/12/24]\nCR 1,6: CL 100; AU 8,4; FER 98; P4,2:CA\
     \ 10; FA 179; HBG 6,8: GLIC 73; PTH 54;/ BIC 28; HB 11,4;\n"
-  exames_complementares: '## ECOTT [18/06/2021]
-
-    FE 52%. Intermediária probabilidade de hipertensão pulmonar (PSAP 36 mmHg). Insuficiência
-    valvar tricúspide discreta. Dilatação discreta do AE.
-
-
-    ## TC ABDOME/PELVE [09/07/2021]
-
-    Rins tópicos, com forma, contornos e dimensões normais. Não há evidência de dilatação
-    dos sistemas pielocalicinais ou cálculos.
-
-
-    ## USG ABDOME TOTAL [25/08/2021]
-
-    Prolongamento caudal do lobo hepático direito, sugerindo lobo de Riedel (variante
-    anatômica). Discreta quantidade de conteúdo ecogênico sem sem sombra acústica
-    posterior, móvel à mudança de deglutito, no interior da vesícula biliar, sugerindo
-    lama biliar, que pode estar associada a microcálculos de permeio. Rins em topografia,
-    morfologia, dimensões, contornos e ecotextura normais. Sistema peilocalicial compacto.
-    Não visibilizadas imagens compatíveis com cálculos no sistema pielocalicial.
-
-
-    ## ECOTT [29/12/22]
-
-    FEVE 55%”; Disf diastolica grau I. Moderada probabilidade de HAP - PSAP 40mmHg
-
-
-    ## USG DOS RINS E VIAS URINÁRIAS [03/04/2028]
-
-    Rim direito: 9,4x4,3x4,1 (vol: 86,1cm³)
-
-    Rim esquerdo: 10,4x4,7x4,1 (vol: 103cm³). Impressão: Leve redução do volume renal
-    a direita.
-
-    '
-  exame_fisico: '- Peso: 79,20 kg > 80,65 kg > 79,80 kg (01/2024)
-
+  exames_complementares: 
+    - ECOTT [18/06/2021]: FE 52%. Intermediária probabilidade de hipertensão pulmonar (PSAP 36 mmHg). Insuficiência valvar tricúspide discreta. Dilatação discreta do AE.
+    - TC ABDOME/PELVE [09/07/2021]: Rins tópicos, com forma, contornos e dimensões normais. Não há evidência de dilatação dos sistemas pielocalicinais ou cálculos.
+    - USG ABDOME TOTAL [25/08/2021]: Prolongamento caudal do lobo hepático direito, sugerindo lobo de Riedel (variante anatômica). Discreta quantidade de conteúdo ecogênico sem sem sombra acústica posterior, móvel à mudança de deglutito, no interior da vesícula biliar, sugerindo lama biliar, que pode estar associada a microcálculos de permeio. Rins em topografia, morfologia, dimensões, contornos e ecotextura normais. Sistema peilocalicial compacto. Não visibilizadas imagens compatíveis com cálculos no sistema pielocalicial.
+    - ECOTT [29/12/22]: FEVE 55%”; Disf diastolica grau I. Moderada probabilidade de HAP - PSAP 40mmHg
+    - USG DOS RINS E VIAS URINÁRIAS [03/04/2028]: Rim direito = 9,4x4,3x4,1 (vol 86,1cm³) , Rim esquerdo= 10,4x4,7x4,1 (vol 103cm³). Impressão = Leve redução do volume renal a direita.
+  exame_fisico:
+    - Peso: 79,20 kg > 80,65 kg > 79,80 kg (01/2024)
     - Geral: Bom estado geral, hipocorado (+/4+), hidratado, anictérico, acianótico.
-
     - Neuro: Vigil, lúcido e orientado, sem déficits focais aparentes
-
-    - ACV: RCR, 2T, BNF, s/ sopros. FC: 78 bpm. PA 90/68 mmHg, TEC < 3 segundos
-
+    - ACV: RCR, 2T, BNF, s/ sopros. FC 78 bpm. PA 90/68 mmHg, TEC < 3 segundos
     - AR: MV fisiológico bilateral, s/ RA. Eupneico. SAT 97%
-
-    - MMII: Edema 1+/4 bilateralmente em terço distal de pernas, s/ empastamento de
-    panturrilhas
-
-    '
-  conduta: '- Paciente com função renal estável, DRC 3A sem complicações significativas.
-
+    - MMII: Edema 1+/4 bilateralmente em terço distal de pernas, s/ empastamento de panturrilhas
+  conduta:
+    - Paciente com função renal estável, DRC 3A sem complicações significativas.
     - Anemia discreta com fer < 100 > inicio reposição sulfato ferroso 40mg 12/12
-
     - Mantenho restrição hídrica 800 ml/dia
-
     - Mantenho medicações
-
     - Solicito exames labs para próxima consulta
-
     - Retorno no amb de nefrologia geral.
-
-    '
   impressão: 'Paciente portador de DRC de etiologia diabética cardiorrenal, aguardando consulta com nutricionista, sem alterações osteometabólicas. Função renal estável.'
-  outras_informacoes:
