@@ -1,197 +1,285 @@
-MÉDICA: O que aconteceu com o seu coração e como está a sua situação atual?
-PACIENTE: O meu coração fez pressão. Aquele... não tinha problema de... Por 11 mil, eu vivo chateada. Aí dá falta de água. Depois do caso do Francisco, eu já tive duas internações, três, na verdade.
-ACOMPANHANTE: Ela foi para o hospital porque não tinham nem oxigênio.
-PACIENTE: É isso. Fico mal, mas tenho ecoloma porque... Dia nele, lá para os exames, é... Fico descompensada. Me falta oxigênio, não consigo respirar. Muitas vezes porque meu coração foi muito fraco.
-MÉDICA: Você tem feito exames regulares?
-PACIENTE: Tem exameio. É, eu já olhei grande. Nós tivemos aqui há cerca de três meses, com o Dr. Fernando, o Fernando Luiz. Ele é cardiologista. Passava a medicação para timpano.
-ACOMPANHANTE: Depois desse atendimento, ela já foi três vezes. Nós tivemos que chamar a ambulância, mas ela estava... não estava nem nada. Estava desfalecendo mesmo por falta de água.
-PACIENTE: Passou, aí ficava um, dois dias na UPA. Daí fui para Vila Velha e depois para o hospital.
-MÉDICA: Em Vila Velha, o que aconteceu?
-PACIENTE: Fui para a ventilação mecânica.
-MÉDICA: Você foi entubada?
-PACIENTE: Não, não fui entubada. Mas me falaram que depois... Eu estava de alta, mas eu sabia que eu não estava bem. Eu falei: vocês estão dando alta, mas eu não estou pronta. Eu não estou conseguindo tirar direito.
-ACOMPANHANTE: Mesmo assim, deram alta. Depois, na segunda vez, ela foi encaminhada para o hospital, mas não tinha nada para atender. Nem equipamento, só médico clínico.
-PACIENTE: Aí fui medicada, voltei para casa. Mas voltando para casa, passei mal outra vez e fui para a UPA.
-MÉDICA: O que fizeram na UPA?
-PACIENTE: Estavam colocando o acesso e dando furosemida para liberar o líquido. Minha barriga estava inchada... Só consegui melhorar em Vila Velha, onde fiz ventilação mecânica e tomei muita furosemida. Fiz muito xixi.
-ACOMPANHANTE: Agora, da última vez, ela passou mal mais uma vez e foi para a UPA. De lá, mandaram ela para o hospital de Vitória.
-PACIENTE: Cheguei lá. Não queria ir, mas a UPA me forçou. Fiquei quase três horas esperando deitada. Não apareceu ninguém.
-MÉDICA: Eles explicaram por quê?
-PACIENTE: Disseram que podia ser uma bactéria ou que eu precisava ser entubada. Falaram que eu não podia ficar ali e tinha que ir para um hospital com especialidade.
-ACOMPANHANTE: Mas lá não tinha médico especialista. Só clínico.
-PACIENTE: Fiquei vinte e quatro horas sem tomar nenhum remédio. No hospital de Vitória colocaram o acesso, mas não usaram para furosemida. O médico confundiu meu caso com o de outra pessoa e me deu uma receita que não tinha nada a ver.
-ACOMPANHANTE: A receita estava toda errada. Tinha até remédio para diabetes, que ela nem tem.
-PACIENTE: Eu nunca tomei aquilo na vida. Fiquei revoltada.
-MÉDICA: Entendido. Vamos revisar toda a sua medicação e ajustar o tratamento para evitar essas situações no futuro.
-MÉDICA: Insulina? Insulina? Isso foi prescrito para você?
-PACIENTE: Não! Eu nem tenho isso aí. O cartel não é esse. Eu falei que não ia tomar essa medicação porque não é prescrita pelo meu cartel. E eu não vou contra o meu cartel de alergia. Mostrei para ele a receita, e ainda bem que não tomei.
-ACOMPANHANTE: Depois, a outra médica, que foi aluna do médico dela, confirmou que a prescrição estava errada.
-PACIENTE: Meu marido tinha levado a medicação que eu tomo em casa. Ele me deu. Mostrei tudo para eles. Agora estou aqui, tentando manter as coisas.
-MÉDICA: Você está se sentindo bem agora?
-PACIENTE: Mais ou menos. Fiz um exame de sangue, mas às vezes parece que esquecem do que foi pedido.
-ACOMPANHANTE: Tivemos problemas com o atendimento. Até na véspera do Ano Novo, os funcionários saíram para o Réveillon.
-PACIENTE: Se eu tivesse infartado ou precisasse de algo mais sério, meu marido teria me encontrado lá no quarto sem ninguém. Eu mesma fiz o desmame do oxigênio. Fui diminuindo aos poucos, até que consegui tirar.
-MÉDICA: Como você se sentiu sem o oxigênio?
-PACIENTE: No começo, respirei normal, mas depois senti dificuldade de novo. Aí voltei a usar o oxigênio por um tempo e depois tirei.
-ACOMPANHANTE: Ela se envolveu com isso porque estava tentando se ajustar sozinha.
-PACIENTE: É, mas sempre acabo voltando a precisar. Meu problema todo é a descompensação e a falta de oxigênio. Preciso de oxigênio para dormir, senão fico muito mal.
-MÉDICA: E agora, com o oxigênio, como você está?
-PACIENTE: Com oxigênio eu consigo dormir. Me sinto melhor, mas já sinto que vou descompensar de novo. Não é pelos rins, é pelo coração.
-MÉDICA: Vamos olhar também a questão dos rins.
-PACIENTE: No hospital de Vila Velha, o médico disse que os rins estavam melhores, mas falou isso só pelo momento.
-MÉDICA: Entendido. Vamos monitorar isso mais de perto para garantir que não ocorram novas complicações.
-MÉDICA: Entendido. Vamos com calma. O importante agora é te deixar mais tranquila.
-PACIENTE: Não sei se isso acaba, sabe? Não sei... Tem que ter paciência, mas eu sou meio demorante para melhorar.
-MÉDICA: Vamos continuar acompanhando. Agora, você está tomando a furosemida para ajudar a retirar o líquido, certo?
-PACIENTE: Sim, mas é um processo lento. Às vezes parece que não resolve tudo.
-MÉDICA: E está tomando hidralazina?
-PACIENTE: Não, não estou tomando.
-MÉDICA: E a vitamina D?
-PACIENTE: Sim, estou tomando. Agora é de cinquenta mil. A médica lá do posto mudou para essa dose. Era de sete mil antes. Agora tomo uma vez por semana.
-MÉDICA: Certo. E o ciclofibrato, você está tomando?
-PACIENTE: Não, parei de tomar.
-ACOMPANHANTE: Ela está com acompanhamento na UPA e no posto. Parece que cada um tem um jeito diferente de lidar com os remédios.
-PACIENTE: Isso mesmo. E assim vou tentando melhorar. Mas é complicado. A médica lá do posto mudou algumas coisas, mas o pão... O arroz... Não sei bem como fica.
-MÉDICA: Vamos organizar tudo para que você tenha um plano claro e bem definido. Não se preocupe, vamos ajustar o que for necessário.
-PACIENTE: Espero que sim. Tem sido difícil. Só este ano já precisei de atendimento umas quatro vezes.
-MÉDICA: Vamos trabalhar para que isso aconteça o menos possível. O acompanhamento contínuo é essencial. Se precisar, pode me chamar.
-PACIENTE: Obrigada, doutora. Espero que dê certo.
-MÉDICA: Entendi. Vamos organizar as coisas. Você disse que tem uma doença crônica, certo?
-PACIENTE: Sim, eu era uma doença crônica. Sou a décima primeira naquilo do coração.
-ACOMPANHANTE: Ela tem um acompanhamento marcado para o dia 22, mas está difícil esperar até lá. Só conseguimos essa vaga em setembro.
-MÉDICA: Sim, mas o problema é que agora você está muito descompensada.
-PACIENTE: É, e o oxigênio...
-MÉDICA: Exatamente. O oxigênio é essencial no seu caso. Mas para melhorar a compensação da parte cardíaca, precisaremos de internação.
-ACOMPANHANTE: Ela está muito inchada.
-MÉDICA: Quando você está muito inchada, o líquido pode ir para o pulmão. A furosemida oral nem sempre é absorvida nesses casos, precisa ser intravenosa.
-PACIENTE: Mas eu não posso tomar nada em casa.
-MÉDICA: Sim, em casa é arriscado, porque precisa de monitoramento constante.
-ACOMPANHANTE: Ela está muito cansada.
-MÉDICA: Qualquer esforço, mesmo pequeno, está difícil, não é?
-PACIENTE: Muito difícil. Até falar, tomar banho, qualquer coisa me deixa cansada.
-ACOMPANHANTE: E cada médico acaba dando uma orientação diferente, o que complica.
-PACIENTE: Isso mesmo. Não dá para seguir tantas receitas diferentes.
-MÉDICA: Entendido. Vamos alinhar as orientações e tratar o que for prioritário agora. A descompensação e o inchaço precisam ser resolvidos para você melhorar.
-PACIENTE: Espero que sim. É difícil saber o que seguir com tantas indicações.
-MÉDICA: Vamos focar no essencial e ajustar os tratamentos com cuidado para evitar confusões.
-MÉDICA: Vejo que a senhora trouxe a evolução médica e o espelho do hospital de Vila Velha. Vamos dar uma olhada.
-PACIENTE: Sim, está tudo aqui. Esse aqui foi o de 4/12, lá da UPA. Eles fizeram vários exames, mas não nos deixam ficar com os resultados.
-MÉDICA: Certo. Pelo que estou vendo, parece que houve uma recuperação parcial da condição renal.
-PACIENTE: É o que disseram lá também. Parece que está melhor do que antes, mas ainda assim tem algo.
-MÉDICA: Exato. Eu diria que a senhora tem uma doença renal crônica, mas em estágio leve. Sua função renal não voltou totalmente ao normal, mas está próxima disso.
-PACIENTE: Então é isso? Fiquei com uma lesão crônica?
-MÉDICA: Sim, mas leve. Porém, precisamos acompanhar de perto, porque o problema maior parece ser o seu coração.
-PACIENTE: É difícil, porque um médico fala uma coisa, outro médico fala outra.
-MÉDICA: Entendo. Mas o mais importante é que, mesmo com a condição cardíaca, a função renal ainda está razoável. E não há indicação de hemodiálise no momento.
-PACIENTE: Foi isso que disseram, mas meu cardiologista ficou em dúvida.
-MÉDICA: Certo. O importante é manter o acompanhamento cardíaco e renal em paralelo.
-PACIENTE: O problema é que pedi alta do hospital. Estava marcado vir aqui hoje, e lá não fizeram nada.
-ACOMPANHANTE: Só tinha um médico lá, não tinha nem nefrologista presente.
-MÉDICA: Entendi. A prioridade é que você continue sendo acompanhada de forma adequada. Vamos organizar os próximos passos para evitar perdas de consultas importantes.
-PACIENTE: Obrigada. Espero que agora as coisas fiquem mais claras.
-MÉDICA: Com certeza. Vamos acompanhar regularmente e ajustar conforme necessário.
-MÉDICA: Vamos tentar entender melhor a sua situação. Você mencionou o Dr. Antônio Carlos Pesce, certo?
-PACIENTE: Sim, ele é meu primeiro grau. Ele foi chefe do CT cardiológico.
-MÉDICA: Ah, que interessante. Ele realmente tem uma excelente reputação.
-PACIENTE: Sim, ele era ótimo. Mas agora ele aposentou.
-MÉDICA: Entendido. E sobre o seu tratamento atual, você tem percebido alguma melhora?
-PACIENTE: Quando tomo o oxigênio, sinto uma melhora. Mas quando fico ansiosa, parece que tudo piora.
-MÉDICA: Você está tomando alguma medicação para ansiedade de forma contínua?
-PACIENTE: Não, só tomo quando estou nervosa.
-MÉDICA: O ideal é tomar de forma contínua, porque assim você mantém a ansiedade sob controle. Se tomar só quando está ansiosa, o efeito não será o mesmo.
-PACIENTE: Ah, bom saber. Vou ajustar isso.
-PACIENTE: Outra coisa, doutora, é sobre o óleo mineral. Às vezes, vou ao banheiro e sai sangue. Posso continuar tomando o óleo?
-MÉDICA: Pode tomar, sem problemas. Ele ajuda e não tem contraindicações para o seu caso.
-PACIENTE: Entendi. E meu rim, como está?
-MÉDICA: Está melhor do que antes, mas ainda precisa de acompanhamento constante. O coração é o principal fator a ser compensado para evitar complicações.
-PACIENTE: Então, tem que continuar com a furosemida?
-MÉDICA: Sim, é essencial para controlar o líquido acumulado. Não é só o oxigênio que ajuda, a furosemida tem um papel importante no tratamento.
-PACIENTE: Quando uso o oxigênio, realmente percebo uma melhora.
-MÉDICA: É isso mesmo, qualquer ajuda nesse sentido faz a diferença. Vamos continuar acompanhando de perto para garantir que tudo esteja sob controle.
-MÉDICA: Olha, considerando o fato de você ter fumado por muitos anos, é bem possível que também haja algum componente de doença pulmonar. O oxigênio ajuda bastante, mas se tiver líquido no pulmão, ele não resolve sozinho, só alivia os sintomas.
-PACIENTE: Sim, o alívio é importante. Passei quase cinco noites delirando, falando coisas sem sentido. Meu marido disse que eu parecia de outro mundo, deitava e logo sentava.
-MÉDICA: Isso é esperado em situações de descompensação. Mas precisamos focar em resolver o líquido acumulado.
-ACOMPANHANTE: Ela está dormindo sentada agora.
-MÉDICA: Isso é típico de problemas cardíacos. Vamos ver como está a respiração. Respire normalmente, por favor.
-PACIENTE: Respirei. Deixada?
-MÉDICA: Um pouco, sim. Parece que há algum comprometimento, mas nada muito grave. E na internação, você tomou furosemida injetável?
-PACIENTE: Sim, foi injetável. Eles disseram que comprimido não resolveria naquele momento.
-ACOMPANHANTE: Quando voltou para casa, ela ainda estava bastante inchada.
-PACIENTE: Sim, fiquei com tanto líquido que precisei de duas fraldas. Na UPA, a furosemida funcionou melhor porque foi aplicada injetável.
-MÉDICA: Certo. Aqui estamos com algumas dificuldades por conta das obras no hospital, então a prioridade está sendo dada para casos mais urgentes, como infartos.
-PACIENTE: Entendi. Mas é difícil, porque a gente precisa ser atendida.
-MÉDICA: Compreendo, e vamos fazer o possível para melhorar sua situação. O importante é que, apesar de você não estar bem, não está em estado grave no momento, graças a Deus. Continuaremos acompanhando para evitar complicações.
-PACIENTE: Obrigada, doutora. Vou seguir o que foi orientado.
-MÉDICA: Então, você disse que não conseguiu dormir bem essa noite.
-PACIENTE: É, eu dormi até meio-dia, mas às quatro da manhã acordei e acabou. Não consegui mais dormir.
-ACOMPANHANTE: Ela até tenta dormir, mas acorda e não consegue mais deitar, começa a levantar, sentar... Parece que não consegue se adaptar.
-PACIENTE: Acho que não me adaptei ao jeito que dormia no hospital. Lá tinha uma posição favorável, mas em casa, mesmo com oxigênio, já não é a mesma coisa.
-MÉDICA: E como está o coração? Está sentindo dor ou desconforto?
-PACIENTE: Não exatamente dor, mas sinto ele fraco. Parece que qualquer esforço já me cansa.
-ACOMPANHANTE: Sempre saímos com ela de cadeira de rodas. Tentamos fazer ela caminhar um pouco, mas cansa logo. Aí voltamos para a cadeira.
-PACIENTE: Gostaria, doutora, se possível, que ajustasse a medicação, ou aumentasse a dose da furosemida, para eu conseguir ficar mais tranquila em casa, sem tanto esforço, até o dia do cardiologista.
-MÉDICA: Entendi. Vou ajustar a dose da furosemida para tentar aliviar mais o inchaço e melhorar a sua condição em casa. Mas se voltar a passar mal, será necessário buscar atendimento imediato.
-PACIENTE: Certo. Só quero poder ficar em casa com calma, sem fazer esforço demais.
-ACOMPANHANTE: A última vez que fomos para atendimento, a situação do hospital era péssima. O banheiro, doutora, era tão pequeno que a gente encostava na pia para sentar no vaso. E a água do banho caía no vaso e na pia.
-MÉDICA: Isso é inaceitável. Vou fazer o possível para manter o tratamento em casa e evitar que você precise retornar ao hospital nessas condições. Vamos acompanhar de perto e ajustar conforme necessário.
-PACIENTE: Obrigada, doutora. Espero que dê certo.
-PACIENTE: E no hospital não entra cadeira. Não tinha como tomar banho sentada, porque não tinha oxigênio suficiente para o banheiro.
-ACOMPANHANTE: Nem no quarto tinha oxigênio adequado. Tiveram que ficar trocando ela de lugar até achar um quarto onde o oxigênio funcionasse.
-PACIENTE: E o espaço era muito pequeno. No quarto onde queriam me colocar, tinha três camas, mas mal cabia uma pessoa. Eu ia ser a terceira paciente ali, com mais acompanhantes, sem ar-condicionado funcionando e sem água.
-ACOMPANHANTE: Como ela ia ficar lá sem oxigênio? A situação estava complicada.
-PACIENTE: Quando reclamei, ainda disseram que eu estava denegrindo o hospital. Mas eu só queria orientação e um lugar adequado para ficar.
-MÉDICA: Entendo sua indignação. É realmente frustrante lidar com essas condições.
-PACIENTE: Em casa, pelo menos, tenho mais controle. Meu quarto é perto do banheiro, então consigo me virar sem fralda descartável. No hospital, a situação é outra, né?
-ACOMPANHANTE: Ela já passou por muita coisa, doutora. Já enfrentou internações difíceis e ainda está aqui, firme. É uma guerreira.
-MÉDICA: Com certeza, ela é uma Highlander! Mas precisamos garantir que a senhora tenha conforto e segurança no tratamento.
-PACIENTE: Eu só quero ficar bem para poder curtir minha netinha.
-MÉDICA: Vamos aumentar a dose da furosemida para ajudar a eliminar o excesso de líquido e melhorar sua condição. Também ajustarei outras medicações para que você fique mais estável.
-PACIENTE: Obrigada, doutora. Espero que dê certo. Quero muito melhorar.
-MÉDICA: Vai dar certo. Vamos continuar monitorando de perto e ajustando conforme necessário. A senhora está em boas mãos.
-MÉDICA: Olha, quanto ao oxigênio, eu realmente não consigo pedir para a senhora. Só quem pode solicitar oxigênio é o pneumologista, e talvez o cardiologista também, mas o nefrologista não tem essa autonomia.
-PACIENTE: Entendi. Então, preciso conversar com o cardiologista sobre isso.
-MÉDICA: Exatamente. Até lá, o ideal é focar no controle da sua condição para evitar descompensações maiores.
-PACIENTE: Certo. Agora, sobre alimentação, me disseram que não posso comer feijão preto. Isso é verdade?
-MÉDICA: Quem falou isso para a senhora?
-PACIENTE: Não lembro exatamente, já passei por tantos médicos...
-MÉDICA: Não precisa se preocupar com isso. Não há problema com feijão preto, a menos que seja por algum motivo muito específico que eu desconheça. A prioridade é a função renal e o coração, e nesse caso, o maior cuidado é com a água.
-PACIENTE: Sim, eu sei que não posso exagerar. Tenho feito gelinho de abacaxi e melão para variar e não ficar só na água.
-MÉDICA: Muito bem! Continue assim. A quantidade de água precisa ser controlada, principalmente enquanto o coração não estiver compensado. O importante é manter o consumo moderado, como a senhora tem feito.
-PACIENTE: Entendi. E sobre castanhas, nozes, e essas coisas do Natal? Posso comer?
-MÉDICA: Sim, pode, mas com moderação. Castanhas, nozes, e frutas secas são boas opções, mas evite exageros.
-PACIENTE: Certo. Muito obrigada, doutora. Vou continuar cuidando.
-MÉDICA: Isso mesmo. Qualquer dúvida ou sinal de descompensação, me avise. Estamos juntas nisso.
-MÉDICA: A senhora já tem uma doença renal crônica estabelecida, sim. Mas agora o foco maior é o coração. A própria doença cardíaca pode tirar um pouco do apetite, não é?
-PACIENTE: É verdade. Eu nem tenho conseguido comer muito, e o estômago fica inchado.
-MÉDICA: Exatamente. Por isso, precisamos controlar bem a quantidade de líquidos. Esqueça refrigerantes, como Coca-Cola, e evite consumir muita água de uma vez.
-PACIENTE: Sim, estou fazendo gelinho de frutas para não ficar só na água.
-MÉDICA: Isso é ótimo. Continue com essa estratégia. Vou pedir alguns exames para monitorarmos sua condição e ajustar o tratamento.
-PACIENTE: Certo.
-MÉDICA: A senhora vai marcar esses exames e também a consulta com o cardiologista. Volte aqui em dois meses para acompanharmos a evolução.
-PACIENTE: Tá bom, doutora. Vou marcar tudo.
-ACOMPANHANTE: Ela tem se agitado com facilidade, qualquer coisa a deixa nervosa.
-MÉDICA: É importante manter a calma. A ansiedade pode piorar a situação. Tente descansar e evitar situações estressantes.
-PACIENTE: Eu tento, mas é difícil. Às vezes me sinto decepcionada com tudo.
-MÉDICA: Entendo, mas é importante manter a cabeça no lugar. Não podemos mudar tudo ao nosso redor, mas podemos controlar como reagimos. Pense na sua saúde e priorize o que realmente importa.
-PACIENTE: Vou tentar, doutora. Muito obrigada pela paciência.
-MÉDICA: Estamos aqui para ajudar. Faça sua parte e vamos continuar monitorando para garantir sua melhora.
-ChatGPT
-MÉDICA: Esse aqui é o pedido de exame que a senhora vai levar agora.
-PACIENTE: Tá bom. Eu saio daqui e vou direto ao laboratório, né?
-MÉDICA: Isso, com esse papel a senhora vai marcar no laboratório. O ideal é que esses exames sejam feitos antes da consulta com o cardiologista, para termos os resultados prontos.
-PACIENTE: Certo. A consulta é no dia 22, né?
-ACOMPANHANTE: Isso, dia 22.
-MÉDICA: Então, esses exames precisam ser feitos alguns dias antes, para vermos se há alguma modificação no controle e no aumento do diurético. Vou ajustar a medicação também.
-PACIENTE: Certo, como vai ser?
-MÉDICA: A senhora vai tomar 3 comprimidos de espironolactona de manhã. Além disso, vai tomar 3 comprimidos de furosemida de manhã e 3 à tarde.
-PACIENTE: É uma dose alta, né?
-MÉDICA: Sim, é proposital. Queremos estimular a eliminação de líquido e melhorar o inchaço. A senhora vai precisar dosar um pouco a quantidade de água. Tome um pouco mais de água pela manhã e vá controlando.
-PACIENTE: Entendido.
-MÉDICA: Se, mesmo assim, os sintomas de falta de ar persistirem, a senhora deve procurar ajuda imediatamente.
+PACIENTE: Meu coração foi comprimido. Aquele antigo problema de furosemida. Eu vivo tossindo. Aí me dá falta de ar. Depois daquela vez com o Francisco, eu já tive duas internações. Três, na verdade. Meu medo de hospital é porque eles não tinham nem oxigênio. Mal conseguia respirar. Tenho hipoplasia porque... 
+MÉDICA: Peço que você faça o exame, fica descompensada. Falta oxigênio, não consigo respirar. Isso porque meu coração é muito fraco. Tem exame aí.
+PACIENTE: É, eu me lembro. Nós estivemos aqui há cerca de três meses, com o Dr. Fernando, o Fernando Luiz. Que é o cardiologista. Que prescrevia a medicação. Depois desse atendimento, ela já foi três vezes.
+ACOMPANHANTE: Nós tivemos que chamar a ambulância agora. Ela estava desfalecendo mesmo por desidratação. Passou, aí eles ficavam um, dois dias na UPA. E daí ele foi primeiro pra Vila Velha, depois foi pro hospital. Pra Vila Velha eu fui, foi na ventilação mecânica. Foi entubada? Foi entubada? 
+MÉDICA: Não. Não. 
+PACIENTE: Mas me falaram que depois... Eu estava de alta, eu sabia que eu não estava bem. Eu falei, vocês estão dando alta. Mas eu não estou pronta para a alta. Eu não estou conseguindo respirar direito. Mas deram alta.
+ACOMPANHANTE: Deu, então... Aí na segunda vez ela foi levada para o hospital, porque não tinha nada para atender, não tinha nem equipamento pra atender. Aliás, só tinha médico clínico. Aí ela foi medicada, aí voltou para casa. Aí voltando para casa. Passou mal outra vez, aí voltou para UPA. Porque na UPA eles estavam fazendo acesso, colocando o acesso e a furosemida para mim poder eliminar o líquido.
+PACIENTE: Sabe? A menina. Ela estava com a barriga... Lá na praia nem isso eu conseguia. Mas, na Vila Velha, eu fiz a ventilação mecânica e depois toda a furosemida que eu tomei, eu urinava muito. 
+ACOMPANHANTE: E por último, agora passou mal mais uma vez. A levaram para UPA. Da UPA agora mandaram ela para o Hospital São Paulo no Espírito Santo. Ela é do Centro de Vitória. 
+PACIENTE: Cheguei lá. O rapaz veio me atender. Eu não queria ir pra lá de jeito nenhum. Mas a UPA me
+MÉDICA: Entendo, parece que foi uma situação muito ruim que você passou. VOCÊ ficou por horas sem saber o que estava acontecendo, não recebeu a medicação necessária por um longo período e ainda houve confusão com as prescrições. Além disso, a falta de pessoal no hospital durante as festividades de fim de ano te deixou sem cuidados necessários. Vamos tentar entender melhor o que aconteceu e como podemos te ajudar agora.
+MÉDICA: Vamos prosseguir com a consulta, precisamos verificar mais algumas coisas.
+MÉDICO: O problema é do rim. Vamos tratar a sua condição profissionalmente. O senhor tem tomado Furosemida regularmente, certo? Se eu estou certo, o senhor tem um problema de retenção de água. Isso está ligado ao seu coração que infelizmente, está um pouco fraco. Tem alguma outra coisa que queira compartilhar do seu estado de saúde? Vamos fazer o seu exame, mantenha-se calmo. Se precisar, farei algumas perguntas. Isso é para você descansar, certo? Quero cuidar de você.
+PACIENTE: Não, mais que 10.
+MÉDICO: Você está tomando Hidralazina?
+PACIENTE: Sim, está aqui embaixo.
+ACOMPANHANTE: Eu estou aqui para ajudar no que for preciso.
+MÉDICO: Entendi. Agora estamos trabalhando com um caso de doença renal crônica. Vamos me informar qual o tratamento que está sendo feito no momento. Como está tomando o Clonazepam?
+PACIENTE: Estou tomando, um por dia para dormir.
+MÉDICO: E a Atorvastatina, está tomando?
+PACIENTE: Sim.
+ACOMPANHANTE: A Atorvastatina nunca falta na receita dele. E o Ciclofibrato, está tomando ou não?
+PACIENTE: Não, eu não estou tomando Ciclofibrato. E a Vitamina D também não?
+ACOMPANHANTE: Sim, a vitamina D de 50 mil UI?
+PACIENTE: Sim, eu estou tomando. Ela tinha recomendado 50 mil, depois reduziu para 7 mil. Foi um período e depois mudou.
+ACOMPANHANTE: Está tomando 7 mil UI uma vez por semana. Eles vão diminuindo gradualmente, né? Faz meses que está tomando. E o Fibrato paramos de usar, né?
+PACIENTE: Sim, parei o Fibrato. Estou tomando Clonazepam, que a médica do posto de saúde prescreveu para mim.
+MÉDICO: Entendo, ela recomendou o Clonazepam. O último exame que você fez foi há 4 meses, está correto?
+MÉDICA: Compreendo suas preocupações, mas precisamos seguir o tratamento de forma segura e adequada para garantir a sua saúde.
+ACOMPANHANTE: A sobrinha dela, ela trabalha. Ela não vai querer o que ela quer. Ela faz todo tipo de coisa. Não sei. Parece que sim. Ela está cansada, né? Muito, muito. Parece que sim. 
+MÉDICA: Qualquer esforço que ela faz... 
+ACOMPANHANTE: Pois é, senhora. O mínimo esforço de falar, de tomar um copo, é o que ela faz. Se ela puder, ela faz algo. 
+MÉDICA: Você consegue fazer isso? Pode fazer o que for. Você não quer? 
+PACIENTE: Não, eu não quero. 
+MÉDICA: Você não quer ? 
+PACIENTE: Não, eu não quero. 
+MÉDICA: Você consegue. Você quer fazer o que? 
+PACIENTE: Eu não quero. 
+MÉDICA: Você vai fazer o que for? 
+PACIENTE: Eu não quero.  
+MÉDICA: Você vai fazer o que for? 
+PACIENTE: Eu não quero. 
+MÉDICA: Você não quer? 
+PACIENTE: Eu não quero. 
+ACOMPANHANTE: Qualquer esforço... Pois é, senhora. O mínimo esforço de falar, de tomar banho, de andar um pouco, ela não está aguentando nada. Não está aguentando. Não tem jeito. Todo dia. Porque eu fui na consulta, então o que estou excretando de urina está abaixo do normal, eu acho. Mas o oxigênio... A médica da associação passou isso aqui ontem, então continua isso aí. Eu não sei qual que é. Porque não dá para seguir um monte de médico, entendeu? Porque cada um vai te dar uma receita. Sobre a doença ser crônica, eu não sei a gravidade. Inicialmente a função renal era normal, mas já está se mantendo desde agosto, pelo menos agosto, os dados do últimos exames que eu tenho, tem os resultados que tem? 
+MÉDICA: Tem os dois? Exame de sangue? 
+ACOMPANHANTE: Tem. Tem. 
+MÉDICA: Vou ver aqui meu resultado do exame do sangue de ontem. As clínicas estão dizendo... Então, o problema foi que... até que ele falou assim, minha função renal estava ótima, mas agora está melhor que a anterior. Eu não sei se no histórico de... porque eu deixei, porque aqui a evolução médica... Aqui é um histórico lá do hospital da Vila Verde. É, porque agora não é recente. Não sei quem faz referencia aí, por lá. 
+ACOMPANHANTE: Não, eu sei, de repente ali fala alguma coisa do tratamento. 
+MÉDICA: Vou ver os exames que você tem aqui de sangue. O que está mais recente aqui. Porque
+PACIENTE: Não nos entregam lá na UPA, fizeram vários exames lá. Mas não ficam conosco, certo? Este aqui... Aqui é de 4 de dezembro, eu tenho todos eles. Esses são todos de 4 de dezembro, da UPA. Foram feitos lá na UPA.
+
+MÉDICA: Entendi... Parece que você recuperou uma parte da sua função renal. 
+
+PACIENTE: Sim, mas eu gostaria de falar sobre isso em breve...
+
+MÉDICA: Acho que você teve uma disfunção renal. Mas, aparentemente, você está melhor do que esteve antes. Você estava muito mal. Mas ainda estamos no processo, certo? Então, eu, diria que você tem doença renal crônica. Mas leve. Se ela não estava normal, piorou muito, depois melhorou, não voltou ao normal, mas bem próximo ao normal. Então, eu diria que você ficou com uma lesão renal crônica, entende? Eu vou ter que acompanhar, mas é uma condição leve. Se for controlada, o foco deve ser o seu coração. Porque se você não cuidar do seu coração, seu estado de saúde pode piorar...
+
+PACIENTE: É, não é fácil, né? 
+
+MÉDICA: Não é. Por favor, continue.
+
+PACIENTE: O que me disseram foi que meu cardiologista disse uma coisa e o outro médico disse outra. Eu não poderia nem fazer a hemodiálise, se eu quisesse, porque o meu coração não aguenta.
+
+MÉDICA: Bem, não temos como confirmar isso agora. Eu não sei quem te disse isso, mas eu tenho muitos pacientes que têm problemas cardíacos e fazem hemodiálise. Mas você não precisa se preocupar com essa decisão agora, tudo bem? 
+
+ACOMPANHANTE: Ela disse que fez um ecocardiograma, agora ela faz no hospital de...
+
+PACIENTE: Vila Velha, mas eu também não sei se...
+
+MÉDICA: Deixe ver. Você está medicada, certo?
+
+PACIENTE: Sim. A questão é que estou tomando uma medicação para o coração. Meu problema principal é respiratório, eu tenho dificuldades para respirar. 
+
+MÉDICA: Você solicitou alta, non é?
+
+PACIENTE: Solicitei por causa da consulta de hoje. Talvez não seja nada. 
+Mas ele deu a alta, certo?
+
+MÉDICA: Sim, ele também deu alta.
+
+PACIENTE: Mas de qualquer forma, eu não fiz nada lá. Eu apenas entrei e fiquei esperando. Aliás, não tinha médico, levaram todo mundo para o...
+
+MÉDICA: Não, havia apenas um médico, deveria ser apenas um médico.
+
+PACIENTE: Sim, sim. Não é possível que não tenha médico. 
+
+MÉDICA: Não, tinha um clínico.
+MÉDICA: É importante a aderência ao tratamento. 
+
+PACIENTE: Sim, entendi. Então, não faz mau e faz tratamento se eu ficar assim. 
+
+MÉDICA: Não, não é isso. O medicamento ajuda no tratamento. Entendeu?
+
+PACIENTE: Sim, entendi. 
+
+MÉDICA: O importante é seguir o que o médico aconselhou. 
+
+PACIENTE: Entendi. Bom, então vou seguir o que o senhor falou. 
+
+MÉDICA: Isso mesmo. Qualquer dúvida pode perguntar, tá bom?
+
+PACIENTE: Tá bom. Muito obrigado, doutora.
+
+MÉDICA: De nada. Até a próxima consulta. 
+
+ACOMPANHANTE: Até mais. Muito obrigado. 
+
+MÉDICA: De nada! Tchau.
+MÉDICA: Isso pode ser por algumas razões. Talvez seja falta de oxigênio, ou pode ser algum efeito colateral do medicamento. Mas, principalmente, pode ser devido à retenção de líquidos. 
+ACOMPANHANTE: Ela fala dormindo, mas é coisa que não tem noção. Ela fala, sabe, que está pescando, que está numa praça. 
+MÉDICA: Entendo. Isso pode ser do delírio de hipóxia, principalmente, se ela ficar muito tempo deitada. 
+PACIENTE: Que terrível. 
+MÉDICA: Sim, pode ser uma sensação realmente desagradável. Mas estamos fazendo tudo para que você melhore. 
+PACIENTE: Eu agradeço por isso. 
+MÉDICA: De nada, estamos aqui para te ajudar. É importante tentar não ficar muito tempo deitada, sempre alternar os lados e levantar sempre que possível. Ficar muito tempo deitada pode levar a esse tipo de sintomas. 
+PACIENTE: Lembrar de fazer tudo. 
+MÉDICA: Sim, e qualquer sintoma novo ou algo que esteja te incomodando, pode falar conosco que vamos fazer o possível para te ajudar. Sei que é difícil, mas estamos aqui para te apoiar. 
+PACIENTE: Obrigada, doutora. 
+MÉDICA: De nada. Você tem mais alguma pergunta? 
+PACIENTE: No momento não. Obrigada pela atenção. 
+MÉDICA: De nada. E lembre-se, qualquer coisa, pode entrar em contato conosco. 
+PACIENTE: Tá bom, muito obrigada. 
+MÉDICA: De nada, fique bem. Até mais. 
+PACIENTE: Até mais. 
+ACOMPANHANTE: Até mais. Obrigada, doutora. 
+MÉDICA: Até mais. De nada.
+
+MÉDICO_SUPERVISOR: Coisas do outro mundo, assim, não é? Não, não é. Não é. Não é. 
+
+PACIENTE: Não é. Não é. Não é. Não é. Eu falava coisas do outro mundo, do tipo, deitava uns segundos, eu já sentava, eu ficava ali…
+
+MÉDICO_SUPERVISOR: Isso mesmo. 
+
+MÉDICA: Será?
+
+PACIENTE: Sim. Quer dizer, eu lembro... Eu sei. Eu sei.
+
+ACOMPANHANTE: Nossa Senhora, graças a Deus.
+
+MÉDICO_SUPERVISOR: Ajuda um pouco, porque se tiver algum componente associado com a sua doença, pode auxiliar. Mas não vai resolver o problema dela. 
+
+MÉDICA: Pode melhorar alguns sintomas. Mas não vai resolver. 
+
+MÉDICO_SUPERVISOR: O que vai resolver é ela melhorar a função pulmonar. 
+
+MÉDICA: Está dormindo sentada? 
+
+ACOMPANHANTE: Sim, está sentada.
+
+MÉDICO_SUPERVISOR: Isso aí, isso é do coração.
+
+ACOMPANHANTE: Coração, entendi. 
+
+MÉDICO_SUPERVISOR: Deixa eu te examinar aqui. Deixa eu ver. Pressão normal, tá?
+
+PACIENTE: Deixa, doutor?
+
+MÉDICA_AUXILIAR: Tem um pouquinho de edema. Está um pouco inchado, né? 
+
+PACIENTE: Um pouquinho, pouca coisa. 
+
+MÉDICA_AUXILIAR: Também pode ser pelo fato de que fiquei internada para tomar furosemida.
+
+PACIENTE: Mas ela não tomou. 
+
+MÉDICA: Será que não tomou? 
+
+PACIENTE: Não, aplicaram na veia, comprimido. 
+
+MÉDICA_AUXILIAR: Ela tomou ou não tomou?
+
+PACIENTE: Não, eles deram o comprimido por via oral. Eles prepararam a medicação, inseriram o acesso venoso e não me aplicaram.
+
+MÉDICA: Aplicaram ou não aplicaram? 
+
+PACIENTE: Aplicaram. Isso aí com certeza, foi dado comprimido.
+
+ACOMPANHANTE: Quando eu cheguei em casa, que a prescrição da medicação chegou a hora de administrar, que é a segunda vez que eu tomei a furosemida, aí assim, eu passei mal.
+
+MÉDICO_SUPERVISOR: E nós não conseguimos fazer nada, porque eu estava indisposta, né? Muito mal, entendeu?
+
+MÉDICA_AUXILIAR: Na outra, sim. Aplicou direto em você, por exemplo.
+
+PACIENTE: É.
+
+MÉDICO_SUPERVISOR: Mas logo, então... Tá, não precisa contar. Não precisa contar.
+
+ACOMPANHANTE: Voltar...
+
+MÉDICA: Então, o problema é que aqui, infelizmente, nós não... …
+
+PACIENTE: É porque hoje, pronto, eu contei uma situação, não estava confusa em nada, mas eu estava numa situação assim... Extrema.
+
+ACOMPANHANTE: Extrema.
+
+MÉDICA_AUXILIAR: Está em observação aqui tudo?
+
+ACOMPANHANTE: Eu vim lá na... Eu sou acompanhante. Eu vim lá na...
+
+MÉDICO_SUPERVISOR: Está no outro canto, quer dizer, de uma qualidade desse tamanho. E a prioridade de atender gente que chega com dor, precordial, dor, né?
+MÉDICA: Infarto ou algo do tipo. Porque aqui é só para urgências, se for algo grave, como um infarto, traga para cá, entendeu?
+PACIENTE: Entendi.
+MÉDICA: Exato, os problemas dela sempre a trouxeram para aqui. Mas para internar, a condição da pessoa tem que estar deteriorada, e a senhora, embora não esteja bem, não está nesse estado, graças a Deus.
+ACOMPANHANTE: Desculpe, não entendi bem. Porque na minha opinião...
+MÉDICA: Como é que a senhora dormiu essa noite?
+PACIENTE: Eu dormi até meio dia. Mas quando deu quatro horas da manhã, eu acordei e não consegui voltar a dormir.
+ACOMPANHANTE: Sim, acredito que ela não se adaptou bem ao ambiente do hospital... era para dormir, mas quando chegou em casa...
+PACIENTE: Com oxigênio? Já não conseguia mais dormir da mesma forma, né? Do jeito que eu estou aqui, eu consigo, se chegar em casa, deitar, dormir, eu vou dormir. Porém, não consigo ficar deitada muito tempo.
+ACOMPANHANTE: Deixa a médica comentar, se você não se lembra...
+PACIENTE: Ah, sim, certo. A médica está aqui há um bom tempo.
+ACOMPANHANTE: Entendi, qualquer esforço pequeno ai a senhora fica com falta de ar, né?
+PACIENTE: Sim, qualquer esforço. Isso é por causa do meu coração fraco. Eu sempre saio de cadeira de roda, você sabe, doutora?
+ACOMPANHANTE: Desse jeito, tentamos fazer pequenas caminhadas, mas logo a senhora cansa e precisa voltar para a cadeira. Eu gostaria, doutora, que se fosse possível, tentar auxiliar com alguma medicação pra deixar a minha mãe mais tranquila em casa, pelo menos até a consulta com o cardiologista.
+MÉDICA: Eu estou aqui verificando o prontuário dela para ver se a gente pode fazer isso, tá? Mas se a senhora voltar a passar mal, tem que chamar algum serviço de emergência.
+ACOMPANHANTE: Aí tem que ir pra outro lugar. Eu só não vou se der problema. Se der problema, aquilo ali... 
+MÉDICA: Entendi. Parece uma situação difícil. Você disse que a outra médica levou a mãe dela até o hospital? Ela passou mal?
+ACOMPANHANTE: Se eu mostrar a foto do banheiro lá, você não acredita. Eram quatro partes pequenas como essas aqui, ó. Aí tinha a guia. Pra você usar o vaso, você tinha que encostar na guia. Não tinha como evitar. E pra tomar banho, a água caía em você e no vaso e na pia ao mesmo tempo. E ainda não tinha porta, era aquele esquema, sabe? Aquela porta de correr no trilho. E não entrava cadeira. 
+MÉDICA: Entendo, não entrava cadeira e não tinha oxigênio dentro do banheiro. Isso torna tudo muito complicado.
+ACOMPANHANTE: Então você não tinha como tomar banho sentado. Não tinha oxigênio pra você. E na última vez que fui lá, o quarto que me mandaram também não tinha. Tiveram que ficar me mudando até achar um lugar que o oxigênio funcionasse. 
+ACOMPANHANTE: Ah, mas eu vou querer comentar, falar com eles. Nos quartos do hospital, sem exageros, eram um pouco menores que este consultório e tinham três camas. Eu disse, mas aqui mal se cabe um. Vocês vão colocar três pacientes e mais os acompanhantes. E o ar condicionado quebrado. Não tinha. Não tinha parede de oxigênio para ela. Falei, como ela vai ficar aqui? Ela precisa do oxigênio, e não tem aqui pra ela.
+ACOMPANHANTE: Aí eles me expulsaram. Disseram que eu estava denegrindo o hospital. Não estou denegrindo, estou fazendo uma crítica. Haviam restos de construção embaixo da cama. Eu disse, aqui não tem como fazer uso de oxigênio. Falei, como ela vai ficar aqui? Não tem oxigênio aqui. 
+PACIENTE: Deixe-me ver. 
+ACOMPANHANTE: E a turma, tinham essa equipe de 40 à noite? Esse médico, esse é o cara que falou isso. Essas palavras não posso dizer sem ele. Talvez. Bom, é ele que falou isso, então.
+MÉDICO_SUPERVISOR: Isso. Você não pode pedir. Esse pedido tem que ser feito por um profissional de saúde. Então, por enquanto, vamos ajustar a sua medicação. Combinado? 
+PACIENTE: Combinado.
+MÉDICO_SUPERVISOR: Ok, então. Vamos aumentar a dose de furosemida e de espironolactona. Você precisa ir ao cardiologista para discussão sobre o uso de oxigênio em casa, ok?
+PACIENTE: Ok, entendi. Vou falar com o cardiologista. E quanto ao uso da fralda descartável, tem algo que eu possa fazer pra melhorar a assadura?
+MÉDICO_SUPERVISOR: Sim, continue passando a pomada de ozônio como está fazendo. Além disso, tente se levantar e ir ao banheiro sempre que possível, a fim de evitar o uso da fralda. Isso diminuirá o contato com a umidade e ajudará na recuperação da pele.
+MÉDICA: A senhora precisa reduzir o consumo de carboidratos. E acredito que isso vai dar uma melhorada para a senhora. Vai fazer uns exames. Já tem data para os exames? 
+PACIENTE: Não. Não tem.
+MÉDICA: Não tem nenhum exame marcado pela senhora, não.
+ACOMPANHANTE: É, 22 de janeiro agora.
+PACIENTE: Está até confirmado com a menina lá. Se eu até conseguir adiantar, não tem jeito não. Quanto à alimentação, essas coisas assim... Porque me falaram que eu não posso comer feijão preto, pés comuns. Eu não sei.
+MÉDICA: Quem falou isso à senhora? Tem que ser uma dieta pobre em proteína.
+PACIENTE: Eu não sei. Esquece isso. Esquece isso. Eu sei que uma função médica é se preocupar com o meu rim. É. Mas esse é o menor dos meus problemas. Eu preciso ter cuidado com água.
+MÉDICA: Sim. A senhora sabe que não pode se hidratar muito.
+ACOMPANHANTE: Sim. Isso ela está bem ciente disso. 
+PACIENTE: Eu tomo suco, porque estava tomando muito água, né? Suco de laranja ou suco de abacaxi. Mas esse mês que se passou, teve dias aí que fez calor anormal. 
+MÉDICA: Sim, mas mesmo assim, tem que segurar. Não pode. E vamos segurar. A senhora está fazendo suco, dia laranja, no outro dia melão. Para não ficar só na água, entendeu?
+PACIENTE: Sim. Muito bem.
+MÉDICA: A senhora sabe que não pode se hidratar muito, senão vai causar problemas.
+PACIENTE: E a água para tomar remédio? 
+MÉDICA: 860 ml por dia, só quando a senhora estiver descompensada.
+PACIENTE: Isso é para descompensar. Tem que causar mesmo. Tem que causar.
+MÉDICA: Sim, depois a água não está sendo eliminada corretamente.
+MÉDICA: Enquanto seu coração não melhorar, a gente tem que ir tratando. Tome aí o remédio com água. Três vezes por dia. Pela manhã, tarde e à noite. 
+
+PACIENTE: Tomei um comprimido. 
+
+MÉDICA: Vamos reorganizar. Eu vou conversar com a equipe, mas hoje estamos com muitos pacientes, né? É sim. O paciente que eu mencionei é a principal preocupação para mim. 
+
+PACIENTE: As castanhas, nozes... Como é que pode, né? A água faz mal. Esse mix de frutos secos e outros, eu nem posso comer mais, né? 
+
+ACOMPANHANTE: Ele gosta tanto do Natal e até queria saber. Porque vem ameixa, nozes, castanhas... Castanhas do Pará... 
+
+MÉDICA: Sim, pode comer, mas com moderação, ok?
+
+PACIENTE: Sobre essa questão que coloquei para a senhora, o fato é que, quando o rim está muito prejudicado, a gente pede para reduzir a proteína, certo? 
+
+MÉDICA: Correto, em casos de doença renal crônica estabelecida, sim. Mas no seu caso eu acho que agora isso não é um problema. 
+
+PACIENTE: Eu sei que o senhor não consegue comer muita proteína. A própria doença cardíaca diminuí um pouco o apetite. 
+
+ACOMPANHANTE: Verdade, a gente já percebeu isso.
+
+MÉDICA: Tente não se preocupar tanto com a dieta restritiva agora, tá? Bebidas com muita cafeína, como Coca-Cola, não são adequadas, ok? 
+
+ACOMPANHANTE: Sim, eu imagino. Geralmente essas coisas não são adequadas, certo? 
+
+MÉDICA: Não mesmo, apenas controle a quantidade de água. Tem que beber água, mas não pode exagerar.
+
+ACOMPANHANTE: É complicado, né? Tem até frutas que tem pouca água.
+
+MÉDICA: Exatamente por isso que eu sempre sugiro um equilíbrio. Como fazer um jantar balanceado, entende? Estou pedindo os exames aqui que passarei para a senhora. Vou imprimir e a senhora vai lá e marca.
+MÉDICA: Aqui. Eu quero que a senhora faça consulta com cardiologista. Não é para fazer agora. Tem que esperar uns dias. Eu quero também que a senhora faça consulta com um médico especialista em diuréticos. Tá bom? Da minha parte, a senhora vai voltar daqui a 3 meses. Até mais ou menos Março. Tá bem? Ele está me chamando.
+ACOMPANHANTE: Você está pedindo consulta para ela com o cardiologista?
+MÉDICA: Sim, para ambos os especialistas. Ela vai voltar em março.
+PACIENTE: Então, eu tenho que sair daqui. O que eu faço agora?
+MÉDICA: Após a consulta, a senhora vai ao laboratório, certo? Procura se informar quanto é a consulta do cardiologista. E esteja com o papel da consulta do cardiologista em mãos. Precisa marcar para poucos dias antes da consulta com o cardiologista. Se puder mostrar o papel, o cardiologistas agradece. A senhora tem que ter o resultado disso antes do dia 18, é isso? Tem que fazer exame uns dias antes para ver se vai ter alguma modificação do controle do diabetes.
+ACOMPANHANTE: Entendido.
+MÉDICA: O diurético a senhora vai começar a tomar. A Espironolactona, junto com os medicamentos que a senhora já usa, vai tomar três por dia, de manhã.
+PACIENTE: Três de manhã?
+MÉDICA: Sim, e a Furosemida vai tomar 3 de manhã e 3 da tarde.
 PACIENTE: Tá bom.
-MÉDICA: Agora, vou pedir para as meninas reimprimirem o papel da consulta com o cardiologista, caso a senhora não ache. É só chegar lá e pedir para reimprimirem com o nome da doutora Olímpia.
-PACIENTE: Tá certo, vou fazer isso.
-MÉDICA: A senhora volta aqui para consulta em março, por volta de dois meses. Até lá, siga as orientações e o tratamento. Feliz Ano Novo, e espero que essas mudanças melhorem sua condição.
-PACIENTE: Obrigada, doutora. Feliz Ano Novo para você também. Vou seguir tudo certinho.
-MÉDICA: Vai dar certo. E na consulta com o cardiologista, ele poderá ajustar mais algumas coisas para ajudar ainda mais. Vamos compensar o coração, e isso vai refletir positivamente no rim.
-PACIENTE: Muito obrigada, doutora. Até breve.
