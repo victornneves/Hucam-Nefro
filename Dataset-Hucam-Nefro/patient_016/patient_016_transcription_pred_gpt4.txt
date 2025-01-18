@@ -1,0 +1,200 @@
+MÉDICA: A diabetes pode deixar a pessoa um pouco mais caída, mais cansada. Vamos ver seus exames agora. Se precisar, fazemos um ajuste na medicação.
+PACIENTE: Passa. Olha, eu vou tomar um pouco aí para ver. Passa um pouco. A impressão que é do filho do neto que está vindo. Estou todo escangalhado. Não estou nem aí mais. Não estou nem lidando mais com a minha saúde. Não resolve.
+MÉDICA: Você não está lidando com nada mais?
+PACIENTE: Não. Isso [INCOMPREENSÍVEL] até agora. Estou meio feio. Tudo em [INCOMPREENSÍVEL]...
+MÉDICA: Agora precisamos monitorá-lo mais de perto. Eu tenho que repensar o diagnóstico. A situação preocupa bastante. [INCOMPREENSÍVEL] Quem sabe tenhamos que adotar novas estratégias. Eu não tenho todas as respostas. Depois que eu vi o diagnóstico do tumor na cabeça, eu descobri isso aqui.
+ACOMPANHANTE: Não é tumor da cabeça. Ele tem vários problemas de saúde. [INCOMPREENSÍVEL]. Ele tem diabetes, hipertensão, um monte de coisas. Ele não tinha nada disso antes, mas descobriu. As pessoas são ansiosas.
+MÉDICA: É, às vezes se faz um exame e acaba descobrindo outra doença. As pessoas ficam ansiosas, sabe? Agora a questão é o que você vai fazer com isso. Tem duas opções. Pode enfrentar a situação ou lamentar pela sua vida. Ou...
+PACIENTE: Eu choro, você vê. Chorar você pode. Eu choro muito. Então você acha que eu estou muito afetado por tudo o que aconteceu?
+MÉDICA: É, eu fiquei bastante impactada com essa situação. Mas o importante é continuar com o tratamento, certo?
+PACIENTE: É, agora é, né? Tem que seguir em frente, né? Mas é isso mesmo. A gente precisa encarar isso de frente. Não tem jeito. Você não pode ficar lamentando.
+MÉDICA: É, realmente são situações dolorosas. Mas eu preferiria passar por isso do que ter outros problemas de saúde. Temos que ter força para enfrentar, né? Não é?
+PACIENTE: Ah, eu também preferiria. Do que ter que lidar com esses problemas de saúde. Chifre é coisa pequena, né?
+MÉDICA: É, mas a gente acaba esquecendo algumas coisas na luta para superar outras.
+MÉDICA: Muitas vezes, os problemas de saúde não estão apenas relacionados à genética, mas também a questões como pressão arterial.
+PACIENTE: É, às vezes é difícil imaginar...
+ACOMPANHANTE: Minha mãe já tem alguns problemas de saúde e isso pode ser preocupante.
+MÉDICA: Sim, pode ser bastante para lidar.
+ACOMPANHANTE: Com certeza, é um pouco assustador antes da consulta.
+MÉDICA: De onde você veio para a consulta?
+PACIENTE: Vim de Vitória.
+MÉDICA: E onde exatamente você mora?
+PACIENTE: Eu moro com meu pai, no bairro Mário Ciprestes.
+MÉDICA: E onde fica o bairro Mário Ciprestes?
+PACIENTE: Também fica em Vitória.
+ACOMPANHANTE: Sim, tudo em Vitória.
+MÉDICA: E quantos filhos você tem?
+PACIENTE: Eu tenho seis filhos.
+MÉDICA: Seis, é bastante.
+ACOMPANHANTE: Sim, é um grande número.
+MÉDICA: Isso foi confirmado.
+PACIENTE: Sim, além disso, eu descobri que tenho diabetes e depressão.
+MÉDICA: Isso tudo pode ser muito para lidar. Você tem se sentido muito triste ultimamente?
+PACIENTE: Às vezes eu me sinto muito triste. É uma grande carga para lidar.
+MÉDICA: Compreendo, pode ser bem difícil. Mas lembre-se, chorar pode ser uma forma válida de lidar com suas emoções.
+ACOMPANHANTE: É verdade, às vezes quando eu assisto algo triste na TV, também choro.
+PACIENTE: Eu também, principalmente com novelas. Você gosta de assistir novelas, doutora?
+MÉDICA: Eu gosto sim, embora atualmente eu não tenha assistido muitas.
+PACIENTE: Mas, doutora, você nunca chora ao assistir filmes ou novelas?
+MÉDICA: Não muito, na verdade. Cada pessoa tem sua forma de lidar com as emoções.
+MÉDICA: Sei que você está passando por um momento novo e desafiador na sua vida.
+PACIENTE: Agradeço por sua compreensão e apoio, doutora.
+ACOMPANHANTE: Ele é muito responsável, sempre escolhe trabalhar com coisas que sabe fazer bem.
+
+MÉDICA: Isso é bom. Lembre-se de cuidar da sua saúde também. É importante tomar os remédios corretamente e acompanhar a pressão. Se sentir alguma coisa, ligue para o nosso número de contato. Ok?
+
+PACIENTE: OK, doutora, vou tentar lembrar de tudo isso.
+
+MÉDICA: Isso é importante. Procure ajuda se precisar. Estaremos aqui pra ajudar. Eles te deram esse resumo aqui com o que a gente falou?
+
+PACIENTE: Sim, está aqui.
+
+MÉDICA: OK, então até a próxima consulta. Qualquer dúvida, podem nos ligar. Para qualquer coisa, nós estamos aqui.
+PACIENTE: Eu trabalhei demais. Estou sempre atrás, correndo, mas sempre consigo alcançar algo. 
+ACOMPANHANTE: Ele é esforçado. Desde 1995 ele nunca para. Mesmo cansado, ele persiste. Tenho medo do que pode acontecer se ele continuar assim.
+MÉDICA: O ideal seria ele ficar um tempo em repouso, e depois retomar as atividades com calma, para se recuperar. Já temos um planejamento para isso. Vamos definir uma nova estratégia.
+ACOMPANHANTE: Ele está se recuperando aqui em Minas.
+MÉDICA: Recuperando? Isso é ótimo. Mas conte-me, como ele está fazendo isso?
+ACOMPANHANTE: Tentamos manter uma rotina saudável em Belém. Não tem sido fácil, mas temos conseguido.
+MÉDICA: Sim, entendi. Mas me diga, ele tem sentido alguma dor? E tem tido algum inchaço que tenha percebido?
+PACIENTE: Não, não tenho tido inchaço.
+MÉDICA: Sem inchaço então. Isso já é um bom sinal. Mas e a dor, como está?
+ACOMPANHANTE: Às vezes ele sente dor, mas sempre prossegue. Ele é muito determinado.
+PACIENTE: Na verdade, ando sentindo dores nas pernas. Tenho que parar sempre. Minhas pernas doem muito.
+MÉDICA: Me dê esse braço aqui para eu ver melhor. Como é essa dor? É uma dor muito forte? Ou é mais um cansaço? 
+PACIENTE: A dor é forte, sinto que queima. Tenho que parar quando começa.
+ACOMPANHANTE: Isso acontece principalmente quando precisamos sair, especialmente quando estamos andando pela cidade. Ele se esforça, mas às vezes a dor é muito forte e tem que parar.
+MÉDICA: Entendi, vamos examinar isso melhor. Você tem sentido essa dor mais nas panturrilhas?
+PACIENTE: Sim, principalmente ali. E também tenho tido muita câimbra.
+MÉDICA: Pois é, me mostre onde está doendo.
+ACOMPANHANTE: Mas apesar da dor, a gente tenta continuar caminhando. Eu também sigo o ritmo dele. Eu suporto bem, mas vejo ele sofrendo.
+PACIENTE: Calma, você está indo rápido demais. Preciso de um tempo para descansar.
+MÉDICA: Ok, vamos com calma. Vamos focar na câimbra. Você já foi fumante, correto?
+PACIENTE: Sim, eu fumei por muitos anos.
+MÉDICA: Isso pode ter contribuído para os problemas que você vem apresentando. 
+ACOMPANHANTE: Ele parou com o cigarro faz um tempo. Mas ainda assim temos que fazer pausas durante as caminhadas. Antes conseguíamos caminhar sem fazer muitas pausas.
+PACIENTE: Bebi muito. Fazia isso... Mesmo depois de velho. Já desde muito jovem. Agora já estou com 60, e aí, todos... Bebia muito e, assim, mudei para o chá. Não é sério. Mesmo, ela também está descobrindo problemas nos rins também, tá? Está toda...
+MÉDICA: Vamos lá. Qual remédio você está tomando? Vi que você parou de usar metformina, como eu recomendei. 
+PACIENTE: Parei, sim. 
+MÉDICA: Você está usando amlodipino, 1 de manhã e 1 à noite. Eu vou prescrever para continuar assim: 1 de manhã e 1 à noite. Está tomando 2 sinvastatina à noite, correto? Omeprazol de manhã. O A.S. no almoço. Certo? Você está tomando topiramato? 
+PACIENTE: Estou tomando topiramato, sim. No almoço e no jantar. 
+MÉDICA: E a insulina, você está tomando 36 unidades pela manhã e 16 à noite.
+PACIENTE: Isso aí. Isso. Certo.
+ACOMPANHANTE: Doutora, por causa da saúde dele, será que seria bom marcar um... Esse não, né? Quando eu falo que é pra se regular com os remédios, parece impossível. Eu não sei, a glicose, se ele tiver, assim, um nível muito alto, ele precisa tomar de qualquer jeito?
+MÉDICA: Ele tem que tomar todos os dias, umas 36, 100 unidades, claro. Mas isso pode causar muita hipoglicemia. A essa hora, ele já deveria ter tomado café. Hoje ele precisava ter tomado café. Ele esqueceu de tomar café e ficou na garrafa, fez café, tem um pouquinho lá, uma coisinha sem sal. Isso não é comum.
+ACOMPANHANTE: Pois é, mas veja se ele esquece de usar o TikTok. Ele não esquece. Não esquece mesmo, de usar o TikTok. Mas ela está certa, né? E estava ela sentada lá. No momento que estava minha irmã e estava lá com ele. Por que eu fui tomar um café? Agora está reclamando de fome.
+PACIENTE: Sim, naturalmente. Isso pode ser algo sério. Nunca vi uma pessoa esquecer do café da manhã. É a primeira vez que ouço algo assim. Precisamos ver, né? Ele não é organizado. Mas isso dificilmente acontece, né?
+MÉDICA: Para mim, ele é desorganizado.
+PACIENTE: Não, mas hoje não sei o que aconteceu.
+MÉDICA: Mas... Eu sei que ele toma, mas não deixe de tomar o café da manhã.
+PACIENTE: Mas eu acho que ele não sentiu fome, não sei. Eu também não senti fome hoje de manhã. Talvez foi isso. Podemos ver. Mas agora chegou a hora.
+ACOMPANHANTE: Pois é, mas agora chegou.
+MÉDICA: Este exame de circulação deve ser o Doppler dos membros inferiores. E sua creatinina, como está?
+
+PACIENTE: A enfermeira disse que estava um pouco alta, mas nada exagerado.
+
+MÉDICA: E você está tomando o Enalapril?
+
+PACIENTE: Sim, todo dia.
+
+MÉDICA: Ótimo. E a Hidralazina, você está tomando também?
+
+PACIENTE: Sim, estou tomando.
+
+MÉDICA: Muito bem. E o AAS, você está usando?
+
+PACIENTE: Sim.
+
+MÉDICA: Excelente. E a furosemida, como está o uso? 
+
+PACIENTE: Ah, estou tomando duas vezes ao dia.
+
+MÉDICA: E como você está se sentindo? 
+
+PACIENTE: Sem maiores problemas, doutora. 
+
+ACOMPANHANTE: Ela tem se sentido bem cansada ultimamente. Eu percebi isso.
+
+MÉDICA: Certo, obrigada por nos dizer isso. Vamos acompanhar de perto para ver se isso tem a ver com a medicação ou se é decorrente da própria doença renal.
+PACIENTE: Um exame de sangue. Na quinta... Deixa eu ver. Não, você vai fazer. 
+MÉDICA: E o outro. Eu saio no segundo turno. Os outros você deixa em um... Os outros eu saio no segundo turno. Os outros eu saio no segundo turno... 8h20, no dia 20, outras 9h e outras 1h20. Tudo dentro do dia. Imagina se você só olhou no seu boletim de tarde, hein? É pra vir cedo e ficar o dia inteiro. Não fazer uma molecagem assim. Igual eu fiz agora há pouco tempo, né? Há pouco tempo que eu fiz. 
+ACOMPANHANTE: Isso, ótimo. Você fez só duas. Aqui? 
+MÉDICA: Oi. Que dor. Não. A cabeça tá velha, já. Isso aqui são carótidas, né? 
+ACOMPANHANTE: É. Isso aqui é de setembro. 
+MÉDICA: Ah, mas você falou que tava tudo certinho, não tem nada. É, mas esse aqui não marcou, né? 
+ACOMPANHANTE: Uhum. Esse aqui não marcou. 
+MÉDICA: Não, mas eu vou ter que fazer de novo. 
+ACOMPANHANTE: Por quê? 
+MÉDICA: Ah, você tá... As duas estão aqui no pescoço. É, deixa eu ver se tem pra você. Olha só, isso aí não tem como... Esse tipo de coisa não dói. Isso aí é dor muscular, você tá vendo? É, eu falei no meio também. Até carótida comum. Ô, Marcos, eu pensei em te passar um remedinho pra ver se você dá uma animada. Eu tô já achando muito... Eu tô meio deprimido por causa desses problemas. Você precisa lidar com isso, né? Não vai te viciar, mas eu acho que vai te ajudar. 
+ACOMPANHANTE: É, passa, eu te passo. Você toma? 
+PACIENTE: Tomo. Ótimo. 
+MÉDICA: E vou te passar um remédio ciprofibrato. 
+PACIENTE: Nossa, que maravilha. Eu amo ele. 
+MÉDICA: Ah, ficou até animado, né? Só de saber que vai tomar, né? 
+PACIENTE: Ele me levanta, o ciprofibrato. Tá cento e poucos reais a caixa. 
+MÉDICA: É uma vida, né? Mas deixa eu te falar, você vai pegar no posto esse remédio, tá? Acho uma solução. Precisa ter confiança. Esse remédio é muito bom. Só que ele vai demorar um mês pra fazer efeito. Tá? Faz um monte de ano que eu tomo ele, pode confiar. 
+PACIENTE: Vai demorar mais ou menos um mês pra fazer efeito. 
+MÉDICA: E pode ser, pode ser, que nos primeiros dias de uso, não se sinta melhor. Não se sinta melhor. Não se sinta melhor. Mas, no final dos dias de uso, tá? Você sente uma piora dos sintomas.
+MÉDICA: Como, por exemplo, ou você pode piorar da ansiedade, ficar mais ansioso, mais angustiado. Ou até a tristeza piorar um pouco. Pode acontecer. Se isso acontecer, é porque o remédio tá reorganizando a sua cabeça. É como se fosse um cérebro que tá... Seu cérebro tá desorganizado. Igual a gente tem pressão alta, você pode ter essas coisas, né? Essas tristezas e tal. O remédio vai te ajudar a reorganizar isso. No início é como se fosse uma bagunça que você pega e joga tudo pra fora. Piora a bagunça pra depois organizar. É isso. O remédio vai fazer isso. Não sei, tá? Talvez. Tem gente que não sente nada. Mas se você sentir que você tá pior depois que você começou o remédio, aguenta firme. E, em duas, três semanas, você para de sentir. E depois você começa a melhorar. Tá bom? Mas talvez nem aconteça. Se acontecer, você já sabe que não... Só vai parar o remédio se for insuportável. Tá bom? A minha preocupação aqui é que, assim, você já chegou aqui com o rim um pouco prejudicado, tá? É... Mais ou menos 25% de função renal. Neste exame atual, você tá com... Com 21%. Piorou um pouquinho. Isso pode ser... Como eu costumo dizer... Temporário, tá? Pode ser que depois de tudo melhore um pouquinho. Mas, sim, você vai ficar nessa faixa aí. E a gente sabe, Marcos, que existe um risco de, lá na frente, em algum momento, você precisar de diálise. Se precisar, vai fazer. Enfim, a gente vai... Encarar o que tiver que encarar. Não é tão ruim quanto parece. Apesar de parecer uma coisa horrível, não é tão ruim quanto parece. Tem vários pacientes aqui que estão nessa mesma situação. E tudo mais. Mas não é o momento agora. Mas eu preciso conversar com você sobre uma coisa chamada fístula. Alguém já falou isso pra você? Eu. É... A fístula é o seguinte. É um... Uma cirurgia pequena. Feita no braço. Por isso que eu pedi esse doutor para avaliar os braços. O que é a fístula? Você vai pegar uma artéria, que é uma
+PACIENTE: Há pouco interesse sim, não consigo fazer nada. 
+MÉDICA: Existe um termo para isso. Nós chamamos de anedonia. É onde você perdeu o interesse na vida. Normalmente, isso é parte da depressão clínica. 
+MÉDICA: Uma das coisas a que prestamos muita atenção é pesquisar se há depressão. Damos muita importância ao seu estado emocional, pois isso tem grande influência na sua condição física. 
+MÉDICA: Sobre seus medicamentos, você está tomando Atorvastatina? 
+PACIENTE: Não, eu nunca ouvi falar disso.
+MÉDICA: Está no seu prontuário, pode ser que você esteja tomando com outro nome. Devo recomendar para você começar a tomar o Atorvastatina. Ele fará um trabalho melhor para o seu colesterol. 
+MÉDICA: Além disso, farei uma recomendação para o seu médico de atendimento primário para iniciar um inibidor de recaptação de serotonina, é um tipo de tratamento para a depressão, ele pode te ajudar a sentir-se melhor. 
+MÉDICA: É importante esperar e ver como seu corpo responde a esse medicamento. Não quero que se apresse e já diga que está melhorando. Eu quero que você tome o medicamento por pelo menos algumas semanas antes de começar a ver algum efeito. Você entendeu? 
+PACIENTE: Sim, eu entendi.
+MÉDICA: Tem uma última coisa antes de terminarmos nosso dia. Nós conversamos sobre muitos problemas sérios e eu quero garantir que você não se sinta sobrecarregado com todas essas informações.
+MÉDICA: Lembre-se, nós estamos todos do seu lado. Não hesite em nos procurar se você precisar de qualquer coisa. Estamos aqui para ajudar.
+PACIENTE: Sim, eu entendo. Muito obrigado.
+
+MÉDICA: Graças a Deus, ainda. Eu não penso que eu nunca vou voltar no que eu já vi. Não, não. 
+
+ACOMPANHANTE: Ela não está falando disso. Você sair e se distrair. Não é que é porque você vai sair pra beber, nem pra fumar. Não é isso que ela quer dizer. Vou cansar agora. Você sair distrai a mente, né? Bater um papo com outras pessoas. Você está entendendo?
+
+PACIENTE: Quando eu bato um papo, eu vou gastar daqui.
+
+ACOMPANHANTE: Sim, meu filho, mas não é isso não. É isso que ela quer dizer, entendeu? Eu sair, passear. Você acha que ele está meio...
+
+PACIENTE: É, passear. 
+
+ACOMPANHANTE: Não, eu falo com ele, entendeu? Mas ele não tem vontade. É isso aí. Então...
+
+MÉDICA: É, mas assim, o que dá problema no rim, é claro que beber água é bom, sal, mais sal, ficar diabético, beber demais, um costume faz bem e mal, é isso aí. Ficar obeso, isso aí é o pior do mundo, é péssimo.
+
+PACIENTE: É, né? A pessoa se preocupa em limpar a cara e não cuidar do resto.
+
+MÉDICA: É. Olha aqui. Exatamente. Eu fiz várias modificações aqui, para o seu genético, pra gente fazer um ajuste pra você. Tá bom? Ó, vamos lá. AAS é manter depois do almoço, está bom? Alopurinol do mesmo jeito, rosuvastatina, insulina, alendronato, dois comprimidos são suficientes, mantém tudo igual. 
+
+MÉDICA: O que mudou? O losartan vai ser um por dia só, um pela manhã, não vai ser mais dois ao dia, tá? É muito importante que você reduza o uso de losartan nesse momento, tá? Compreendeu? Para sua pressão não subir, eu vou acrescentar hidralazina. 
+
+MÉDICA: Hidralazina é comprimido, não é caro, é mais barato, tá? Hidralazina é o que se usa, 50mg pela manhã e 1 à noite, pra ajudar a controlar a sua pressão. E o ciprofibrato, uma noite, por 3 meses. Está bom? Daqui a 3 meses, a gente vai querer fazer esse exame, pra ver se você está bem. Anotou tudo?
+
+MÉDICA: Vamos lá, isso é tudo fácil. Estranho, né? Ainda que eu saiba explicar. Vou dar o tempo necessário. Deixa eu ver se vou precisar de mais algum exame. Isso aqui ó. O medicamento Alprazolam, 1 comprimido pela manhã, são 60 comprimidos no total. Se tudo der certo, se
+MÉDICA: Se o medicamento estiver acabando e não der o tempo dele voltar aqui, vá no posto, pegue no posto com o médico, tá bom? Ele pode fazer, é só levar a cópia pra ele ver. Tá bom? Todo dia de manhã, toma um comprimido, né? Então, é esse que vai funcionar. Todo dia de manhã. Então, faz o horário, pode ser antes do café, tá? E esse aí, é um outro exame, [PACIENTE], que eu estou te pedindo um Doppler, mesma coisa, eu estou fazendo igual eu fiz aqui do pescoço, pedi do pescoço, é da barriga, da aorta, da artéria espacial, que é isso na barriga. Tá bom? Pra gente fazer um screening total seu. Você quer um áudio? Eu faço um áudio pra você.
+
+MÉDICA: Agora, bota tudo de bom que você pode ter aí. Me ajuda aqui, se você foi diagnosticado, hipertensão e diabetes desde 2013, né? Aí descobriu tudo isso, quando ele teve problema de pulmão. Qual que é o problema de pulmão, hein?
+
+PACIENTE: Tumor de hipófise.
+
+MÉDICA: Descobriu essas coisas todas. Aí, pelo pulmão, como é o nome do negócio aqui? 
+
+PACIENTE: Prótese.
+
+MÉDICA: Tomou prótese. Tá. Eu ouvi dizer que o diabetes é o mesmo horário, tá, vocês estão controlando, estão tratando. O que que tem de novo com diabetes? Diagnosticado em 2013, né? Descobriu durante o episódio de tuberculose pulmonar que foi tratado, né? Tá. Doença renal crônica. Doença renal crônica. Diabetes, tá? Muito bem. Teve problema em carótida, né? Carótidas. Carótidas. Tiraram todas.
+
+PACIENTE: Eu vou morrer?
+
+MÉDICA: Não, precisa ter cuidado, né? Eu acho que é bom. É possível. Eu passei três vezes por lá. Tá com anemia também, pode ser que isso... As anemias... estejam influenciando. Anemia, né? Nossa, anemia, anemia. Quase que uma dor já desce aí atrás. Nossa, eu durmo muito.
+
+MÉDICA: Eu esqueci de uma coisa que você precisa. Sulfato ferroso. E vou começar com um outro. Madrugada toma esse cálcio. Pega esse aqui que tem remédio. Tá? E que a gente encaminhou pra cá? Vem pra cá.
+MÉDICA: Prá eu entender, por que acha que não consegue trabalhar? 
+PACIENTE: Eu me canso muito, eu me canso.
+ACOMPANHANTE: Sabe? Ele fica muito tempo sentado. Quando levanta, ele fica cheio de dor. Ele fala que é rindo, mas é porque ele tem o problema de coluna também.
+PACIENTE: É sério, mas eu parei, eu não aguento mais não.
+MÉDICA: Então tá bom. Pra situação atual. Aqui, o sulfato ferroso, são dois comprimidos. Já tinha dado o G5, só faltou esse aqui. O sulfato ferroso são dois comprimidos 30 minutos antes do almoço ou jantar, e o carbonato de cálcio, um comprimido imediatamente antes do sulfato ferroso. Aí, quando for comer, um carbonato de cálcio. Meia hora antes do jantar, mais dois, quatro, cinco, e quando for comer, mais um carbonato de cálcio. Tá tudo certinho aqui? Escrito?
+ACOMPANHANTE: Está tudo certinho, escrito.
+MÉDICA: Tá bom? Mas é a medicação que a gente tem que ficar ligado. Tirando aqueles que falam. Então, é ligado. Mande mais notícias, manda pra você melhorar. Vai dar um melhora. Tá bom?  
+PACIENTE: Glória a Deus. Obrigado.
+MÉDICA: Você vai melhorar, tenho certeza. Tchau.

@@ -1,0 +1,127 @@
+PACIENTE: De uns tempos pra cá, tive uns mal-estares antes do meu exame do coração. Um dia eu acordei com dor no corpo, dor no peito, febre. Minha pressão estava muito baixa e meus batimentos acelerados. Fui a um posto de saúde e pensaram que eu estava com dengue. Mas, após os exames, descartaram. A médica disse que eu estava desidratado. Tentaram aplicar um medicamento intravenoso, mas tiveram dificuldades para encontrar a veia. Depois começou a melhorar gradativamente, mas esse episódio me deixou abalado.
+MÉDICA: Você mencionou que isso ocorreu no início de dezembro, correto?
+PACIENTE: Sim, foi por aí. No dia 5 foi quando fiz os exames de rotina. Comecei a sentir mal no dia 27. Usei um medicamento chamado pentoxifilina, mas não chegaram a aplicar nada intravenoso. Prescreveram também dois anti-inflamatórios, mas não me recordo quais eram. Foram remédios para continuar o tratamento em casa e tomei somente os comprimidos.
+MÉDICA: Entendi. Então você acha que foram prescritos anti-inflamatórios por causa da possível infecção?
+PACIENTE: Isso. Acho que era para tratar essa infecção que tive. Foram dias de mal-estar, dor e febre, mas eu já havia me recuperado. Tomei uma ou duas vezes apenas. Fiquei muito fraco por alguns dias.
+MÉDICA: É, percebi que teve dificuldades até para se alimentar.
+PACIENTE: Sim, após esse episódio, felizmente, as coisas melhoraram. Não tive nenhum outro sintoma diferente.
+MÉDICA: Interessante. Foi uma situação atípica mesmo.
+PACIENTE: É, foi algo singular, mas hoje estou bem melhor. Agradeço por tudo.
+MÉDICA: De nada. Sempre estamos prontos para ajudar. 
+PACIENTE: Sinto-me muito melhor agora. Vocês realizaram um incrível trabalho comigo. Obrigado.
+MÉDICA: Fico feliz por você. E peço desculpas pela demora.
+PACIENTE: Imagina, tudo ocorreu bem. Obrigado.
+MÉDICA: De nada. Fico a disposição. 
+PACIENTE: Obrigado. Estou me sentindo melhor, graças a Deus.
+MÉDICA: Que bom ouvir isso. Então, hoje iremos realizar alguns exames. Ok?
+PACIENTE: Por que precisamos fazer estes exames?
+MÉDICA: Eles são importantes para entendermos como está o funcionamento do seu corpo.
+PACIENTE: Não compreendi direito. 
+MÉDICA: Você já ouviu falar sobre a função do interferon?
+PACIENTE: Não, você poderia me explicar? 
+MÉDICA: Claro, vamos conversar sobre isso.
+MÉDICA: Muito obrigada. Esse sistema está meio lento. Não sei porque não estamos conseguindo visualizar. Está vendo isso também?
+
+PACIENTE: É, está complicado. Eu percebo que o sistema está tão lento que parece que perdeu o ritmo. Na semana passada você notou isso também?
+
+MÉDICA: Sim, hoje está bem difícil. Naquele dia não estava tão lento. Na verdade, o sistema chegou a ficar fora. Hoje está apenas demorando para carregar os exames. Normalmente é mais rápido.
+
+PACIENTE: Mas está demorando mais do que o normal. Naquele dia que o sistema caiu, eu lembro. Depois que ele voltou, passou umas duas horas e caiu de novo.
+
+MÉDICA: Sim, passou cerca de nove horas até que voltasse. Consegui atender alguns pacientes antes.
+
+PACIENTE: Teve um colega que chegou mais tarde, porém, teve uns cinco pacientes que acabaram indo embora por não ter previsão do retorno do sistema.
+
+MÉDICA: Realmente, não havia previsão, entendo. Deve ser frustrante para quem vem de longe.
+
+PACIENTE: Sim. Eu moro perto e ainda assim acho chato. Muito desconfortável. Naquele dia, o sistema teve uma falha geral.
+
+MÉDICA: Sim, e nós pagamos um preço alto pelo serviço, não é verdade? Seja pelo acesso à internet, pelo telefone, é frustrante quando há interrupções. Hoje em dia, dependemos muito dessa tecnologia.
+
+PACIENTE: Antigamente não era assim. Não tínhamos esse problema. Quando comecei o tratamento no Santa Rita, nem sequer era comum ter celular.
+
+MÉDICA: Sim, naquela época, até os celulares eram grandes e poucos tinham acesso.
+
+PACIENTE: Quando havia uma emergência, a gente simplesmente ligava o telefone fixo, sabe? E não era nada complicado.
+
+MÉDICA: Sim, nós que somos dessa geração vimos a transição dessa era. Antigamente tudo era manual.
+
+PACIENTE: Eu me lembro bem, foi em 2005. Não tinha... não tinha nem sequer carinho pelo paciente. Se você esperava por um atendimento humanizado, não havia.
+
+MÉDICA: É verdade, nossa geração assistiu a uma mudança total no atendimento ao paciente.
+
+PACIENTE: Eu comecei o tratamento em 97, no hospital Santa Rita. Estive lá no ano passado, já melhorou muito.
+PACIENTE: Pra cá. Sério? Aí tudo se transformou, tá totalmente diferente.
+MÉDICA: É. Só que aí virou assim, né? É, lá pra trás. É, lá pra trás, né? Eu não sei como é que era a noite, mas... Aí fizeram, acho que... quatro... ou cinco prédios novos de lá pra cá. Inclusive um ambulatório. O ambulatório... era terrível, né? Era terrível. Era, né? Era um lugar... Não tinha cenário pra ir pro chão não, pra não entrar em parte. Onde ficava o fogo? O fogo era grande, tinha as portas tudo embaixo, tinha reboco nas paredes, tinha uns dois ou três bancos só, pra 200 pessoas, um ventilador... Nossa... Imagino que aí não era, hein? Era enorme, um prédio enorme, tinha... 1.0, né? Antigamente, 1.0, né? É.
+MÉDICA: Olha só, quando ela faz seus exames, sua creatinina varia sempre de 2.1 e 2.4, em média. Tá? Quando a gente olha desde 2021, tinha 2.4, em algum momento caiu pra... 2.3, chegou a 2.2, chegou a 2.3, chegou a 2.4, chegou a 2.5, chegou a 2.6, chegou a 2.7, chegou a 2.7... não era pra 2.3, tá? Então tá estável, tá? Estou totalmente estável, graças a Deus, tá bom? 
+PACIENTE: E o... o 3.6? Que seria depois que chegar?
+MÉDICA: Deixa só eu fazer uma continha aqui, 2 e 2, tá bom, 3. 99, tá ótimo. Porque dava 243, né? Quanto eu vou ter? Quando chegar lá, Na última consulta, você falou que era 241. Era para o número 99. A gente estava ajustando uma medicação. 
+MÉDICA: Exatamente. Estávamos ajustando o medicamento do número 195 para o número 124. Porém, o ajuste não era significativo. E, na verdade, os valores normalizaram. 
+PACIENTE: E eu fui na nutricionista. Ela me orientou lá. Alguma coisa eu consegui fazer. Alguma coisa eu mexi na alimentação. Mas nem tudo eu consegui fazer. Não é? Alguma coisa eu consegui mexer e comecei a comer. É? Já é lucro, né? É difícil a gente fazer tudo certinho, né? 
+MÉDICA: Você foi na nutricionista, né? Ótimo. É difícil a gente fazer 100%. Eu estava conversando com uma paciente aqui perto. Paciente da senhora também. A vida que a gente tem não dá para seguir tudo. Seguir tudo, a gente vai ficar de camisa-de-força.
+PACIENTE: Está acompanhando sim, tem que fazer o máximo para não se enganar. Eu penso assim, você não pode se relaxar. Eu tenho pacientes que são resistentes e não fazem nada. Nada. Tem vários. A maioria, sim, não faz nada. Depois, aí, a doença evolui e não sabe o que fazer, né? Não toma remédio direito, não faz. Não faz nada. Tem um grupo pequeno, muito pequeno, que é radical. 
+
+MÉDICA: Faz tudo. A ponto de, tipo assim, levar a dieta ao extremo. As pessoas acham que é tipo assim, diminuir o sal. A pessoa tira o sal 100%. Eu falo, não. Aí, às vezes, tem uma sensação, você fica bem. Então, é muito pequeno isso aí. Mas existe. E tem a galera que tenta se esforçar, fazer o máximo que pode, de vez em quando, né? Dá uma fugida. Se você, pelo menos, fizer parte desse grupo, a pessoa radical, consciente, tem, costuma ter uma boa resposta, né? 
+
+MÉDICA: Porque ela é uma pessoa que faz tudo certinho, no sentido de seguir as orientações médicas. Não faz o que quer, entendeu? Esse pessoal se dá muito bem. O pessoal que não faz nada, entende. Se você se cuidar a maior parte do tempo e fizer as coisas certinho, está tudo bem. De vez em quando, entendeu? Ah, eu posso fazer 100%, eu posso fazer 80%. Poxa, tá bom. É nesse sentido.
+
+MÉDICA: Então, você está estável, sua função renal está controlada. Você está estável mesmo, entendeu? Não vou pedir exame de colesterol agora, posso pedir na próxima consulta. Não tem porquê, então a gente observa, estou com a lista dos exames. Então, é isso aí. 
+
+MÉDICA: Você tem uma resposta muito boa, tá? Eu te encaminhei para vacinação. Eu não consegui fazer isso na última consulta. Eu tenho que pensar se eu consigo fazer isso agora.
+
+MÉDICA: Tudo bem. Não adianta ela acreditar que eu tenho a solução para tudo. O que acontece? Eu saio de um município e vou para o outro. E a gente tem que ter em mente que nossa situação é complexa. Mesmo com o melhor cuidado, podemos enfrentar dificuldades.
+MÉDICA: Sempre, sempre. Imagino. Então, eu acabei não fazendo, igual estava com uma tabulação acertada, esse paciente aqui agora, acho que eu não tinha feito. Eu sempre fiz assim. 
+PACIENTE: Algumas coisas não consegui fazer porque a gente vai priorizando determinadas coisas mas eu preciso retornar, eu sei que eu preciso. Se eu vou ver minha página lá em... Esse mês ainda. Você está com o prontuário, não está?
+MÉDICA: Estou, está comigo sim, não tem que desistir. Tudo bem se não ter feito mas tenta se organizar agora, com calma, para fazer, se você tiver que fazer não sei, talvez no HPM, não é em qualquer posto que faz dose dobrada da vacinação que você está tomando.  
+PACIENTE: Ah sim, entendi. Eu vou tentar fazer lá. Vamos lá achar o caminho. 
+MÉDICA: E você se sentiu bem com o remédio, não é?
+PACIENTE: Sim, não há nada, não tem nada.
+MÉDICA: Mas não é essa alteração que tive ali no dia 27 de novembro? Isso de tempos em tempos acontece comigo.
+MÉDICA: É, pode ser simplesmente um quadro de estresse, né? Isso me derrubou, mas também acalmou e... Né? 
+MÉDICA: Conversando com a minha equipe, eu acho que podemos imaginar que tem a ver com um pouco com o emocional, passamos por um período de cansaço físico, muito estresse e muita preocupação em uma situação que vivemos lá e às vezes não olhamos só isso e qualquer coisinha e o organismo da gente já vai mais mesmo, né?
+PACIENTE: Já passei por muita coisa. Eu tenho, por exemplo... Isso já acontece comigo há muitos anos. Por exemplo, eu não posso ver sangue. Eu sinto dificuldade, por exemplo, se eu for visitar uma pessoa que adoeceu.
+PACIENTE: passou por alguma coisa, quer uma pessoa mais próxima, aquilo me dá um efeito... te afeta, né? 
+MÉDICA: Entendi. Então, aqui tem certas coisas que... Gente, né? Cada um tem uma sensibilidade, né? Tem que saber respeitar a sua situação. Você não gosta? 
+PACIENTE: Eu tinha... só que você tinha um lembrete, você tá falando? 
+MÉDICA: Sim, tá. Por causa da falta de cheiro, um lembrete, botar cana e o... e o que acontece assim, cara? 
+PACIENTE: Eu, há uns seis meses atrás, eu tava... em Cariacica, eu fui na casa da amiga. Eu fui fazendo tratamento pra... de março de 2023 pra cá e ela... ela me falou de uma situação nova que tava acontecendo com ela. Ela tava apavorada com a situação. Naquele dia eu passei mal, antes de chegar em casa. Cheguei... eu consegui ainda chegar no serviço. Eu fui direto no serviço do... pra comprar uma piscina. Cheguei no serviço tivemos que fechar o comércio. Minha esposa foi dirigindo pra casa, eu não consegui dirigir e aí agora foi acontecer o 47 de novembro de novo. Então são certas coisas que... sei lá... 
+MÉDICA: Médico foi aqui, gente? Ele me mostrou depois e... fechou o remédio? 
+PACIENTE: E aí... e aí acontece que... e às vezes eu tenho... tenho febre, às vezes tenho dor, às vezes dá diarreia e... dois, três dias eu... recupero de novo. 
+MÉDICA: Então assim, ó... Se você for procurar um juiz de medicina não tem escrito, né? Mas ele sabe que estresse... que... ansiedade, essas coisas, né? A educação... só piora a nossa imunidade, né? 
+PACIENTE: Então... mas aí a pessoa dorme menos, talvez não durma tão bem... dorme menos, não. Nesse... nesse episódio que aconteceu lá em casa eu fiquei praticamente a semana que eu não dormi. 
+MÉDICA: Pois é... aí a sua imunidade foi assim... não dorme? 
+PACIENTE: Não consigo... então... só pra resumir... o pedreiro que eu fiz um trabalho lá, ele atrasou pra começar a fazer. Quando ele começou a fazer... começou a chover. Ele estava com... abrindo uma estrutura, uma... estava de casa, parede assim e o terreno desabou duas vezes, uma vez que eles lembram que... nossa... é... ele estava com o corpo... os
+PACIENTE: Fiquei muito preocupado [...] desabou inteiro e minha preocupação era que alguém se machucasse. Eu consegui me tranquilizar depois que saiu daquela situação, entendeu? 
+MÉDICA: Entendo.
+PACIENTE: Não sei... A situação mexeu muito comigo... eu estava tranquilo, pois por enquanto nada de errado tinha acontecido com ninguém lá e eu não podia abandonar o trabalho.
+MÉDICA: Sim, eu entendo.
+PACIENTE: Havia perigo para quem estava trabalhando e para quem passava a pé na beira da estrada. E deixa eu te perguntar uma coisa, só para esclarecer. Você disse que as câimbras melhoraram, porque estou me alongando. Como é que está isso? 
+MÉDICA: Às vezes ocorrem e às vezes não. Eu tenho feito muito pouco alongamento. Estes movimentos podem ajudar de um lado e piorar de outro.
+PACIENTE: Como assim piora? Eu tentei fazer algum exercício para melhorar isso, mas não continuei. Mas ouvi dizer que um médico recomendou a uma pessoa algum tipo de tratamento com mostarda, da marca Itacanga. Você já ouviu falar disso? 
+MÉDICA: Mostarda? Está se referindo a comer a folha? Na realidade, a pessoa que foi orientada usava o próprio molho de mostarda mesmo. 
+PACIENTE: Entendi. Porém, em princípio, se não há melhora clínica, ou um diagnóstico claro, este tipo de tratamento pode não funcionar, certo?
+MÉDICA: Sim, você deve praticar exercícios físicos, como já mencionamos. 
+PACIENTE: A dificuldade que tenho é por conta da minha perna, que complica na academia. 
+MÉDICA: Eu entendo, mas outros exercícios também são importantes. Você precisa fazê-los. Sim, porque a gente vai envelhecendo. Eu, por exemplo...
+MÉDICA: Como estão suas caminhadas, você tem conseguido realizar normalmente? 
+PACIENTE: Caminhada, eu tenho dificuldade. Se eu vou caminhar em uma área muito regular, eu faço uma caminhada de 20 minutos e eu fico cansado por 3 dias. Pois é. Eu vou tentar fazer alguma coisa em casa.
+MÉDICA: Por que você fica mexendo na perna?
+PACIENTE: É a lesão da medicação, da quimioterapia, da terapia. No corpo todo, a musculatura. Então, a minha perna direita, ela é mais fraca que a esquerda. E eu, por exemplo, se eu tiver que ficar em pé, só na perna direita eu não consigo. Quando eu preciso subir escadas, eu desço e volto, pois não consigo começar a caminhar.
+MÉDICA: Você já tentou colocar o primeiro pé no segundo degrau e então colocar o segundo pé no mesmo degrau? Assim, pode ser que você consiga subir. Entendo que você não consiga pular os degraus, mas andar desse jeito pode facilitar. Agora, você mencionou que ainda é sofrido para subir e descer escadas, certo?
+PACIENTE: É, isso mesmo.
+MÉDICA: Você está se cuidando muito bem. Seus exames apontam uma taxa estável. Eu acho que esse estresse que você mencionou tem muita relação com tudo isso. Não podemos evitar o estresse, mas temos que tentar administrá-lo da melhor maneira possível. Deixe-me pegar os papéis de seus exames. Um minuto, por favor.
+PACIENTE: Vamos aproveitar para pegar a receita também, não é mesmo, doutora?
+MÉDICA: Isso, vamos aproveitar. E graças a Deus, aquele evento de infecção que você teve não prejudicou seu rim, pois era uma possibilidade. Aqui está a sua receita. E seu pedido de exame para a próxima consulta. Daqui quatro meses precisaremos analisar tudo novamente.
+PACIENTE: Já posso marcar a próxima consulta?
+MÉDICA: Sim, pode sim. Mas primeiro é necessário trocar essa requisição na recepção. 
+PACIENTE: Obrigado, doutora.
+MÉDICA: Depois de trocar a requisição, você volta aqui na minha sala para a gente marcar a consulta, tudo bem?
+PACIENTE: Perfeito, doutora. Muito obrigado.
+MÉDICA: De nada. Desejo que esse próximo período seja mais tranquilo para você. Até a próxima.
+PACIENTE: Espera isso. Fez a sua vacinação, tá?
+MÉDICA: Tá bom. Boa tarde. Deixa eu te pedir uma gentileza. Quando você sair, aquela paciente que você estava conversando aí, ela vai entrar?
+PACIENTE: Sim. Sim.
+MÉDICA: Por favor? Tá bom. Pode ser? Obrigado.
+PACIENTE: Não vou chamar por aqui, mas sei lá.
+MÉDICA: Tá. Se a pessoa não ver. Obrigadão, tá? Tchau.
+PACIENTE: Valeu. Valeu. Valeu.
