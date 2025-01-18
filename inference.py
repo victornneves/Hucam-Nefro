@@ -112,10 +112,10 @@ def save_processed_transcription(output_path, content):
 
 
 def process_all_files():
-    primer = load_primer(PRIMER_PATH)
 
     for i in range(4, 17):
     # for i in [1]:
+        primer = load_primer(PRIMER_PATH)
         patient_id = f"{i:03}"
         whisper_file = f"{DATASET_DIR}/patient_{patient_id}/patient_{patient_id}_transcription_whisper.txt"
         output_file = f"{DATASET_DIR}/patient_{patient_id}/patient_{patient_id}_transcription_pred_gpt4.txt"
@@ -123,8 +123,7 @@ def process_all_files():
         speakers = get_speaker(patient_id)
         primer = f"{primer}\n\nOs participantes da conversa são: {', '.join(speakers)}"
         if i in [4, 5]:
-            primer = f"{primer}\n\nEssa consulta é feita com um médico residente descrito como MÉDICO ou MÉDICA, por volta do meio da consulta entra em cena o MEDICO_SUPERVISOR que repassa o trabalho do médico residente."
-        print(primer)
+            primer = f"{primer}\n\nEssa consulta é feita com um médico residente, por volta do meio da consulta entra em cena o MEDICO_SUPERVISOR que repassa o trabalho do médico residente."
         
         with open(whisper_file, "r", encoding="utf-8") as fp:
             transcription = fp.read()
