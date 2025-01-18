@@ -1,37 +1,20 @@
 MÉDICA: Entendi. Me desculpe por esse tratamento inadequado recebido. Nós vamos fazer o melhor para evitar qualquer desconforto aqui. Agora, quero entender um pouco mais sobre a sua dor no braço. Era uma dor constante mesmo após o uso de analgésicos?
-
 PACIENTE: Era sim, e muito forte. Eu já tinha sentido essa dor antes, mas nunca tão intensa. À noite, era ainda pior. Eu acordava muitas vezes com ela.
-
 ACOMPANHANTE: E o braço dele estava muito inchado. Parecia até que tinha algo errado.
-
 PACIENTE: E tinha mesmo. Era uma trombose.
-
 MÉDICA: Uma trombose? E isso foi identificado em qual hospital?
-
 PACIENTE: No Santa Bárbara.
-
 MÉDICA: Você recebeu algum tratamento para a trombose?
-
 PACIENTE: Sim, me deram anticoagulantes.
-
 MÉDICA: E você chegou a fazer alguma cirurgia para a trombose?
-
 PACIENTE: Não, foi só com medicamentos mesmo.
-
 MÉDICA: Entendi. E em relação à anemia, você já começou algum tratamento?
-
 PACIENTE: Comecei a tomar o Eritropoetina, que é para aumentar os glóbulos vermelhos.
-
 MÉDICA: Perfeito. Além desses dois problemas, teve algum outro motivo para te internarem? Além desses medicamentos, está tomando algo mais?
-
 PACIENTE: Não, acho que foi isso mesmo. Além desses, estou tomando Losartana e AAS. Só que eu estou sentindo muito cansaço, não sei se é por causa da anemia ou dos medicamentos.
-
 MÉDICA: O cansaço pode ser devido à anemia ou até mesmo por causa da doença renal. Você se sente mais cansado após alguma atividade específica?
-
 PACIENTE: Eu me sinto cansado o tempo todo. Não tem uma hora específica do dia, é o dia todo.
-
 MÉDICA: Entendi. Vamos continuar acompanhando e vendo os seus exames para entender e melhorar esse cansaço, ok?
-
 PACIENTE: Ok, doutora. Obrigado pela atenção.
 MÉDICA: Sabe, às vezes é difícil manter o acesso na veia, e por isso colocamos no pescoço. 
 ACOMPANHANTE: Mas o fato é que ela furou errado e ele sentiu dor à noite.

@@ -49,63 +49,34 @@ MÉDICA: Vou ver aqui meu resultado do exame do sangue de ontem. As clínicas es
 ACOMPANHANTE: Não, eu sei, de repente ali fala alguma coisa do tratamento. 
 MÉDICA: Vou ver os exames que você tem aqui de sangue. O que está mais recente aqui. Porque
 PACIENTE: Não nos entregam lá na UPA, fizeram vários exames lá. Mas não ficam conosco, certo? Este aqui... Aqui é de 4 de dezembro, eu tenho todos eles. Esses são todos de 4 de dezembro, da UPA. Foram feitos lá na UPA.
-
 MÉDICA: Entendi... Parece que você recuperou uma parte da sua função renal. 
-
 PACIENTE: Sim, mas eu gostaria de falar sobre isso em breve...
-
 MÉDICA: Acho que você teve uma disfunção renal. Mas, aparentemente, você está melhor do que esteve antes. Você estava muito mal. Mas ainda estamos no processo, certo? Então, eu, diria que você tem doença renal crônica. Mas leve. Se ela não estava normal, piorou muito, depois melhorou, não voltou ao normal, mas bem próximo ao normal. Então, eu diria que você ficou com uma lesão renal crônica, entende? Eu vou ter que acompanhar, mas é uma condição leve. Se for controlada, o foco deve ser o seu coração. Porque se você não cuidar do seu coração, seu estado de saúde pode piorar...
-
 PACIENTE: É, não é fácil, né? 
-
 MÉDICA: Não é. Por favor, continue.
-
 PACIENTE: O que me disseram foi que meu cardiologista disse uma coisa e o outro médico disse outra. Eu não poderia nem fazer a hemodiálise, se eu quisesse, porque o meu coração não aguenta.
-
 MÉDICA: Bem, não temos como confirmar isso agora. Eu não sei quem te disse isso, mas eu tenho muitos pacientes que têm problemas cardíacos e fazem hemodiálise. Mas você não precisa se preocupar com essa decisão agora, tudo bem? 
-
 ACOMPANHANTE: Ela disse que fez um ecocardiograma, agora ela faz no hospital de...
-
 PACIENTE: Vila Velha, mas eu também não sei se...
-
 MÉDICA: Deixe ver. Você está medicada, certo?
-
 PACIENTE: Sim. A questão é que estou tomando uma medicação para o coração. Meu problema principal é respiratório, eu tenho dificuldades para respirar. 
-
 MÉDICA: Você solicitou alta, non é?
-
 PACIENTE: Solicitei por causa da consulta de hoje. Talvez não seja nada. 
-Mas ele deu a alta, certo?
-
-MÉDICA: Sim, ele também deu alta.
-
-PACIENTE: Mas de qualquer forma, eu não fiz nada lá. Eu apenas entrei e fiquei esperando. Aliás, não tinha médico, levaram todo mundo para o...
-
+MÉDICA: Mas ele deu a alta, certo?
+PACIENTE: Sim, ele também deu alta. Mas de qualquer forma, eu não fiz nada lá. Eu apenas entrei e fiquei esperando. Aliás, não tinha médico, levaram todo mundo para o...
 MÉDICA: Não, havia apenas um médico, deveria ser apenas um médico.
-
 PACIENTE: Sim, sim. Não é possível que não tenha médico. 
-
 MÉDICA: Não, tinha um clínico.
 MÉDICA: É importante a aderência ao tratamento. 
-
 PACIENTE: Sim, entendi. Então, não faz mau e faz tratamento se eu ficar assim. 
-
 MÉDICA: Não, não é isso. O medicamento ajuda no tratamento. Entendeu?
-
 PACIENTE: Sim, entendi. 
-
 MÉDICA: O importante é seguir o que o médico aconselhou. 
-
 PACIENTE: Entendi. Bom, então vou seguir o que o senhor falou. 
-
 MÉDICA: Isso mesmo. Qualquer dúvida pode perguntar, tá bom?
-
 PACIENTE: Tá bom. Muito obrigado, doutora.
-
 MÉDICA: De nada. Até a próxima consulta. 
-
 ACOMPANHANTE: Até mais. Muito obrigado. 
-
 MÉDICA: De nada! Tchau.
 MÉDICA: Isso pode ser por algumas razões. Talvez seja falta de oxigênio, ou pode ser algum efeito colateral do medicamento. Mas, principalmente, pode ser devido à retenção de líquidos. 
 ACOMPANHANTE: Ela fala dormindo, mas é coisa que não tem noção. Ela fala, sabe, que está pescando, que está numa praça. 
@@ -125,79 +96,42 @@ MÉDICA: De nada, fique bem. Até mais.
 PACIENTE: Até mais. 
 ACOMPANHANTE: Até mais. Obrigada, doutora. 
 MÉDICA: Até mais. De nada.
-
 MÉDICO_SUPERVISOR: Coisas do outro mundo, assim, não é? Não, não é. Não é. Não é. 
-
 PACIENTE: Não é. Não é. Não é. Não é. Eu falava coisas do outro mundo, do tipo, deitava uns segundos, eu já sentava, eu ficava ali…
-
 MÉDICO_SUPERVISOR: Isso mesmo. 
-
 MÉDICA: Será?
-
 PACIENTE: Sim. Quer dizer, eu lembro... Eu sei. Eu sei.
-
 ACOMPANHANTE: Nossa Senhora, graças a Deus.
-
 MÉDICO_SUPERVISOR: Ajuda um pouco, porque se tiver algum componente associado com a sua doença, pode auxiliar. Mas não vai resolver o problema dela. 
-
 MÉDICA: Pode melhorar alguns sintomas. Mas não vai resolver. 
-
 MÉDICO_SUPERVISOR: O que vai resolver é ela melhorar a função pulmonar. 
-
 MÉDICA: Está dormindo sentada? 
-
 ACOMPANHANTE: Sim, está sentada.
-
 MÉDICO_SUPERVISOR: Isso aí, isso é do coração.
-
 ACOMPANHANTE: Coração, entendi. 
-
 MÉDICO_SUPERVISOR: Deixa eu te examinar aqui. Deixa eu ver. Pressão normal, tá?
-
 PACIENTE: Deixa, doutor?
-
 MÉDICA_AUXILIAR: Tem um pouquinho de edema. Está um pouco inchado, né? 
-
 PACIENTE: Um pouquinho, pouca coisa. 
-
 MÉDICA_AUXILIAR: Também pode ser pelo fato de que fiquei internada para tomar furosemida.
-
 PACIENTE: Mas ela não tomou. 
-
 MÉDICA: Será que não tomou? 
-
 PACIENTE: Não, aplicaram na veia, comprimido. 
-
 MÉDICA_AUXILIAR: Ela tomou ou não tomou?
-
 PACIENTE: Não, eles deram o comprimido por via oral. Eles prepararam a medicação, inseriram o acesso venoso e não me aplicaram.
-
 MÉDICA: Aplicaram ou não aplicaram? 
-
 PACIENTE: Aplicaram. Isso aí com certeza, foi dado comprimido.
-
 ACOMPANHANTE: Quando eu cheguei em casa, que a prescrição da medicação chegou a hora de administrar, que é a segunda vez que eu tomei a furosemida, aí assim, eu passei mal.
-
 MÉDICO_SUPERVISOR: E nós não conseguimos fazer nada, porque eu estava indisposta, né? Muito mal, entendeu?
-
 MÉDICA_AUXILIAR: Na outra, sim. Aplicou direto em você, por exemplo.
-
 PACIENTE: É.
-
 MÉDICO_SUPERVISOR: Mas logo, então... Tá, não precisa contar. Não precisa contar.
-
 ACOMPANHANTE: Voltar...
-
 MÉDICA: Então, o problema é que aqui, infelizmente, nós não... …
-
 PACIENTE: É porque hoje, pronto, eu contei uma situação, não estava confusa em nada, mas eu estava numa situação assim... Extrema.
-
 ACOMPANHANTE: Extrema.
-
 MÉDICA_AUXILIAR: Está em observação aqui tudo?
-
 ACOMPANHANTE: Eu vim lá na... Eu sou acompanhante. Eu vim lá na...
-
 MÉDICO_SUPERVISOR: Está no outro canto, quer dizer, de uma qualidade desse tamanho. E a prioridade de atender gente que chega com dor, precordial, dor, né?
 MÉDICA: Infarto ou algo do tipo. Porque aqui é só para urgências, se for algo grave, como um infarto, traga para cá, entendeu?
 PACIENTE: Entendi.
@@ -245,33 +179,19 @@ MÉDICA: 860 ml por dia, só quando a senhora estiver descompensada.
 PACIENTE: Isso é para descompensar. Tem que causar mesmo. Tem que causar.
 MÉDICA: Sim, depois a água não está sendo eliminada corretamente.
 MÉDICA: Enquanto seu coração não melhorar, a gente tem que ir tratando. Tome aí o remédio com água. Três vezes por dia. Pela manhã, tarde e à noite. 
-
 PACIENTE: Tomei um comprimido. 
-
 MÉDICA: Vamos reorganizar. Eu vou conversar com a equipe, mas hoje estamos com muitos pacientes, né? É sim. O paciente que eu mencionei é a principal preocupação para mim. 
-
 PACIENTE: As castanhas, nozes... Como é que pode, né? A água faz mal. Esse mix de frutos secos e outros, eu nem posso comer mais, né? 
-
 ACOMPANHANTE: Ele gosta tanto do Natal e até queria saber. Porque vem ameixa, nozes, castanhas... Castanhas do Pará... 
-
 MÉDICA: Sim, pode comer, mas com moderação, ok?
-
 PACIENTE: Sobre essa questão que coloquei para a senhora, o fato é que, quando o rim está muito prejudicado, a gente pede para reduzir a proteína, certo? 
-
 MÉDICA: Correto, em casos de doença renal crônica estabelecida, sim. Mas no seu caso eu acho que agora isso não é um problema. 
-
 PACIENTE: Eu sei que o senhor não consegue comer muita proteína. A própria doença cardíaca diminuí um pouco o apetite. 
-
 ACOMPANHANTE: Verdade, a gente já percebeu isso.
-
 MÉDICA: Tente não se preocupar tanto com a dieta restritiva agora, tá? Bebidas com muita cafeína, como Coca-Cola, não são adequadas, ok? 
-
 ACOMPANHANTE: Sim, eu imagino. Geralmente essas coisas não são adequadas, certo? 
-
 MÉDICA: Não mesmo, apenas controle a quantidade de água. Tem que beber água, mas não pode exagerar.
-
 ACOMPANHANTE: É complicado, né? Tem até frutas que tem pouca água.
-
 MÉDICA: Exatamente por isso que eu sempre sugiro um equilíbrio. Como fazer um jantar balanceado, entende? Estou pedindo os exames aqui que passarei para a senhora. Vou imprimir e a senhora vai lá e marca.
 MÉDICA: Aqui. Eu quero que a senhora faça consulta com cardiologista. Não é para fazer agora. Tem que esperar uns dias. Eu quero também que a senhora faça consulta com um médico especialista em diuréticos. Tá bom? Da minha parte, a senhora vai voltar daqui a 3 meses. Até mais ou menos Março. Tá bem? Ele está me chamando.
 ACOMPANHANTE: Você está pedindo consulta para ela com o cardiologista?

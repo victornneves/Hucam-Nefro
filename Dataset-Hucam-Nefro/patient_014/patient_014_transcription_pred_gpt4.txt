@@ -21,35 +21,20 @@ MÉDICA: Você já ouviu falar sobre a função do interferon?
 PACIENTE: Não, você poderia me explicar? 
 MÉDICA: Claro, vamos conversar sobre isso.
 MÉDICA: Muito obrigada. Esse sistema está meio lento. Não sei porque não estamos conseguindo visualizar. Está vendo isso também?
-
 PACIENTE: É, está complicado. Eu percebo que o sistema está tão lento que parece que perdeu o ritmo. Na semana passada você notou isso também?
-
 MÉDICA: Sim, hoje está bem difícil. Naquele dia não estava tão lento. Na verdade, o sistema chegou a ficar fora. Hoje está apenas demorando para carregar os exames. Normalmente é mais rápido.
-
 PACIENTE: Mas está demorando mais do que o normal. Naquele dia que o sistema caiu, eu lembro. Depois que ele voltou, passou umas duas horas e caiu de novo.
-
 MÉDICA: Sim, passou cerca de nove horas até que voltasse. Consegui atender alguns pacientes antes.
-
 PACIENTE: Teve um colega que chegou mais tarde, porém, teve uns cinco pacientes que acabaram indo embora por não ter previsão do retorno do sistema.
-
 MÉDICA: Realmente, não havia previsão, entendo. Deve ser frustrante para quem vem de longe.
-
 PACIENTE: Sim. Eu moro perto e ainda assim acho chato. Muito desconfortável. Naquele dia, o sistema teve uma falha geral.
-
 MÉDICA: Sim, e nós pagamos um preço alto pelo serviço, não é verdade? Seja pelo acesso à internet, pelo telefone, é frustrante quando há interrupções. Hoje em dia, dependemos muito dessa tecnologia.
-
 PACIENTE: Antigamente não era assim. Não tínhamos esse problema. Quando comecei o tratamento no Santa Rita, nem sequer era comum ter celular.
-
 MÉDICA: Sim, naquela época, até os celulares eram grandes e poucos tinham acesso.
-
 PACIENTE: Quando havia uma emergência, a gente simplesmente ligava o telefone fixo, sabe? E não era nada complicado.
-
 MÉDICA: Sim, nós que somos dessa geração vimos a transição dessa era. Antigamente tudo era manual.
-
 PACIENTE: Eu me lembro bem, foi em 2005. Não tinha... não tinha nem sequer carinho pelo paciente. Se você esperava por um atendimento humanizado, não havia.
-
 MÉDICA: É verdade, nossa geração assistiu a uma mudança total no atendimento ao paciente.
-
 PACIENTE: Eu comecei o tratamento em 97, no hospital Santa Rita. Estive lá no ano passado, já melhorou muito.
 PACIENTE: Pra cá. Sério? Aí tudo se transformou, tá totalmente diferente.
 MÉDICA: É. Só que aí virou assim, né? É, lá pra trás. É, lá pra trás, né? Eu não sei como é que era a noite, mas... Aí fizeram, acho que... quatro... ou cinco prédios novos de lá pra cá. Inclusive um ambulatório. O ambulatório... era terrível, né? Era terrível. Era, né? Era um lugar... Não tinha cenário pra ir pro chão não, pra não entrar em parte. Onde ficava o fogo? O fogo era grande, tinha as portas tudo embaixo, tinha reboco nas paredes, tinha uns dois ou três bancos só, pra 200 pessoas, um ventilador... Nossa... Imagino que aí não era, hein? Era enorme, um prédio enorme, tinha... 1.0, né? Antigamente, 1.0, né? É.
@@ -60,15 +45,10 @@ MÉDICA: Exatamente. Estávamos ajustando o medicamento do número 195 para o n�
 PACIENTE: E eu fui na nutricionista. Ela me orientou lá. Alguma coisa eu consegui fazer. Alguma coisa eu mexi na alimentação. Mas nem tudo eu consegui fazer. Não é? Alguma coisa eu consegui mexer e comecei a comer. É? Já é lucro, né? É difícil a gente fazer tudo certinho, né? 
 MÉDICA: Você foi na nutricionista, né? Ótimo. É difícil a gente fazer 100%. Eu estava conversando com uma paciente aqui perto. Paciente da senhora também. A vida que a gente tem não dá para seguir tudo. Seguir tudo, a gente vai ficar de camisa-de-força.
 PACIENTE: Está acompanhando sim, tem que fazer o máximo para não se enganar. Eu penso assim, você não pode se relaxar. Eu tenho pacientes que são resistentes e não fazem nada. Nada. Tem vários. A maioria, sim, não faz nada. Depois, aí, a doença evolui e não sabe o que fazer, né? Não toma remédio direito, não faz. Não faz nada. Tem um grupo pequeno, muito pequeno, que é radical. 
-
 MÉDICA: Faz tudo. A ponto de, tipo assim, levar a dieta ao extremo. As pessoas acham que é tipo assim, diminuir o sal. A pessoa tira o sal 100%. Eu falo, não. Aí, às vezes, tem uma sensação, você fica bem. Então, é muito pequeno isso aí. Mas existe. E tem a galera que tenta se esforçar, fazer o máximo que pode, de vez em quando, né? Dá uma fugida. Se você, pelo menos, fizer parte desse grupo, a pessoa radical, consciente, tem, costuma ter uma boa resposta, né? 
-
 MÉDICA: Porque ela é uma pessoa que faz tudo certinho, no sentido de seguir as orientações médicas. Não faz o que quer, entendeu? Esse pessoal se dá muito bem. O pessoal que não faz nada, entende. Se você se cuidar a maior parte do tempo e fizer as coisas certinho, está tudo bem. De vez em quando, entendeu? Ah, eu posso fazer 100%, eu posso fazer 80%. Poxa, tá bom. É nesse sentido.
-
 MÉDICA: Então, você está estável, sua função renal está controlada. Você está estável mesmo, entendeu? Não vou pedir exame de colesterol agora, posso pedir na próxima consulta. Não tem porquê, então a gente observa, estou com a lista dos exames. Então, é isso aí. 
-
 MÉDICA: Você tem uma resposta muito boa, tá? Eu te encaminhei para vacinação. Eu não consegui fazer isso na última consulta. Eu tenho que pensar se eu consigo fazer isso agora.
-
 MÉDICA: Tudo bem. Não adianta ela acreditar que eu tenho a solução para tudo. O que acontece? Eu saio de um município e vou para o outro. E a gente tem que ter em mente que nossa situação é complexa. Mesmo com o melhor cuidado, podemos enfrentar dificuldades.
 MÉDICA: Sempre, sempre. Imagino. Então, eu acabei não fazendo, igual estava com uma tabulação acertada, esse paciente aqui agora, acho que eu não tinha feito. Eu sempre fiz assim. 
 PACIENTE: Algumas coisas não consegui fazer porque a gente vai priorizando determinadas coisas mas eu preciso retornar, eu sei que eu preciso. Se eu vou ver minha página lá em... Esse mês ainda. Você está com o prontuário, não está?

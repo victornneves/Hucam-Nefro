@@ -5,8 +5,6 @@ MÉDICA: E vai ser importante também a gente dar uma olhadinha na sua dieta, po
 PACIENTE: Sim, doutora.
 MÉDICA: Então, a gente vai ter que fazer algumas mudanças no seu tratamento. Eu vou chamar o doutor aqui pra gente conversar um pouquinho sobre isso, tá bom? 
 PACIENTE: Tá, pode chamar. 
-[MÉDICA se retira]
-[MÉDICO_SUPERVISOR entra]
 MÉDICO_SUPERVISOR: Bom dia, como a senhora está? Eu sou o Dr. X., supervisor da Dra. Y. Ela está me explicando aqui a sua situação.
 ACOMPANHANTE: Bom dia, doutor. A gente tá dentro do possível, né?
 MÉDICO_SUPERVISOR: Compreendo. Dra. Y. me explicou toda a situação. Acredito que precisamos ajustar alguns medicamentos e também é necessário intensificar a educação em saúde, explicar a doença renal para a senhora, o porquê de certos cuidados. Isso é muito importante na nossa especialidade. A senhora já fez algum tipo de consulta com a equipe multidisciplinar?
@@ -28,9 +26,6 @@ MÉDICA: Certo, vamos precisar conversar sobre isso, para que a senhora passe a 
 PACIENTE: Entendi, a gente pode combinar isso, vou ver como fazer para começar.
 MÉDICA: Perfeito. Agora sobre os exames, a senhora já conseguiu passar no posto para eles solicitarem os exames que a gente tinha pedido? 
 PACIENTE: Sim, eu já deixei a solicitação lá, mas ainda não obtive retorno.
-
-[...] INTERVENÇÃO DO MÉDICO SUPERVISOR
-
 MÉDICO_SUPERVISOR: Boa tarde, como a senhora está? 
 PACIENTE: Boa tarde! Eu estou bem, obrigada.
 MÉDICO_SUPERVISOR: Ótimo. Vim aqui para discutir um pouquinho a respeito dos seus resultados dos exames, dos seus sintomas e, claro, dos seus medicamentos. Eu vejo aqui que você teve uma melhora no seu potássio, isso é ótimo. Nós vamos precisar ajustar um pouco o Lasix que está tomando, tudo bem?
@@ -208,7 +203,6 @@ PACIENTE: Entendi, então vou parar com o ferro.
 MÉDICA: Isso mesmo. Mas guarde o medicamento e cheque a validade periodicamente. Se estiver perto de vencer, você pode considerar doar ou trocar. Caso contrário, mantenha guardado.
 MÉDICA: Por enquanto, não vamos alterar a administração do ferro. E sim, a diálise peritoneal já está em nosso radar. Essa é só uma das opções que temos e estaremos acompanhando seu caso para determinar o melhor caminho a seguir.
 MÉDICO_SUPERVISOR: Isso. Vamos aguardar os próximos exames e monitorar de perto.
-
 ACOMPANHANTE: Tá bom, doutora. Nós vamos fazer isso.
 MÉDICA: O senhor disse que o calcanhar está seco e não há inchaço, certo? Agora, sobre essa sinovite que começou a inchar novamente... é assim o tempo todo? 
 PACIENTE: Sim, esse inchaço vai e volta.
