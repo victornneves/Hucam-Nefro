@@ -1,0 +1,54 @@
+MÉDICA: Tudo bem? Você está achando que a diálise vai te matar, não é por aí não, meu amor. Por enquanto eu ainda estou bem. Você vai estar melhor ainda do que quando você começou a vir. Você não está aceitando isso, não é isso. Entendeu? As situações vão melhorar. Você vai se sentir melhor. Você está resistente, mas... Está se sentindo bem?
+PACIENTE: Com certeza. Você veio feliz ontem. Que bom. Cada vez mais com a minha família. Que bom. Minha mãe. Minha mãe é minha velha de traseira. Isso aí. Aproveitou o fim de ano? 
+MÉDICA: Deixa eu ver se estou crescendo um pouco. Ela está formadinha. Ela sempre fica mais magra. Ontem ela estava até comentando. Ela sempre fica mais magra. Sempre fica mais magra. Mas você não está mais magra, não? 
+PACIENTE: Eu sei. Você está assim, fininha. Não, isso aqui eu sempre tento. Eu estou ficando mais magra. Ela tem que ficar para perder um pouco do peso. 
+MÉDICA: Não necessariamente. Às vezes é um pouco da doença renal. É. Entendeu? Você tem que ter um monte de gente gordinha. Mas tem que entender que você vai ser saudável. 
+PACIENTE: Ela é sempre de solteira. Mas eu sinto muita saudade. A verdade é que eu preciso controlar mais a alimentação. Isso é essencial para o controle dos meus sintomas. Eu tenho tentado me ajustar a essa realidade.
+MÉDICA: Minha mãe. Minha mãe. Minha mãe. Minha mãe. Minha mãe. Minha mãe. Eu acho que a pressão já estava 12, 12 por 8. Eu tenho cuidado da minha família, isso aumenta o stress e a pressão. Fiquei 30 minutos no dia com a neta, o marido e o filho. Minha casa fica muito apertada, muita confusão, isso me deixa tensa. Me deixa nervosa, me deixa para baixo. Eu sei que não estou cuidando direito de mim. 
+MÉDICA: A sua hemoglobina está 11%. O potássio alto, continuo dizendo que você precisa começar a desaguar. Eu não posso te obrigar, mas isso aqui para você deve ser mais ainda porque você é muito resistente.
+MÉDICA: Magrinho, você quase não tem massa muscular. Vai ser bem fininho, então. Sua creatinina está muito alta. Subiu de novo? Está em 4.2, com 11% de função renal. Parece que nem deixando de comer o que gosta ela diminui. Está em 6.8 e 5.8, ainda alta. Melhorou, mas ainda é alta. Acha que devemos esperar até finalizar o tratamento? 
+PACIENTE: Acho que ela está alta. Será que espero terminar o tratamento ou começo um novo? Sei lá, não está fácil. 
+MÉDICA: De fato, a situação é preocupante. Mas vamos precisar reavaliar em 23 de janeiro.
+PACIENTE: Então volto no dia 23?
+MÉDICA: Sim, volto no dia 23. Assim posso te orientar melhor antes de minhas férias em fevereiro. Como estarei de férias, vou pedir para você retornar, excepcionalmente, com outro médico. Conhece o Doutor Leão? 
+PACIENTE: Não, não conheço. 
+MÉDICA: Ele irá te atender no dia 24 de fevereiro, no meu lugar. Caso precise de algo, conte com ele. 
+PACIENTE: Entendi. Eu queria comentar que comecei a seguir a dieta. Como bastante banana e maçã. Estou adicionando pimenta nas refeições para dar gosto, já que estou com medo de perder mais peso se comer muito. Mas confesso que tenho medo de comer. 
+MÉDICA: Você deve seguir as orientações das nutricionistas. Eles farão uma dieta adequada para você.
+PACIENTE: Sim, tento replicar as orientações que minha irmã me deu. Ela usa bastante ovo, azeite e limão na cozinha. Acho engraçado que ela não usa sal para cozinhar as verduras, mas acabei me acostumando. Comecei a preparar a comida sem sal também. Eu gostaria muito de comer o que gosto, mas sei que preciso seguir as recomendações, né? Então vou controlando o que posso. Mesmo assim, às vezes, não resisto e como um pedacinho de carne ou até uma cervejinha. 
+MÉDICA: É importante que você siga a dieta recomendada. Inclusive, devemos evitar o consumo de álcool, tá bom? Agora, sobre esse negócio da injeção, o que está acontecendo?
+MÉDICA: Não estou sentindo nada, não. O meu problema maior é só esse problema pessoal, se eu tivesse uma vida mais tranquila, eu não estaria assim. Estou fazendo de tudo para mudar, quero ter uma vida sem tantas dores de cabeça.
+
+PACIENTE: Esses dias eu fui parar três horas da manhã no hospital. Passei até sete horas da manhã dentro do hospital. Estou sofrendo muito.
+
+MÉDICA: Tenho tentado manter uma alimentação saudável, como a doutora recomendou. Um pouquinho de purê, tomate, alface e bife de frango. Não como feijão, mas gosto de arroz.
+
+PACIENTE: Também estou tentando comer mais frutas. Não como banana, melancia, mamão ou kiwi. Só maçã.
+
+PACIENTE: Também estou tomando bastante leite. De vez em quando eu faço um mingauzinho de maizena ou de fubá.
+
+PACIENTE: Estou preocupado com a situação. Tenho medo do que pode acontecer. 
+
+PACIENTE: Eu sei que minha saúde está delicada, tenho tentado manter uma dieta equilibrada. Até já comi peixe, uma vez até me arrisquei a fazer uma moqueca.
+
+PACIENTE: Tem dias que gosto de inovar na cozinha. Tentei fazer uma receita nova e achei bom.
+
+MÉDICA: Coloquei aqui que você vai pra consulta e que quando voltar a gente vai conversar sobre a possibilidade de início de diálise. Porque o doutor Leandro vai estar aqui. Aí ele vai conversar com você, tá bom? Está precisando da
+MÉDICA: Você está conseguindo pegar a hidralazina?
+PACIENTE: A hidralazina eu até comprei a caixinha, porque a hora que ele liberar, se ele tiver a caixinha, ele não te dá.
+MÉDICA: Tá bom, tá bom, tá bom. E o bicarbonato, você está tomando, não?
+PACIENTE: O bicarbonato, eu tomo todo dia. Então, eu fiz uma caixinha, eu enchi o vidro. 
+MÉDICA: Todo dia não é ruim. Se eu te pedir para tomar água com gás, você toma?
+PACIENTE: Se a senhora me pedir tomar água com gás, tomo sim. Mas, não estou ligando para refrigerante mais. Até o suco que eu estava fazendo em casa, eu desisti. Tomo água.
+MÉDICA: Quando acha que é melhor comer?
+PACIENTE: Sou caseira, então faço tudo em casa. Gosto muito de comida caseira.
+MÉDICA: E bebida? Você bebe?
+PACIENTE: Não, eu não bebo. Mas, meu neto, meu filho, minha neta, eles bebem, fumam maconha, usam drogas, dá um desespero em mim.
+PACIENTE: Grande, cara, o vizinho, tudo sentindo aquele cheiro. Eu estava agoniada, eu falei, meu irmão, eu não fui criada assim. Aí, eu olhei, eu vi conversando com a mãe do meu neto né, ela falou, não, Maria, pode chamar a atenção deles, eu não posso com esse negócio, esse cheiro, quando eu entrei dentro de casa assim, o cheiro estava, veio tudo para mim, aquele cheiro da maconha, eu falei, puta merda, eu falei. Mas assim não dá não, gente, o que é isso? Uma semana, uma noite, tudo que eles fizeram... Aí a casa já estava arrumada, agora botaram mais desgaste ainda, não tem comida dentro de casa. Aí a mãe, eu liguei para a mãe que é minha nora, eu falei, para, se não, fala com eles, eu vou botar comida para eles, para a casa deles. Você já fez muito, ter tido paciência de alojar eles até agora. Aí eu cheguei em casa, estou preocupada em chegar na casa e falar, mas foi isso.
+MÉDICA: A farmácia da nossa cidade, falou que você não foi pegar a medicação no dia marcado, isso é verdade? Não está anotado aqui na receita. Você também não pegou o resultado do exame, correto?
+PACIENTE: Não peguei o exame, mas eu queria pegar. Tenho que ir buscar, não é?
+MÉDICA: Não, está aqui a receita do remédio, mas você precisa seguir o protocolo deles para a retirada. Eu não posso buscar para você. Você tem que ir no dia que eles marcam.
+PACIENTE: Eu tentei ir lá, mas estava fechado. Estou tentando evitar que a situação piore. No papel, está marcado para eu buscar minha medicação no dia 26 de janeiro. Eu realmente preciso dessa medicação, e espero que Deus me ajude a conseguir os exames que preciso.
+MÉDICA: Quando você vai ao hospital? No dia 26, à noite? Ou você vai chegar lá durante o dia? Às 23 horas? Ah, às três horas. Olha, o papel para o seu retorno já está com a recepção. É só chegar lá e pegar. Eu pedi para ela agendar, porque eu não consigo fazer isso agora. Aqui está a receita do Citalopram, junto com os outros medicamentos. E este é o pedido de exames.
+MÉDICA: Tá vendo? Eu estou olhando. Aqui é citalopram, aqui é a receita normal de remédios, tá?
+PACIENTE: E aqui o exame para colocação do cateter.

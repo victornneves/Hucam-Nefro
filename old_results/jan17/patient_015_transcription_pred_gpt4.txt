@@ -1,0 +1,148 @@
+MÉDICA: Minha cara, tudo bem?
+PACIENTE: Bem, na minha impressão é o frio do sol, não é?
+MÉDICA: Ah, pode ser. Bom, mas a Neninha voltou. De novo, né?
+PACIENTE: Eu tenho esse problema de pele aqui. Uma secura, como se fosse um espetáculo. Ainda que esses dias estava tão seco, minha pele. Tão seco que chegou a dar uma ferida aqui, né? Tá muito seco. Usei Bepantol, nessa ferida. Demorando a cicatrizar. Mas só isso.
+MÉDICA: Essa ferida aqui. Não parece, né? Não. Não sei o que é isso. Já passou uma pomada, não melhorou não. O que você passou, Bepantol? Betametasona.
+PACIENTE: Passei... Uma outra lá.
+MÉDICA: Deu bolha em algum momento?
+PACIENTE: Chegou a dar uma inflamada. Sim, mas deu bolha. Eu acho que deu sim. Ih, queimou muito. Agora não está queimando tanto, né?
+MÉDICA: Pode ser que seja herpes, então. Às vezes não está melhorando porque se for herpes... Você tem quanto tempo que está assim?
+PACIENTE: Acho que é um ano.
+MÉDICA: Deixa eu passar uma medicação. Acho que é um ano desde que isso começou. Eu acho que até pode ser herpes também. Aqui também, olhe.
+PACIENTE: Quer ver? Aqui. Já deu. Faz um ano que não voltava. E agora voltou isso aqui de novo. Essa feridinha. Isso aqui pode ser. Isso aqui pode ser.
+MÉDICA: Você costuma raspar essa região?
+PACIENTE: Sou rara a raspar, mas eu raspei. Pode ser isso. Provavelmente é isso. A boca aqui eu tenho a sensação, mas eu não posso dizer que é, que eu comi o pêssego e depois do pêssego isso aconteceu, mas também não tem lógica.
+MÉDICA: Por isso, tem aquela fruta ácida, né? Que é rica, né? Se fosse uma fruta ácida, seria um limão. Né?
+PACIENTE: Uhum. É, o tratamento tá dando certo, ó. Vou manter meu peso direitinho. Só o fósforo, né? Que eu ativo a mesma coisa também. Mesmo que a máscara mede direitinho. Que nem não aumentou demais.
+MÉDICA: Parece que tem um hematoma.
+PACIENTE: Sim, tem um hematoma. 
+MÉDICA: [INCOMPREENSÍVEL]
+MÉDICA: Vou olhar aqui, deixa eu checar. Você tem neuropatia, né? 
+PACIENTE: Não, nada disso. 
+MÉDICA: É parte do seu quadro clínico. 
+ACOMPANHANTE: Doutora, será que vai evoluir para uma pneumonite? 
+MÉDICA: Seu estado de saúde está piorando? 
+PACIENTE: Já esteve pior. 
+MÉDICA: Ah é? Está se sentindo muito cansado? Vocês já estão em tratamento há algum tempo, deve ser cansativo.
+PACIENTE: Agora não estou preocupado com eles me chamando para procedimentos. Eu vou ter que me afastar, já estou enfrentando duas condições na minha casa. 
+MÉDICA: Certo. E qual é a média da sua pressão arterial? 
+PACIENTE: Doutora, aparentemente está bem. 
+MÉDICA: Então, você toma algum medicamento? 
+PACIENTE: Estou tomando a Losartana, 50mg à noite e 25mg de manhã. 
+MÉDICA: E está aplicando a Eritropoetina corretamente? 
+PACIENTE: O que é Eritropoetina? 
+MÉDICA: Eritropoetina. Ah, sim. Você pegou a receita para pegá-lo no posto, né? 
+PACIENTE: É, meu nível baixou um pouco, estava 12 e agora está em 9,9. Então, eu preciso manter em 12, certo? 
+MÉDICA: É o ideal. E você está seguindo alguma dieta? 
+PACIENTE: Não, nunca me passaram informações sobre isso. A ferritina não está aumentando com o ferro que eu tomo na unidade de saúde, né, doutora? 
+MÉDICA: É, depende do organismo, cada um absorve de uma forma... 
+PACIENTE: Eu fiz uma cirurgia, teve uma época que eles deram muita medicação. Mas no fim do ano, eles pararam. Foi feito o dreno no meu braço, né? 
+MÉDICA: Sim, foi feito. 
+PACIENTE: Você disse que faria um procedimento aqui no braço, está tudo bem para isso? Esse lugar é melhor, porque é próximo do coração. 
+MÉDICA: Sim. Estamos seguindo o protocolo para o procedimento, certo? 
+PACIENTE: Sim, está indo bem, doutora.
+MÉDICA: Muito bem, então continue com esse esquema de medicamentos. Vamos agendar um exame para verificar essa questão da sua visão, ok?
+PACIENTE: Ok, obrigado.
+MÉDICA: E qualquer dúvida, você pode ligar para nós. Não se esqueça disso.
+MÉDICA: Miligramas de manhã e dois à noite. É o 0.1, de cinco a dois comprimidos ou o 0.2, segundo você?
+PACIENTE: Então, eu estava tomando 0.1. Só? Está ficando tudo muito caro, né? Aí eu fui e achei de 0.15. Aí estou comprando uma caixa de 0.15 e uma caixa de 0.1, ambos ao meio. Um comprimido e meio pela manhã e um e meio à tarde.
+MÉDICA: Então, você toma metade de um de 0.15.
+PACIENTE: Uhum. Aproximadamente às sete. E metade um de 0.1.
+MÉDICA: Ou seja, você está tomando a metade de 0.1 e um inteiro de 0.15.
+PACIENTE: Ah, tá. Então, um inteiro de 0.15 e metade de um de 0.1. Está correto?
+MÉDICA: Uhum. Então, eu tenho que entender o que você está tomando. No momento, é só ácido acetilsalicílico, né?
+PACIENTE: Só ácido acetilsalicílico. Chega a dar dor de estômago, né?
+MÉDICA: Pode dar sim, especialmente se for tomado de estômago vazio. Mas me disse, você está com dor na boca?
+PACIENTE: Não, não. Eu começo a ter muita dor. Pelo amor de Deus É que eu fiz muitos anos de quimioterapia. Depois parece que ela descontrolou. Mas até que a minha cabeça está boa, doutora.
+MÉDICA: Voltei para fazer a fisioterapia, mas não sei. Minha cabeça está até muito boa. Graças a Deus.
+PACIENTE: Você me parece muito preocupada, doutora.
+MÉDICA: Sim. Depois de ter passado por aquele pior momento, com o câncer no corpo, nossa senhora. Parece que eu renasci.
+PACIENTE: É, você viu que o problema mesmo é outro, né? O problema é você ter uma doença que não tem cura.
+MÉDICA: Sim. Vou até procurar aqui no áudio que você mandou para eu notar. Aí é aquilo que desafoga a cabeça agora. Eu sei o que eu tenho que fazer. Estou tranquila. Estou acreditando que vai dar certo. 
+PACIENTE: Deixa eu ver. Só um segundo, doutora. Você mandou para mim o áudio?
+MÉDICA: Mandei.
+PACIENTE: Achei. Espera aí, deixa eu ver. Achei. Isso que tenho que fazer aqui, né?
+MÉDICA: Hum hum. Tá bom. Tá bom. Tudo normal. Tudo normal. E o nódulo não pode ter reaparecido, não, né?
+PACIENTE: E ele não deu sinal algum. É, tem o que eu vejo, essa... O que a gente chama de avaliação, não tem nada diferente, né? Depende do aparelho, se você está com gases, é mais difícil visualizar, entendeu? Depende da condição do exame.
+MÉDICA: A experiência da pessoa que está fazendo a ressonância é importante. Às vezes, por conta de muitos gases, você não consegue ver direito, pode atrapalhar alguma coisa. Entendeu? Não importa que é ressonância normal, se é ressonância normal, a gente fica tranquilo.
+PACIENTE: Hum hum.
+MÉDICA: E o cálcio? Você está tomando para o enxerto?
+PACIENTE: Não, eu esqueço.
+MÉDICA: Se não está precisando, então vou tirar da receita o Difosfato. O remédio para controlar o fósforo não está fazendo efeito?
+PACIENTE: Estou tomando sim. Ele age onde? No fósforo?
+MÉDICA: Sim, a função desse remédio é diminuir o excesso de fósforo no sangue.
+PACIENTE: Ah, sim. Você falava sempre da minha dieta, mas agora estou controlando. Esses dias estou comendo até um queijo branco, bem lightsinho mesmo, sem gordura, estou controlando bastante. Graças a Deus não exagerei, no final das contas.
+MÉDICA: Ótimo. Você tem que ficar de olho na sua creatinina, para evitar que aumente.
+PACIENTE: Sim, é só esperar e ver o que vai acontecer com a fístula. Falando nisso, como está seu irmão?
+MÉDICA: Meu irmão está bem. Você tem tomado bastante cálcio?
+PACIENTE: Não, tem muito tempo que eu não tomo. Mas assim, meu cálcio está controlado. Eu acho que não vai precisar. Não adianta tomar, né? 
+MÉDICA: Vamos ver. E o broncodilatador, está controlando a asma? Você precisa de um tratamento de infecção? Não? Não? Elas vão ser tratadas. E como está a situação do paciente alcoólico?
+PACIENTE: Podem ficar tranquilos, é só a doença mesmo. Eu estou muito ligada com a minha saúde renal. Eu estava preocupada, ainda mais que já tem histórico na família. A gente fica bem atento.
+MÉDICA: Sim, a gente precisa aceitar e lidar com as dificuldades. Isso demanda tempo, mas é normal.
+PACIENTE: Eu também sinto muito cansaço. Mas eu estou seguindo. No dia do Natal, eu até viajei para Anchieta.
+PACIENTE: Tinha trabalhado para caramba na quarta. E os meus filhos me fizeram ficar acordada até mais de meia-noite. Fiquei acordada até as seis e vinte para ir para Anchieta. Eu cheguei a Anchieta e estava muito cansada. 
+MÉDICA: Eu diria que só precisa descansar. Precisa dormir. Porque assim, tem hora que o corpo precisa descansar. 
+PACIENTE: Com certeza. Estou urinando normal. Não é muito frequente, mas estou urinando. 
+MÉDICA: Isso é bom. Depois que você tiver a fístula, você não pode medir a pressão por essa fístula. 
+PACIENTE: Ah, é, né? 
+MÉDICA: É. Nem tirar sangue. Nem carregar peso, né? 
+PACIENTE: Não, um pesinho, um pouquinho. Não tem problema não. Ah, que bom saber. Acho que não pode pegar muito peso. Carregar sacolas assim. Mas uma bolsa pequena, pode? 
+MÉDICA: Pode. Pode, pode. Bolsa. Ah. Se não for uma coisa pesadona, né? 
+PACIENTE: Não vou carregar um pacote de feira. Um monte de coisa. Ô, ó! Não [INCOMPREENSÍVEL]. Bom dia! Tudo bem? Acho que entendi. Agora temos que cuidar em casa também. Temos que orientar as pessoas. [INCOMPREENSÍVEL]. Assim, na prática. Depois da orientação, eu estou notando coisas nas minhas unhas para resolver o meu estômago também. Hoje até me sinto melhor, me sinto mais disposta para fazer outras coisas. 
+MÉDICA: Está indo bem, mesmo tendo passado o Natal meio cansada, tudo um pouco inchado. Você tem hidratante em casa? 
+PACIENTE: Tenho. Quando a mão esta assim eu passo? 
+MÉDICA: Passa hidratante na abertura, duas vezes por dia assim. Mas cuida para não molhar, né? Você vai ficar tranquila, senão você vai ficar a noite toda preocupada. Mas ela vai ficar um bom tempo sem molhar a mão, você vai ver como é. Aplicar o creme duas vezes ao dia, né? 
+PACIENTE: Vamos observar, naquele dia só tinha inchaço que depois melhorou. Não tem, ah, quis mostrar fotos de onde eu morava na praia. Pode olhar, não tem problema. Até me falaram que o próprio Zé era alto, não queria que me vissem, fiquei encabulada. 
+MÉDICA: Não tem problema nisso, entendi.
+MÉDICA: É, ultimamente ficou com menos pedaço de romã, todos os dias. Dizem que é bom pra uma que tá envelhecendo. Mas tem que ter cuidado se não tem fósforo...
+PACIENTE: Ah, não é melhor ficar envelhecendo, né?
+MÉDICA: É, pode ser. Mas na doença renal crônica tudo é maximizado, né? Porque há um acúmulo de resíduos no organismo quando os rins estão danificados... Deixa eu te falar, eu estava pensando em iniciar um medicamento novo para você, chamado Sevelâmer. Ele é para substituir o carbonato de cálcio, é um quelante de fósforo. 
+PACIENTE: Ah, se o fósforo tá alto você quer dizer que vai fazer uma dosagem maior desse medicamento?
+MÉDICA: Isso, exatamente. Aí vai tirar o carbonato depois, entendeu?
+PACIENTE: Certo, entendi. O bom é se informar, você pega as coisas no ar. Você rapidinho já abre os olhos para a saúde. Eu já cuidei do meu irmão que teve leucemia, então eu aprendi algumas coisas.
+MÉDICA: Entendi, isso deve ter sido uma experiência muito difícil.
+PACIENTE: Foi sim, não é fácil não, né? Tem que ser muito responsável. 
+MÉDICA: Com certeza. E com tudo isso eu continuo aprendendo, não é?
+PACIENTE: É. É bom. Tenho que cuidar de mim. Elas são uma grande paciente. É bom, pelo menos ela não dá pra esquecer de cuidar.
+MÉDICA: Ah, eu entendi. Falaram pra mim que eu tinha que ficar não sei quantas horas sem água.
+PACIENTE: Falei com a moça, gente, é não possível, eu tenho secura. Eu tomo muita medicação e tem lá o atorvastatina, né?
+MÉDICA: Olá, você tem dor crônica? Tem gente que sofre mais com isso, né? 
+PACIENTE: Não, porque eu tenho um bom controle de microorganismos.
+MÉDICA: Em relação ao objeto afetado, é preciso usar proteção. 
+PACIENTE: E para essa coceira embaixo do braço, você acha que eu posso passar algum medicamento?
+MÉDICA: Pode usar uma pomada. Só não exagere na aplicação, faça um teste antes para ver se melhora. E na boca, você precisará de algum medicamento? Também podemos fazer um exame para verificar a presença de bactérias. 
+PACIENTE: Não, só o ombro mesmo. 
+MÉDICA: Ok, entendi. Você precisará de algum remédio para a mão também? 
+PACIENTE: Não.
+MÉDICA: Perfeito. Qualquer dúvida que você tiver, pode me perguntar, ok? Eu estou aqui pra te ajudar. 
+PACIENTE: Tudo bem. Eu gostaria que…
+MÉDICA: Você quer que eu avalie alguma outra coisa? A pressão está um pouco alta, isso pode ser pelo estresse da consulta. Podemos conversar sobre isso depois.  Sobre o medicamento que você está tomando, há algo que você quer mudar? 
+PACIENTE: Eu gostaria de começar a usar o atendimento online, se possível. 
+MÉDICA: Ok, podemos organizar isso. E como lidaremos com possíveis pioras no fim de semana? 
+PACIENTE: Se piorar, eu vou mandar uma mensagem.
+MÉDICA: Exatamente. Mesmo no fim de semana, se estiver se sentindo pior, mande uma mensagem. Isso é mais efetivo do que ir direto pro pronto-socorro.
+MÉDICA: consegue passar um bom tempo sem a fístula. Você está acostumado a viver com 14. Vai ter que descer um pouco mais para a gente poder partir para isso. Tá? 
+PACIENTE: Tá. 
+MÉDICA: É isso que eu quero que você entenda. Por isso eu estava dizendo, a gente não vai fazer nada precipitado. Porque não tem necessidade, sabe? Então você fica tranquilo. Agora a gente organiza o tratamento. Tem o seu nefrologista, a sua médica daqui que sou eu, tá? 
+PACIENTE: Tá. 
+MÉDICA: Estou aqui para o que precisar, tá? 
+PACIENTE: Tá. 
+MÉDICA: Agora, seus medicamentos. O bicarbonato de sódio é para você tomar duas vezes por dia. Você toma duas de 500 ou uma de 1.000? 
+PACIENTE: Duas de 500. 
+MÉDICA: Se puder trocar para uma de 1.000 fica melhor. Seria bom, porque é menos comprimidos para você tomar, menos coisa para você lembrar. Estou vendo que você está tomando Clonazepam, correto? 
+PACIENTE: Sim. 
+MÉDICA: Você toma só um antes de dormir? 
+PACIENTE: Sim.
+MÉDICA: Certo, sem problemas então. Continue com ele. Agora, você também está tomando Furosemida, um comprimido ao dia, correto? 
+PACIENTE: Isso, um comprimido. 
+MÉDICA: Ótimo. Vamos manter esse também. Sobre a Eritropoetina, vamos ajustar a dosagem a cada 15 dias, tá bem? 
+PACIENTE: Tá.
+MÉDICA: Você está anotando tudo aí, né? 
+PACIENTE: Tô sim.
+MÉDICA: Perfeito. Não precisa ter pressa, toda essa informação estará no seu prontuário. Vamos começar agora com um remédio para a anemia, o Aranesp. Conhece? 
+PACIENTE: Não. 
+MÉDICA: Vamos começar devagar, para ver como o seu corpo reage a ele, certo? 
+PACIENTE: Certo, doutora. 
+MÉDICA: Muito bom. Então continue assim, se cuidando. Qualquer problema você me chama, ok? 
+PACIENTE: Tá, obrigado doutora.
+MÉDICA: Então, assim... 14% não é um valor ideal. Abaixo de 15%, a gente sabe que é um risco. Pode acontecer, por não ser um valor legal. Porém, a grande maioria dos pacientes que estamos atendendo, conseguimos segurar muito bem. Portanto, estou tranquila aqui no posto. Vai dar tudo certo. Agora, deixa eu ver.

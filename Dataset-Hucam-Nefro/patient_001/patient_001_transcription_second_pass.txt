@@ -1,0 +1,184 @@
+MÉDICO: E aí, você tá bom? 
+PACIENTE: Senhor, tive alguns imprevistos antes de conseguir vir até aqui. 
+MÉDICO: Por quê? 
+PACIENTE: Aconteceram algumas coisas em casa. 
+MÉDICO: Sério? 
+PACIENTE: Sim, por pouco não pude vir. 
+MÉDICO: Quase que você não veio? 
+PACIENTE: Sim.
+MÉDICO: Entendi. E hoje quase que não conseguiram te deixar consultar comigo, né? 
+PACIENTE: Isso, mas eu insisti venir. Deixa eu perguntar, o senhor trouxe os exames impressos? 
+MÉDICO: Sim, trouxe. 
+PACIENTE: Trouxe? 
+MÉDICO: Sim. Vamos analisar juntos. Como é que você tá, senhor Pedro? Tudo bem com o senhor? Nossa última consulta foi em agosto, não é isso? 
+PACIENTE: Isso, foi em agosto. 
+MÉDICO: Ótimo. E de agosto pra cá, como é que o senhor tá se sentindo? Tudo bem? 
+PACIENTE: Sim, tranquilo. 
+MÉDICO: Que bom. Eu vi que o senhor foi na consulta com a urologia, não foi? 
+PACIENTE: Sim, fui.
+MÉDICO: Entendi. E aí, ele disse que estava tudo bem, que não precisava fazer nenhum procedimento no momento? 
+PACIENTE: Não, a urologia pediu uma biópsia. 
+MÉDICO: Entendi, isso pode acontecer.
+PACIENTE: Para realizar a biópsia eu deveria ter feito um purgante. 
+MÉDICO: Entendi. 
+PACIENTE: Um purgante, purificante. 
+MÉDICO: Purgante? 
+PACIENTE: Sim, era preciso para fazer a biópsia. 
+MÉDICO: Ah, entendi. Isso faz sentido. 
+PACIENTE: Conseguir dizer o que aconteceu... 
+ACOMPANHANTE: Ele tomou o remédio errado e não conseguiu fazer o procedimento. 
+MÉDICO: Ah. Ele não conseguiu fazer o purgante? 
+ACOMPANHANTE: Isso. Ele acabou tomando outro remédio errado e o procedimento não foi feito. 
+MÉDICO: Entendi. E agora, vão remarcar? 
+PACIENTE: Sim, precisamos remarcar. Não foi uma situação muito agradável.
+MÉDICO: Imagino que não.
+PACIENTE: Realmente, não foi. 
+MÉDICO: Entendo. Pelos exames que temos aqui, não identificamos nada que cause preocupação. Você mudou alguma medicação desde a última consulta? 
+PACIENTE: Não, os remédios são os mesmos.
+MÉDICO: Entendo, então você estava tomando o remédio a cada 6 horas, hidralazina, correto?
+PACIENTE: Sim, isso mesmo. Estava tomando o hidralazina de seis em seis horas.
+MÉDICO: E por que você parou?
+PACIENTE: Eu mudei para cada duas horas, aí me senti melhor.
+MÉDICO: Entendo. Mas se sentiu melhor tomando de seis em seis horas, por que alterou para de dois em dois?
+PACIENTE: Bom, eu percebi que passei menos mal assim. Achava que o de seis em seis estava me fazendo mal.
+MÉDICO: Certo, mas não seria necessário então medir a glicose, uma vez que você não toma insulina?
+PACIENTE: Na verdade tomo insulina sim. Tenho que tomar diariamente.
+MÉDICO: Então precisa sim medir sua glicose. Você já sabe como faz isso?
+PACIENTE: Sim, estou aprendendo a medir. E minha insulina tenho tomado duas vezes.
+MÉDICO: Entendi. E você toma essas duas vezes da insulina juntas?
+PACIENTE: Não tenho certeza, acho que tomo uma depois da outra.
+MÉDICO: A insulina regular deve ser tomada imediatamente antes da alimentação. A outra deve ser tomada em horário certinho.
+ACOMPANHANTE: Entendi, então as duas têm que ser tomadas antes do café da manhã com meia hora de antecedência. Mas ele não mede a glicose antes de tomar. Ontem ele ia tomar e a glicose deu 50, depois 187 e depois caiu para 54. Acredito que tenha caído pois ele não comeu após tomar a insulina.
+MÉDICO: Isso mesmo. A insulina regular é uma insulina de ação rápida. Portanto, é necessário comer após tomar a insulina regular.
+MÉDICO: Ela é insulina de ação rápida então assim, ela vai ter ação justamente para você não ter hiperglicemia depois que você come. Então, tomar insulina regular e não comer vai ocasionar problemas porque ela vai reduzir muito a glicose. Então, quando você for almoçar, o alimento vai ser absorvido como glicose e a glicose vai subir, então tem que usar insulina regular para não subir tanto, entendeu? Só que se você não come a glicose não sobe e se você usa insulina regular mesmo assim a glicose vai baixar, então é por isso que você teve hipoglicemia porque você tomou insulina regular e não comeu, entendeu?
+
+PACIENTE: Sim, eu tomei insulina de manhã e comi, e depois não comi mais até as 3 horas da tarde, na hora do almoço?
+
+MÉDICO: Sim, vai almoçar às 3 horas da tarde.
+
+PACIENTE: E quando foi 4 horas da tarde.
+
+MÉDICO: E aí foi 4 horas da tarde.
+
+ACOMPANHANTE: E o horário de almoço dele é de 11h30 até 12h.
+
+MÉDICO: E por que o senhor não comeu?
+
+PACIENTE: Porque eu fiquei deitado, não estava assistindo televisão, não senti fome. Eu estava cozinhando o almoço quando comecei a passar mal, tive confusão mental, comecei a ver tudo branco.
+
+MÉDICO: Isso não é bom, não, não.
+
+PACIENTE: Então, eu liguei para o vizinho e comecei a conversar, depois tive um sonho estranho de que estava conversando com um jornalista em São Paulo, mas prefiro não falar sobre isso. 
+
+MÉDICO: Deveria ter sonhado que você ganhou na Mega Sena e estava de férias em Maldivas. 
+
+PACIENTE: Isto seria ótimo. Mas na realidade, eu desmaiei.
+
+MÉDICO: Precisamos cuidar disso. 
+
+PACIENTE: Sim, imagina se isso acontece quando eu estiver de férias? Eu estava de férias, mas não foram essas férias que planejei.
+
+MÉDICO: Entendi. O relatório médico que você trouxe é seu mesmo?
+
+PACIENTE: Sim, eu fui atendido pelo Dr. Nívia durante suas férias. Eu tive duas consultas com ela.
+
+MÉDICO: Vejo, então deixe-me dar uma olhada nisso. 
+
+ACOMPANHANTE: Você poderia aferir a pressão dele, por favor?
+
+MÉDICO: Coloque o braço aqui, por favor. Me conta uma coisa, o senhor está fazendo algum tratamento...
+MÉDICO: Você está fazendo xixi tranquilo?
+PACIENTE: Sim, tudo certinho, xixi normal, cocô normal.
+MÉDICO: Tudo certo, né? Mas ele está enchendo as pernas de água?
+PACIENTE: Não, não está enchendo. Tudo seco.
+MÉDICO: Você tem medido sua pressão em casa?
+PACIENTE: Tenho, e ela tem se mantido normal.
+MÉDICO: Quanto?
+PACIENTE: Que eu lembre são 12 por 10.
+MÉDICO: Quem te falou isso?
+PACIENTE: Foi assim, veio com a Leila, a enfermeira, na última consulta.
+MÉDICO: Deixa eu ver a perna aqui. Está seca igual um graveto, né?
+PACIENTE: É meu negócio, né? Bom demais.
+MÉDICO: Deixa eu falar uma coisa para você, ó: os exames estão muito bons, tá? Tudo tranquilo, graças a Deus. A função do rim está normal junto com o controle adequado do diabetes. O diabetes está bem controlado. A única questão é se adaptar a essa alimentação de 3 em 3 horas. Não dá para usar insulina e não se alimentar, tá? Temos que tomar muito cuidado com isso porque o efeito de uma hipoglicemia é muito maior do que uma hiperglicemia. A hipoglicemia te faz desmaiar do jeito que você desmaiou, entendeu?
+PACIENTE: Entendi, foi a terceira vez que eu tive hipoglicemia.
+MÉDICO: Quais remédios está usando? Losartan de 12 em 12, a hidralazina, como já falou. A Furosemida, Sustrate de 12 em 12, gabapentina, 3 vezes por semana. AS e o Forxiga. Você está comprando o Forxiga?
+PACIENTE: Sim, estou comprando o Forxiga. Estatina à noite e insulina, eu estou tomando 10 de manhã e 10 à noite.
+MÉDICO: NPH, né?
+PACIENTE: Sim, NPH. Quando eu comprei peguei 3 vezes a NPH, tomo 10 antes do café e 10 antes do jantar.
+MÉDICO: Almoço, 10 antes de dormir tá, beleza? Então 10 mais 10 mais 10, beleza, e a regular? 
+PACIENTE: 6, 6, 5.
+MÉDICO: 6, 6, 5 show de bola então eu posso tomar em breve, eu posso tomar em dia, né? 
+PACIENTE: Tomar em breve, isso aí.
+MÉDICO: Isso aí vai estar direito, né? Então vamos lá ó, diabetes e pressão estão bem controlados os remédios que o senhor está usando também estão show de bola a anemia do senhor ela é muito discreta, nem requer tratamento agora, tá? Reposição de suporte ferroso, você está fazendo? Suporte ferroso, comprimidinho?
+PACIENTE: Ela está aguardando minha consulta, uma receita. 
+MÉDICO: Ah tá, entendi, tá bom. Quero ver aqui a ideologia disse que pedi, você não pode deixar problema no... tá, beleza, eu não... nessa consulta eu não consigo ver os estoques de ferro porque o exame não veio mas eu vou manter o suporte ferroso até a próxima consulta, tá bom? Beleza Aquela vitamina D que o senhor toma 2 vezes por semana, está tomando ainda? 
+PACIENTE: Não, não.
+MÉDICO: Tá aqui, tá tomando então tá bom, beleza, a gente vai manter também, tá bom? Beleza? Tá, tá, tá, tá, tá entendeu? Do oito a nove, noito a nove, então vamos ir, começa a ficar comendo aqui quatro, quatro, cinco, doze e sessenta beleza, meu amigo, mas olha, no mais está tudo bem com você, tá? Nutrição... ah, nutricionista, o senhor tem ido nela? É a Sida? 
+PACIENTE: Só que ela eu levei a marca agora, porque eu não marquei porque não estava aberta aí eu levei, porque eu marquei agora, depois do consulta, eu levei para os outros exames. 
+MÉDICO: Beleza. O fósforo do senhor é o exame que deu um pouquinho mais alto, tá? É, isso aí. O fósforo, ele é um alimento rico mais em queijos, leites e derivados, tá? Então a gente poderia dar uma caprichada nisso aí. 
+PACIENTE: Tem quanto tempo? 
+MÉDICO: Você vai tentar remarcar cedo agora, né? 
+PACIENTE: É. 
+MÉDICO: Beleza. Você vai tentar remarcar dia 4? 
+PACIENTE: Não, 7 e 4. 
+MÉDICO: Ah, tá. Dia 1 e 2, eu acho que eu terei a última de 2 e 2. Olha só, até a próxima consulta, tenta dar uma caprichada na dieta em relação ao fósforo, tá? Não comer nada de enlatado e principalmente queijo, leite e derivado, tentar dar uma segurada. Tudo bem? Então o dia é esse, né? 
+PACIENTE: É que eu disse, mas o professor, tu tomar, acho que o... 100. 
+MÉDICO: É, mas vamos tentar reduzir isso aí para pelo menos assim, umas duas vezes na semana. Leite? 
+PACIENTE: É. Pode ser?
+MÉDICO: Tomar ou não? 
+PACIENTE: Não
+MÉDICO: Ah, não, você não tomou. Devemos manter a dosagem de duas vezes por semana. E queijo? Pode comer só o queijo minas. 
+PACIENTE: É isso aí. Eu fico pensando, será que foi o mortadela que me fez mal? Não, não foi não. A única coisa que eu sei é que não posso comer na hora da prova.
+MÉDICO: Isso. Nada de embutido, né? 
+PACIENTE: Pois é, exatamente, nada de embutido. 
+MÉDICO: Deixa eu te perguntar, você realizou o Doppler de Carótida, né? 
+PACIENTE: Sim, tá pronto. Mas percebi que estou com um problema de audição, não sei se tem relação. Posso te trazer o exame na próxima consulta? 
+MÉDICO: Vou anotar aqui, beleza? Você está se cuidando bem... Marcaremos o retorno para daqui a três meses, tudo bem? 
+PACIENTE: Três meses? O senhor já agendou esse retorno, já? 
+MÉDICO: Já agendamos sim, tudo certo. 
+PACIENTE: Não, não, não. Não, o outro eu agendei, mas agora pedi outro. Estou sendo acompanhado pela doutora Adriana, agora eu estou com tudo acertado. E esclareci minhas dúvidas, né? 
+MÉDICO: Sim, agora tudo está certo. Que bom, meu amigo. Está tudo bem com você, graças a Deus. Vou pedir os exames para o seu retorno, tá? 
+PACIENTE: Vocês dizem que estou bem, mas eu... Eu acho que não estou bem, não. Na verdade, não estou bem mesmo, entendeu? Então, eu tive uma consulta com o psicólogo.
+MÉDICO: Ah, entendi. Quando eu conversei com meu doutor sobre como me sinto atualmente, ele sugeriu que eu procurasse um psicólogo. Achei um pouco estranho, mas decidi tentar.
+PACIENTE: É, entendi. É importante. Então, eu perguntei para ela e ela marcou. Talvez, no mesmo dia, sabe? 
+MÉDICO: Entendi. Vamos seguir com os mesmos medicamentos, tá, amigo? 
+PACIENTE: Tá bom. Graças a Deus, né? Eu acho que estou melhorando. 
+MÉDICO: Oi? 
+PACIENTE: Eu digo que estou melhorando.
+MÉDICO: Só melhorando, graças a Deus. É só de sentar aqui, você já melhora. 
+PACIENTE: Eu só tenho que melhorar.
+MÉDICO: É, ué. Porque eu sei que a situação aqui, né? Aí, fica bom demais. Graças a Deus, não deu queda, né? Graças a Deus, né? Graças a Deus e o senhor, né? 
+PACIENTE: É de era, né? 
+MÉDICO: É de era. 
+PACIENTE: Ah, eu... Tem jeito, não. É do remédio, assim, ó, o negócio tem que ser remédio.
+MÉDICO: É de era. Não tem remédio. Não tem remédio, não, o negócio está melhorando, né? Deixa eu lá pegar as receitas do senhor. 
+PACIENTE: É pelos cuidados, ó.
+MÉDICO: Vou pegar as receitas do senhor, tá?
+ACOMPANHANTE: Tá. Tem que tomar antes de comer, né?
+MÉDICO: É, né? Tem que se alimentar, né? Quer dizer, que a insulina faz. Bom, você ouviu, quer dizer, tem que comer antes. 
+ACOMPANHANTE: Tem que comer antes, não. Tem que tomar antes. 
+MÉDICO: Não, tomar antes de comer e se alimentar. É bem na hora, né? Tomou e comeu. Não é que toma e fica assim, não, não. Não, não, não. Não é ficar esperando, não. Aquela que é regular, que é a de 6 horas, tem que tomar e comer. Não é tomar e ficar assim, não. Não é tomar e ficar assim, não. Não é tomar e ficar assim, não. Não é esperar na hora do almoço, não. Se alimentar direito, entendeu? Não. Capota. Porque uma é ação imediata, a outra é ação prolongada. Então a outra, o senhor tem que comer 9 horas da manhã, 10 horas da manhã, tem que comer de novo, 9 horas, 9 e meia. 
+PACIENTE: Se eu não comer 9 e meia, vai cair. 
+MÉDICO: Ela vai continuar fazendo efeito. É, é pior, é pior. Deixa eu ver aqui, ó. Seu exame... Esse exame é o seu, o antigo, tá? O antigo. Retorno do senhor aqui em 3 meses comigo, beleza? Aqui são os exames que o senhor vai coletar pra próxima consulta. Coletar em 3 meses.
+PACIENTE: Tá tudo em ordem também, né?
+MÉDICO: Oi?
+PACIENTE: Tá tudo em ordem também. 
+MÉDICO: É, foi. E aqui são os remédios. Aqui são os remédios.
+PACIENTE: Eu fui à consulta com o meu [INCOMPREENSÍVEL], no dia 7. No dia 4.
+MÉDICO: Por quê?
+PACIENTE: Ah, sério. Eu fui à consulta com o meu [INCOMPREENSÍVEL], no dia 4.
+ACOMPANHANTE: Parecida? É. Você vai [INCOMPREENSÍVEL] mesmo no dia...
+PACIENTE: Não, eu ganhei 3 consultas.
+ACOMPANHANTE: Hã? Eu marquei 3 consultas no dia... Ninguém aguenta, né? Não, eu marquei. 
+PACIENTE: Ela marcou.
+ACOMPANHANTE: Ela marcou.
+MÉDICO: Ela marcou. Ela marcou. Eu marquei. Eu marquei. Eu marquei. Eu marquei. Eu marquei. Nós vamos voltar. 
+ACOMPANHANTE: Vamos voltar, por favor, porque eu tô com medo, tá?
+MÉDICO: Tudo bom, meu Deus? Tudo?
+MÉDICO: Bom, chefe. Fala aí. Tudo de bom.
+PACIENTE: Eu vou com Deus, tá?
+MÉDICO: Até mais, pessoal.
+PACIENTE: Tchau.
+ACOMPANHANTE: Tchau.
+PACIENTE: Tchau.
+ACOMPANHANTE: Tchau.

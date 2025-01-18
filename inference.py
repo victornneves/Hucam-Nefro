@@ -37,7 +37,7 @@ def process_transcription(primer, text_chunk):
             model="gpt-4",
             messages=[
                 {"role": "system", "content": primer},
-                {"role": "user", "content": text_chunk}
+                {"role": "user", "content": text_chunk},
             ],
             max_tokens=MAX_TOKENS,
         )
@@ -62,7 +62,7 @@ def process_refinement(primer, processed_chunk):
             model="gpt-4",
             messages=[
                 {"role": "system", "content": refinement_primer},
-                {"role": "user", "content": processed_chunk}
+                {"role": "user", "content": processed_chunk},
             ],
             max_tokens=MAX_TOKENS,
         )
@@ -88,7 +88,7 @@ def process_interaction_coherence(primer, refined_chunk):
             model="gpt-4",
             messages=[
                 {"role": "system", "content": coherence_primer},
-                {"role": "user", "content": refined_chunk}
+                {"role": "user", "content": refined_chunk},
             ],
             max_tokens=MAX_TOKENS,
         )
@@ -97,12 +97,13 @@ def process_interaction_coherence(primer, refined_chunk):
         print(f"Error ensuring interaction coherence: {e}")
         return None
 
+
 def get_speaker(patient_id):
     gt_file = f"Dataset-Hucam-Nefro/patient_{patient_id}/patient_{patient_id}_transcription_gt.txt"
     with open(gt_file) as fp:
         lines = fp.readlines()
-    speakers = [x.split(':')[0] for x in lines]
-    speakers = list(set(speakers)) # unique
+    speakers = [x.split(":")[0] for x in lines]
+    speakers = list(set(speakers))  # unique
     return speakers
 
 
@@ -112,42 +113,72 @@ def save_processed_transcription(output_path, content):
 
 
 def process_all_files():
-
-    for i in range(4, 17):
-    # for i in [1]:
+    for i in range(1, 17):
         primer = load_primer(PRIMER_PATH)
         patient_id = f"{i:03}"
         whisper_file = f"{DATASET_DIR}/patient_{patient_id}/patient_{patient_id}_transcription_whisper.txt"
-        output_file = f"{DATASET_DIR}/patient_{patient_id}/patient_{patient_id}_transcription_pred_gpt4.txt"
+
+        # Output files for each pass
+        output_file_first_pass = f"{DATASET_DIR}/patient_{patient_id}/patient_{patient_id}_transcription_first_pass.txt"
+        output_file_second_pass = f"{DATASET_DIR}/patient_{patient_id}/patient_{patient_id}_transcription_second_pass.txt"
+        output_file_third_pass = f"{DATASET_DIR}/patient_{patient_id}/patient_{patient_id}_transcription_third_pass.txt"
 
         speakers = get_speaker(patient_id)
         primer = f"{primer}\n\nOs participantes da conversa são: {', '.join(speakers)}"
         if i in [4, 5]:
             primer = f"{primer}\n\nEssa consulta é feita com um médico residente, por volta do meio da consulta entra em cena o MEDICO_SUPERVISOR que repassa o trabalho do médico residente."
-        
+
         with open(whisper_file, "r", encoding="utf-8") as fp:
             transcription = fp.read()
 
-            chunks = split_into_chunks(transcription, max_length=MAX_TOKENS - len(primer) // 4)
+            chunks = split_into_chunks(
+                transcription, max_length=MAX_TOKENS - len(primer) // 4
+            )
 
-            processed_content = []
+            first_pass_results = []
+            second_pass_results = []
+            third_pass_results = []
+
             for idx, chunk in enumerate(chunks):
                 print(f"Processing chunk {idx + 1}/{len(chunks)} (First Pass)...")
-                result = process_transcription(primer, chunk)
-                if result:
+                first_result = process_transcription(primer, chunk)
+                if first_result:
+                    first_pass_results.append(first_result)
                     print(f"Refining chunk {idx + 1}/{len(chunks)} (Second Pass)...")
-                    refined_result = process_refinement(primer, result)
+                    refined_result = process_refinement(primer, first_result)
                     if refined_result:
-                        print(f"Ensuring coherence in chunk {idx + 1}/{len(chunks)} (Third Pass)...")
-                        coherence_result = process_interaction_coherence(primer, refined_result)
-                        processed_content.append(coherence_result if coherence_result else refined_result)
+                        second_pass_results.append(refined_result)
+                        print(
+                            f"Ensuring coherence in chunk {idx + 1}/{len(chunks)} (Third Pass)..."
+                        )
+                        coherence_result = process_interaction_coherence(
+                            primer, refined_result
+                        )
+                        third_pass_results.append(
+                            coherence_result if coherence_result else refined_result
+                        )
                     else:
-                        processed_content.append(result)
+                        second_pass_results.append(first_result)
+                        third_pass_results.append(first_result)
                 else:
-                    processed_content.append("[ERROR PROCESSING CHUNK]")
+                    first_pass_results.append("[ERROR PROCESSING CHUNK]")
+                    second_pass_results.append("[ERROR PROCESSING CHUNK]")
+                    third_pass_results.append("[ERROR PROCESSING CHUNK]")
 
-            save_processed_transcription(output_file, "\n".join(processed_content))
-            print(f"Saved processed transcription to {output_file}")
+            # Save the results of each pass
+            save_processed_transcription(
+                output_file_first_pass, "\n".join(first_pass_results)
+            )
+            save_processed_transcription(
+                output_file_second_pass, "\n".join(second_pass_results)
+            )
+            save_processed_transcription(
+                output_file_third_pass, "\n".join(third_pass_results)
+            )
+
+            print(f"Saved first pass to {output_file_first_pass}")
+            print(f"Saved second pass to {output_file_second_pass}")
+            print(f"Saved third pass to {output_file_third_pass}")
 
 
 if __name__ == "__main__":

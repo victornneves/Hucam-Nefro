@@ -1,0 +1,112 @@
+MÉDICO: Vamos lá, olha só, na última vez que a gente estava aqui, você chegou aqui e a gente estava preocupado com o senhor, que a pressão estava ficando muito alta e que as coisas não estavam legais, lembra? Você lembra disso? 
+PACIENTE: Não lembro. 
+MÉDICO: Pois é. Você não tem que lembrar, não. Rapaz, esse exame seu aqui é um antigo, bonitão, não é não? 
+PACIENTE: Não é não. 
+MÉDICO: É esse aqui, não é não. É esse show. Vamos lá, me conta uma coisa aqui. Como é que o senhor está? Primeiro, está tudo bem? 
+PACIENTE: Estou tudo bem. 
+MÉDICO: Show. Você não teve nenhuma internação, nada? Acabou aquele trem, aquela falta de ar? 
+PACIENTE: Acabou, acabou. 
+MÉDICO: Acabou tudo? Está tomando o Ropuru, né? 
+PACIENTE: Estou tomando. 
+MÉDICO: Tomou quantas ampolas já? 
+PACIENTE: Ah, eu tomei. Tomei, agora estou tomando em 15 dias só. 
+MÉDICO: Agora você está tomando em 15 dias só. Beleza, deve ter tomado. Tem umas 10 ampolas já, né? 
+PACIENTE: É, mas aquela semana acabou. Aquela outra que tomamos, uma do braço. 
+MÉDICO: Da anemia. É. Acabou porque acabou o remédio, né? Tem que pegar a receita, né?
+PACIENTE: Receita. 
+MÉDICO:  Ah, não, show. Beleza, beleza. A gente vai te dar a receita hoje. Me conta uma coisa. A pressão, como é que está ficando em casa? 
+PACIENTE: Faz pressão. 16 por 8. 16, 17, tá. 
+MÉDICO: Eu tinha ajustado alguns remédios do senhor, porque aquela hidralazina, eu tinha feito, eu tinha feito, eu tinha feito. Eu tinha feito. Eu tinha pedido para o senhor tomar dois comprimidos de 8 a 8 horas. 
+PACIENTE: Sim. 
+MÉDICO: O senhor está tomando assim? 
+PACIENTE: Tomando, dá. 
+MÉDICO: E eu tinha associado também um atenolol. 
+PACIENTE: Estou tomando. 
+MÉDICO: Está tomando também. É. Vamos rever os seus exames aqui? A insulina, você está tomando ainda 30, 30, 30? 
+PACIENTE: Não. Estou tomando 20, 20, 20. Por quê? 
+MÉDICO: Porque eu fui o cardiologista e falou que é muito alto. Oh, Jesus Cristo, pai. 30. E você acompanhou como foi? 
+PACIENTE: Muito forte. Tá. E você está acompanhando com alguma endócrina também? 
+MÉDICO: Estou. Quem? 
+PACIENTE: A doutora Marta. Aqui, né? 
+MÉDICO: É. A doutora Marta é muito forte agora. E a doutora Marta falou o quê? 
+PACIENTE: Foi ela que me escreveu. 
+MÉDICO: Ah, tá. Você não foi em nenhuma consulta com ela ainda? 
+PACIENTE: Não, não. 
+MÉDICO: Ah, então tá bom. Então vamos acordar a Martinha, que ela é maravilhosa, tá? 
+PACIENTE: Marta é boa. 
+MÉDICO: É boa. Ah, você falou que você não foi nela ainda. Como é que você sabe que ela é boa? 
+PACIENTE: Eu comecei a me acostar com ela, doido. Eu comecei a me acostar com ela, doido.
+MÉDICO: Ela te indicou
+MÉDICO: Ah, foi? Claro. Então... Deixa eu te falar. Mas a Martinha, ela concordou com essa redução da insulina aí?
+PACIENTE: Não.
+MÉDICO: Ah, entendi. Ela usava 30, 30, 30. O cardiologista reduziu, mas você não passou por ela ainda. Foi isso. 
+PACIENTE: É a doutora Marta que manda. Entendeu? É a Martinha que manda, rapaz.
+MÉDICO: E você? Você foi na nutricionista, não foi?
+PACIENTE: Eu fui.
+MÉDICO: Você está seguindo? Você mora com quem?
+PACIENTE: Minha irmã. Eu sou divorciado.
+MÉDICO: Você mora com aquela sua irmã brava?
+PACIENTE: Não, é a outra.
+MÉDICO: A outra é mais barba ou mais tranquila? 
+PACIENTE: Não, é mais tranquila. 
+MÉDICO: Me conta uma coisa. O senhor chegou a fazer risco cirúrgico? Que eu tinha pedido para a fístula?
+PACIENTE: Eu fiz de um braço. Ele botava os dois e botou um só. Agora eu pedi o segundo braço.
+MÉDICO: E o risco cirúrgico?
+PACIENTE: O risco cirúrgico é cada um dos dias. Dia 21 do passado. 
+MÉDICO: 21 de janeiro? Está marcado já?
+PACIENTE: Está marcado já.
+MÉDICO: Tá bom, deixa eu ver o que eu vou arrumar com você aqui, meu filho. Deixa eu ver o que eu vou.
+MÉDICO: Vamos arrumar aqui. Você viu meus papéis aí? 
+PACIENTE: Eu não sei como você vai dar aula. 
+MÉDICO: Não, eu sei tudo o que eu vou fazer. Pode ficar tranquilo, tá? Deixa eu só ver uma coisa aqui. 
+ASSISTENTE: O rapaz ali que está... 
+MÉDICO: Quando eu botei estava certo, estava leve. Você foi pra gente. Você é produtivo, né? Se vocês não quiserem melhorar mais... Se você não quiser melhorar mais, não precisa nem fazer o futebol, né? Se você não quiser melhorar mais, não precisa nem fazer o futebol, né? 
+PACIENTE: Calma, rapaz. 
+MÉDICO: Não, relaxa. Isso aí é tranquilo. Deixa eu te falar. Você tomou a vacina? Da hepatite B? 
+PACIENTE: Tomou? Cadê o cartão de vacina? Tá por aí?
+MÉDICO: Não, tá aqui não. 
+MÉDICO: Essa parte da insulina vou deixar com a Dra. Marta resolver. A Dra. Marta vai resolver e vai nos ajudar nessa questão de ajuste da insulina tudo bem beleza? É a pessoa deve levar, tá? 
+PACIENTE: Eu tô tomando aquele remédio, é muito bom e o negócio da do Bac identify né. Foi depois que você colocou o exame, será? 
+MÉDICO: Você está tomando jeito, hein, velho? Eu estou começando a botar fé em você, hein? Deixa eu te falar, você chegou a tomar uma vitamina D, que é um comprimido por semana, aí depois um por mês.
+PACIENTE: Sim, sim. Você está usando isso? Estou usando, mas acabou.
+MÉDICO: Eu acho que você não está usando, não. Estou usando. Vamos lá, risco cardio está marcado para quando?
+PACIENTE: Dia 21.
+MÉDICO: Então, dia 21 de 25. Beleza. E o Doppler?
+PACIENTE: O Doppler, você está faltando o Doppler.
+MÉDICO: É. O Doppler. Deixa eu colocar o lado de mim, que é mais viável. A minha é superior. O lado de esquerda. Do lado de direito. Do lado de direito. Do lado superior. Não nada de esquerda. Isso, somente. Do lado de esquerda. Ok, beleza. Não tem nenhuma das indicações. Seguimento conjuntivo. A nutricionista marcou retorno, o senhor? 
+PACIENTE: Marcou. Marcou, mas... 
+MÉDICO: Hoje não dá para o ano que vem. Não dá para o ano de março. Tá. Vou marcar o retorno do senhor para dois meses aqui comigo, tá? 
+PACIENTE: Tá.
+MÉDICO: O senhor ficar com saudade de mim. O senhor ficar com saudade de mim, tá bom? É em receita. Você vai precisar, meu velho? 
+PACIENTE: Vou precisar.
+MÉDICO: Só no foco. Pera aí. Mas
+MÉDICO: Beleza, deixa eu ver aqui, vamos lá. Mantenha os medicamentos, a sucetamolidina, doutora Marta, a cartazocinal, mantenha a dose a 2 mil por semana, acrescentarei mais uma medicação, o colinococerol. 
+PACIENTE: Doutora Marta, você me disse que você estava me chamando na expo.
+MÉDICO: O colinococerol. Foi tudo, meu amigo, foi tudo. Espera lá agora, meu filho. Finalizar atendimento.
+ASSISTENTE: Procedimento bem formado.
+MÉDICO: Finaliza atendimento. Vou lá pegar os seus papéis, tá? De hoje também?
+ASSISTENTE: Isso, mas isso aqui é da farmácia.
+MÉDICO: Ó, meu velho, deixa eu te falar. Eu quero que ele se colete aqui em dois meses, fechou?
+PACIENTE: Sim.
+MÉDICO: E aí eu vou pedir pra você coletar esse exame aqui em dois meses. Deixa eu te falar, você vai caprichar nessa dieta nesse final de ano aí, tá, velho? Se os seus exames melhoraram, então ó...
+PACIENTE: Melhorou.
+MÉDICO: Melhorou um pouquinho a coisa, hein? Mas você não vai ficar me aprontando agora não, tá? Porque você é danado. Se eu te liberar, você... Você faz igual aqueles cachorros de roça. Eu já diminui muito a dieta, eu diminui tudo.
+PACIENTE: Pois é. Você não fica comendo essas carnes gordas não. Ah, doutor. Eu sempre...
+MÉDICO: Não, não é não. Não vem com essa conversa não. Olha, velho, não está me enganando. É, você acha que eu vou liberar pra você? Não, esse aqui não é seu não. Deixa eu te falar, meu gato. Seguinte, olha só. O Noripurum você vai continuar tomando de 15 em 15 dias, até o retorno. O único remédio que eu vou associar pra você é esse que eu estou fazendo uma bolinha aqui, que se chama Clonidina.
+PACIENTE: Tá.
+MÉDICO: Todos os outros que você está tomando vai continuar tomando igual. 
+PACIENTE: Sim.
+MÉDICO: Esse é um a mais, pra controlar melhor a pressão. Aí vai tomar um comprimido de 12 em 12 horas. Beleza?
+
+MÉDICO: E o outro, o total da resgate? Tá tudo aqui.
+PACIENTE: Tá tudo... Não, calma, rapaz. Calma. 
+MÉDICO: Esse aqui é o exame, tá? Esse aqui é esse papel que você trouxe aí, tá? Aqui tá o papel, tá bom? E a Losartana que é aquele comprimidão que você pega lá na farmácia da Zan.
+PACIENTE: Sim. Você tá tomando um no café, um no almoço, um no jantar. 
+MÉDICO: Não, rapaz. Tem que ser três.
+PACIENTE: Eu tô tomando três só. 
+MÉDICO: Então tem que ser três, tá? Mas eu tô querendo que você tome dois no almoço. Um no café, dois no almoço e um no jantar.
+PACIENTE: Ah, tá. Fechou?
+MÉDICO: Tá bom. Isso. A receita tá aqui atrás, tá bom? 
+ASSISTENTE: Como é que tu anota o medicamento?
+MÉDICO: Já anotei. E aquele outro aqui? Tá aqui também. Tá tudo aqui. Fechou, meu velho? Vai com Deus, tá, meu filho? Até mais, hein? Deus te abençoe.
+PACIENTE: Vai com Deus.

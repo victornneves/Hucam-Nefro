@@ -1,0 +1,59 @@
+MÉDICA: você precisa trazer o resultado, porque isso também precisa ser visto.
+
+PACIENTE: Ah, eu não sabia. Eu vou trazer na próxima, prometo.
+
+MÉDICA: Maravilha! E como está se sentindo hoje?
+
+PACIENTE: Ah, eu estou me sentindo bem.
+
+MÉDICA: Ótimo. Continue a tomar os medicamentos e siga as recomendações, viu? Precisamos manter a função renal estável. 
+
+ACOMPANHANTE: Claro, doutora. Nós vamos seguir todas as orientações.
+
+MÉDICA: Vocês estão fazendo um ótimo trabalho! Nos vemos no próximo mês então? 
+
+PACIENTE: Claro, no próximo mês estaremos aqui. Obrigado, doutora. 
+
+MÉDICA: De nada. Se precisar, é só telefonar. Até a próxima!
+
+ACOMPANHANTE: Até a próxima, doutora. Boa tarde!
+
+MÉDICA: Boa tarde!
+MÉDICA: Eu realizei a endoscopia. Por quê? Quando iniciei os exames daqui.
+PACIENTE: Foi porque tinha que fazer a endoscopia. Mas naquela época eu fui para o hospital e fiz a endoscopia. Mas já tem tempo, né? O médico daqui tinha solicitado mais, vamos lá. É um exame também que está aguardando até que seja marcado.
+MÉDICA: Mas ainda não ligaram. Eles são bastante demorados.
+PACIENTE: É lento mesmo. A que fiz, foi por meio daqui. Porque quando fiquei internado eu fiz a endoscopia. Sim, mas tem um bom tempo.
+MÉDICA: Naquele tempo, eu solicitei outro exame, sim.
+PACIENTE: Aí foi quando me solicitaram e eu fiz os outros. Sim, mas tem um bom tempo.
+ACOMPANHANTE: Caiu no gargalo do sistema.
+PACIENTE: Eu realmente não sei. Peço desculpas. Sinto muito. Eu tenho que ir para uma consulta, não tenho tempo. Não, eu preciso ir para uma consulta.
+MÉDICA: Por quê? Porque você precisa caminhar em casa.
+PACIENTE: Eu fiquei internado aqui e fiz uma endoscopia. Eu saí, aquela vez que passei mal, acho que foi... aí o médico pediu uma endoscopia que eu fiz por aqui.
+MÉDICA: Quando o senhor tem consulta no gastroenterologista?
+PACIENTE: Não marcou mais, não. Eu vim aqui, mostrei e não colocou mais, não marcou. Mas agora tem a doutora que faz. Ela faz endoscopia. Como faz endoscopia por baixo? Não foi ela, foi um doutor é, foi um doutor que pediu.
+MÉDICA: Este médico solicitou qual exame?
+PACIENTE: Este aqui, o médico solicitou. Mas o senhor colocou lá, né? Estava aguardando, né? A gente marcou em agosto.
+MÉDICA: Ele falou, ah, demora talvez até agosto vamos ver. Mas aí ele olhou e disse que eu tinha que fazer isto também. Agora estou aguardando, ele me orientou a entrar em contato. Por enquanto está marcado, né? Esse aí que o senhor tem que pegar esse papel aí e levar, está bom?
+PACIENTE: Pegar qual? Tá, me dá aí o papel de novo.
+MÉDICA: O senhor está precisando de algum medicamento?
+PACIENTE: Não, não. Recebi assim, não, depois, não.
+MÉDICA: Entendo, não precisa. Vou encaminhar outro exame.
+PACIENTE: Eu vou fazer outro exame, sim.
+MÉDICA: O senhor está falando com o doutor Brazó?
+PACIENTE: Estou.
+MÉDICA: O senhor já tem medicamento, não vai faltar nada. Você precisa pegar o medicamento no posto, não é?
+PACIENTE: Sim, é no posto que eu pego o medicamento. 
+MÉDICA: O senhor já tomou Sinvastatina antes?
+PACIENTE: Acho que não. Assim que eu pegar esse remédio no posto, eu vou começar a tomá-lo. Eu tenho muita depressão.
+MÉDICA: Informo que o senhor vai tomar 2 comprimidos de Sinvastatina à noite, tá?
+PACIENTE: Entendi, tomo a Sinvastatina à noite e continuo com a insulina, 6 de manhã e 4 antes do jantar.
+MÉDICA: E quanto à Pravastatina, o senhor continua tomando?
+PACIENTE: Sim, estou tomando. A dosagem é de 40.
+MÉDICA: Ótimo, recomendo que o senhor mantenha os cuidados com o remédio e a alimentação. Quando o senhor vai voltar?
+PACIENTE: Estarei de volta na segunda-feira.
+MÉDICA: Então, o senhor pode começar o novo remédio depois que voltar. O senhor está fazendo bem, deve retornar daqui a 4 meses, tudo bem? 
+ACOMPANHANTE: Certo, vamos marcar ali.
+MÉDICA: O senhor já fez este exame, certo? Vou verificar, é somente o pedido. Então, o senhor visita novamente daqui a 4 meses. Receba esta receita e comece o remédio só depois da viagem, tudo bem?
+PACIENTE: Esse remédio é para o colesterol?
+MÉDICA: Sim, o senhor já controlou o colesterol bem. Mas eu vou prescrever esse medicamento adicional, porque para pessoas com doença renal nós queremos um controle ainda melhor. Alguns pacientes podem sentir dores musculares com esse remédio. Se sentir dor após começar a tomar, interrompa e conversamos durante a consulta. Pode ser que não aconteça nada, mas precisa ficar ciente. Caso tenha esse efeito, como o seu caso não precisa tanto assim do medicamento, você pode parar e conversamos na consulta. Esse aqui é o seu exame...
+PACIENTE: Tá bom, doutora. Eu vou fazer os exames e trago na próxima consulta. Mas o que a senhora vai mudar?

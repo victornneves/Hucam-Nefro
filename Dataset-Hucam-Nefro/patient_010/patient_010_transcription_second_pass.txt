@@ -1,0 +1,11 @@
+MÉDICA: É, eu posso abrir uma parte para tirar, hein?
+PACIENTE: Pode.
+MÉDICA: Olha só. Espera aqui, vou só pegar o álcool. Esse aqui é a sua receita, tá? Normal. Aqui dá uma creatinina. Esse aqui é o resultado do exame. Esse aqui é o pedido para a próxima consulta. Então, você vai marcar aqui para março, depois você vai lá no laboratório marcar esse aqui. Tá bom? 
+PACIENTE: Mas aí...
+MÉDICA: Não, esse aqui eu vou pegar ainda. Espera aí, só um minutinho. Eu dei 120... Ah, não posso colocar 120. A dosagem é 90. Esse é de 12 em 12? Esse é de 8 em 8? A gente não aceita a outra posologia. 
+PACIENTE: Ah. 
+MÉDICA: Ó, tá. Perfeito, trouxe tudo aqui. Esse aqui é do Cetorolaco, tá? 
+PACIENTE: Aham. 
+MÉDICA: Esse aqui é do Tramadol. Pronto, que é o que tá liberado. Aí você marca lá e depois já marca no laboratório. Tá bom. Tá bom ou não bem?
+PACIENTE: Tá bom.
+MÉDICA: Vai com Deus.
