@@ -1,0 +1,118 @@
+MÉDICA: Minha cara, tudo bem? 
+PACIENTE: Bem, fiz a minha inspeção. Para o fio da sonda, não é? Ah, pode ser.
+MÉDICA: Bom, mas a Neninha voltou. De novo, né? 
+PACIENTE: Tenho essa coisa aqui. Uma secura como se fosse um espinho. Parece que esses dias estava tão seco, meu solo. Tão seco que até deu uma ferida, né? Tá muito seco. Usei Bepantol nessa ferida. Demora para cicatrizar. Mas só isso. Essa aqui. Não parece, né? Não sei o que é isso. Já passei pomada, mas não melhorou. 
+MÉDICA: O que você usou, Bepantol?
+PACIENTE: Betametasona. Passei... Uma outra também. Deu bolha em algum momento? Chegou a dar uma inflamada. Sim, mas deu bolha. Acho que deu sim. Queimou muito. Agora não está queimando tanto, né?
+MÉDICA: Pode ser que seja herpes, então. Às vezes não está melhorando porque se for herpes... Você tem quanto tempo que está assim? 
+PACIENTE: Acho que é um ano. Deixa eu pensar. Eu acho que é um ano. Eu acho que até pode ser herpes também. Aqui também, ó. Veja aqui. Já deu. Até um ano que não voltava. E agora voltou isso aqui de novo. Essa feridinha. Isso aqui pode ser. Isso aqui pode ser. Você raspa? 
+MÉDICA: Sou rara a raspar, mas eu raspei. Pode ser isso. Provavelmente é isso. A boca aqui eu tenho a sensação, mas eu não posso dizer que é, que eu comi o pêssego e depois do pêssego isso aconteceu, mas também não tem lógica. Se fosse uma fruta ácida, poderia ser limão. Né? 
+PACIENTE: Uhum. É, não mais tá dando certo, ó. Vou manter meu peso direitinho. Só o fosfato, né? Que uso a mesma coisa também. Mesmo assim a máquina mede direitinho. Que nem não aumentou demais.
+MÉDICA: [INCOMPREENSÍVEL]. Vou olhar aqui, deixa eu checar isso. Você tem diabetes, assim como eu tenho? 
+PACIENTE: Cloridrato de metformina, né?
+MÉDICA: Não.
+MÉDICA: É parte do seu quadro. 
+PACIENTE: Falar nisso, doutora... Será que vai dar uma melhorada? 
+MÉDICA: Foi pior. O dia está pior? 
+PACIENTE: Já foi pior.
+MÉDICA: Ah é? Eu estou exausta, cansada. Já é tarde e vocês estão todos animados.
+PACIENTE: Estou igual a você. Eu estou igual a você. Agora não estou me preocupando que eles vão me considerar como risco. Eu vou sair, já estou com duas férias planejadas. Eu não estou me preocupando porque na hora que eu me afastar... 
+MÉDICA: Eu pensei, de quem estamos falando? Não vou especular. Como está a sua pressão? 
+PACIENTE: Doutora, aparentemente está bom. 
+MÉDICA: Nossa, toma um remédio. Toma duas vezes.
+PACIENTE: Duas vezes de manhã, duas vezes de noite. Estou tomando a Losartana 50 à noite e 25 de manhã.
+MÉDICA: Está pegando lá a Eritropoietina certinho, não é? 
+PACIENTE: O que é Eritropoietina? 
+MÉDICA: Eritropoietina. Ah, sim. Tem que pegar a receita. Mas aí tem aquele medicamento, no início estava 12 e pouco, direitinho, depois relaxou um pouquinho. 
+PACIENTE: É, assim, 9,9 está ótimo. 
+MÉDICA: Então, ela é para isso. 
+PACIENTE: Tem que estar em 12, entendi. Idealmente, né? 
+MÉDICA: Você não conseguiu aferir agora? 
+PACIENTE: Não, nunca me passou isso, não. O que é isso? 
+MÉDICA: A ferritina com esse ferro do posto não está aumentando, né? 
+PACIENTE: É, é uma absorção, é só pelo posto. 
+MÉDICA: Você chegou a fazer o dobro, né? 
+PACIENTE: O braço, os braços, assim. Acho que eu não entendi. Não estou, sim, quer dizer. Você disse que vai checar aqui assim, isso aqui está bom. 
+MÉDICA: Esse local é melhor, pois é próximo do coração. 
+PACIENTE: É. É. É. Eu estou fazendo o meu procedimento na mão, né? 
+MÉDICA: Uma vez que inicia, temos que monitorar. É. Uma vez que inicia, temos que monitorar. 
+PACIENTE: Vou [INCOMPREENSÍVEL]. Não tem nenhum problema. É. Tô tomando [INCOMPREENSÍVEL]. 
+MÉDICA: Eu vou verificar com mais detalhes depois, o [INCOMPREENSÍVEL] está [INCOMPREENSÍVEL]. 
+PACIENTE: Vou aumentar a dosagem do [INCOMPREENSÍVEL].. Estou. E três comprimidos do [INCOMPREENSÍVEL] de manhã que já tem à noite. 
+MÉDICA: Vamos lá. Você vai querer... Você tinha preferido ter [INCOMPREENSÍVEL], mas aí por conta da questiona daquele novo sintoma que apareceu.
+MÉDICA: Ótimo, isso indica que o tratamento está indo bem. E a função renal, como está? 
+PACIENTE: De acordo com os exames, está estável. Isso é um bom sinal, certo? 
+MÉDICA: Sim, isso é um bom indicador. Então, qualquer mudança, por favor me avise. 
+PACIENTE: Com certeza, doutora. Muito obrigado pela sua orientação e ajuda.
+MÉDICA: De nada. Lembre-se que estarei aqui para te ajudar. Até a próxima consulta. 
+PACIENTE: Até a próxima, doutora!
+MÉDICA: Pelo que entendi, você teve muitos anos de quimioterapia. Depois parece que a sua condição de saúde piorou. Mas notei que você se sente bem mentalmente, isso é bom.
+PACIENTE: Sim, após passar pela quimioterapia, sinto como se tivesse renascido. Estou tranquilo e acredito que vai dar certo. Você disse que enviou algo para o meu e-mail?
+MÉDICA: Sim, mandei.
+PACIENTE: Encontrei, deixe-me checar. Entendi, tudo parece normal. Não teve nenhum problema detectado, correto?
+MÉDICA: Sim, de acordo com o exame, não há nada anormal. A precisão do exame, entretanto, pode variar dependendo do equipamento utilizado e da pessoa que está conduzindo o exame. 
+PACIENTE: Entendi. Pode haver algum erro, se por acaso estiver com muitos gases no dia, isso pode afetar a visibilidade do exame, certo?
+MÉDICA: Sim, mas no geral, se a ressonância é normal, podemos ficar tranquilos. Agora, sobre o cálcio, ele é para a cicatrização?
+PACIENTE: Não, na verdade precisa de uma prescrição para a disfunção. O medicamento atual não está fazendo efeito?
+MÉDICA: Caso o medicamento atual não esteja agindo corretamente. Ele funciona regulando os níveis de fósforo?
+PACIENTE: Não, o propósito é reduzir esse excesso no sangue.
+MÉDICA: Entendi. Você precisa prestar atenção na sua ingestão de alimentos, especialmente coisas como carne. Você tem se alimentado de maneira mais saudável ultimamente, até comendo queijo branco com baixo teor de gordura? 
+PACIENTE: Sim, com certeza.
+MÉDICA: Também é importante monitorar a creatinina para evitar aumento desses níveis.
+PACIENTE: Entendi, obrigado pelas orientações.
+MÉDICA: Só esperar. Agora é o momento de fazer a fístula e entender o que vai acontecer. Seu irmão está bem? 
+PACIENTE: O irmão está bem. 
+MÉDICA: Você tomou bastante heparina?
+PACIENTE: Não, tem muito tempo que eu não tomo. Mas assim, meu cálcio não está... ...direitinho. Eu acho que não vai não. Não adianta tomar, né? 
+MÉDICA: Vamos ver. O mieloma, a bronquite está complicando essa massa.
+PACIENTE: Precisa de exame de urina para infecção? Não? Não? 
+MÉDICA: Elas vão ver isso e o que acontece em paciente alcoólico? Não se preocupem com isso, é da doença. Não é nada a mais.
+PACIENTE: Eu fiquei muito ligada com a fotofobia. Eu estava para enlouquecer. Ainda mais que já tem o histórico na família. A gente fica bem intenso. Até que eu já sei pegar a vontade de Deus. A gente perde bastante tempo. Normal, é assim mesmo. Eu também sinto muito cansaço. Mas eu estou assim também. No dia do Natal, eu viajei para Anchieta. Eu tinha trabalhado para caramba na vespera. E os meus filhos me fizeram ficar acordada até mais de meia-noite. Fiquei acordada até as seis e vinte para ir para Anchieta. Eu cheguei a Anchieta e estava exausta de sono. Eu disse, só passar no lado deles. Só passar. Só tem que dormir. Porque assim, tem hora que o corpo tem que descansar. Não tem jeito. Com certeza. Estou urinando normalmente.
+MÉDICA: Esse dá. Depois que você tiver a fístula, você não pode medir a pressão por essa fístula.
+PACIENTE: Ah, é, né? Nem tirar sangue.
+MÉDICA: Nem carregar peso, né? 
+PACIENTE: Não, um pouquinho. Não tem problema não. Ah, que lindo. Acho que não pode pegar muito peso.  
+MÉDICA: Mas bolsa pode carregar? 
+PACIENTE: Pode. Pode, pode. Bolsa. Ah. Se não for uma coisa pesadona, né? Não vai carregar um pacote de feira aqui. Um monte de coisa. Ô, ó! Não [INCOMPREENSÍVEL]. Bom dia! Tudo bem? 
+MÉDICA: Acho que tem. É agora que vamos em casa também. 
+PACIENTE: Assim, aqui. Nem sempre ela pode. Depois ela está pegando tudo, eu estou olhando os cantinhos nas minhas unhas para resolver o problema do meu estômago também. Hoje até está bom, já está quente, posso usar para fazer outras coisas. Passei o Natal com ferido, com tudo inchado. 
+MÉDICA: Você tem efervescente em casa? 
+PACIENTE: Tenho. Quando for assim você passa?
+MÉDICA: Passe vaselina duas vezes por dia, mas isso não significa que você vai deixar de molhar, certo? 
+PACIENTE: Entendi, vou seguir o indicado. Significa que posso molhar as mãos à noite, mas durante a maior parte do dia preciso evitar?
+MÉDICA: Correto, duas vezes ao dia. Vamos observar, há alguns dias com mais necessidade que outros, mas geralmente melhora.
+PACIENTE: Mudando de assunto, como falei, eu morava na praia não é? Posso usar protetor solar, não tem problema. Até falaram para usar o Zorax, mas eu tentei e não deu certo. 
+MÉDICA: Sim, você pode usar Zorax, é eficaz para proteção solar, mas pode manchar um pouco a pele, entendeu? E lembra do Zorax do Tom, que mencionei anteriormente? É o ideal. 
+PACIENTE: Eu usei e realmente aliviou bastante, mas também não resolveu toda a questão. Então, posso continuar com o Zorax, mas a situação continua a mesma. 
+MÉDICA: Gosto do Zorax também, ele é um bom produto. É, é uma marca confiável. 
+PACIENTE: Também gosto da marca, é boa. Ultimamente tenho ingerido romã todos os dias, dizem que é benéfico para a saúde. Mas preciso ter cuidado com o fósforo, certo? 
+MÉDICA: Correto, em uma faixa etária mais jovem isso não é preocupante. Mas em doenças renais crônicas... Tudo é intensificado, certo? Vou começar a prescrever um medicamento para você, chama-se Sevelamer. É um substituto para o carbonato de cálcio, pois controla o fósforo. 
+PACIENTE: Entendo, se o fósforo está alto, eu terei que fazer um ultrassom mais detalhado. Então, essa substituição seria inicialmente por conta do excesso de fósforo, correto? 
+MÉDICA: É isso mesmo, tiraremos o carbonato para que o controle seja eficaz. 
+PACIENTE: Exatamente. Acho que estou entendendo. Precisamos ser ágeis nesse processo para manter a saúde em dia. 
+MÉDICA: Sim, a saúde requer muita responsabilidade. Um exemplo disso foi quando eu tive que cuidar do meu irmão que teve leucemia. Cuidei dele enquanto minha mãe estava no hospital. Foi um grande aprendizado.
+PACIENTE: Realmente, sua experiência é imprescindível. Seu irmão sobreviveu? 
+MÉDICA: Infelizmente não, mas com a perda dele e com meus outros irmãos, aprendi muito. E agora, continuo aqui, ajudando outros pacientes.
+PACIENTE: A vida não é fácil, não é? É preciso ter responsabilidade. Quem cuida da saúde é o próprio indivíduo, não é mesmo? 
+MÉDICA: Sim, a responsabilidade da saúde é de cada um de nós. Vamos seguir, está certo? 
+PACIENTE: Concordo plenamente.
+PACIENTE: Ela é uma grande médica. É, é difícil assim. Falaram pra mim que eu tinha que ficar não sei quantas horas sem água. Não é possível, eu tenho desidratação. Tô tomando muita medicação e tem lá o coronavírus, né? Tem um pouquinho de coronavírus em mim por causa das doenças. Você tem coronavírus? 
+MÉDICA: Em relação ao seu estado, é importante que você tenha conhecimento sobre o desenvolvimento da doença e os tratamentos. 
+PACIENTE: Mas essa polipilíquia embaixo do braço, você acha que eu posso passar algo ou não?
+MÉDICA: Pode, só não esfregar tanto, faça um curativo, isso vai melhorar. E na boca, o que você queria para eu passar?
+PACIENTE: Depois, posso fazer um teste. Essa outra coisa, eu já sei o que é, ela quer comprar. Coisa boa com você. Eu estou com dúvida que eu vou fazer, ok? Eu não entendi nada. Então, eu estou com dúvida novamente, não é? 
+MÉDICA: Não, não. Como que foi? Ela conseguiu? Eu gostaria que você respondesse, você quer que eu aumente o volume aqui? 
+PACIENTE: O aparelho é muito alto, fica um zumbido. A gente precisa conversar. Agora, eu quero usar o medicamento. Então, gostei, agora. Se houver uma piora total, sem você aqui, o que eu vou fazer? 
+MÉDICA: Não vai piorar, não vai piorar, mas se piorar, você vai mandar mensagem e... Se você piorar no fim de semana, vá ao pronto-socorro, não adianta tentar sozinha. É para cuidar da sua saúde, não é todo dia. E se piorar durante o dia de semana, você está...
+MÉDICA: Sentindo que está piorando, manda mensagem, pode mandar para mim, estou te alinhando, mas tem outro médico também, não estou só, qualquer coisa ele te atende, tá? Você tem o WhatsApp do programa Prevenir, não tem? 
+PACIENTE: Não, não tenho. 
+MÉDICA: É bom você ter. Agora para o exame, não esqueça nada, tá? Vou pedir os exames, acredito que dá para você esperar eu voltar das férias. Se não der tempo, faço uma coisa, se não, não saio do seu acompanhamento. Porque alguns pacientes não têm celular, mas você tem, não é? 
+PACIENTE: Sim, eu tenho. 
+MÉDICA: Então, tem paciente mais complicado que eu marquei para o Dr. Leão. Mas, como você tem celular, eu vou marcar para você e você me avisa. Eu volto só em fevereiro, mas... acredito que dá para segurar. Se Deus quiser. Você tem seu hemograma. A função renal está ruim, você vai precisar seguir as orientações que estou falando, mas não é uma situação desesperadora no momento, ok? Eu vou orientar algo para você e depois me informa. O remédio para o lugar do cálcio é o Valsartan, vou prescrever para você. Tomar imediatamente, antes do café da manhã, ok? A função renal está em 14%. A situação é a mesma, mas não há motivo para desespero. Eu estava mais preocupada antes, quando a gente não tinha conseguido fazer o tratamento. Era uma situação mais complicada, havia o risco de fazer a ressonância. 
+PACIENTE: Hum.
+MÉDICA: Desde o início, quando parecia que era algo recente, não tínhamos nenhum problema para resolver, então isso era uma distração. Agora estou mais tranquila. Mesmo que a fístula não seja agora, geralmente, as pessoas começam a fazer isso com 8%, 7%. Alguns pacientes vivem com 6% e ainda não iniciaram o processo. Então, 14% não é uma situação crítica. Abaixo de 15%, a gente sabe que é um risco. 
+PACIENTE: Hum. 
+MÉDICA: Pode acontecer, porque não está num nível favorável. Mas, em geral, os pacientes estão começando o tratamento com a gente nesta condição, então.
+MÉDICA: Consegue se sentir bem? 
+PACIENTE: Sim, posso. Posso. 
+MÉDICA: Então, eu estou aqui avaliando seu prontuário. E vai dar tudo certo. É parte disso. Deixa eu ver.

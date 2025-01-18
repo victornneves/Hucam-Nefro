@@ -1,0 +1,135 @@
+MÉDICA: Como é que a senhora está? Me conte. Eu estou aqui.
+PACIENTE: Me encontro na expectativa, né? 
+MÉDICA: Está gravando este nosso diálogo? 
+PACIENTE: Está sim, doutora. 
+MÉDICA: Entendi. Deu uma caidinha na sua creatinina, comparado com o exame anterior. 
+PACIENTE: Pois é. Eu vou tomar isso como uma vitória. Isso é bom, não é? 
+MÉDICA: Isso é muito bom, sim. 
+PACIENTE: Doutora, eu estou achando que foi o queijo que eu retirei da minha dieta. Eu estava comendo queijo. A doutora até liberou, mas era só ricota ou frescal. Eu senti que o queijo... Nenhum queijo para mim serve. Eu senti isso. Coisa de percepção, né? Mas queria saber se a senhora acha que pode ter sido isso.
+MÉDICA: Eu acho assim, né? Se a senhora percebeu isso... É porque com certeza influenciou. Concorda? 
+PACIENTE: Eu fui no cardiologista e ele me receitou um remédio. Posso tomar? 
+MÉDICA: Eu estou olhando a receita aqui. Sim, é importante você tomar, mas a senhora vai precisar do cateterismo, não é?
+PACIENTE: Sim, vou aguardar o cateterismo.
+MÉDICA: O que mais o Dr. Anderson te falou? 
+PACIENTE: Ele me disse que quer fazer o cateterismo. Sei que é necessário, mas estou com muito medo. Porque ele disse que é arriscado ir direto para a hemodiálise sem o cateterismo. Então, eu estou receosa por isso. 
+MÉDICA: É, vamos tentar adiar um pouquinho, né? Adiar por um tempo, até o que der.
+PACIENTE: Ele falou sobre a possibilidade da creatinina baixar durante o processo de hemodiálise. E que se isso acontecer, a gente pode fazer o cateterismo. 
+MÉDICA: Como assim? Não entendi. O que foi que ele disse, exatamente? 
+PACIENTE: Se a creatinina baixar durante a hemodiálise, eu posso fazer o cateterismo nesse período. 
+MÉDICA: Sim, pode. Pode sim. Seria ainda melhor a gente esperar, então? 
+PACIENTE: Entendi. O problema é se eu não conseguir continuar com o meu jujitsu. Esse é o maior problema. 
+MÉDICA: Entendo. E você já começou? Que notícia boa. 
+PACIENTE: Ah sim, doutora. E eu fiz aquele exame que a senhora pediu. 
+MÉDICA: Entendi. Muito bem. 
+PACIENTE: E como mencionei, vou agendar o cateterismo. 
+MÉDICA: Certo. Que bom que está tomando as providências. Então agora, precisamos pensar no próximo passo do tratamento. Deixa eu verificar aqui. 
+MÉDICA: É uma decisão difícil, não é, Ruth? Mas é algo que já era previsível, né? 
+PACIENTE: Sim, previsível. 
+MÉDICA: Talvez, seja necessário a realização do CAT, ou exame de CAB. Vamos aguardar mais um pouco antes de decidir.
+MÉDICA: Vamos segurar um pouco mais, tá?
+PACIENTE: Outra coisa, doutora. O resultado que eu vou tirar aqui. O oftalmológico, o que ele disse.
+MÉDICA: Uhum.
+PACIENTE: Aqui. O... O... O oftalmológico indicou que eu procurasse um especialista, mas até agora não me chamaram. Eles mencionaram que eu precisaria usar óculos de novo. Óculos bifocal. Mas eu aida não fui chamado. Eu já usei óculos antes e eu estou com a catarata. Não sei o que fazer, estou muito preocupado.
+MÉDICA: Tá bom. Primeiro, é importante dizer que é normal esperar até ser chamado pelo sistema de saúde. Você já solicitou isso no posto de saúde?
+PACIENTE: Sim, mas eles não aceitaram a solicitação. Quando eles encaminham, eu não sei o que aconteceu. Eu perguntei se era por causa do preenchimento a caneta do encaminhamento. Não consegui entender a justificativa que eles me deram. Será que é por isso que não estão aceitando esse papel?
+MÉDICA: E posteriormente, eles aceitaram?
+PACIENTE: Ela perguntou se o médico que pediu o exame era estagiário. Eu não sei o que aconteceu. Eles parecem achar estranho um oftalmologista indicar outro oftalmologista.
+MÉDICA: É, eles estranharam isso. O problema é que nosso serviço é destinado a casos mais complexos. Seu caso, graças a Deus, é mais simples. Eles estão te encaminhando pra outro lugar pois não conseguimos atender todos os casos aqui. E o médico que te deu o encaminhamento, o Dr. João, ele é doutor, não é?
+PACIENTE: Sim, ele é doutor. Eu realmente não entendi essa situação.
+MÉDICA: Entendo. Aqui só atendemos casos mais complexos de oftalmologia. Como o seu é mais simples eles estranharam o encaminhamento. Eu me lembro do Dr. Rodrigo que te atendeu primeiramente.
+PACIENTE: Sim, eu lembro. Ele tinha me dito que eu seria encaminhado para outro especialista.
+MÉDICA: Sim, o Projeto Prevenir. Teríamos uma equipe médica a seu favor. Todo um tratamento relacionado ao diabetes.
+
+PACIENTE: Sim, mas não é tudo que é relacionado ao rim?
+
+MÉDICA: Sim, e também contamos com uma equipe multidisciplinar, com nutricionista, assistente social, psicólogo, terapeuta ocupacional, enfermeira. Inclusive fazemos algumas parcerias com a cardiologia para avaliações pré-operatórias de risco para a fístula.
+
+PACIENTE: Eu já fiz algumas avaliações.
+
+MÉDICA: Já fez o mapa cardiovascular?
+
+PACIENTE: Não lembro de ter recebido autorização, não sei.
+
+MÉDICA: Foi agora, dia 19 de novembro que a senhora foi. Está aqui, confirma?
+
+PACIENTE: Foi liberada? Não sei.
+
+MÉDICA: Vou verificar aqui, está bem? Pelo que eu vejo, o cardiologista aumentou a dose do metoprolol, ficou 100mg ao dia, e acrescentou esse outro medicamento para o coração.
+
+PACIENTE: Então agora o metoprolol estou tomando duas vezes ao dia, não é isso?
+
+MÉDICA: Certo, duas vezes ao dia. Vou ter que emitir outra receita para você. Está bem?
+
+PACIENTE: Está.
+MÉDICA: Esse aqui é para colocar a fístula, não é isso?
+PACIENTE: Isso. Vamos fazer essa fístula, que ela fica quietinha e tranquila.
+MÉDICA: A senhora está melhor, em relação a isso? Está um pouquinho mais tranquilo?
+PACIENTE: É, eu estou mais... Acho que melhorou. Minha creatinina deu uma caidinha.
+MÉDICA: Então, a senhora acha que... o queijo, não é de cortar, mas de evitar exatamente. A dieta é firme e a diabetes dá uma fome, é uma doença muito pressionada.
+PACIENTE: Com essa fluindo bem. Só vou pegar dia 17 de fevereiro, não é?
+MÉDICA: É. É isso? Prosseguindo, eu prescrevo, prosseguindo um só de manhã, não é? Prosseguindo só de manhã. Não, eu prescrevo de manhã, de noite.
+PACIENTE: Eu sigo a receita.
+MÉDICA: Segue a receita, tá? Tá, a receita é tudo em dia. Eu preciso de outra, porque eu não sei quando é que eu vou conversar com a senhora, aí, que a última receita minha agora é dia 31 de janeiro.
+PACIENTE: Aí a senhora vê aí se vai valer ainda, pra eu retornar ao seu consultório.
+MÉDICA: Não, está bom. Esse é um de maio, no dia 19 de maio.
+PACIENTE: A semana depois do almoço. Tomo remédio em doses de manhã. Faço pé de manhã e de noite.
+MÉDICA: Estou perguntando porque parece que alguém tenha mudado alguma coisa.
+PACIENTE: Não, só formula aquele que a senhora pode mandar, que é tudo prescrito junto. É isso? Pra não ficar várias receitas.
+MÉDICA: Tá. A vitamina D a senhora está tomando?
+PACIENTE: Estou. 7 Mg na semana?
+MÉDICA: 7 Mg. Prosseguindo, então, 2 de manhã. Insulina continuada 22, 14, 12.
+PACIENTE: Por isso... O que é que eu só tomo, né? É, a pura.
+MÉDICA: A pura. O remédio da Lolol agora está 12 em 12 horas, duas vezes ao dia, certo?
+PACIENTE: O remédio da Lolol é o remédio do coração, né? E agora o pessoal vai me ajudar eu.
+MÉDICA: O remédio do coração também. Ok. Está tudo indo bem, meu amor. Está tudo sob controle.
+PACIENTE: Graças a Deus, o que se busca, as coisas estão andando, tá? Eu estou sentindo que é minha vontade. Essa é a minha vontade. Eu tinha uma depressão aí, eu não queria saber de mais nada, eu queria até morrer aqui, fazer esse negócio, mas...
+MÉDICA: A senhora teve um tempo que não era tão ruim assim. E também não é até agora. A gente precisa fazer a fístula, porque está mantendo menos de 20% do que foi feito. De repente, eu conheço gente que fica... assim tipo quem? Que está... Oi, mesmo de você.
+MÉDICA: A taxa dela chegou a 11%, já tem 17%. Ela ficou assim. E está segurando, entendeu? Então, isso é muito relativo. Só que a gente precisa ficar preparada. Eu penso no organismo da pessoa. 
+PACIENTE: Com certeza. Eu penso no organismo. Eu tinha feito, doutora, uma ressonância, né? Porque eu sinto muita dor no meu nervo ciático, nessa perna direita. Tem hora que até um degrauzinho me afeta. Sinto muita dor. 
+MÉDICA: Entendi. Muito forte, né? E não pode tomar, é inflamatório, pode tomar nada, né? 
+PACIENTE: Porque eu não quero tomar remédio sem consultar, né? Mas, diariamente eu sinto muita dor nessa região direita. 
+MÉDICA: Está muito intensa a dor? 
+PACIENTE: Está. Muito mesmo. Preciso de uma injeção. Hoje não está. Preciso de uma receita de injeção? 
+MÉDICA: Sim, posso fazer para você. Só tem que tomar na farmácia, tá? Não pode, porque ela pode ser uma injeção negativa. Mas, para tirar a senhora da crise... 
+PACIENTE: Porque tem hora que eu... Eu fui até... Meu filho até me convidou para fazer um passeio de trem. No outro dia eu passei o dia todo de cama, de tanta dor. Aí eu falei, eu vou ter que falar com a doutora o que está acontecendo. 
+MÉDICA: Sim. 
+PACIENTE: Não é todo dia que eu sinto, mas... Tem dia que está difícil. Tem hora que eu sinto até latejar, assim, parece que é dentro do osso. 
+MÉDICA: Sim. Mas é, né? A senhora já tomou codeína? 
+PACIENTE: Não. Codeína. Não, é o remédio para a dor. Esse é da farmácia da... Posso pegar no posto. Já estou vendo o posto. 
+MÉDICA: Para consultar. Posso prescrever Diclofenaco. Esse pode tomar um comprimido por dia, vamos prescrever, tá? Esse aqui não faz mal pra nenhum. 
+PACIENTE: Eu não quero ver ela tomando... Eu tomei muito aquele remédio... Tá muito direto, assim, porque pode dar a reação adversa se tomar demais. Entrou... Não tem aquele... Que isso que eu estou sentindo? Esqueci até o nome do remédio agora. É o..., que é? 
+MÉDICA: Esqueceu o nome do remédio? Seria para a dor no nervo ciático? 
+PACIENTE: Sim, para essa dor. Dor no nervo ciático, né? Para dor muscular. Para dor na junta. Isso não pode. Três por semana. Está ótimo. Aí, quando eu senti essa dor, eu tomava esse remédio. Dor no nervo ciático, para dor muscular. 
+MÉDICA: Sim. Ele é ótimo, né? 
+PACIENTE: Sim, é ótimo para tirar a dor, eu quero dizer. Mas, mas ele é caro.
+MÉDICA: Graças a Deus, tudo sob controle. O que a gente vai fazer? Marcar com o seu vascular.
+PACIENTE: G17. Será que eu vou voltar para... Acho que dá para pegar os papeis. Foi o mesmo papel que eu fiz. 
+MÉDICA: É ótimo. Essa consulta seria dia 9. Aí antecipou, né? 
+PACIENTE: Uhum. Ah, antecipou. Porque, quando eu vim com a psicóloga, eu falei para ela que a minha consulta de retorno seria dia 21 de julho, que a senhora tinha marcado. Aí ela, não, não pode ser não, porque está muito longe. Aí ela falou, vamos antecipar para a senhora. Aí ela falou, vou te mandar no zap o seu retorno. Aí mandou o dia 9 de outubro, foi aí que eu anotei. Mas aí depois mandou de novo para hoje. Eu acho que foi a senhora que mandou para mim, que tinha sido cancelada essa de 9, e era para mim vir hoje, dia 2. Aí eu disse, meu Deus, tudo certo. Pensei, pronto, a tempo, deu tudo certo.
+MÉDICA: Então a senhora vai voltar em abril, voltando 3 meses, tá? Porque agora deu a... 
+PACIENTE: Aí acontece muito isso, doutora, a senhora marca aqui 3 meses, chega lá fora, ela bota um para 4. Mas eu botei o... dessa vez, já deu certo. É que estava fazendo isso pra ela. Eu acho que a 2 meses, a senhora se encontrou, 45 dias, mas ele não obedece, ele não segue. É porque sempre que tiver uma... É porque assim, eu boto mais ou menos, entendeu?
+MÉDICA: Sim, sim, sim. Caso tenha alteração, bota no meu whatsapp. Como a senhora fez dessa vez. Seguia dia 9 e voltou para hoje. 
+PACIENTE: Eu acho que fica até melhor, porque lá na frente ele não obedece, não. 
+MÉDICA: Ah, mas só se precisar, né? Não é que ele não obedece, é porque assim, ó... Eu boto... Quando eu boto assim, é mais ou menos, assim, se passar um pouquinho, não tem problema. Quando eu preciso de uma data certa, eu mando a data que ele se adeque, mas depois eu fico autorizada no caixa, porque tem inúmeras vagas por dia, entendeu? Quando eu boto assim, 2 meses, é porque se passar um pouquinho, não tem problema. Então, fica tranquila. Abrir o prazo não vai ter problema, não. Tá bom?
+PACIENTE: Tá bom.
+MÉDICA: A sua receita, dos remédios, tá bom? Onde tem tudo? Tem Bicarbonato de Sódio, AAS, Losartana, Dilma, medicamento para gastrite, vitamina B, ampola de insulina, [INCOMPREENSÍVEL], [INCOMPREENSÍVEL], [INCOMPREENSÍVEL].
+MÉDICA: Aduna, vou retirar a injeção. Entendeu? 
+PACIENTE: Ufa, isso aí eu já sei. Ai, não serve. A minha doutora é essa aqui, ó. Beta 30. 
+MÉDICA: Deixa eu explicar pra você uma coisa. A senhora vai usar isso... Só quando tiver com crise. 
+PACIENTE: É, mas também não pode estar usando toda vez que tiver crise, não. 
+MÉDICA: Porque esse remédio aqui é corticoide. Ele não faz mal ao organismo, mas ele pode piorar a glicose, pode piorar a pressão se tomar muito. Então é pra usar uma vez, pra tirar da crise... Uma vez por mês? 
+PACIENTE: Não, uma vez não. Tá bom. 
+MÉDICA: A senhora vai usar só quando eu falar que pode usar. A próxima crise que a senhora tiver, não usa mais. É esperar eu falar pra usar. Senão a senhora pode ter problema. 
+PACIENTE: É uma coisa que é retida, doutora? 
+MÉDICA: Não, não fica retida, mas a senhora não pode tomar por conta própria. Porque senão a senhora vai criar um problema pra si mesma. 
+PACIENTE: Eu tenho que avisar que eu tô com dor? Tá doendo muito? 
+MÉDICA: Tá certo? Vou explicar o que a senhora vai fazer. A próxima crise que a senhora tiver, a senhora vai tomar um comprimido e esquece essa injeção. Esquece. A senhora vai usar só quando eu falar que pode. Se voltar a ter dores, a senhora vai tomar codeína. Codeína, a senhora vai pegar no posto. Esse aqui é comprado, tá? Mas é baratinho. Esse aqui, ó. Codeína, um comprimido de 6 em 6 horas em caso de dor. Então a senhora vai comprar... Então o seu problema só é esse, não... Então, esse aqui é pra desinflamar. Se a senhora tiver uma crise muito forte, a senhora pode tomar um pra desinflamar. 
+PACIENTE: Porque às vezes eu sinto por dentro do osso, assim, martelando. 
+MÉDICA: Quando a dor estiver muito forte, a próxima vez que a dor estiver muito forte, a senhora vai tomar uma injeção. E acabou. A injeção, às vezes só pode ser repetida após 6 meses. Então esquece. Não pode ficar tomando sempre, senão a senhora vai ter um problema, tá? A senhora pode tomar uma vez e nas outras vezes a senhora vai controlar a dor com essa medicação. Esse aqui a gente não vai adiar, ó. Só que mais forte. Então de 6 em 6 horas a senhora pode tomar. 
+PACIENTE: Tá certo, ainda tem comprimidos, mas... 
+MÉDICA: Esse medicamento tem no posto também? 
+PACIENTE: Tem no posto. 
+MÉDICA: Aí se a senhora precisar de mais receita, a senhora vai pegar no posto. Tá bom? E aqui a
+MÉDICA: ...receita dos exames que a senhora vai fazer para a próxima consulta. Tá bom? 
+PACIENTE: Ai, Jesus. Ai, meu Deus.
+MÉDICA: Ah, tudo bem. Tudo certo.

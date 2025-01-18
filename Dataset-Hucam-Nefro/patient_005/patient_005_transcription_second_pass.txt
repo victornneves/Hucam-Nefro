@@ -1,0 +1,289 @@
+MÉDICO_SUPERVISOR: Olá, bom dia, como vocês estão? Posso sentar aqui? 
+MÉDICA_AUXILIAR: Claro, doutor.
+MÉDICO_SUPERVISOR: Entendo que a senhora está sob a cuidado da equipe da Dr. Fernando. Vamos avaliar sua progressão. Como a Dra. estava dizendo, para a doença renal crônica, gostamos de monitorar certos aspectos, como o nível de taxas de filtração glomerular para avaliar a progressão da doença e também alguns distúrbios metabólicos que podem acompanhar a doença, e possíveis complicações, como anemia ou problemas nos ossos.
+ACOMPANHANTE: Entendi, doutor. E o que significa essa PTH que a médica mencionou? 
+MÉDICO_SUPERVISOR: PTH é o hormônio da paratireoide. A paratireoide é uma pequena glândula perto da tireoide que controla os níveis de cálcio, fósforo e vitamina D no sangue e nos ossos. Quando os rins não estão funcionando bem, como no caso da doença renal crônica, a PTH pode se elevar para tentar compensar. Podemos precisar tratar isso com medicamentos.
+PACIENTE: Entendi, é muita coisa, né? E todo mundo tem essas complicações quando tem problema nos rins? 
+MÉDICO_SUPERVISOR: Nem todo mundo, mas são complicações comuns. Cada paciente é um pouco diferente, mas é por isso que estamos aqui, para ajudar a gerenciar todas essas questões. 
+MÉDICA_AUXILIAR: Exato. E nessa linha, o Dr. Fernando disse que ia começar a ajustar alguns medicamentos para ajudar a controlar esses problemas. Por exemplo, ele mencionou algo sobre a calcitriol? 
+PACIENTE: Sim, lembro dele ter falado algo sobre isso. 
+MÉDICO_SUPERVISOR: Calcitriol é um medicamento que ajuda a controlar os níveis de PTH, cálcio e fósforo no sangue. É uma vitamina D ativa que pode ajudar na saúde dos ossos, que pode ser bem afetada na doença renal.
+MÉDICA_AUXILIAR: O doutor comentou sobre isso, porque ele meio que ficou impossibilitado, porque toda medicação que ele possa passar pra... No caso, ela usava o Atacand, já tinha o Atacand. E evoluiu, né? Você vai aumentar a Posologia. Então, pode danificar mais a parte renal. Aí, ele passou, deu uma medicação. Depois, eu nem comprei novamente. E a outra razão de tanta dor, seria algo mais fisiológico pra vocês.
+PACIENTE: Já reclamou muito, só que hoje em dia sente ainda, tadinha, mas nada tão grave.
+MÉDICA_AUXILIAR: E há uma dor aqui na região das costas? 
+PACIENTE: Esse aí, eu até tive uma infecção.
+MÉDICA_AUXILIAR: Já teve algumas infecções? Sim. E a última ocorreu em 2017, 2021? A última foi em 2021, ou teve alguma recente? 
+PACIENTE: Comecei esse ano. Você deu uma internadinha. 
+ACOMPANHANTE: Foi por uma infecção?
+PACIENTE: Foi outra coisa. Foi, mas creio eu que foi uma cistite, não pela via de refluxo.
+MÉDICA_AUXILIAR: Não chegou a confirmar a bactéria? 
+ACOMPANHANTE: Sim, ela já é colonizada. Se você fizer uma urocultura nela, você vai ver que tem a Pseudomonas, que ela já tem, não tem como. Só que ela é colonizada, assintomática. Se tiver uma cistite, ela já é colonizada. Se tiver sintoma, trata. Tem algumas condições que a gente trata, que tem a bactéria assintomática. Então, no caso dela, ela faz um controle disso. Isso aí. Se tiver sintoma, ela faz um controle disso. Isso aí, o Dr. Falqueto já... o Dr. Falqueto que acompanha.
+MÉDICO_SUPERVISOR: Só para a gente já ficar compreendendo. O que ele está falando agora? 
+MÉDICA_AUXILIAR: Eu estou sabendo que você está com um problema no braço, mas nem sei se já melhorou.
+MÉDICO_SUPERVISOR: Pois é, a gente dá uma olhadinha. Mas está sentindo nada agora não? 
+MÉDICA_AUXILIAR: Ela não me falou.
+MÉDICO_SUPERVISOR: Só para a gente continuar. Eu não entendi, você falou depois de um mês. 
+MÉDICA_AUXILIAR: Você estava cansada. A gente tem uma olhadinha. Já tem as sorologias, né, solicitadas. Viu aqui que ela tem imunidade adquirida, com a Eritropoetina. Já, já utilizando a vacina. E aí, está em acompanhamento também com a nutrição, para controlar a alimentação. 
+MÉDICO_SUPERVISOR: Bem que deu no mesmo, né? 
+MÉDICA_AUXILIAR: Ela precisa da vacina. Ela tem que fazer mesmo, porque a gente já sabe o que ocorreu. Já sabe, nós vamos ver. É porque o renal tem que evitar o potássio, aí tem que cozinhar. Mas aí para a nutrição, o pessoal vai.
+MÉDICA_AUXILIAR: Você tem hipertensão? Algum outro problema que esquecemos de mencionar? Tem alguma doença no ombro? 
+PACIENTE: Tenho retinopatia diabética, já com maculopatia. Já operei as cataratas. 
+MÉDICA_AUXILIAR: Então você também fez operação de cataratas, correto? Nas duas vistas. E vejo aqui que você teve infecções urinárias. E hipotireoidismo, correto? 
+PACIENTE: Sim, falência, por assim dizer, na produção de hormônios da tireoide. Já fui diagnosticada. 
+MÉDICA_AUXILIAR: Você foi diagnosticada. Isso foi depois do diagnóstico de diabetes que você começou a ter esse problema? E você precisou ser intubada em algum momento? 
+PACIENTE: Sim, cinco vezes. 
+MÉDICA_AUXILIAR: Não, foram sete vezes. E você se recuperou bem depois disso, não é? Depois da remoção da sonda. 
+PACIENTE: Sim, eu melhorei muito, demorou um pouco, mas eu me recuperei. Foi um período difícil. 
+MÉDICA_AUXILIAR: E então, você tem o controle dos seus níveis de lipídios, certo? Antes da pandemia, você também teve gastrite. Você tomou medicamentos para isso. Teve alguma doença inflamatória? Não está mais usando antifungico, correto? 
+PACIENTE: Eu não devo usar mais o antifungico. 
+MÉDICA_AUXILIAR: Então você pode continuar a usar o antifungico. E sobre a gastroenterite, vou verificar no seu prontuário. Você tem o resultado do exame para hidronefrose? 
+ACOMPANHANTE: Não sei se eu o trouxe, mas se você olhar no sistema, provavelmente vai encontrar. Acho que já progrediu bastante. Leandro, já ouviu sobre isso? Estou muito contente com a recuperação dela. Vou ver se trouxe o exame dele... 
+MÉDICA_AUXILIAR: Bom, temos esse exame aqui, se quiser dar uma olhada. Já registrei os resultados no prontuário. Então você vai ser o médico dela agora? 
+MÉDICO_SUPERVISOR: Isso, vou ser o médico dela. Você já decidiu quem cuidará do caso? 
+MÉDICA_AUXILIAR: Ainda não decidi. Hoje estou atendendo com o Dr. Mãe. Vou consultar o prontuário para entender melhor a situação dela. Com qual médico você discutiu o resultado? 
+ACOMPANHANTE: Com o Dr. Benyam, ele também conversou com o Dr. Leandro. Parece que o Dr. Benyam não passou todo o arquivo.
+MÉDICA_AUXILIAR: Ele não passou nenhuma medicação. 
+PACIENTE: Esse é o doutor Benyam? 
+MÉDICO: Este exame foi qual? Pegou pesado.
+PACIENTE: Você pegou pesado agora, porque é muita coisa.
+MÉDICA_AUXILIAR: Eu estou vendo se eu acho para você, o sistema deve ter.
+PACIENTE: Não tem nada.
+MÉDICO_SUPERVISOR: Ah, Torval foi negado. 
+PACIENTE: Ah é? 
+ACOMPANHANTE: Torval foi negado, mas não creio. 
+PACIENTE: Eu até esqueci. 
+MÉDICO: Esse medicamento não está certo. 
+PACIENTE: Para não utilizar essa estatina. 
+MÉDICA_AUXILIAR: Então, ele tem que ser desse jeito aqui, pelo menos. 
+MÉDICO_SUPERVISOR: A gente vai ver se achamos o exame que está faltando.
+MÉDICA_AUXILIAR: Alice? Alice? É a que eu não estou achando. 
+PACIENTE: A médica que faz coleta é a doutora Olivia?
+MÉDICA_AUXILIAR: Sim, é isso aí, doutora Olivia.
+MÉDICO: Aqui tem a bombinha que você estava usando.
+PACIENTE: Agora não, é o Atorva?
+MÉDICO_SUPERVISOR: Quando você fica mais tempo utilizando, acho que é isso, algo relacionado com os resultados de 2023.
+MÉDICA_AUXILIAR: Eu acho que foi essa mesma. 
+PACIENTE: Ela correu aqui. 
+MÉDICO_SUPERVISOR: Estou desconfiado que seja essa mesma. Aqui mostrou realmente que foi a gente deu o t-score o menor t-score na região de interesse e foi de menos 2,3 para menos 2,6 quando está menor do que menos 2,5 aí já configura o quadro de osteoporose com isso, só que há uma necessidade de ajuste da medicação, então é só pra gente seguir acompanhando. Das comorbidades, a gente já passou.
+MÉDICA_AUXILIAR: A senhora fuma, bebe? 
+PACIENTE: Não, não.
+MÉDICA_AUXILIAR: Fumou ou bebeu por muito tempo? 
+PACIENTE: Não, não.
+MÉDICA_AUXILIAR: Tem alergia a alguma coisa? 
+PACIENTE: Não, nenhuma.
+MÉDICA_AUXILIAR: Alguma cirurgia? 
+PACIENTE: Cirurgia, não. Eu tenho duas cataratas apenas.
+MÉDICO_SUPERVISOR: Sim. Em relação aos medicamentos, agora essa parte precisa de um... 
+PACIENTE: Não, não precisa de nada.
+MÉDICO_SUPERVISOR: É, é, é. Em relação aos
+MÉDICA_AUXILIAR: Os medicamentos que a senhora faz uso contínuo, precisa de atenção nessa parte, pra poder estar se tomando certinho. Losartana de 50mg de manhã e à noite?
+PACIENTE: Não, Losartana eu só tomo à noite. 
+ACOMPANHANTE: Você ajuda ela?
+PACIENTE: Sim, eu tomo dois à noite. Losartana. 
+MÉDICA_AUXILIAR: Você toma um de 12 a 12 horas. Um de manhã e um à noite. 
+ACOMPANHANTE: Ah, é o atenolol? 
+MÉDICA_AUXILIAR: O atenolol, sim, para a pressão. Um de manhã, outro à noite. É essa a receita que ela tem, não é? 
+ACOMPANHANTE: Sim, é o atenolol. 
+PACIENTE: Eu também tomo dois de Sinvastatina, dois de Atenolol e dois de Amlodipina à noite. 
+ACOMPANHANTE: Ah, tá. Então, Atenolol você toma um de manhã e outro à noite, certo? 
+PACIENTE: Sim, e Furosemida. Furosemida eu tomo um comprimido pela manhã. E Levothyroxine também.
+MÉDICA_AUXILIAR: Levothyroxine é para repor o hormônio e ajudar a reduzir o inchaço do ombro.
+PACIENTE: Sim, eu constatei isso depois que tive essa alteração fisiológica. Você toma um comprimido da Levothyroxine meia hora antes do café, né? 
+MÉDICA_AUXILIAR: Exatamente, um por dia. 
+PACIENTE: E o uso da Sinvastatina continua, certo? 
+MÉDICA_AUXILIAR: Sim, a Sinvastatina é contínua, só suspendo se eu falar. E Atorvastatina, um comprimido à noite. 
+PACIENTE: E o Carbonato de cálcio, a vitamina D, mantém a mesma dosagem? 
+MÉDICA_AUXILIAR: Sim, a vitamina D, um comprimido por mês. Vamos monitorar.
+PACIENTE: E o Carbonato de cálcio, eu tomo de que maneira?
+ACOMPANHANTE: Você está tomando certinho, não é, mãe? Carbonato de cálcio.
+PACIENTE: Como é que é, então? Eu tomo... dois no almoço, dois na janta. 
+MÉDICA_AUXILIAR: Isso mesmo. Outra coisa, você continua tomando o Calcitriol de 50 miligramas uma vez por mês, certo? 
+ACOMPANHANTE: Sim, ela toma um vez ao mês.
+MÉDICA_AUXILIAR: Certo, e a Dapagliflozina, está tomando? 
+PACIENTO: Sim, eu tomo. 
+MÉDICA_AUXILIAR: Essa medicação é delicada. Vocês sabem qual que é? Aquele que eu tomo após o café, certo? 
+ACOMPANHANTE: Sim, é um comprimido após o café.
+MÉDICA_AUXILIAR: E o Bicarbonato de Sódio? 
+PACIENTE: Sim, Bicarbonato de Sódio eu tomo.
+MÉDICO: Tomo um na hora que eu vou almoçar. Antes, meia hora, porque a Sinvastatina deve ser tomada meia hora antes. E o outro eu tomo junto com a comida. Dá pra jantar? 
+
+PACIENTE: Não, não dá. 
+
+MÉDICO: Mas se você está tomando Sinvastatina, está ótimo. 
+
+PACIENTE: É, tomo um de manhã ou de noite. 
+
+MÉDICO: É a mesma coisa, tá? Não muda nada. A Sinvastatina não tem horário específico para tomar, pode ser a qualquer hora. Agora, o que você está falando que é junto com a comida, é aquele que você tem em casa, certo? 
+
+PACIENTE: É, tá em casa. 
+
+MÉDICO: Agora, em relação à insulina, a NPH, que você faz a aplicação. 
+
+PACIENTE: 20 unidades de NPH. 20 unidades de NPH. De manhã e 6 unidades à noite.
+
+MÉDICO_SUPERVISOR: Então, você está olhando quanto ela está usando de insulina NPH e também de insulina regular, né? Agora ela está usando a regular? 
+
+MÉDICO: Sim, começou a usar a insulina regular. A endocrinologista que prescreveu...
+
+PACIENTE: Na verdade, eu já deveria estar usando, mas acontece que tenho muita hipoglicemia. De manhã, minha glicemia estava 65. Tem vezes que venho aqui fazer exame e tenho hipoglicemia aqui mesmo, já passou algumas vezes. Então, eu fico hipoglicêmica muito fácil.
+
+MÉDICO_SUPERVISOR: Eu vi esse relato. E como você está usando a insulina regular? 
+
+PACIENTE: Eu uso se a glicemia estiver acima de 200. Eu aplico... 
+
+ACOMPANHANTE: Mas a instrução foi para usar duas unidades de insulina regular, não foi mãe? Eu acho que foi isso, não foi? A endocrinologista, né? É preciso conferir a prescrição. 
+
+MÉDICO: Eu vejo aqui que você está aplicando duas unidades de insulina regular. Se precisar, posso pegar a receita. É bom ter sempre à mão, porque às vezes eu aplico quatro unidades.
+
+ACOMPANHANTE: Mas isso tem que ser acertado com ela. Como vai ser a consulta? 
+
+MÉDICO: Eu vou realizar a consulta agora.
+
+ACOMPANHANTE: Ok, vou conversar com ela. Venho junto nas consultas.
+
+MÉDICO: Mas na última consulta, vi que foram prescritas duas unidades de insulina regular uma hora antes do almoço. Continua assim?
+
+ACOMPANHANTE: Então, verifico a glicemia capilar, faço o teste de HGT e vejo o resultado. Se estiver muito alto, não dou apenas duas unidades, dou quatro. Porque a endocrinologista não especificou e agora estou fazendo assim.
+
+MÉDICO: Entendi. E agora, chegamos no tempo...
+MÉDICA_AUXILIAR: Sim, mas é sempre importante ter consciência desses sintomas e saber agir. Muito bom que você está cuidando delas, é fundamental.
+PACIENTE: Obrigada, doutora. Acho que estamos indo bem até agora, na medida do possível.
+MÉDICO_SUPERVISOR: É verdade, não baixem a guarda e continuem atentos aos sinais. Sigam tomando os medicamentos como prescrito.
+ACOMPANHANTE: Com certeza, doutor. Não vamos deixar de cumprir o tratamento.
+MÉDICO: Muito bem, acho que por hoje é isso. Qualquer coisa, podem me ligar ou enviar uma mensagem.
+PACIENTE: Obrigada, doutor. Vamos fazer isso.
+ACOMPANHANTE: Obrigado também, doutor. Até a próxima consulta.
+MÉDICO: Até mais, cuidem-se.
+MÉDICA_AUXILIAR: A senhora consultou um pneumologista?
+PACIENTE: Não, a doutora Olívia cuidou da quimio. Mas ela estava ruim, a doutora... Às vezes, não é necessariamente asma, mas é outro acometimento.
+MÉDICA_AUXILIAR: Entendi, então pode ser algo relacionado à bronquite, por exemplo.
+PACIENTE: Ela falou direitinho, aí nisso eu percebi que ela mudou o olhar, quando ela só duas caras, quando eu percebi que ela agora está cansada, um cansaço que ela não tinha.
+MÉDICA_AUXILIAR: Com a bombinha, ela melhorou os sintomas? O uso ajuda no descanso?
+ACOMPANHANTE: Então, ela não faz uso, mas eu não dou para não ficar refém. Entendeu? Se houver necessidade de medicação, a gente faz. Se for um quadro inflamatório, aí a gente precisa fazer um tratamento, acompanhar com os especialistas.
+MÉDICA_AUXILIAR: Se houver necessidade, a gente encaminha sim para um especialista, um pneumologista, e acompanhamos esse quadro respiratório. Mas não precisa tomar cálcio. Os sintomas respiratórios, a senhora, foram amenizados então, né?
+PACIENTE: Não, mas depois disso não está melhorando.
+ACOMPANHANTE: Não, mas depois disso não está melhorando.
+MÉDICO_SUPERVISOR: Entendi. E teve algum outro episódio de infecção urinária, vocês falaram só de cistite, né?
+PACIENTE: Eu tive.
+MÉDICO_SUPERVISOR: Só que eu estou achando que não foi igual ao padrão, que ela não está bem, porque ela evoluiu pra melhor, o que é estranho. E não teve que tomar antibiótico?
+ACOMPANHANTE: Mas ela teve que tomar antibiótico e ficou internada.
+MÉDICO_SUPERVISOR: Mas como foi esse tratamento? Ela não melhorou com o antibiótico?
+ACOMPANHANTE: Sem antibiótico, ela não melhorou. E quanto tempo a internação durou? 
+PACIENTE: Era uma loucura. Não, mas você não pode... tiver uma infecção urinária, ela é difícil. É.
+MÉDICO_SUPERVISOR: Mas como foi? Quantos dias ficou internada?
+PACIENTE: Foi Deus, porque eu não tenho explicação. A pessoa tem febre e não evoluiu, ela, graças a Deus, melhorou ao invés dela evoluir.
+MÉDICA_AUXILIAR: Ela evoluía pra pior, mas melhorou. Quando foi essa reinternação? Foi no mês 5, não sei se você vai conseguir ver aí.
+PACIENTE: No mês 5? Então foi lá antes da minha última consulta, né?
+MÉDICA_AUXILIAR: Foi, antes da última consulta, ela foi internada, né mãe?
+ACOMPANHANTE: Foi no mês 5, foi isso mesmo. Foi. Foi uma reinternação só esse ano, né?
+PACIENTE: É, eu acho que ela até saiu no dia 5 do 5. Você se lembra, mais ou menos dois meses, do dia 5 do 5, ou não?
+MÉDICA_AUXILIAR: Não lembro, pra ser sincera, mas eu estou especulando. Tem que verificar algumas referências, não sei se... Ah, isso aqui é só uma mamografia, ó.
+ACOMPANHANTE: E aí, foram poucos dias que ela ficou internada? Chegou a ser mais de um dia?
+PACIENTE: Foi mais de um dia. Mais de um dia. Mais de um dia, porque, na verdade, ela é colonizada. Peguei uma médica... Como é que eu falo isso?
+MÉDICA_AUXILIAR: Não vou falar mal de ninguém, não. Idade não é nada, não. O importante é ter conhecimento. Ela pegou uma médica nova. Aí ela se assustou, porque ela viu o exame dela, colonizado, não sei o quê. Não precisa tratar...
+PACIENTE: Ela pode ter visto, né, perfil de resistência antimicrobiana?
+ACOMPANHANTE: Não, aí ela falou assim que ia tratar, aí o doutor falqueti falou que não era pra tratar.
+PACIENTE: Aí a outra médica que veio, muito jovem, acabei por esquecer o nome dela, disse que não iria tratar.
+ACOMPANHANTE: Não vai, porque ela já teve... teve um impacto nela.
+MÉDICO_SUPERVISOR: Entendi. Fica um pouco difícil de avaliar, se elas não tem todas as informações.
+ACOMPANHANTE: Mas o que é bom é que ela conseguiu se recuperar. Graças a Deus. Eu tenho alguns medos de fato.
+PACIENTE: O doutor Falqueti está ciente do caso, né?
+ACOMPANHANTE: Ele está. Ele é um psicólogo aqui, ele é muito bom, então...
+MÉDICO_SUPERVISOR: E aí só pra saber, alguma outra problema, sabe, decrescente?
+ACOMPANHANTE: Graças a Deus, não.
+MÉDICO_SUPERVISOR: Não, né? Está conseguindo evitar, uma quantidade boa?
+PACIENTE: Então...
+MÉDICO_SUPERVISOR: Observou alguma alteração da cor da urina?
+PACIENTE: Não.
+MÉDICO_SUPERVISOR: Tem, então?
+ACOMPANHANTE: Não sei se vamos conseguir identificar... Porque quando ela está com infecção, ela precisa tomar medicação. Ela sabe como é que é, alteração da cor da urina?
+PACIENTE: Não, não.
+MÉDICO_SUPERVISOR: Observou espuma na urina, já?
+PACIENTE: Ela tem. Ah, tipo, acho que tem a ver com a diabetes. Porque ela elimina, eu acho que é eliminação de proteína.
+MÉDICA_AUXILIAR: Para a doença ser controlada, ela precisa manter a proteína imunometada, correto? Ela tem quase o mesmo estágio, certo? Eu já sei da parte mais técnica. Temos que entender isso. 
+PACIENTE: Tá certo. E a medicação? 
+MÉDICA_AUXILIAR: Não, não. 
+PACIENTE: Não tem alterações, né? Vocês viram o exame de creatinina?
+MÉDICA_AUXILIAR: Graças a Deus. 
+ACOMPANHANTE: Vocês já viram o relatório da endoscopia? 
+MÉDICA_AUXILIAR: Ah, o radiografia do tórax, isso aqui não precisa. E conseguiu manter o peso, né? Conforme eu havia orientado antes.
+PACIENTE: Não, eu tô achando que ela engordou um pouco. Subiu 2 kg. 
+MÉDICA_AUXILIAR: Mas conseguiu controlar bem o quadro glicêmico, né? E a... 
+PACIENTE: Não. 
+MÉDICA_AUXILIAR: Não, eu estava perguntando. Você mantém o mesmo peso, o que não vai alterar seu quadro clínico.
+MÉDICO_SUPERVISOR: Vamos fazer um exame físico? 
+MÉDICA_AUXILIAR: Posso fazer. Você mantem a dieta, não estava comendo alimentos proibidos. 
+PACIENTE: Não, eu não tenho problema com a dieta. 
+MÉDICA_AUXILIAR: [INCOMPREENSÍVEL]
+ACOMPANHANTE: Vamos lá. 
+MÉDICA_AUXILIAR: Vamos [INCOMPREENSÍVEL]
+MÉDICO_SUPERVISOR: Então, não tem problema nenhum. O tratamento está correto? Losartan, 50 de 12 em 12, Propranolol, 25 de 12 em 12, Zetia, 10 miligramas à noite. Furosemida, 40 de manhã, Levotiroxina, 50, 5 a 40 à noite. Carbonato de cálcio mais vitamina D junto com as refeições, né? Certinho? E a questão das doses de ferro, 50 mil. 
+MÉDICA_AUXILIAR: Beleza. E aumentaram a dosagem do carbonato de cálcio. Certo, vamos ao exame físico. Pressão 12 por 8? 7, 10 por 70. 
+MÉDICO_SUPERVISOR: Pulso regular, 54 batimentos por minuto. 
+MÉDICA_AUXILIAR: Deixa eu só revisar os exames. 
+MÉDICO_SUPERVISOR: Estou com uma lista de exames para solicitar. Saturação de oxigênio 92, contagem de plaquetas 296. 
+MÉDICA_AUXILIAR: Certo. Preciso avaliar o nível de ferro. A última contagem estava 15, plaquetas 105. Ela está fazendo uso de suplemento de ferro. Isso está correto, né? 
+MÉDICO_SUPERVISOR: Deixa eu revisar isso
+MÉDICA_AUXILIAR: Que a gente colocou. Não sei.
+MÉDICO_SUPERVISOR: Ok, então estou vendo o quadro de ferro. Uma relação proteica de 0,0, 69, perfeito. Cálcio total de 9,2. O TSH é normal. Não sobe o que aqui?
+MÉDICA_AUXILIAR: Não.
+MÉDICO_SUPERVISOR: Um PTH de 72 com uma vitamina D de 7,7. Chegou até mais de... Chegou até mais de... Mais de 300. Você viu? Chegou mais de 300. Você está usando calcitriol?
+MÉDICA_AUXILIAR: Estou usando o PTH.
+MÉDICO_SUPERVISOR: Você tirou o calcitriol do tratamento. Mas ela chegou a usar calcitriol.
+MÉDICA_AUXILIAR: Sim, ela chegou a usar calcitriol.
+MÉDICO_SUPERVISOR: Ela começou a usar calcitriol. Foi prescrito?
+MÉDICA_AUXILIAR: Foi prescrito. Ah. Ela falou com você. Mas ela está usando também, uma estatina.
+MÉDICO_SUPERVISOR: Vamos investigar essa imunidade. Para ver o que tem ai. Inclusive os exames.
+MÉDICA_AUXILIAR: Falou que o exame de quadril retornou.
+MÉDICO_SUPERVISOR: Deixa eu ver. PTH normal, em 7,7, está com bloco ad... Colesterol total. O que está acontecendo? O que houve com o colesterol...
+MÉDICA_AUXILIAR: Eu vou ajustar. As dosagens de 5, fósforo de 5. Mas está reduzindo também. Albumina de 4,4. Bicarbonato de 29,1, hemoglobina de 11,3. Vitamina D de 39. Sem glicosúria. Sem proteína.
+MÉDICO_SUPERVISOR: Ótimo! E agora, como eu ajudo? Hemoglobina glicada de 11,1, controle do diabetes. Essa paciente é a que mais sabe medicina de todos os homens com diabetes. Então, você não discute com ela, não.
+MÉDICA_AUXILIAR: Ela cuida disso há um mês.
+MÉDICO_SUPERVISOR: Ela foi na consulta do nutricionista?
+MÉDICA_AUXILIAR: Isso foi em março. Não, sim, mas ela foi já.
+MÉDICO_SUPERVISOR: E o carbonato de cálcio eu aumentei depois. Entendi, ela vem tomando. Mas tem que sempre ficar monitorando. Precisamos aumentar esse carbonato de cálcio para 2,2,2 agora. Entendeu? 
+MÉDICA_AUXILIAR: Entendi.
+MÉDICO_SUPERVISOR: Se fosse tomar aquele 1,2,2, agora vai ser 2,2,2.
+MÉDICA_AUXILIAR: Ela tem um bom controle glicêmico razoável, a hemoglobina glicada está em 7,7. Ainda temos margem para uma melhoria.
+PACIENTE: Às vezes eu tenho que regular a insulina, dependendo do quanto a glicose está alta. Eu pretendo discutir isso com a endocrinologista, ela sempre me orienta a observar os níveis glicêmicos e ajustar a insulina. 
+MÉDICA_AUXILIAR:  Sim, é importante esse acompanhamento com a endocrinologista. E a pressão dela está bem controlada, 10 por 70. A frequência cardíaca está em 54. Não tem sintoma de desmaio ou qualquer coisa do tipo, correto? Ela está tomando dois antipertensivos. E a anemia está estável, com os estoques de ferro adequados. Em relação à doença mineral óssea, o cálcio está normal, porém o fósforo está alto, por isso vamos aumentar a dose do carbonato de cálcio. Tudo bem para você? 
+PACIENTE: Estou tomando apenas uma dose por dia.   
+MÉDICA_AUXILIAR: A consulta com o ortopedista indicou uma osteopenia evoluindo para osteoporose. Ele não tratou especificamente disso, mas a administração do carbonato de cálcio pode ajudar também nessa condição. Além disso, ela usa vitamina D injetável. A última densitometria óssea mostrou uma melhora na situação de sua saúde óssea. Como foi a última vez que isso foi avaliado?
+MÉDICA_AUXILIAR: Com osteoporose. Mas ele já está fazendo as reposições, certo? Está fazendo. Mas na verdade, ele está usando mais quelante do que uma reposição, certo? Preciso aumentar essa dose do calcifediol, então?
+PACIENTE: Não, calcifediol não. Ele está com vitaminas. Carbonato de cálcio.
+MÉDICA_AUXILIAR: Carbonato de cálcio. Ele está tomando carbonato de cálcio com vitamina D, certo? 
+PACIENTE: Está pegando a parte de cima. Eu manipulei uma última vez que não pegou, mas tem que se você pegar, eu aceito. Já aumentou até um milímetro, né? A de 500 e do 400.
+MÉDICA_AUXILIAR: Isso. Ok, mantém assim. Mantém assim. Isso, 2,22. Isso. Ok? E mais alguma coisa?
+PACIENTE: O autodiálise, né? A parte da máquina, ele está controlado. A auto-diálise, como ficaria com a outra que a gente está seguindo, a gente pode seguir a gente mesmo, né? Mas como chegou agora a sua autoterapia, eu tive que manter.
+MÉDICA_AUXILIAR: Na parte do metabolismo ósseo, você já fez a conduta, né? Aumentando a medicação e está melhorando, entendeu? Porque o PH ainda está controlado. Do resto, ele está conseguindo gerir o diurético.
+PACIENTE: Tem quanto tempo que ela não faz consulta com a nutricionista? 
+MÉDICA_AUXILIAR: A última vez que ela consultou a nutricionista foi quando ela estava debilitada com aquela pneumonia, porque ela tinha risco de uma aglutinatura. Eu vou reencaminhar ela para uma nutricionista, então, okay? Lembrando que o fósforo está presente principalmente em alimentos ricos em fósforo, como queijo, leite, derivados do leite, certo?
+ACOMPANHANTE: Ela não, ela não... Ela não come nada disso. Não.
+MÉDICA_AUXILIAR: Aham, eu vou acreditar. 
+ACOMPANHANTE: Não. Leite, ela não toma leite, ela não come queijo, ela não consome derivados do leite. Literal. Porque ela não gosta.
+MÉDICA_AUXILIAR: Entendi. E a gente não pode, né? Mas a gente gosta, a gente nunca pode. Entendi.
+ACOMPANHANTE: A senhora gosta de peixe.
+PACIENTE: É, peixe. Pescador. Literal.
+MÉDICA_AUXILIAR: Entendi. Fechou, paciente? Algo mais?
+MÉDICO_SUPERVISOR: Se conseguir... Qual a situação com a atorvastatina?
+MÉDICA_AUXILIAR: Não tem em estoque. É de 40 mg?
+MÉDICO_SUPERVISOR: Isso. Não, não tem em estoque. Vai querer brigar por mim de novo?
+MÉDICA_AUXILIAR: Não, não. Eu não entendi nada. O exame, por exemplo, como critério de indicação conforme escrito. O uso em excesso é para não utilização desse estatinas.
+MÉDICO_SUPERVISOR: É porque ele só libera quando a gente não tem em estoque, atorvastatina. Não pode usar mais.
+MÉDICA_AUXILIAR: Isso, isso. Aí o reumatologista analisa, eles ouvem.
+MÉDICA_AUXILIAR: Que não está tratando direito. Então, você acha que não chegou no nível que eles querem, correto? 
+PACIENTE: Praticamente, eu já fiz isso. Três meses de consulta de rotina. Três meses. 
+MÉDICA_AUXILIAR: A reposição, a dose de insulina da pressão vai ficar menor no índice? 
+PACIENTE: Sim, sim.
+MÉDICA_AUXILIAR: Aí você só mudou o carbonato de cálcio, que é 2,2. 
+ACOMPANHANTE: Ah, 2 agora. Ah, gente. Carbonato de cálcio que sabe. 
+MÉDICA_AUXILIAR: É, isso aí. 
+ACOMPANHANTE: Nunca lembro. Já perguntei. 
+MÉDICA_AUXILIAR: Isso aí. Isso aí. Muito obrigado. 
+ACOMPANHANTE: Obrigada, gente. Aqui, dona Maria?
+MÉDICA_AUXILIAR: A receitinha. Receita das medicações? 
+ACOMPANHANTE: Você já falou nas medidas? 
+MÉDICA_AUXILIAR: Vocês já estão com o valor avaliado? 
+ACOMPANHANTE: Uhum. 
+MÉDICA_AUXILIAR: E já está aqui com retorno em três meses, correto? 
+ACOMPANHANTE: É isso aí, gente. Já está finalizada a consulta.

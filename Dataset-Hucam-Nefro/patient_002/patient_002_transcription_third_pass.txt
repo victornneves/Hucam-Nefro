@@ -1,0 +1,88 @@
+MÉDICO: Eu vi que da última consulta pra cá, que foi há quatro meses, o senhor passou por algumas... várias especialidades aí, né? Gastro, é... Certo? Tirou a vesícula fora. Foi quando essa cirurgia? Há três meses já. Você sabe a data não, né?
+PACIENTE: Eu tenho a folha ali.
+MÉDICO: Não, eu consigo ver aqui. Deixa eu só ver essa parte dos exames primeiro. Me conta uma coisa. Você, nessas últimas quatro meses, como é que o senhor passou? Tudo bem? Não sentiu nada.
+PACIENTE: Tranquilo. Sentindo-se bem.
+MÉDICO: É. Bom demais. E o senhor tá se sentindo bem também? Não teve nenhuma intercorrência? Não teve que ir pra pronto-socorro, internação, passou mal, nada?
+PACIENTE: Saí daqui, fui pra casa e... Tá voltando hoje?
+MÉDICO: Tá voltando. Bom demais. Show de bola. O senhor é aposentado?
+PACIENTE: Eu sou aposentado.
+MÉDICO: Aposentado? Show. Beleza. BPC?
+PACIENTE: Hã? BPC? É.
+MÉDICO: Rapaz, nada ainda. Deixa eu tentar anotar esses exames do senhor aqui. Só Jesus na causa. Creatinina de 1,6... Mas ele deu um de 8.4. Deixa eu contar. Cálcio de 9,2. Cálcio de 10. Certo, vamos lá. Remédios que o senhor usa. Dos remédios que o senhor está usando. Mudou alguma coisa da última consulta pra cá?
+PACIENTE: Não.
+MÉDICO: O senhor lembra de cabeça? Vamos ver comigo. Furosemida, dois comprimidos de manhã e um comprimido de tarde. AAS depois do almoço. E o losartan de manhã e o losartan de tarde. Certo?
+PACIENTE: Dapagliflozina. Que é o Forxiga, né?
+MÉDICO: Metoprolol, dois comprimidos de manhã. E dois comprimidos de tarde. Metformina de manhã e de tarde. Risperidona. Diazepam. E amitriptilina. Bupropiona. Levotiroxina de 25. Atorvastatina. E Tramadol, se necessário.
+PACIENTE: Só quando dá dor. 
+MÉDICO: Tá tudo certinho? Até então tá tudo certo. Até então tá tudo certo. Mas eu queria saber uma coisa. O senhor toma esses remédios aí direito?
+PACIENTE: Todos.
+MÉDICO: É? De manhã e no dia seguinte. E não erra não?
+PACIENTE: Não.
+MÉDICO: Tem certeza? Sua irmã... Todo mundo vendo isso.
+PACIENTE: Ela cuida muito bem de mim.
+MÉDICO: Ah, show de bola. O senhor mora com quem?
+PACIENTE: Eu moro com a minha irmã e minha mãe.
+MÉDICO: Hummm. O senhor tem filhos não?
+PACIENTE: Sim, mas estão fora.
+MÉDICO: Ah tá. Entendi. O senhor tem medidor de pressão em casa? 
+PACIENTE: Não, a pressão não.
+MÉDICO: O Metformin e a diabetes. Ah, e como é que tá ficando? Tá tudo certo? Não tá nem...
+PACIENTE: É uma barriga. Agora tá no lado certinho. Tá na barriga.
+MÉDICO: Me deixa ver! É. Deixa eu ver aí, homem. É, é, é um pouco... Um pouco lento. Tá o quê? Um dia solto, um dia com restrição...
+PACIENTE: Aham.
+MÉDICO: É, é, é. Não, é um pouco... Um dia...
+PACIENTE: Foi um pouco difícil, não. Mas tem um quesito.
+MÉDICO: É. Eu sou precavido. Eu venho 3 vezes ao ano. Assim também está tudo bem, meu amigo, olha só. Vamos ver a pressão do senhor, como é que está? Deixa eu ver aqui as glicoses, tá tudo bem, inclusive a sua Hemoglobina glicada, que é o parâmetro que a gente usa no controle do diabetes, tá muito bom, tá bom? Beleza? Show de bola. Nós vamos manter desse jeito aí em seguida, tá? Deixa eu medir a pressão do senhor só um minutinho. Tira o casaco por favor. Vamos lá, bota o braço aqui. Vamos ver se a pressão vai aumentar, tá, tá. 10 por 7 a pressão, tá ótimo. Como é a perna, mestre? Como é que tá? Você tá inchado?
+PACIENTE: Tá. Eu tô normal, né? Não.
+MÉDICO: Você tá ótimo, rapaz, graças a Deus. Deixa eu falar uma coisa pra você. Seguinte, meu amigo, o senhor tá muito bem, seu exames tá tudo certo. O senhor, tá? Tá tudo certo. O senhor, tá? Os exames do senhor, eles estão muito bem. Para nós, porque o senhor está muito bem.
+PACIENTE: Estou, não, mas agora onde está o rim ideal no seu filho? Eu estou sem bicarbonato! Ele, foi sim.
+MÉDICO: Porque eu acompanho esse caso. Ele estava, muito menos do que a gente pensava estava mais difícil de controlar. Fiquei mais atento. Você foram instruídos, não foi você que prejudicou.
+PACIENTE: Então, não é isso, aqui é um problema básico. Começaram com minha mãe, mas hoje eu tenho um controle físico, não Freedman, e esse preditor para mim não estava alto então não vai atrapalhar muito.
+MÉDICO: Se esse controle, aqui temos isso 3 vezes ao dia, e isso é que agora é suficiente. Mas, vocês estão ok? A fósforo, o cálcio do senhor está adequado. E também a parte do diabetes também está adequada. Então o que nós vamos fazer? Eu vou manter as medicações que o senhor faz uso. A gente não vai mudar nada agora, porque o time que está ganhando a gente não mexe. E o senhor está muito bem.
+MÉDICO: Bem, obrigado, graças a Deus. A única coisa que eu vou repor é o sulfato ferroso, que é um medicamento para ajudar a melhorar essa anemia. A única coisa que mudaremos aqui, certo? Beleza? O senhor vai precisar de receita para esses medicamentos, senhor? 
+PACIENTE: É bom que você pergunte. Peguei os medicamentos agora, os últimos.
+MÉDICO: Ótimo. E agora vamos adicionar o Sulfato Ferroso. Eu estou aqui anotando os medicamentos, você está me ouvindo. O que acha? Se tiver algum problema, eu posso ajudar. Eu quero falar com o senhor, eu sou [INCOMPREENSÍVEL].
+PACIENTE: Eu fiz uma... Uma revisão... E percebi que meus dentes estão sensíveis. Eles começaram a trincar. Sempre que eu bebo algo quente, dói. E se é algo gelado, dói também. Então eu fui, fiz uma consulta com o dentista. Ele me recomendou conversar com os meus médicos. O doutor Matheus me deu uma autorização, dizendo que eu posso realizar o tratamento dental sem problema. Também conversei com ele sobre um problema que tive no passado com herpes. Aham. E por causa disso, ele me recomendou a implantação de uma prótese peniana. Agendei a cirurgia e o doutor Matheus disse que posso realizá-la tranquilamente. 
+MÉDICO: Uhum. Eu também autorizo. Agora, da sua parte, você...
+PACIENTE: Da minha parte não tem complicação. Já até agendei a cirurgia. 
+MÉDICO: E quando será essa cirurgia? 
+PACIENTE: Já está agendada. Vai ser a implantação de uma prótese peniana. Tenho lidado com isso há dez anos.
+MÉDICO: Dez anos?
+PACIENTE: É, desde dez anos atrás. É porque eu... Fiquei com medo de fazer alguma coisa e piorar a situação. 
+MÉDICO: Aham. 
+PACIENTE: Mas agora decidi fazer a cirurgia. Eu vou casar, né? 
+MÉDICO: Ah! Entendi! Não vou interferir nesse assunto não. Então você já pode fazer a cirurgia? Tem tudo certinho? 
+MÉDICO: Eu cuido do cadastro então. Então você está se preparando para tudo, né? Deixa eu te dizer, você é esperto, hein? E com quem você vai casar?
+PACIENTE: Com uma senhora chamada Dona Zerê. 
+MÉDICO: Dona Zerê? Que história interessante.
+MÉDICO: Arrumou ela lá na igreja? 
+PACIENTE: Lá na igreja.
+MÉDICO: Olha como é que você chama sua mulher de dona, pelo amor de Deus. 
+PACIENTE: Eu costumo, né? Não é pra mim casar, é pra ele. Ah! Você estava lá orando, ela olhou pra você, você olhou pra ela. Ah! Eu me magoei, né? 
+MÉDICO: Você tá com medo de se mexer, né? 
+PACIENTE: Não, não, não. Eu tô com medo de me mexer. Ah! Eu tô com medo de me mexer.
+MÉDICO: Começou a vir aqui. Começou a vir ali. Tá impressionado? Tranquilo. 
+PACIENTE: Aí eu expliquei a ela sobre essa situação.
+MÉDICO: O pior é que quando você faz essa igreja, porque que você parou? Eu não pensava em casar tão cedo. Ah. 
+PACIENTE: Aí ela falou não. Então eu perguntei. Eu não vou casar. 
+MÉDICO: É. Ela falou não. Isso? Porque? 
+PACIENTE: Não tinha razão no meu ver.
+MÉDICO: Ela... Ela falou não para fazer? 
+PACIENTE: Nossa, você acha que é pra minha melhoria? Faz.
+MÉDICO: Entendi. Tá certíssimo, meu amigo. O senhor tem quantos filhos? 
+PACIENTE: Eu tenho um filho, meu amigo. Só tenho um que eu vou ter que registrar.
+MÉDICO: Tá bom.
+PACIENTE: Então ele tem 33 e a menina tem 35.
+MÉDICO: Terminando aqui, tá? Tá. Você quer que eu peça outra vez um... Isso, um suco aí.
+PACIENTE: É laranja pronta ou tira?
+MÉDICO: Isso. Dona Ana. Dona Anzelilda. Dona Anzelilda. Ela não vai casar. Brava?
+PACIENTE: Hã? Ela é brava? Não é nada? É porque não casou ainda. Se casar fica valente. Se casar fica valente, senhor. Tem que ser armado.
+MÉDICO: Então, que nem mesmo o seu jeito, realmente.
+PACIENTE: Ah, e aí? Não dá pra ligar o celular.
+MÉDICO: O que que você quer fazer?
+PACIENTE: Que ele não sabe. O que? Não sei, então... 
+MÉDICO: Está tudo um distante? 
+PACIENTE: Que, sim, um sorriso lá... 
+MÉDICO: Entendo... Ai, sim. Eu vou marcar o retorno do senhor para daqui a quatro meses, tá? No ambulatório de Nefrologia geral. Eu vou ter que falar com vocês, tá bom? Agende a. Tá aqui a receitinha com todos os remédios, os mesmos. Combinado? Retorno do senhor, você vai marcar em quatro meses ali na frente. É isso, meu amigo. Tudo de bom pro senhor. Até a próxima.
+PACIENTE: Vai com Deus, tá? Amém. Tudo de bom, viu? 
+MÉDICO: Vamos agendar esse aqui agora. Vou passar ele pra agendar. Você vai passar ele pra agendar agora. É isso aí. Combinado? Beleza? Tudo de bom, viu? Até mais. Tchau.

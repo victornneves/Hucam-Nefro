@@ -1,0 +1,153 @@
+MÉDICA: Tá bom, tudo bem? Tá bonita? Obrigada.
+PACIENTE: Deixar o olho solto. Eu cheguei. Eu também. Obrigada, meu amor. Como é que você tá?
+MÉDICA: Eu tô bem, eu tô bem. É... Eu tô com o exame ligado, sabe por quê? Porque o exame marca 10 e 20, a infiltração do braço. Marcar no mesmo dia o próximo da tempo. Aí eu deixei confirmando, né? Porque é difícil conseguir. Deixa eu olhar rapidinho a sua lesão, qualquer coisa que tiver, só dar uma olhada aqui.
+PACIENTE: Eu tirei tudo de novo. Ótimo. E a não fica faltando aquele óculos, você já sabe, tá aumentando, não tá?
+MÉDICA: Não, tá bem.
+PACIENTE: Ah, eu acredito que tá bem. Ela tá me incomodando, aí eu não sei se é normal. É que tem uns fiozinhos. Eu não sei se tem que esperar essa aliança, se eu vou dar nesse discurso, isso machuca. A gente não fala nada, não?
+MÉDICA: Não.
+PACIENTE: Tirei muito, ó. Tirou? Tirou?
+MÉDICA: Ah, que bom. Ah, aqui, o outro é por aqui. Eu só vou botar o seu... desculpa, tá? Não. 
+PACIENTE: E quando fica suado, machuca. Você não tira isso, não. A gente não tira nada disso.
+MÉDICA: Tá doendo, tá ruim? 
+PACIENTE: Eu tentei tratar, mas não deu certo. Eu dou abrigo para Jaris. Imagina, olha só como está. 
+MÉDICA: Não dá para tirar isso, eu já te comentei.
+PACIENTE: Eu entendo, mas a situação está me agonizando. Eu não sei como lidar. Acabo persistindo. Acha que duvido na casa, estaria perfeito não ter que lidar com isso. Eu sofro, mas fico aqui com muita angústia.
+MÉDICA: É complicado. E você sabe que você não faz isso sozinho, estamos aqui para te apoiar. Eu entendo que isso está machucando. Vamos tentar outra coisa.
+PACIENTE: Bom, já é. Está com sete e meio de creatinina, né?
+MÉDICA: Uhum. Acho que a gente precisa procurar uma vaga para você. 180 de ureia. Está com medo?
+PACIENTE: Uhum. Agora eu só fiz uma janta boa.
+MÉDICA: É, eu vou fazer o exame agora de hidratação. Estando tudo bom, estando bem, independente, eu quero... O que você vai fazer? Você vai fazer agora o exame?
+PACIENTE: Eu vou te dar um sinal na hora, provavelmente. Não sei. Vai lá. Só que chega lá, às vezes tem um monte de gente na frente que é um exame, né? Às vezes eu ando na cadeira e me.
+MÉDICA: Minto com todo mundo. Às vezes a senhora não está aqui mais. 
+PACIENTE: Não, hoje eu vou até tarde. Você conseguiria esperar? 
+MÉDICA: À tarde que eu olho, a partir de que eu olho, depois eu vou pedir ela para estar de volta. Você mora perto? 
+PACIENTE: Não, eu moro perto da sua padrona. 
+MÉDICA: Não, vamos fazer o seguinte. Não tem problema. Você não precisa preocupar. Eu consigo ter acesso ao exame por aqui. Eu vou olhar esse exame. Não vou olhar hoje, provavelmente, segunda-feira. Aí eu olho e eu te dou um... Dependendo de como estiver, se a póstula estiver boa, ok, liberada para usar, você tem que perguntar isso para o médico. Doutora, já está boa para usar? Pergunta isso, tá? E aí eu entro em contato e eu já vou pedir várias coisas para você, tá? Porque quando eu vejo que você está bem. Eu quero que você esteja com a creatina muito, muito alta. Então, para você descompensar de um dia para o outro, é tipo assim, às vezes é uma besteira, você começa a enjoar, aí você vai estar na mão, eu vou te ajudar com qualquer coisa. Então, a gente tem que evitar isso. 
+PACIENTE: Uhum. 
+MÉDICA: Já está no momento que a gente...  A gente já precisa fazer o encaminhamento. Então, você ir com calma, fazer as coisas com calma. Não tem que tomar vaga perto de um lugar que você mora, tudo mais ou menos perto de você, entendeu? Então, para fazer esse processo, não é uma coisa tão simples. É preciso de um tempo, tá? Só preciso ver se as suas serologias estão novas. Eu acho que tinha uma serologia bem recente. 
+PACIENTE: Ah, eu não fiz o medicamento que você já passou. Acabou que demorou, porque eu estava com a asma mesmo. Porque vem de viagem, vai lá. É, eu não sei. Não sei. Aí, eu fiquei bem devagar, comecei a tomar remédio, fiquei, fiquei, fiquei. Acabou que perdi o remédio. Mas aí eu comprei. Só que quando eu comprei, me entregaram venoso, de agulha. Aí meu marido até trouxe para ver, porque eu não achei para comprar. 
+MÉDICA: Como é o remédio? 
+PACIENTE: Espera aí. É esse aqui. É aquele remédio que tem que ficar ali. É o remédio. É, eu comecei para você, você não deu entrada? Foi isso? 
+PACIENTE: Foi. Eu perdi o prazo. Tinha que dar entrada lá, porque é dois anos. Eu perdi porque é dois anos. Eu tentei esse exame novo. Mas aí eu comprei. Só que eu achei.
+MÉDICA: Você comprou o medicamento que é administrado por seringa? É o mesmo que eu te receitei?
+
+PACIENTE: Sim, comprei. Um que é de seringa, quatro mil UI. Não consegui achar a versão subcutânea nas farmácias em que fui. 
+
+MÉDICA: Mas é o mesmo medicamento, apenas a forma de administração que muda. Você sabe administrar a injeção subcutânea?
+
+PACIENTE: Não, não sei.
+
+MÉDICA: Vou te ensinar, é simples. É como uma injeção na pele, igual à insulina.
+
+PACIENTE: Ah tá. E a outra versão que eu não encontrei?
+
+MÉDICA: Também é subcutânea. Os dois são o mesmo medicamento, só muda a forma de aplicação. Eu vou te passar um telefone para você tirar dúvidas e você pode mandar uma foto da seringa para confirmar se é a certa.
+
+PACIENTE: Ok.
+
+MÉDICA: E sobre os sintomas respiratórios, melhoraram com o medicamento que eu passei?
+
+PACIENTE: Sim, tomei e comecei a melhorar. As dores diminuíram bastante.
+
+MÉDICA: Ótimo. E você tem dormido bem? Sente enjoo?
+
+PACIENTE: Durmo bem, mas sinto fome demais.
+
+MÉDICA: Que bom que está com apetite. Sobre a colonoscopia, você pode fazer sim, mas é melhor esperar o efeito do medicamento. E não precisa ter receio do exame, não é algo complicado.
+
+PACIENTE: Entendi. Obrigada pelas orientações.
+
+MÉDICA: Foi chamada para fazer? 
+PACIENTE: Não, é porque a minha família não faz o número de câncer, o médico sempre pediu para eu fazer. 
+MÉDICA: Espera só, você estar com vaga incluída. Estamos com vaga incluída de diário, você pode fazer. Porque o meu medo é você fazer, desidratar, descompensar o rim e ter que entrar de urgência. Então vamos segurar mais uns dois meses, três meses, aí você pode correr atrás e fazer, tá? Vamos lá então. Então, deixa eu ver aqui, ó. Tomou a terceira dose da sena? 
+PACIENTE: Não é, acho que não. Precisa tomar? 
+MÉDICA: Ah, toma. Vou lá, vou ver. Está fazendo dois meses que ele fez isto, né? 
+PACIENTE: É, hoje é dia 4. 
+MÉDICA: Está com dor no nariz. Né? Está tudo movendo as coisas, não é? Dois meses, tá? A gente não é cada grama, seria de cada dia 20, é outra vez. 
+PACIENTE: É, tá. O dia passou, né? É, é. Eu tenho ficado cansada, mas eu acho que é por causa da anemia, né? 
+MÉDICA: Sim, tem que melhorar isso aí. Deixa eu te falar uma coisa que você vai fazer. 
+PACIENTE: O que? 
+MÉDICA: Você vai fazer uma cirurgia. 
+PACIENTE: O que? 
+MÉDICA: Você vai fazer uma cirurgia. 
+PACIENTE: O que? 
+MÉDICA: Você vai fazer uma cirurgia. 
+PACIENTE: Ah, ok. 
+MÉDICA: Você vai fazer uma cirurgia. Ok? Tá. Você vai fazer uma cirurgia. Ok? 
+PACIENTE: Eu estou fazendo uma cirurgia, não é? 
+MÉDICA: Ah, ok. Então, uma coisa. Você vai fazer uma cirurgia. Você vai fazer uma cirurgia. Isso. Mas depois você vai voltar aqui. Vou deixar na recepção tudo que você tem que pegar. Receita, Tana... Vou te dar de novo o processo, para você dar uma entrada na eritropoetina. Porque se você não der a questão do volume menor que 10, você vai perder uma oportunidade. Entendeu? Depois você vai conseguir de novo, se esquecer o Telo, ele é muito amarrado. muito amarrado, você não pode perder o prazo, tá? De novo, já perdeu, já não foi bom, mas tudo bem. Porque o problema é que você tem que ter vários, quebra a cabeça, tem que estar tudo encaixado pra farmácia, pra liberar. Se você começar a tomar a hidrocoletina que você comprou antes da entrada, vai melhorar, e aí depois vai ter que esperar piorar de novo pra você poder dar entrada. Então já dá entrada agora. Entendeu? Mesmo que você está tomando suro. A gente faz uma dose mais baixa, espaço, tempo, mas pra dar entrada você tem que dar entrada.
+MÉDICA: Fazer tudo de novo, não perde prazo dessa vez não, tá bom? Porque isso não vai dar nada, e além de dar trabalho, o problema maior é que se você perder, se você não mudar, tem que parar naquele momento, naquele momento que tem que fazer, tá bom? E... Você está tomando o carbonato de cálcio?
+PACIENTE: Sim. Eu vi uma viagem, assim, três dias, por um dia. Até quando eu fiz o exame, perto de quando eu fiz o exame.
+MÉDICA: Você não fica com a dieta, não, né? Final de ano?
+PACIENTE: Não, eu, assim, tento controlar, não vou falar dieta, mas eu tento controlar, sim. Dou mais prioridade a fruta, né? A verdura.
+MÉDICA: Tá. Vou dar uma chance aí pro seu posto, pra você continuar tomando carbonato de cálcio, tá? O que a gente vai fazer? A gente vai fazer... Fazendo o balanço, faz o Doppler, e você volta aqui, pra pegar os papéis. Se eu ainda estiver aqui, pergunto se eu tô aqui. Se eu ainda estiver aqui, você me espera, pra me mostrar o Doppler, tá bom? Se não, você pode pegar... Se não tiver nada lá, se não tiver nada lá, é porque eu vou fazer assim, já que você vai fazer o exame, eu vou atender os outros pacientes, quando eu finalizar, os outros dois, tem mais dois. Os outros dois pacientes, eu faço as suas coisas, tá? Aí, fazendo, deixa ali. Pode ser que você volte, eu ainda esteja aqui. Se você chegar ali e perguntar, doutora, eu queria deixar alguma coisa pra mim, eu não tinha deixado, é porque eu tô aqui. Você vem aqui, me esperando aqui na porta. Se não, você pega, suas coisas vão embora, e na segunda-feira, quando eu voltar, eu olho o resultado, te dou um posicionamento, ó. É, você vai começar a pedir a clínica e tudo mais, tá bom? Muito bom. Abre esse carro. Você tem ultrassom?
+PACIENTE: Tem ultrassom. Não tem ultrassom recente.
+MÉDICA: Você consegue fazer ultrassom particular?
+PACIENTE: Uhum. O que eu vou fazer aqui vai demorar, precisa de uma certa rapidez, depois eu faço a vaga. É barato, né? E eu faço o quê?
+MÉDICA: De rim.
+PACIENTE: Ah, tá. A gente fala cem reais. Eu faço pelo HP.
+MÉDICA: Ah, ótimo. Você vai fazer o ultrassom particular? 
+PACIENTE: Não. Porque eles vão pedir um outro recente, só tem de 2021.
+MÉDICA: Tá. Ah, será que isso é [INCOMPREENSÍVEL]?
+PACIENTE: O quê? O ultrassom? 
+MÉDICA: Geralmente, sim. Geralmente, bom, pelo menos assim, não sei o que é que eu vejo de homem, mas geralmente eu consigo um máximo em quatro dias.
+MÉDICA: Autorizando agora a clínica, é rápido. Só precisa autorizar lá. Ótimo. Tá. Então, vou fazer aqui, vou deixar aqui tudo pendente. Pode ir lá, se não quiser o exame, deixa de falar comigo, tá? Deixa de falar comigo. E quando você voltar, vai estar aqui a data, você tem que voltar. Eu vou deixar tudo organizado pra você.
+MÉDICA: Ah, é. Será que a gente não tá aplicando o telefone aí?
+PACIENTE: Sim. Segunda-feira.
+MÉDICA: Mas você volta aqui, se eu ainda tiver aqui, a gente já resolve isso agora. Tá bom, querida. Tá bom? Ajoelha. Mas se você, se demorar lá, eu vou deixar tudo ali. Beleza? E te convide na segunda e eu te mando pra lá. Tá bom.
+MÉDICA: E medicamento, por enquanto, tudo do mesmo jeito, tudo por um lado? É, não. Pode ser que eu mude alguma coisa. Aí vai ficar aí. A princípio eu não vou mudar, não. Pelo que eu olhei rápido aqui. Mas eu vou olhar com mais calma, porque eu não quero que você percureça. Não vai que você chegue lá e dá ruim, mas vai dar mais confortável, tá bom? Precisa de nada. Nada, bem. Você ainda tem... Fausto Teólogo. 
+PACIENTE: É, tá me dando em casa. 
+MÉDICA: É. Quantos ainda? Tem 50 mil, né? No dobro, tem 2,5 mil. Um bom início agora. Quando acabar... 
+PACIENTE: Vou agora com o meu início. 
+MÉDICA: Tá, sei. Depois que você terminar... Você perde tempo, porque quando separado, não. Ah, sim, eu tenho [INCOMPREENSÍVEL]. Quando você terminar esses 50 mil, você vai comprar 7 mil. Mas eu acho que de repente não compra. Não compra. Faz o seguinte. Pode ser que depois mude. Só toma esses 2 mil e depois a gente vê. Vamos lá.
+MÉDICA: Tá com 6 ml por minuto. Tá com 6% de função renal. Mesma coisa que estava. Mas como eu te falei. Não é uma coisa que pode de uma hora para outra. Virar um problema. Entendeu, Eric? É bom a gente não... A gente já está com nada. A sua pistola já está boa. Não tem porque esperar. Você não está sentindo. Você não está sendo prejudicado com isso. Entendeu?
+MÉDICA: Aí a clínica... É como se você faz um ficha e... Não é necessariamente aqui. Ou que... Não é necessariamente o lugar próximo. É, mas pode. Não tem nada. Porque é muito pequeno o serviço. Não tem até o serviço de jazz aqui. É
+MÉDICA: Está todo cheio. Provavelmente, posso estar errada, mas você deve ir lá para a Associação dos Funcionários Públicos. Entendeu? Por acaso, eu trabalho lá. Vai lá. Eu acho que lá tem vaga. Não tenho certeza, na verdade. Mas tem muito paciente de Santo Antônio para ir para lá, porque é mais ou menos perto do Vicente Vitória, entendeu? É um lugar mais perto, né? Então, uma ideia. Espero que você vá para lá. Porque perto da sua casa tem transporte. Entendeu?
+MÉDICA: Bom, eu já vou dar uma entrada para você. Eu gostaria que você fizesse o ultrassom. Quando estiver com esse laudo pronto, você traz. Esse aqui é um WhatsApp, parece número de perfil. Geralmente a gente responde nas quintas-feiras, mas se você mandar antes, às vezes eles conseguem passar para a gente, eu respondo antes. Esse aqui vai para a enfermeira, ela distribui, quando para mim, quando para o Dr. Leandro, a gente responde. Tá bom? 
+MÉDICA: Deixa eu ver se eu tenho a sua receita do Jamel. Tá precisando? Então eu vou te passar só da Eritropoetina, que você já mandou. Tudo certinho, tá? Quando for assim, tenta não perder a receita, porque... Tá. 
+MÉDICA: [INCOMPREENSÍVEL]
+PACIENTE: Acabou, né? Se não tiver consulta, a gente... 
+MÉDICA: Não. Você tem que ser... A primeira vez é bom que seja você. Depois você pode até fazer uma procuração para ela. Quando você for lá, você se informa. A gente tem um papel, se eles não... A primeira vez é bom que seja você. Depois ela.
+MÉDICA: Pode pegar para você. Mas aí você tem que fazer uma procuração para ela. É muito simples.
+PACIENTE: É um papel cheio de... mas é um trabalho de lá, entendeu? Você precisa ir... mais rápido possível.  
+MÉDICA: [INCOMPREENSÍVEL] E manda foto da sua [INCOMPREENSÍVEL]  
+PACIENTE: Tá, que eu compro?
+MÉDICA: É. Isso é um sistema tão... é uma boa tratada.
+PACIENTE: Sempre é uma boa tratada. Mas a gente não mexe na [INCOMPREENSÍVEL]
+MÉDICA: É pior que a médica. É. É. É. A partir dos anos, assim, né, acho que está aí perto do [INCOMPREENSÍVEL]. Ah, muitas vezes, eu vou aqui na...
+PACIENTE: Virei. Eu não lembro, mas...
+MÉDICA: Não, eu não lembro, você não foi, não?
+PACIENTE: Eu comprei, porque eu não vou, porque eu quero que eu possa não tirar dinheiro. Eu já tirei muitas coisas, assim, diminui o pão, fiz um monte de coisinha, entendeu? De novo. 
+MÉDICA: Para ver o que eu estou comendo. Para ver o macarrão. Acabou de vir também.
+PACIENTE: Mandar mensagem? Não como desculpa, não como nada. Aí vou marcar com ela outra vez. 
+MÉDICA: Deixa eu tomar um pouco. Minha pressão anterior melhorou bastante.
+PACIENTE: É assim. Quer medir sua pressão?
+MÉDICA: Não, geralmente eu não quero, eu não posso. Isso aqui você vai guardar, tá? Isso aqui também você vai guardar pra você levar na clínica. Pode ser que esteja... pode ser que esteja assim, tá?
+PACIENTE: Pode ser, mas não que tire.
+MÉDICA: Dizem que você colocava a [INCOMPREENSÍVEL]?
+PACIENTE: Dizem que não. 
+MÉDICA: Já me respondeu. Eu não vou lá. Meu [INCOMPREENSÍVEL] é...
+PACIENTE: Eu vou colocar a [INCOMPREENSÍVEL].
+MÉDICA: É, não tem. Não tem. Não tem nada que você esqueça. Não tem nada que você não entenda. E ela cai no meio do dia qualquer coisa. Não é?
+PACIENTE: Não vai ficar aí. Não tem nada que você não entenda. Não tem nada que você não conheça. Não tem nada que você não entenda.
+MÉDICA: Eu não quero agora. Não quero. Não tem problema. Não tem nada que você [INCOMPREENSÍVEL]
+PACIENTE: Não [INCOMPREENSÍVEL]. Tão pequeno. Eu [INCOMPREENSÍVEL] Eu só sei cobrar, tá?
+MÉDICA: Tá certo! Obrigado.
+PACIENTE: Obrigada. Obrigada.
+MÉDICA: É, dá uma dificuldade segurando.
+PACIENTE: Eu achei assim que... porque já fiz o procedimento, já tive um pouco da ansiedade também.
+MÉDICA: Um pouco também. Eu achei que depois que eu estou aqui ela até relaxou.
+PACIENTE: É. Eu achei que ela abaixou porque era em torno da medição baixa.
+MÉDICA: Senão não é, eu me acostumei a
+MÉDICA: Eu consegui ficar medindo sua pressão central?
+PACIENTE: Não, não era normal. Era que eu não fiquei... Sinalizou que estava com problema. Depois ela estava com dificuldade, assim... Alguns momentos que eu ficava com medo, assim, ansiosa, alguma coisa que não é consumo. Geralmente consumo sempre acaba.
+MÉDICA: Entendi. E não, ultimamente eu só não aguento. É. É porque era onde estava te assustando mais, pelo menos. Está bem? Só um minutinho que eu pego os papéis de aula, tá? Hum. Então, pronto. Agora você pode ir lá. Ela não pede para ela marcar, não tem problema, você volta aqui. Não vai dar certo. Tá, só marcar o retorno aqui. Isso. E agora que a gente vai entrar em contato com você sobre a questão da vaga. Se ninguém entrar em contato, você sabe que fevereiro você não quer ir. Se até fevereiro já tiver que conseguir uma vaga, você vai. Se tiver que conseguir uma vaga, desimolar, você não precisa nem voltar nessa consulta de fevereiro. Porque você começou na diálise, você está liberado daqui. Você vai se passar no estudo de calma, calma, mas estudar nefrologia não.
+PACIENTE: Ah, não é? Diálise é alta, né, doutora?
+MÉDICA: Eu não tenho o que você fazer mais aqui, entendeu? Todo o seu acompanhamento vai ser feito pelo médico da DILAR. Tem um nefrologista na clínica de diálise.
+PACIENTE: Ah, aí eu vou na folha.
+MÉDICA: É. É porque se precisar mudar alguma coisa, eu não vou ter controle nenhum. Você vai fazer alguma alteração na máquina, alguma coisa, não tem como fazer. Então, se eu começar a fazer, eu não volto?
+PACIENTE: Não volta. Na nefro, não. Você vai liberado. Só avisa pra gente, pra esse telefone prevenir. Ah, tá bom.
+MÉDICA: A vaga sair, tá tudo certo, comecei a te avisar, tudo bem, e a gente tá só.
+PACIENTE: Ah, tá bom.
+MÉDICA: Tá bom?
+PACIENTE: Tá bom.

@@ -1,0 +1,323 @@
+\documentclass[
+	article,
+	11pt,
+	oneside,
+	a4paper,
+	english,
+	brazil,
+	sumario=tradicional
+	]{abntex2}
+
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{indentfirst}
+\usepackage{graphicx}
+\usepackage{microtype}
+\usepackage{xspace}
+
+\usepackage[brazilian,hyperpageref]{backref}
+\usepackage[alf]{abntex2cite}
+
+\title{
+\textbf{Universidade Federal do Espírito Santo}\\
+\textbf{Programa de Pós-Graduação em Informática (PPGI-UFES)}\\[10pt]
+Metodologia de Pesquisa Científica\\
+Atividade 01 \\[5pt]
+2024/02
+}
+
+\author{Victor Nascimento Neves}
+\date{dezembro de 2024}
+
+\begin{document}
+
+\maketitle
+
+\textbf{Professora}: Profa. Dra. Lúcia Catabriga
+
+\textbf{Aluno}: Victor Nascimento Neves
+
+\textbf{Programa}: Mestrado
+
+\textbf{Orientador}: Prof. Dr. Alberto de Souza
+
+
+% APRIMORAMENTO DA ANAMNESE CLÍNICA COM INTELIGÊNCIA ARTIFICIAL: UM SISTEMA BASEADO EM ÁUDIO E GPT PARA AUXÍLIO DE DIAGNÓSTICOS E RECOMENDAÇÕES DE CUIDADOS EM NEFROLOGIA
+
+\section{Descrição do Tema de Pesquisa}
+\subsection{Assunto}
+Aplicação de Inteligência Artificial na área de saúde, para geração de diagnósticos e propostas de tratamentos.
+
+\subsection{Tema}
+Geração automática de anamnese, proposta de tratamento e conduta médica a partir de áudio capturado em consulta médica, utilizando modelos avançados de linguagem.
+
+\subsection{Problema de Pesquisa}
+Como usar modelos de linguagem, a partir de áudios de consulta médica, para gerar anamnese compatível com uma produzida por um profissional de saúde?
+
+\subsection{Hipótese}
+Sistemas de inteligência artificial baseados em modelos de linguagem de grande porte podem fornecer sugestões diagnósticas e recomendações de cuidados personalizados durante o processo de anamnese, com precisão comparável ao julgamento clínico humano, aliviando a carga cognitiva sobre os médicos.
+
+\subsection{Objetivo Geral}
+Investigar o uso de um modelo de linguagem para transcrever entrevistas médicas, integrar dados de históricos médicos e fornecer diagnósticos preliminares na área de Nefrologia.
+
+\subsection{Objetivos Específicos}
+\begin{itemize}[label=--] % Personalizar marcadores conforme ABNT
+    \item Criar uma base de dados de consultas presenciais e online na área de Nefrologia.
+    \item Desenvolver um modelo de linguagem ajustado para o campo da Nefrologia.
+    \item Automatizar tarefas clericais associadas ao processo de anamnese.
+    \item Validar os diagnósticos e recomendações geradas pelo modelo de linguagem com uma equipe médica.
+    \item Publicar os resultados da pesquisa em veículos científicos e formar profissionais especializados no uso de IA na saúde.
+\end{itemize}
+
+\subsection{Justificativa}
+Apesar dos avanços tecnológicos, o processo de anamnese não foi significativamente otimizado para aliviar a carga sobre os profissionais de saúde e melhorar o atendimento ao paciente. Um dos principais desafios no processo de anamnese é a necessidade de os médicos dividirem sua atenção entre a condução de uma entrevista completa com o paciente e a execução de várias tarefas administrativas. Essas tarefas incluem digitar notas, inserir dados e recuperar resultados de exames anteriores. A execução simultânea dessas atividades pode levar à perda de informações, seja pela divisão da atenção durante a entrevista, seja pela recordação imperfeita quando a documentação é feita após a consulta.
+
+\subsection{Classificação da Pesquisa}
+\begin{itemize}[label=--]
+    \item Quanto à natureza: Aplicada
+    \item Quanto aos Fins: Exploratória
+    \item Quanto à abordagem: Quantitativa e Qualitativa
+    \item Quanto aos Procedimentos: Experimental
+\end{itemize}
+
+\section{Lista de Referências}
+\vspace{-4.5em} % Ajuste o espaço, se necessário
+{
+    \renewcommand{\bibname}{}
+    \bibliography{referencias}
+    \bibliographystyle{abntex2-num}
+}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.5\linewidth]{Screenshot from 2024-12-09 11-22-04.png}
+    \caption{Organização das referências no Mendeley}
+    \label{fig:enter-label}
+\end{figure}
+
+\section{Fichas de leitura}
+
+\begin{enumerate}
+\item \cite{kawamoto2005improving}
+\\
+\textbf{Título}: Improving Clinical Practice Using Clinical Decision Support Systems: A Systematic Review of Trials to Identify Features Critical to Success
+\\
+\textbf{Autores}: Kawamoto, Kensaku; Houlihan, Caitlin A.; Balas, E. Andrew; Lobach, David F.
+\\
+\textbf{Publicado em}: 2005, Brittish Medical Journal
+\\
+\textbf{DOI}: 10.1136/bmj.38398.500764.8F
+\\ \\
+\textbf{Importância do trabalho}:
+\\
+Este artigo é um marco na avaliação de sistemas de apoio à decisão clínica (\textit{Clinical Decision Support Systems} -- CDSS) para a melhoria da prestação de serviços de saúde. Ele revisa ensaios clínicos randomizados para identificar as características mais relevantes que tornam os CDSS bem-sucedidos, fornecendo uma base estatística robusta.
+
+Ensaios clínicos randomizados (ECR) são um tipo de estudo científico usado para avaliar a eficácia e a segurança de intervenções, como medicamentos, tratamentos ou estratégias de cuidado de saúde.
+
+O artigo fornece uma análise abrangente e permanece amplamente citado, e portanto é relevante para compreender como ferramentas de apoio à decisão podem melhorar os resultados clínicos.
+\\ \\
+\textbf{Resumo}:
+\\
+O estudo revisa 70 ensaios clínicos randomizados para avaliar o impacto dos CDSS na prática clínica. Os autores identificam quatro características críticas que, de forma independente, preveem resultados bem-sucedidos:
+
+1. Fornecimento automático de suporte à decisão como parte dos fluxos de trabalho dos clínicos.\\
+2. Recomendações acionáveis (ex.: propostas de tratamento) em vez de apenas avaliações.\\
+3. Suporte à decisão no momento e local da tomada de decisão.\\
+4. Uso de sistemas baseados em computador para gerar recomendações.
+
+Dos sistemas com todas as quatro características, 94\% melhoraram a prática clínica. O estudo também destaca evidências experimentais que apoiam características como \textit{feedback} periódico de desempenho e decisões compartilhadas entre paciente e profissional da saúde.
+\\ \\
+\textbf{Aspectos positivos e negativos}:
+\\
+\textit{Aspectos positivos:}
+
+- O artigo identifica características essenciais para o sucesso de sistemas de apoio clínico. \\
+- Fornece uma estrutura quantitativa para avaliar sistemas de apoio à decisão clínica. \\
+- A inclusão de evidências experimentais diretas fortalece a aplicabilidade prática de suas conclusões.
+
+\textit{Aspectos negativos:}\\
+- A data de publicação do artigo, 2005, limita a consideração de avanços modernos, especialmente o impacto de modelos de linguagem (LLMs) no processamento de linguagem natural (PLN) para escribas digitais.
+\\ \\
+\textbf{Pontos e ideias relevantes para minha proposta de pesquisa}:
+\\
+O artigo destaca a importância de uma avaliação estatística dos CDSS por meio de ensaios randomizados, fornecendo métricas como significância estatística e clínica. Esses métodos de avaliação estão alinhados com as métricas necessárias para validar os resultados de escribas digitais em minha pesquisa.
+
+As \textit{features} identificadas—como recomendações acionáveis e suporte em tempo hábil—são relevantes para projetar escribas digitais eficazes que se integrem aos fluxos de trabalho dos médicos.
+
+O estudo destaca lacunas no campo dos CDSS, como a necessidade de mais experimentação e validação prática, fornecendo um roteiro para o avanço e escopo de minha pesquisa sobre escribas digitais, com foco na utilidade e eficiência clínica.
+\\ \\
+% ----------------------------------------------------------
+\item \cite{topol2019high}
+\\
+\textbf{Título}: High-Performance Medicine: The Convergence of Human and Artificial Intelligence
+\\
+\textbf{Autor}: Topol, Eric J.
+\\
+\textbf{Publicado em}: 2019, Nature Medicine
+\\
+\textbf{DOI}: 10.1038/s41591-018-0300-7
+\\
+\\
+\textbf{Importância do trabalho}:
+\\
+Um \textit{survey} que destaca o potencial transformador da IA na área da saúde. Ele oferece uma visão abrangente sobre as aplicações, desafios e oportunidades no uso de IA para diagnósticos, tratamentos e gestão de sistemas de saúde. Sua análise crítica dos avanços, bem como as limitações da IA torna-o uma referência essencial para compreender a trajetória da IA na medicina.
+\\ \\
+\textbf{Resumo}:
+\\
+O artigo discute a integração da IA na saúde em três principais domínios:
+
+    1. Clínicos: A IA apoia diagnósticos por meio de \textit{deep learning} em imagens médicas, patologia, dermatologia, cardiologia e outras áreas, alcançando ou superando a precisão humana em algumas tarefas.\\
+    2. Sistemas de Saúde: A IA melhora fluxos de trabalho, faz predição de resultados e reduz ineficiências. Ex.: previsão de readmissões hospitalares e risco de sepse. \\
+    3. Pacientes: A IA auxilia pacientes por meio de dispositivos vestíveis (\textit{wearables}) e ferramentas para monitoramento de condições de saúde e adesão a tratamentos.
+
+Apesar de seu potencial, o artigo enfatiza desafios significativos:
+
+- Viés em algoritmos de IA devido à representação inadequada nos dados de treinamento.\\
+- Falta de transparência (modelos "\textit{black box}"). \\
+- Preocupações com privacidade e riscos causados por algoritmos errôneos ou maliciosos.
+
+O autor defende uma validação clínica rigorosa, transparência e precauções robustas para garantir uma implementação segura da IA na saúde.
+\\ \\
+\textbf{Aspectos positivos e negativos}:\\
+\textit{Aspectos positivos:} \\
+- Analisa criticamente os desafios e limitações, oferecendo uma perspectiva equilibrada.\\
+- Defende validações rigorosas e considerações éticas, estabelecendo um alto padrão para pesquisas futuras.
+
+\textit{Aspectos negativos}:\\
+- A publicação antecede a revolução dos large language models (LLMs), como o GPT, que agora abordam várias limitações identificadas no artigo (ex.: explicabilidade e conjuntos de dados mais amplos).\\
+- Algumas análises, particularmente em diagnósticos, foram superadas por avanços mais recentes.
+\\ \\
+\textbf{Pontos e ideias relevantes para minha proposta de pesquisa}:\\
+O artigo identifica desafios importantes em viés, transparência e validação clínica. Modelos modernos como os LLMs, treinados em conjuntos de dados diversos e incorporando mecanismos de explicabilidade, mitigam algumas dessas questões, tornando-os adequados para escribas digitais na área da saúde.
+
+A ênfase na significância estatística e validação clínica alinha-se diretamente com a necessidade de avaliar escribas digitais de forma rigorosa. Isso inclui comparar transcrições e resultados gerados com os padrões fornecidos por médicos.
+
+O artigo discute aplicações práticas de IA em diagnósticos e otimização de fluxos de trabalho, que se assemelham ao objetivo de criar um sistema de escriba digital integrado aos fluxos clínicos. Essas análises reforçam a importância de projetar funcionalidades como sumarização contextual e geração de recomendações no contexto do meu projeto.
+\\ \\
+\item \cite{van2021digital}\\
+\textbf{Título}: The Digital Scribe in Clinical Practice: A Scoping Review and Research Agenda\\
+\textbf{Autores}: van Buchem, Marieke M.; Boosman, Hileen; Bauer, Martijn P.; Kant, Ilse M. J.; Cammel, Simone A.; Steyerberg, Ewout W.\\
+\textbf{Publicado em}: 2021, npj Digital Medicine\\
+\textbf{DOI}: 10.1038/s41746-021-00432-5\\
+\\
+\textbf{Importância do trabalho}:\\
+Este artigo é importante, pois oferece uma revisão abrangente do estado recente da pesquisa sobre escribas digitais na prática clínica. Ele avalia diversos métodos para automatizar a documentação clínica utilizando técnicas de reconhecimento automático de fala (Automatic Speech Recognition -- ASR) e processamento de linguagem natural (PLN). O trabalho estabelece uma base para compreender os desafios técnicos, clínicos e de usabilidade nesse domínio, tornando-se um ponto de partida para pesquisas futuras.\\
+\\
+\textbf{Resumo}:\\
+O artigo investiga o desenvolvimento, validação e implementação de escribas digitais, que visam reduzir a carga administrativa sobre os clínicos ao automatizar a documentação clínica. A revisão inclui 20 estudos e avalia tarefas de ASR e PLN, como extração de entidades, classificação e sumarização. Os principais achados incluem:\\
+- Sistemas ASR treinados em conversas clínicas superam modelos genéricos de ASR, mas ainda apresentam altas taxas de erro.\\
+- Tarefas de PLN utilizando redes neurais baseadas em atenção e embeddings de palavras sensíveis ao contexto mostram-se promissoras.\\
+- A maioria dos estudos foca apenas na validade técnica, com avaliação limitada da validade e utilidade clínica. O artigo enfatiza a necessidade de pesquisas iterativas que abordem os desafios técnicos considerando a aplicabilidade clínica.\\
+\\
+\textbf{Aspectos positivos e negativos}:\\
+\textit{Aspectos positivos:} \\
+- Oferece uma revisão completa das técnicas de ponta para escribas digitais até a data de sua publicação.\\
+Destaca os pontos fortes e fracos de várias abordagens de ASR e PLN em ambientes clínicos.\\
+- Chama atenção para a necessidade de maior transparência e rigor nos padrões de relatório para escribas digitais, estabelecendo um marco para futuras pesquisas.
+
+\textit{Aspectos negativos}:\\
+- A data de publicação, 2021, limita a inclusão de avanços, particularmente o impacto de grandes modelos de linguagem (LLMs), como GPT, que revolucionaram o PLN.\\
+- Embora identifique lacunas na pesquisa, não propõe soluções concretas ou métodos para preenchê-las.\\
+\\
+\textbf{Pontos e ideias relevantes para minha proposta de pesquisa}:\\
+\textit{Métricas de Avaliação}: O artigo descreve métricas comuns para ASR (Taxa de Erro de Palavra) e tarefas de PLN (F1 score e ROUGE -- Recall-Oriented Understudy for Gisting Evaluation) para comparar os resultados de escribas digitais com conversas clínicas reais. Essas métricas são diretamente aplicáveis na construção e validação de métodos de avaliação em minha pesquisa.\\
+\textit{Lacunas na Pesquisa}: Ao identificar a falta de estudos de validação clínica e utilidade, este trabalho fornece um roteiro para abordar áreas não exploradas na pesquisa de escribas digitais. Meu projeto pode buscar preencher essas lacunas, particularmente no desenvolvimento e validação de modelos baseados em LLMs.\\
+\textit{Ferramenta de Benchmarking}: Este artigo serve como ponto de partida para estabelecer benchmarks para meu trabalho em comparação com soluções existentes, permitindo posicionar minhas contribuições no campo mais amplo da saúde impulsionada por IA.
+\\ \\
+\item \cite{navarro2022few}
+\\
+\textbf{Título}: Few-Shot Fine-Tuning SOTA Summarization Models for Medical Dialogues
+\\
+\textbf{Autores}: Navarro, David Fraile; Dras, Mark; Berkovsky, Shlomo 
+\\
+\textbf{Publicado em}: 2022, Proceedings of the NAACL-HLT Student Research Workshop
+\\
+\textbf{DOI}: 10.18653/v1/2022.naacl-srw.28
+\\
+\\
+\textbf{Importância do trabalho}:
+\\
+Este artigo é importante porque explora a aplicação de modelos baseados em \textit{transformers} em um domínio onde os dados de treinamento são escassos: a sumarização de diálogos médicos. Ele demonstra o potencial de estratégias de aprendizado com poucos exemplos (\textit{few-shot learning}), que são relevantes para adaptar modelos de linguagem a aplicações na área da saúde. Além disso, destaca os desafios de manter a precisão e a coerência médica, explorando as limitações e oportunidades de melhoria dos sistemas de IA nesse campo.
+\\
+\textbf{Resumo}:
+\\
+O estudo avalia o desempenho de modelos baseados em transformers, incluindo BART, T5 e PEGASUS, para sumarização abstrativa de diálogos médicos. Utilizando um pequeno conjunto de dados de 143 trechos de diálogos médicos anotados por um clínico, os modelos foram ajustados incrementalmente usando estratégias de aprendizado com poucos exemplos (configurações de 10, 20 e 50 exemplos) e comparados com baselines de aprendizado sem exemplos (zero-shot).
+
+Principais Conclusões:
+
+- Modelos pré-treinados em diálogos gerais (por exemplo, SAMSUM) superaram os modelos base.\\
+- Os modelos BART alcançaram as maiores pontuações ROUGE em várias configurações de avaliação, demonstrando superioridade em tarefas de sumarização específicas de domínio.\\
+- Apesar do desempenho melhorado com fine-tuning, os resumos frequentemente careciam de detalhes médicos críticos ou apresentavam inconsistências.
+\\ \\
+\textbf{Aspectos positivos e negativos}:\\
+\textit{Aspectos positivos:} \\
+- Demonstra a viabilidade de usar aprendizado com poucos exemplos para sumarização específica de domínio, oferecendo uma solução prática para a escassez de conjuntos de dados de diálogos médicos.\\
+- Destaca os pontos fortes dos modelos baseados em BART em tarefas de sumarização de diálogos médicos. \\
+- Sugere direções futuras de pesquisa, incluindo o refinamento de métricas de avaliação e a incorporação de embeddings específicos de domínio.
+
+\textit{Aspectos negativos}:\\
+- Pequeno tamanho do conjunto de dados limita a generalização das conclusões. \\
+- O estudo depende principalmente de métricas ROUGE, que não capturam completamente a precisão fatual ou a relevância médica dos resumos.\\
+- O artigo antecede a ampla aplicação de modelos de linguagem mais avançados, como o GPT-4, que poderiam abordar algumas das limitações identificadas em coerência e precisão médica.
+
+\textbf{Pontos e ideias relevantes para minha proposta de pesquisa}:\\
+- O artigo identifica problemas de coerência médica e precisão factual em tarefas de sumarização. Modelos avançados como o GPT-4, com sua capacidade superior de compreensão contextual e fine-tuning, podem abordar essas limitações quando aplicados a aplicações de escribas digitais.\\
+- A discussão sobre a inadequação das métricas atuais (por exemplo, ROUGE) alinha-se com a necessidade de desenvolver ou adotar métodos de avaliação mais eficazes para meu projeto, garantindo que os resumos de anamnese gerados por IA sejam precisos e clinicamente úteis.\\
+- O uso de estratégias de aprendizado com poucos exemplos destaca uma maneira eficaz de adaptar modelos de linguagem a conjuntos de dados de diálogos específicos de Nefrologia, que provavelmente serão pequenos e sensíveis.\\
+- O desempenho dos modelos baseados em BART enfatiza a importância de selecionar modelos pré-treinados robustos para tarefas específicas de domínio, guiando a escolha de modelos na minha pesquisa.
+\\
+- Ao abordar as deficiências identificadas neste estudo—como a falta de embeddings médicos ou estratégias de sumarização multidocumento—minha pesquisa pode avançar no campo e contribuir para o desenvolvimento de ferramentas confiáveis de documentação clínica assistida por IA.
+\\ \\
+\item \cite{caruccio2024can}
+\\
+\textbf{Título}: Can ChatGPT Provide Intelligent Diagnoses? A Comparative Study Between Predictive Models and ChatGPT to Define a New Medical Diagnostic Bot
+\\
+\textbf{Autores}: Caruccio, Loredana; Cirillo, Stefano; Polese, Giuseppe; Solimando, Giandomenico; Sundaramurthy, Shanmugam; Tortora, Genoveffa
+\\
+\textbf{Publicado em}: 2024, Expert Systems with Applications
+\\
+\textbf{DOI}: 10.1016/j.eswa.2023.121186
+\\
+\\
+\textbf{Importância do trabalho}:
+\\
+O artigo faz a ponte entre o aprendizado de máquina (ML) tradicional e as capacidades emergentes de grandes modelos de linguagem (LLMs), como o ChatGPT e o Google BARD (agora chamado Gemini), no diagnóstico médico. Ao comparar essas abordagens, ele explora o potencial dos LLMs para complementar ou até mesmo superar os sistemas diagnósticos tradicionais, especialmente no manejo de doenças de baixo a médio risco.
+\\ \\
+\textbf{Resumo}:\\
+O estudo avalia o ChatGPT, o Google BARD e modelos tradicionais de ML para o diagnóstico inteligente de sintomas de doenças. Os autores desenvolveram uma metodologia para testar os LLMs utilizando prompts personalizados e compararam seu desempenho com técnicas clássicas de ML, como Random Forest e Multi-layer Perceptron.
+
+Principais Conclusões:
+
+- ChatGPT e Google BARD apresentam precisão, acurácia, recall e F1-score competitivos em comparação aos modelos de ML, embora ocasionalmente gerem diagnósticos fora de contexto.\\
+- Engenharia de prompt melhora significativamente a precisão dos LLMs, destacando o papel crítico da estruturação de inputs.
+- O ChatGPT demonstra flexibilidade superior na compreensão de contexto e no raciocínio a partir de sintomas diversos, sem a necessidade de extensa engenharia de recursos (feature engineering).
+- O desafio é que LLMs às vezes produzem resultados ambíguos ou excessivamente genéricos, especialmente em cenários com sobreposição complexa de sintomas.
+
+O estudo conclui propondo um chatbot diagnóstico que utiliza os modelos de melhor desempenho, combinando LLMs e ML tradicional para um suporte clínico robusto.
+\\ \\
+\textbf{Aspectos positivos e negativos}:\\
+\textit{Aspectos positivos:} \\
+- O artigo estabelece uma estrutura para avaliar LLMs em diagnósticos médicos.\\
+- Destaca os pontos fortes dos LLMs na compreensão de linguagem natural, reduzindo a dependência de recursos elaborados manualmente.\\
+- A inclusão do ChatGPT e do Google BARD fornece uma comparação robusta dos principais LLMs no contexto da saúde.
+
+\textit{Aspectos negativos}:\\
+- Os autores não exploram totalmente como as limitações dos LLMs atuais, como resultados ambíguos, poderiam ser resolvidas com fine-tuning ou integração com bases de conhecimento específicas do domínio.
+- Até a data de publicação, o estudo carece de insights sobre como LLMs mais novos e maiores, como o GPT-4, poderiam refinar ainda mais a precisão diagnóstica.
+\\ \\
+\textbf{Pontos e ideias relevantes para minha proposta de pesquisa}:\\
+- O artigo discute os desafios relacionados a diagnósticos fora de contexto ou ambíguos gerados pelos LLMs. Isso indica que a incorporação de treinamento específico para o domínio ou feedback em tempo real de clínicos pode melhorar a precisão dos escribas digitais.\\
+- As estratégias de prompts personalizadas apresentadas no artigo demonstram o papel da estruturação de entradas para melhorar os resultados dos LLMs. Isso está alinhado com o objetivo do meu projeto de gerar anamnese contextual a partir de gravações de áudio médico. A geração de anamnese, diagnóstico e proposta de conduta é gerada não só com a entrada de áudio, mas também com o auxilio de um roteiro esturado para a geração do output. O refinamento desse output é vital para a geração de bons resultados.\\
+- O chatbot diagnóstico híbrido proposto no artigo sugere um caminho para integrar LLMs e outros sistemas de ML. De forma semelhante, minha pesquisa pode explorar a combinação de LLMs com dados históricos de pacientes para diagnósticos mais ricos.
+\\ \\
+\textbf{outros papers selecionados:}
+    \item \cite{bengio2017deep}
+    \item \cite{vaswani2017attention}
+    \item \cite{coiera2018digital}
+    \item \cite{Radford2018ImprovingLU}
+    \item \cite{tierney2024ambient}
+\end{enumerate}
+
+\end{document}
+

@@ -1,0 +1,144 @@
+MÉDICA: Eu estive no hospital. Você esteve internado em algum hospital também?
+PACIENTE: Sim, eu fui internado.
+MÉDICA: Em qual hospital você foi internado?
+PACIENTE: Na Santa Casa e depois fui transferido para Santa Bárbara.
+MÉDICA: Você chegou a fazer diálise?
+PACIENTE: Não. Aqui tem o exame de sangue que eu fiz depois de ser liberado.
+MÉDICA: Então, você estava anêmico?
+PACIENTE: Sim, estava muito anêmico. Eu tinha vários exames marcados para fazer, mas nesse intervalo eu fui internado.
+MÉDICA: Quando você foi internado? Foi em outubro?
+PACIENTE: Sim, fiquei um mês.
+MÉDICA: Um mês? 
+PACIENTE: Sim, isso mesmo. Duas internações.
+ACOMPANHANTE: Quando ele saiu do Santa Bárbara e chegou em casa, apresentou dor no braço. Ele estava tomando medicamento para dor, mas depois não fez mais efeito. Ele estava realmente mal. A dor estava muito forte, por isso precisava de medicação.
+PACIENTE: Então voltei para o hospital. Lá, no entanto, notei uma falta de responsabilidade dos médicos.
+ACOMPANHANTE: Falta de responsabilidade? Por quê?
+PACIENTE: Porque nós queríamos discutir sobre os exames e eles pareciam não se importar. Meu braço foi perfurado de qualquer maneira.
+ACOMPANHANTE: Uma enfermeira chegou e fez a punção aqui. Nós achamos que isso foi errado, doutora.
+MÉDICA: Sim, pode ter sido um erro.
+ACOMPANHANTE: Ela fez a punção nele. Isso está correto?
+MÉDICA: Pode não estar. Como foi que aconteceu?
+ACOMPANHANTE: Eu a informei para não fazer a punção aqui. Meu pai estava gritando de dor. Acho que ela errou.
+PACIENTE: Eu me senti como uma cobaia.
+MÉDICA: Pode ser que ela não tenha encontrado a veia...
+ACOMPANHANTE: O pessoal do laboratório costumava chegar, coletar o sangue rapidamente. Eles não precisavam perfurar o pescoço.
+MÉDICA: Entendo. Sei que é difícil. Acontece que, às vezes, quando a veia não é perceptível, a coleta de sangue torna-se mais difícil.
+MÉDICA: Sangue é uma coisa mais... É só tirar. Agora, manter uma veia, manter um acesso, pega ali. Às vezes não é tão simples assim. Então, às vezes, existe sim essa possibilidade de botar no pescoço. Isso aí é uma coisa que faz. 
+ACOMPANHANTE: É, eu imaginei... Mas a enfermeira errou a punção. Porque ele sentiu dor de noite. Se ela tivesse acertado o lugar certinho, não sentiria dor. 
+MÉDICA: Sim, no dia seguinte percebemos o erro na punção. 
+ACOMPANHANTE: Foi por isso que ele sentiu dor. Se ela tivesse acertado o lugar certo, não sentiria dor. 
+MÉDICA: Pois é, o problema é que a veia adequada para a punção não estava visível. Precisamos ser cuidadosos nesse procedimento. 
+ACOMPANHANTE: Em casa ele já estava todo furado pelos erros de tentativas anteriores. Aí veio uma enfermeira e outro profissional, né? Fizeram a punção aqui. Foi rapidinho. 
+MÉDICA: Sim, mas ele relatou algum desconforto? Tive conhecimento do erro depois. 
+ACOMPANHANTE: Eu estou sempre aqui acompanhando. Procuro administrar tudo corretamente. É difícil lidar com tudo isso. No final, acabo ficando desgastado. Preciso manter a calma. 
+MÉDICA: Entendo, mas ele estava melhor em casa? 
+ACOMPANHANTE: [INCOMPREENSÍVEL]
+MÉDICA: Nesse ultrassom, é benigno, certo? Trata-se de consequência normal do envelhecimento. Isso é diferente dos cistos que você mencionou? 
+ACOMPANHANTE: Sim. Não, isso aqui é benigno. Então, é benigno ou maligno? 
+MÉDICA: É benigno. 
+ACOMPANHANTE: Sim. Isso aqui é do envelhecimento. 
+MÉDICA: Eu também tenho. Todo mundo que começa a envelhecer tem. Depois dos 40 anos já começa a aparecer. 
+ACOMPANHANTE: Ah, então isso é comum, né? 
+MÉDICA: É comum. É por isso que não indicam cirurgia, né? 
+ACOMPANHANTE: Não, isso aqui não se opera. É porque se fosse maligno causaria dor, né? 
+MÉDICA: Depende, né? 
+ACOMPANHANTE: Eu não sinto dor não. É engraçado que eu não sinto dor nenhuma nisso. E vem...
+MÉDICA: Como é que você está agora? você falou, me conta do ombro de novo. Isso aí foi na internação?
+PACIENTE: Ah, eu passei mal do ombro e do joelho também, a perna, aqui dói tudo. E o pé também, né? Não anda muito. Dói muito.
+MÉDICA: O que está doendo? A perna direita? 
+PACIENTE: Agora é a perna. Me disse que eu tomo tanto remédio de dor, mas não peguei de jeito nenhum. E o joelho, eu fui... Tive internado. 
+MÉDICA: Ali, né? 
+PACIENTE: Aí, o médico falou que é artrose. 
+MÉDICA: A dor que a gente faz no joelho? 
+PACIENTE: É, no joelho, aqui no lado da perna. Ataca primeiro aqui no lado da perna. Mas não dói apertando não, né? Não tem nada, mas quando eu começo a andar dói aqui. Aí ataca a coluna, eu tenho que sentar um pouquinho para andar, senão eu caio. Mas é a graça de Deus que está me atacando, é isso. 
+MÉDICA: Mas tem remédio lá para dor? 
+PACIENTE: Ah, tem remédio lá para dor, porque passaram, eu tomo, mas... Graças a Deus, eu tenho que me aguentar. Mas, mais mesmo, é esse joelho. Mas, graças a Deus, que eu estou tomando remédio de... de anemia, a doutora passou a injeção para me tomar toda semana, sem exceção. 
+MÉDICA: Quem passou? 
+PACIENTE: A doutora, a doutora Oliana. 
+MÉDICA: Oliana. 
+PACIENTE: Oliana. 
+MÉDICA: Não, Oliana sou eu. 
+PACIENTE: Ah, é? Oliana, tinha uma gestão. De lá no posto do São Marcos, ali. Foi saúde, daí, do povo. Aí eu estou tomando essa injeção e bebendo, como é que diz, suco de ovo com limão, tomando o... o... o... o... o... o... o... o... o remédio prescrito.
+MÉDICA: Que injeção é essa que ela passou? 
+PACIENTE: Ah, eu não sei o nome dela, não. Esqueci de trazer a receita. Eu sei que ela é como botada no suco, tipo o suco e aí, com a cadeira. 
+ACOMPANHANTE: Na vermelha. 
+PACIENTE: Na vermelha. Vocês compraram? 
+ACOMPANHANTE: Compraram. Eu comprei um do Reclast.
+PACIENTE: Ah, Calcitriol. Está tomando ainda? 
+MÉDICA: É, tem a conta de duas ainda. Toda semana, toda sexta-feira eu tomo uma. 
+PACIENTE: Toda sexta-feira? É. Amanhã mesmo é dia. E o ombro, o que aconteceu? 
+MÉDICA: Diz o médico que foi o tendão, não entendo o negócio. 
+PACIENTE: Tendão? É, aí agora estou, só não consigo levantar o braço ainda assim, mas tudo junto não dói não. 
+MÉDICA: Será que rompeu o tendão, não foi isso? 
+PACIENTE: É, disse ele que foi o tendão. 
+ACOMPANHANTE: Ficou inchado, ficou igual uma bola doutora, ficou horrível o braço dele. Tá tomando no escalonado não, né? 
+MÉDICA: Tomou meio, muitas vezes antibiótico. 
+PACIENTE: Tomou. 
+MÉDICA: Ainda tá tomando?
+PACIENTE: Não, parei. Mas era um antibiótico mais fraco, né? 
+MÉDICA: 25,
+MÉDICA: 25 de verão. Mas sofreu nesse braço. Meu Deus, braço e agora no joelho. Está melhor agora, né? 
+PACIENTE: Tô. Tá, tá. Minha perna agora, do resto tá tudo bem. Você estava perguntando se eu estava dormindo direito, dormindo bem, graças a Deus? Tô dormindo bem, né? 
+MÉDICA: Começou e o coração ficou alterado, batendo e aquela batida do coração saía na cabeça. Aí tinha que ficar pum, pum, pum, pum. Você ficou uns 10 dias assim, né? 
+PACIENTE: Sim, eu tava lá, ah, o negócio não tá bom não. Aí que eu fui num médico lá no PA, São Pedro. Aí fiz exame, acabaram me internando. E aí pronto, comecei a estar de internado. Por isso que o senhor não veio na consulta, né? Veio não, fiquei preocupado, sabe? Mas sofri desse braço, esse joelho, sofrer. Daí quando o joelho não tá sofrendo ainda.
+MÉDICA: O senhor não fez esses exames aqui não? 
+ACOMPANHANTE: Não, porque ele estava internado. 
+MÉDICA: Ah, não tem nenhum exame então? 
+ACOMPANHANTE: Não. Exame de sangue não deu pra fazer não. Ele, ele... 
+PACIENTE: Eu remarquei, aí não deu pra fazer. Tava internado.
+MÉDICA: Entendi. Porque eu mexo todo lá. Entrei no dia 29, no dia 29 saí. Um mês. Entendi. A gente tem que fazer esses exames. Só que eu vou fazer o seguinte. A gente precisa fazer esses exames, tá? O senhor pode usar esse mesmo papel aqui. Eu vou fazer um recadinho aqui, porque ainda está pendente, né? O senhor vai lá agora, no laboratório, tá? E vai remarcar. O senhor vai lá no laboratório. Eu já escrevi aqui o recadinho. Expliquei aqui, que o senhor não veio porque estava internado, tá bom? O senhor vai fazer esse exame. E aí quando... Vai fazer hoje não. Vai marcar pra fazer. Tá? Pra gente poder ver direitinho. O senhor está ... Está arriscado ali?
+PACIENTE: Arriscado não, mas não posso ser... Não pode ser rápido, né?
+MÉDICA: Porque sem o exame, eu fico de mãos atadas, assim, né? Isso é realmente o exame. Mas não tem problema não. Você faz o exame, tá bom? 
+PACIENTE: Uhum.
+MÉDICA: Continua assim, tá? 
+ACOMPANHANTE: Ele vai participar. Ele vai participar. 
+MÉDICA: Vamos. Dá. O que você vai fazer com isso daí? Vamos. Se vai usar [INCOMPREENSÍVEL]. Se vai usar, calma aí... É, já vai lá na cabeça [INCOMPREENSÍVEL], o outro lado [INCOMPREENSÍVEL]. São lâmpadas.
+MÉDICA: Dá para você confirmar na próxima consulta? Dá para você trazer da próxima vez? Tem as medicações que ele usa?
+ACOMPANHANTE: Não, não.
+MÉDICA: Ah, mas deixa eu falar, isso é muito importante, porque eu não sei quais medicações ele usa.
+ACOMPANHANTE: É médico?
+PACIENTE: É, a consulta é com o médico.
+MÉDICA: Deixa eu ver aqui, eu já me esqueci.
+PACIENTE: É, eu gostaria que você estivesse ciente. Você aceita?
+MÉDICA: É, eu aceito. Tá tomando certinho isso aqui?
+PACIENTE: Tô.
+MÉDICA: Bom que o senhor trouxe, se o senhor não tinha trazido, aí estaria fazendo falta, entendeu?
+PACIENTE: É.
+ACOMPANHANTE: Por que? Por causa da minha boca?
+MÉDICA: É, não é? Tem que ver, porque ferro demais também não é bom. Ou, se você percebeu algo estranho, porque ele tá tomando ferro pela veia e pela boca, aí é muito. O pessoal que recebe o ferro pela veia já acumula muito ferro no sangue. A receita tá em dia?
+ACOMPANHANTE: Não, já venceu.
+PACIENTE: Venceu dia 20 de dezembro.
+MÉDICA: Já venceu. Obrigada. Não é ideal. Não é perfeito. Tá? E o controle da glicemia? Tu tá medindo direitinho?
+PACIENTE: Tô.
+MÉDICA: Vamos basear na nova receita que vou dar pra você, tá? Então essa receita nova vai ser a base. Tá bom? Tá. O ácido fólico também não vamos colocar na receita. Eu vou interromper o uso do ácido fólico por enquanto, tá bom? Até a gente receber o resultado dos exames. Ok?
+PACIENTE: Sim.
+MÉDICA: Ah, tá. Agora sobre a dieta: um pacote de sopa é aceitável para vocês?
+PACIENTE: Não.
+MÉDICA: Ah, isso já dá uma pista pra mim. Porque de acordo com a condição do paciente. Também me ajuda a definir a orientação de dieta. E, na realidade, essa dica ajudou muito. Não é automático. A gente não coloca o [INCOMPREENSÍVEL]. Não. Isso dissolve. Ok? Devemos focar apenas no solúvel. Portanto, depois de fazer os exames, eu preciso verificar os resultados antes de liberar o senhor para tomar o sulfato ferroso, entendeu?
+PACIENTE: Ah, tá.
+MÉDICA: Agora eu não tenho vacância para consulta, o senhor não tem vaga para agora, entendeu? Mas também não posso deixar a situação evoluir muito, porque o senhor não tem feito exames, se você fizesse esses exames, o que trouxe é um resultado parcial, apenas um aspecto do exame, né? Precisa de outros exames completos. Tá? Não, não, não. O senhor vai usar isso aqui, certo? Eu não posso...
+MÉDICA: Vai pegar aqui, deixa eu só ver se está tudo certo. Certo. Só leva isso aqui mesmo, tá? Já sai daqui e já vai lá, ok? 
+PACIENTE: Tá. 
+MÉDICA: É isso. Deixa eu ver só uma coisa aqui, dá o seu bracinho. Mas o mais importante é a cabeça, a cabeça está boa, né? 
+PACIENTE: Tá. 
+MÉDICA: Março, fevereiro. Isso aqui é isso, é o dia verde. Marca o seu primeiro dia que eu vou ter vaga, que é dia de 7 de fevereiro, tá bom? 
+PACIENTE: Tá bom. 
+MÉDICA: Aí o senhor marca, vai colocar isso aqui na frente, para a recepcionista, para eles darem um papel assim, impresso com essa data, e com esse papel você vai no laboratório para eles marcarem que está próximo da consulta, tá bom? 
+PACIENTE: Tá bom. 
+MÉDICA: Tá bom. Esse aqui é o antigo, pode jogar fora. Deixa eu ver se tem alguma coisa aqui, o antigo, tá? 
+PACIENTE: Tá. 
+MÉDICA: Peraí que eu vou lá pegar o seu apete de novo. 
+ACOMPANHANTE: Tá. 
+MÉDICA: E isso aqui é o que? Isso aqui é o exame de sangue do... Ah, comendo. Aqui só tem o... só tem o hemograma, né? 
+ACOMPANHANTE: Hum. 
+MÉDICA: Eu já até vi, mas... Preciso de outras coisas a mais. Peraí que eu já coloco, tá bom? 
+ACOMPANHANTE: Tá. 
+MÉDICA: Aqui, tudo bem para a receita. A partir de agora vai seguir essa receita aqui. Eu tirei o sulfato ferroso, tirei o ácido fólico, o sulfato ferroso já pode parar agora. O ácido fólico, se quiser tomar...
+ACOMPANHANTE: O do ácido não, né? 
+MÉDICA: É, o sulfato ferroso já vai tirar agora. O ácido fólico pode... Terminar o que tem em casa e tomar. E depois terminar o que tem em casa e parar. Tá bom? 
+ACOMPANHANTE: Tá bom. 
+MÉDICA: E a glicose eu reduzi para um comprimido antes do almoço e do jantar. Estava no café no almoço e no jantar. 
+ACOMPANHANTE: Entendi. 
+MÉDICA: Agora só duas vezes. Tá bom. Tá bom? Só no almoço e no jantar. Tudo bem? 
+ACOMPANHANTE: Tá bom. 
+MÉDICA: E é isso.

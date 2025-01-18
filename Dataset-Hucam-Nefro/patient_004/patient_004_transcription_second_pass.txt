@@ -1,0 +1,279 @@
+MÉDICA: E desde a última consulta da senhora em setembro, de lá pra cá, a senhora teve algum problema? Precisou buscar atendimento médico em algum local?
+PACIENTE: Não, meu primeiro problema é da vista.
+MÉDICA: É? Mas não precisou, não teve nenhum problema de ficar internada, né?
+PACIENTE: Não, não teve nada.
+MÉDICA: E das vistas, a senhora acompanha já com a equipe da oftalmologia, né? Vai fazendo aquelas injeções, né? Na última consulta, o doutor Leandro tinha chegado a passar alguns remédios pra senhora? Né? Eu vou falando aqui e a senhora vai me confirmando se a senhora começou a usar, tá bom? Ele tinha aumentado o Losartana, que é um remédio de pressão, mas também serve pro rim, pro coração. 
+PACIENTE: Sim. 
+MÉDICA: Pra passar de 12 em 12 horas, de manhã e de noite. A senhora tá tomando ele assim? 
+PACIENTE: Sim.
+MÉDICA: Tá, né? Ele passou também aquelas injeções de ferro, do oliferum, que é pra fazer na veia. A senhora conseguiu fazer? Tomou todas. 
+ACOMPANHANTE: Todas? Quantas ampolas ela fez?
+MÉDICA: Seis. 
+ACOMPANHANTE: Seis?
+MÉDICA: Seis. 
+ACOMPANHANTE: Seis ampolas? 
+PACIENTE: Sim.
+MÉDICA: Tá. E passou também um negócio que era o bicarbonato, que é pra tomar o leite. Então, mas esse gosto ruim, você não lembra, né?
+PACIENTE: Não.
+MÉDICA: Tá tomando quantas vezes por dia? 
+PACIENTE: Não, porque aí eu perguntei se era aquela que eu não tinha.
+MÉDICA: É uma vez por dia, né? 
+PACIENTE: Isso. Aí só que eu falei assim, depois que eu tinha um fritão, doutor, se era pra mim continuar tomando bicarbonato. Aí até a próxima consulta, porque a gente faz os exames, né? Pra ver se o exame estabilizou, pra saber se vai aumentar. Se não vai aumentar, se vai manter a mesma coisa. Tá bom?
+MÉDICA: Tá bom. A senhora conseguiu marcar a consulta? Conseguiu ir na consulta com o endocrinologista? Com o médico que cuida da diabetes? 
+PACIENTE: Sim.
+MÉDICA: Conseguiu, né? Então também. Então depois eu vou até a minha. Mas aí, se a senhora lembrar aí, ó, o endocrinologista, a senhora me fala, tá? Foi no endocrinologista daqui ou foi de fora?
+PACIENTE: Foi aqui mesmo.
+MÉDICA: Foi daqui, né? Bom, tá. Mas ela tem risco. É. E aí a senhora tinha ido na consulta? A consulta que a gente fala de apresentação de métodos, né? Pra caso a senhora precise entrar em diálise, né? Pra senhora poder escolher, né? E se preparar pra poder fazer a diálise, se precisar. Que aí seria pra escolher entre hemodiálise e diálise peritoneal, né?
+MÉDICA: Entendi, então você está aplicando de noite para o dia seguinte, né?
+
+PACIENTE: É. 
+
+MÉDICA: E a senhora usa... É, a insulina são dez unidades antes do jantar, foi isso que ficou combinado?
+
+PACIENTE: Isso. 
+
+MÉDICA: Isso? Certo. Então já tomou hoje o comprimido ou não tomou?
+
+PACIENTE: Já tomei.
+
+MÉDICA: Já tomou. OK! Então o que estava aqui era acetazolamida, tinha um remédio de anemia também que a senhora estava usando. Lembra qual é o nome dele?
+
+PACIENTE: Foi a ferrip. Ferripeixe.
+
+MÉDICA: Ferrip. Ferrip Priv Rouge, esse que a senhora tá usando, né? E tá tomando como, uma vez por dia ou duas vezes por dia?
+
+PACIENTE: Uma vez.
+
+MÉDICA: Uma a vez por dia, de manhã?
+
+PACIENTE: É. 
+
+MÉDICA: Aí eu já perguntei da insulina, já confirmei. E aí do coração, tá tomando alguma coisa?
+
+PACIENTE: Não.
+
+MÉDICA: O medicamento do coração foi retirado, então que é o... 
+vamos ver se eu lembro aqui... anti-hipertensivo, né? Que era o que a gente chamava de betabloqueador. Que era o Carvedilol. A senhora lembra?
+
+PACIENTE: Lembro.
+
+MÉDICA: Foi retirado esse, né?
+
+PACIENTE: Foi.
+
+MÉDICA: Então a senhora tá tomando o Ferrip Priv Rouge de manhã, a insulina à noite e a acetazolamida que faz uso de seis em seis horas.
+
+PACIENTE: Isso.
+
+MÉDICA: Então tá tudo esclarecido? Tomou a medicação direitinho?
+
+PACIENTE: Tomo. 
+
+MÉDICA: Então tá esclarecido. Bom, então eu vou repassar suas medicações com meu supervisor pra gente estar discutindo como que a gente vai fazer, tá bom? 
+
+PACIENTE: Tá.
+MÉDICO_SUPERVISOR: Bom, vamos repassar tudo que falamos aqui, né? As alterações nos medicamentos, os exames a serem feitos e as mudanças na dieta. 
+MÉDICA: Isso mesmo. A senhora suspendeu o lisinopril e o sulfato ferroso, certo? E está prologando o uso de insulina, tomando atorvastatina e até pouco tempo atrás estava usando a vitamina D.
+PACIENTE: Sim, mas a vitamina D e o sulfato ferroso eu parei já faz uns dias. 
+MÉDICO_SUPERVISOR: Tudo bem, mas é fundamental que você os retome, porque eles são importantes para a sua saúde. 
+MÉDICA: Sobre o preparo para a diálise, nós vamos encaminhar os exames que devem ser feitos antes de iniciar o mapeamento e também vamos orientar vocês sobre a dieta que deve ser seguida a partir de agora. 
+ACOMPANHANTE: Certo, iremos seguir todas as orientações.
+MÉDICO_SUPERVISOR: Tudo bem. Muito bem. Eu entrei no meio da conversa. Vou só completar pra gente acelerar um pouquinho as coisas, mas vamos lá, tá certo? O seguinte, na verdade eu só queria entender o seguinte: primeiro, pra saber se tem outra coisa que tá inventando você de fazer uma peritoneal, tem que passar com a gente, a gente olha e fala, opa, mas aqui tem obstrução, tem cálculo, caca, isso vai dar errado. Agora, a gente só vai fazer isso de início se você falar, olha, realmente eu quero fazer.
+ 
+PACIENTE: Quero fazer hemodiálise.
+
+MÉDICO_SUPERVISOR: Quer. Legal. Então o que a gente vai fazer agora, a gente vai fazer um mapeamento dos vasos do seu braço pra saber se eles aguentam uma fístula. Porque a gente pode fazer hemodiálise de duas maneiras, né? A gente pode fazer tanto aqui pelo peito, que é chamado de cateter. Esse tipo de cateter não é o ideal. Tudo bem? E a gente pode fazer também, tanto aqui pelo peito, pode fazer pelo braço. Isso que a gente chama de fístulas. Mas pra fazer a fístula, a gente precisa saber se os vasos do seu braço aguentam fazer isso. É então que a gente faz o Doppler do braço, vai ver se os vasos estão adequados pra fazer esse procedimento. Por isso que a gente vai fazer esse exame, tá bom? Aí a gente já sabe se dá ou não dá.
+
+MÉDICO_SUPERVISOR: Precisamos saber quanto estava a pressão lá da última vez que você foi na consulta, não soubemos disso ainda. Se a consulta tivesse sido realizada em outra unidade do PREVENIR, eu iria, já teria olhado.
+
+PACIENTE/ACOMPANHANTE: A pressão estava de 13.
+
+MÉDICA: 13.
+
+MÉDICO_SUPERVISOR: Foi de quanto? Eu vou perguntar pra você um assunto já resolvido.
+ 
+PACIENTE/ACOMPANHANTE: Foi de 11.
+ 
+MÉDICO_SUPERVISOR:   Foi de 11. Então deve ter sido o seguinte... você deve... nesse dia que você esteve lá, você deve ter chegado lá, muito estressada, nervosa.
+ 
+MÉDICA: Você tá fazendo diálise, né? 
+
+PACIENTE: Estou. 
+
+MÉDICA: Tá bom então. Você continuará aí, vai bem. A não ser que, nossa, de repente você tá com uma fraqueza horrorosa.
+
+MÉDICO_SUPERVISOR: Que os sinais variam, tem tanto ondas como planos. Tem questões que você vai perceber. As ondas, você vai conseguir passar bem ao paciente exemplos do que é complicado e o que é mais sutil, que é a confusão mental.
+
+MÉDICA: Vamos continuar observando, porque a doença renal é uma doença crônica com variáveis.
+
+MÉDICO_SUPERVISOR: Isso, vamos lá, vamos conversar um pouquinho sobre a medicação da senhora. A medicação, a princípio agora já toda. Ah, tem a memória de ver com isso? Era menor aqui, teve uma queda grande.
+
+MÉDICA: [INCOMPREENSÍVEL]
+
+MÉDICO_SUPERVISOR: A tua dor, como que está a tua dor? 
+
+PACIENTE: De vez em quando sinto dor.
+
+MÉDICO_SUPERVISOR: Eu acho que é bom você voltar, porque se não voltar, vai haver uma ruptura, vai explodir.
+
+MÉDICA: Certo, é melhor voltar mesmo. 
+
+MÉDICO_SUPERVISOR: Então, tá certo, pode voltar, sem problemas. São duas semanas. Não é bom esperar muito, porque daqui a pouco passa dois meses, você nem vê. E a gente tá preocupado, né? A gente ficou preocupado com a sua consulta, a diminuição da sua creatinina. Porque não é normal isso acontecer com um paciente com doença renal crônica. Quer dizer, é raro, não é normal. O normal é que a creatinina sempre vai aumentando, aumentando, né? E de repente você chega aí, então a gente tem que prestar atenção no seu caso, entender por que isso tá acontecendo. Vamos pedir exames, ver de novo os seus exames, pra gente ver o que que tá acontecendo, tá bom? Agora, daqui pra frente, a gente vai ver a sua evolução. E pra isso a gente precisa se organizar, porque tem exame que você fez faz tempo, tem alguns que já vão vencer. Precisa fazer de novo.
+
+PACIENTE: Tá bom.
+MÉDICA: Vamos examinar a senhora. E aí, a senhora tá com quantos anos?
+PACIENTE: Um ano e sete. 
+MÉDICA: Um ano e sete? Esqueceu o dado. Está com sete, né? Está com sete, né?
+PACIENTE: Cinco. 
+MÉDICA: É, já vi. A senhora está com setenta e seis é isso?
+PACIENTE: Setenta e seis.
+MÉDICA: Tá na...
+PACIENTE: Setenta e seis.
+MÉDICA: É, tá na carreira de setenta e seis. Setenta e seis. Já tá querendo ficar maior. 
+PACIENTE: Não, eu não quero. Eu não quero. Eu não quero. Eu não quero.
+MÉDICA: A senhora está com medo, é isso?
+PACIENTE: Ela tem medo que eu tô tomando mais remédios. 
+MÉDICA: A senhora tá querendo cortar algum remédio, é isso?
+PACIENTE: Eu quero ficar na dosagem adequada.
+MÉDICA: Tá. Ótimo, vamos analisar os resultados da doutora, tá?
+PACIENTE: Tá. 
+MÉDICA: Medir a pressão da senhora, pra saber como é que tá? A senhora tem costume de medir a pressão da senhora?
+PACIENTE: Mede, eu tenho um aparelho, mas então é, a gente mede. 
+MÉDICA: E a pressão pode cair? 
+PACIENTE: Agora medir, mas não precisa estar medindo, não. Não tem que estar medindo assim, não. 
+MÉDICA: Tá bom. Mas o pessoal tava falando que tava ficando boa.
+PACIENTE: Tava ficando boa.
+MÉDICA: Dava quanto, mais ou menos?
+PACIENTE: Não lembro não, né? 
+MÉDICA: Tá. Vou pegar aqui. Deixa eu pegar um aparelho aqui, pra poder ouvir. Eu acho que não tá aqui não. Vou buscar de novo. 
+ACOMPANHANTE: Deixa eu pegar aqui no meu local, pra medir a pressão da senhora, e depois a gente pega, tá? 
+MÉDICA: A senhora está fazendo dieta? O peso, tá sentindo que tá... Tá mantendo o peso, ou tá emagrecendo, engordando? 
+PACIENTE: Não, mas é porque dos dias que eu pesei... 
+MÉDICA: Tá, mas agora ganhou peso, né? 
+PACIENTE: Acho que agora eu ganhei peso. 
+MÉDICA: Então tá. 
+MÉDICO_SUPERVISOR: Boa tarde. 
+MÉDICA: Boa tarde. 
+MÉDICO_SUPERVISOR: Boa tarde. 
+MÉDICA: Boa tarde. 
+MÉDICO_SUPERVISOR: Tudo bem com você? 
+MÉDICA: Tudo bem, obrigada. 
+MÉDICO_SUPERVISOR: Como foi o atendimento? 
+MÉDICA: Fiz o exame de rotina, estou aguardando os resultados.
+MÉDICO_SUPERVISOR: Por que? 
+MÉDICA: Porque estou muito feliz com o progresso do paciente.
+MÉDICO_SUPERVISOR:Boa tarde Doutora, posso me juntar a vocês agora?
+MÉDICA: Claro, seja bem-vindo.
+MÉDICO_SUPERVISOR: Olá senhora, como está se sentindo hoje? Existe alguma queixa específica?
+PACIENTE: Eu estou muito cansada.
+MÉDICO_SUPERVISOR: Sim, acabei de participar da conversa. Acredito que pode ser necessário ajustar a medicação da pressão, por isso é importante que a senhora anote os valores da pressão em diferentes horários. Também vou prescrever um diurético, isso pode ajudá-la com o inchaço, mas pode aumentar a frequência urinária.
+PACIENTE: Está bem.
+MÉDICO_SUPERVISOR: Agora vou te ensinar um exercício de respiração profunda que pode ajudá-la com o cansaço. Você pode fazer isso três vezes ao dia, e é bom que faça quando estiver sentindo-se particularmente cansada.
+PACIENTE: Está bem, vou tentar.
+MÉDICO_SUPERVISOR: Muito bem, continue monitorando a pressão e te daremos uma ligação na próxima semana para ver como você está indo, principalmente com o cansaço. Qualquer coisa é só ligar para nós entre as consultas.
+PACIENTE: Obrigada.
+MÉDICO_SUPERVISOR: Por nada, estaremos sempre aqui para ajudá-la. Cuide-se bem!
+MÉDICO_SUPERVISOR: Tá, antes de a gente decidir sobre isso, posso fazer algumas perguntas? A senhora tá conseguindo se manter acordada durante o dia? Tem percebido que está mais cansada? É porque às vezes isso pode estar relacionado com o problema do sono.
+PACIENTE: Ah, sim. Eu durmo durante o dia.
+MÉDICO_SUPERVISOR: Durante o dia, isso é comum. Está se sentindo cansada também ou não?
+PACIENTE: Cansada eu tô. Meu corpo todo fica cansado, eu não tenho forças.
+MÉDICO_SUPERVISOR: Isso, talvez um remédio para dormir não seja a melhor solução. Você pode acabar se sentindo mais sonolenta durante o dia. O ideal é a gente tentar regular o seu sono sem medicamento, para começar. Vamos lá. Você pratica alguma atividade física?
+ACOMPANHANTE: Ela faz caminhada todos os dias.
+MÉDICO_SUPERVISOR: Isso é ótimo, mais a gente precisa tentar evitar o cochilo durante o dia. Vamos também tentar manter uma consistência no horário, tanto para dormir quanto para acordar. Tá bom? Vamos tentar isso. Se não melhorar, a gente revisa a situação.
+PACIENTE: Vou tentar, doutor. Mas, e quando eu não consigo dormir por causa da dor?
+MÉDICO_SUPERVISOR: Bom, aí nós falamos de outra coisa. Qual é a sua dor?
+MÉDICA: É, é um problema. E aí vou chamar o doutor Leandro, tá bom?
+PACIENTE: Tá bom. 
+MÉDICA: Pode ser que eu demore um pouquinho?
+PACIENTE: Não, não tem problema.
+MÉDICA: Ele vai passando nas salas e vai fechando as consultas. E aí eu vou acompanhando tudo com ele. Tá bom? Se eu demorar um pouquinho, eu não estou esquecendo a senhora, tá bom?
+PACIENTE: Tá bom.
+MÉDICA: É uma paciente de 76 anos. Ela é diabética de longa data, acompanhando aqui no Prevenir. A última consulta dela foi em setembro. Ela é portadora de outras comorbidades, além da diabetes, ela tem glaucoma e hipertensão. Atualmente faz uso de Acetazolamida, Insulina Glargine, Losartana, Atorvastatina, e o resto são medicamentos referentes à oftalmologia. Na última consulta também foi prescrito o bicarbonato, ela está tomando uma colher de chá todos os dias. Ela retornou hoje com os exames, né? 
+MÉDICO_SUPERVISOR: Tá
+MÉDICA: Tá com uma hemoglobina de 10.5, hematócrito de 36, plaqueta de 202 mil, alteração na glicemia, né? Mas sem proteinúria, sem natúria. Vitamina D de 15. Ela fazia uso previamente de 50 mil unidades mensais.
+MÉDICA: Parou há dois meses. E dessa anemia aqui também, na última consulta foi prescrito dose de ataque de Eritropoietina por 1, ela falou que fez uso, ela não se recorda muito bem, mas acho que foi entre 5 e 6 ampolas, que é 9. Aí o bicarbonato dela dessa vez, tá? Um bicarbonato de 18.3 com pH de 7.22, Hemoglobina glicada dela de 7.1, Creatinina de 1,74. Tá usando qual biológico? Nezina? Dlargina. A Nezina foi suspensa pela endocrinologista. Mas tem sempre uma endocrinologista. Tá, eu acho que eu coloquei suspensa. E a Dlargina, quantas unidades? Dlargina 10 na noite. E... deixa eu ver aqui. Bicarbonato de 0.1 da cinética do ferro. Ferro sérico 81, Ferritina 4,91, Saturação Transferrina 5. Agora? Uréia 108, Creatinina de 2 e 18. A creatinina dela está ficando sempre entre 2 e... 2.7. É. Máximo acho que foi 2.7. Isso, né? Então, acho que de complicações aqui. Ah, no exame físico. Exame físico dela. Tá com a pressão de 150 por 60. Ela falou que mede a pressão em casa com o aparelho daquele de punho, mas ela fala que as pessoas dizem que tá normal. Ela não sabe os valores, né? Aí eu não sei se ela está persistindo com hipertensão ou foi uma hipertensão de consulta. 
+MÉDICO_SUPERVISOR: Pelo amor de Deus, hein? Você poderia ver isso aí, mulher. 
+PACIENTE: O quê? É, ela mede a pressão. Quer aprender a medir a pressão, mãe? 
+ACOMPANHANTE: E ela é bem prática, gente. Ela tem esse cardiograma aí, 54 com ritmo regular.
+MÉDICA: Tem uma outra pendência dela também. Ela foi encaminhada, logo após ela chegou, para apresentação de métodos. Ela foi numa consulta logo antes do retorno dela aqui no mês de setembro. Só que estava uma... Estava meio confuso, porque parece que ela não tinha ido com quem ela tem. Ela não tinha ido com os familiares que passam a maior parte do tempo com ela. E aí tinha sido colocado aqui de convocar os familiares para poder fazer essa questão de representar melhor.
+ACOMPANHANTE: Veio o filho hoje, né?
+MÉDICA: Mas aí de qualquer forma pediram um ecodoppler. Mas eles vão discutir entre eles, na verdade.
+MÉDICO_SUPERVISOR: Ah, entendi. Isso, né? E aí, vocês tiveram alguma tendência ali sobre o que foi apresentado dos métodos de diálise? 
+ACOMPANHANTE: Nós preferimos aquela. A que faz em casa. 
+MÉDICO_SUPERVISOR: A que faz em casa, né? Tá bom. Beleza. Combinado. Então, o senhor vai estar aqui, se a gente for voltar, será pra já estar.
+MÉDICO_SUPERVISOR: Respondendo? Isso, isso aí. Não, tranquilo. A gente tá longe disso, tá? Assim, graças a Deus, inclusive o exame dela de hoje veio até um pouco melhor. Mas... É bom a gente ter essa decisão já tomada pra gente poder saber qual caminho seguir. Tá bom? Você viu que o dúbio daqui, ela vai pra uma bráquio. Bráquio, basílica, tudo mitrofe, né? Basílica e mitrofe, basílica e mitrofe, cefálica e mitrofe, cefálica e mitrofe. A escolha da... A radial não se fala. A escolha da GAV é até bom por isso. Sim. Tá? É... Ah, e aí? Essa é sua, eu não vou nem falar o que fazer, tá? 
+MÉDICO_SUPERVISOR: Olha, é... Controle da doença. Acho que talvez daria pra tentar avaliar melhor se essa questão da hipertensão tá controlada ou não. Hum... É... Otimizou o losartana, né? Tá em dose otimizada. Poderia fazer até um teste com amlodipina pra ver se controla um pouco mais, porque ela tá bem fora da meta, né? Com a sistólica. Com a sistólica. Não se complica na noite, né? 
+MÉDICA: Isso. 
+MÉDICO_SUPERVISOR: Beleza. É... Da diabetes. Acho que agora que tá acompanhando a endocrinologista, fica um pouco melhor. A glicada dela não tá ruim, né? Ela já tem complicações, mas já tá acompanhando. Hum... Da... Agora, a parte das complicações. Ela tem essa anemia, né? Que tem a hemoglobina de 10.5. Hum... A nossa meta é entre 10 e... 12. Bom, 10 e 12, né? Hum... Ainda não preenche critério pra ela pro coetina, né? 
+MÉDICA: Perfeito.
+MÉDICO_SUPERVISOR: Então, tem que fazer. Então, por enquanto estável, né? É... Será que ela não tem dose de manutenção de saccharata? Dose de manutenção de saccharata ela fez... Eu acho que deixa ali, né? Provavelmente 15 em 15, depois... 
+MÉDICA: Ah, tá. Saturação, 40%. 
+MÉDICO_SUPERVISOR: Ah, tá. Não faz, não. Saturação. Não, que 30 a gente suspende. 
+MÉDICA: Ah, entendi. Tá. Entendi.
+MÉDICO_SUPERVISOR: Beleza? Então suspende. No pronto, no dialítico também, né? 
+MÉDICA: No dialítico também. 
+MÉDICO_SUPERVISOR: Também. Também. E aí, é feitinho, ó. 500, não precisa passar nada. É, o dado é que ela tá bem no limite, né? Isso. Então, não deixa quebrar tudo isso. Então, não precisa deixar quebrar tudo isso. Tem a insulina do Liraglutida em casa ainda? 
+ACOMPANHANTE: Tem. 
+MÉDICO_SUPERVISOR: Tem. tem? Guardar. Não vai usar agora não, mas guarda que depois pode ser que precise, tá bom? Hum... O que mais? É... Acho que reforçar um pouquinho mais com a dieta, o potássio subir um pouquinho,
+MÉDICA: Pode ter sido pela Losartana, né? Pelo potássio. Tá 5.7. Mas olha só, tem vários fatores na dieta, tem acidose. 
+PACIENTE: Aham, tem acidose. 
+MÉDICA: Isso, tem esse luz da dona. Então assim, mas deixa que você fala. Então, acidose, o que nós vamos fazer? Acho que dá pra aumentar esse bicarbonato, tá? 
+PACIENTE: Não, aumenta pra você sentir isso. 
+MÉDICA: Ajuda a controlar esse potássio também. 
+MÉDICO_SUPERVISOR: Show de bola. 
+MÉDICA: Então, o que eu sei que conta aqui. Normalmente, qual é o valor que a gente precisa manter desse potássio de casa? 
+PACIENTE: Realmente não sei. 
+MÉDICA: A gente recomenda 3 ou 4 vezes. Evitando alimentos ricos em potássio já é interessante. É assim, entende? É. Eu acho que muito bem. Parece uma mudança de sistema. 
+MÉDICO_SUPERVISOR: Ainda está com anemia, né? A hemoglobina, que é o que a gente mede no sangue, especialmente em paciente com doença renal crônica, tem que ficar entre 10 e 12 g/dL. O senhor está mais próximo de 10, então está no limite. Mas o ferro que a gente mediu aqui, já está mais do que bom. Então, não vamos continuar com o ferro. Deixa guardado lá, até checar a data de vencimento e tudo mais. Se quiser doar para alguém, se estiver muito perto da data de vencimento, pode fazer alguma troca, né? Mas se não estiver perto da data de vencimento, deixa lá guardadinho, tá? Então, não vamos mexer nessa parte de ferro mais. Da parte, então, da diálise peritoneal, está decidida. A gente deixou o doutor aqui, de qualquer forma, é também uma segunda opção. Vamos aguardar agora o ultrassom abdominal. Para ver se tem alguma outra coisa que poderia impedir, por exemplo, de fazer diálise peritoneal.
+MÉDICO_SUPERVISOR: Olhando os exames, a senhora está com as taxas um pouco alteradas, mas estamos controlando. Isso é o que a gente precisa. Quanto a sua pergunta sobre o inchaço..., no momento está mais controlado, mas deve-se estar atento. A medicação Hidralazina é bem eficaz, mas é possível que cause inchaço nas pernas, como a médica já mencionou.
+MÉDICO_SUPERVISOR: Qual o diagnóstico?
+
+MÉDICA: Doença renal crônica estágio 3, com suspeita de nephropatia diabética.
+
+MÉDICO_SUPERVISOR: E quanto ao inchaço?
+
+MÉDICA: Avaliamos, mas fizemos os exames de urina e sangue. Foram verificados os valores de ureia e creatinina. Vamos aguardar esses resultados. 
+
+MÉDICO_SUPERVISOR: Certo, ótimo. E quanto aos medicamentos? 
+
+MÉDICA: Ela estava fazendo uso de Losartana e Furosemida, mas devido ao inchaço recomendamos aumentar a dose de Furosemida para 40 mg duas vezes ao dia e manter a Losartana.
+
+MÉDICO_SUPERVISOR: Ótimo, continuem com as medicações. Deem orientação para a paciente retornar imediatamente se o inchaço aumentar ou se apresentar falta de ar. E quanto à vitamina D?
+
+MÉDICA: Ela estava fazendo uso, mas tinha parado. Recomendamos reiniciar, devido ao nível baixo nos exames.
+
+MÉDICO_SUPERVISOR: Correto, muito importante manter essa suplementação para proteção óssea. Vamos orientá-la a tomar todos os medicamentos corretamente e seguir as orientações. A paciente precisa entender a importância disso.
+
+MÉDICA: Sim, conversamos bastante sobre tudo. Ela estava bem ciente dos sintomas da doença e dos tratamentos.
+
+MÉDICO_SUPERVISOR: Excelente! Pela minha experiência, quando o paciente entende a importância do tratamento, eles tendem a aderir melhor. 
+
+MÉDICA: Exatamente.
+
+MÉDICO_SUPERVISOR: Ótimo trabalho! Vamos marcar o retorno dela para daqui a 4 meses, após a realização do ultrassom que ainda falta. Ficam as minhas anotações aqui, este é o seguimento que temos que fazer. Você conseguiu os resultados do exame de sangue?
+
+MÉDICA: Sim, pegamos os exames. Ela vai tomar a vitamina D de acordo, um comprimido por semana durante dois meses e depois um por mês.
+
+ACOMPANHANTE: E quanto ao inchaço que ela sentiu?
+
+MÉDICO_SUPERVISOR: O inchaço pode ser devido a várias circunstâncias, por isso é importante que ela acompanhe e monitore em casa, qualquer alteração ela deve nos contatar ou retornar aqui.
+
+MÉDICO_SUPERVISOR: Agora, se permitirem, eu vou buscar o próximo paciente.
+
+ACOMPANHANTE: Obrigada, estava tudo bem explicado.
+
+MÉDICA: Obrigada pela supervisão.
+
+MÉDICO_SUPERVISOR: De nada, até logo.
+
+MÉDICA: Aqui estão as receitas. Esse aqui é o remédio para a senhora, okay? Os remédios que adicionamos, eu vou mostrar, okay? Vai continuar a mesma coisa. A insulina que a senhora está tomando, certo? E os outros remédios, a atorvastatina e tudo mais que a senhora usa. A losartana que é para a pressão vai continuar do mesmo jeito, de manhã e de noite.
+MÉDICA: E o bicarbonato? Bicarbonato. A gente incluiu aqui para a senhora tomar em vez de uma colher por dia, agora são duas por dia. E acrescentamos o amlodipino, que é outro remédio para a pressão, também à noite. 
+MÉDICA: E também adicionamos a vitamina D, certo? São 50 mil unidades, tomar uma vez por semana, durante oito semanas. E depois tomar uma vez no mês, até a senhora retornar aqui. Tudo bem? Esses são os dois remédios que adicionamos. Aqui está a receita, são duas vias. Uma fica para a senhora, a outra fica para o curso. Tudo bem? Se a senhora for pegar no curso. 
+MÉDICA: E esses aqui são os exames, okay? Depois que a senhora marcar o retorno na frente, já pode ir lá na... Consegue pegar a vitamina D no curso?
+ACOMPANHANTE: Consegue. 
+MÉDICA: Só a vitamina D é que não consegue pegar, tudo bem? E o bicarbonato, se não estou enganada, também não. Mas o restante consegue. Tudo bem? E este aqui, quando a senhora já tiver a data do retorno, é só ir lá na janelinha, aproveitar que o senhor já está aqui, e marcar a data para fazer os exames. E aí vocês já saem com tudo encaminhado. Tudo bem? 
+MÉDICA: Aqui temos exame de sangue e exame de urina. É, entre o terceiro e o quinto dia. Isso, é o que eu pedi. Aí na recepção que marca. Tudo bem? Tudo certo, pessoal? 
+ACOMPANHANTE: Tudo bem. 
+MÉDICA: Ficou alguma dúvida?
+PACIENTE: Não.
+MÉDICA: Tudo bem.

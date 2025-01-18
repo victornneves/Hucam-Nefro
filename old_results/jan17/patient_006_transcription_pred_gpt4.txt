@@ -1,0 +1,72 @@
+PACIENTE: O que aconteceu? Eu tinha consulta no dia 28 de dezembro, mas eu passei mal antes do dia 28.
+MÉDICA: Você tinha consulta no dia 28 de dezembro?
+PACIENTE: Dia de novembro. Era em novembro. Aí eu passei mal no dia 28, eu não lembro bem. Eu tive um mal-estar, quase tive uma crise de enxaqueca.
+MÉDICA: É mesmo?
+PACIENTE: É, eu não pude vir.
+MÉDICA: Isso foi em novembro?
+PACIENTE: Em novembro. Hoje, por exemplo, eu tinha consulta marcada. Aí, pensei, puxa, perdi a consulta, fiquei em casa. Depois disso, fui ligar, sei lá, acho que estão remarcando.
+ACOMPANHANTE: Que bom que remarcaram para o dia 27, né?
+MÉDICA: Isso melhorou?
+PACIENTE: Melhorou, graças a Deus. Eu esqueço muito das coisas.
+MÉDICA: O que você acha? Não foi nada sério?
+PACIENTE: Não foi nada sério. Melhorou, né? Agora está normal.
+MÉDICA: Passou bem o fim de ano?
+PACIENTE: Sim.
+MÉDICA: Que bom, graças a Deus. Só estou esperando aqui o...
+ACOMPANHANTE: Ele está bem, né? Está tranquilo, né?
+MÉDICA: Está bem. Estava até reparando que ele veio mais disposto hoje.
+ACOMPANHANTE: É mesmo? Está mais animado. Foi hoje que melhorou?
+PACIENTE: É, é. 
+MÉDICA: Mas temos que manter um [INCOMPREENSÍVEL].
+PACIENTE: Poderia me indicar um como esse?
+MÉDICA: Eu vou solicitar aqui para você, eu já percebi a necessidade. Por favor, aguarde um pouco enquanto faço a solicitação.
+PACIENTE: Não! Só não sei se ele vai aceitar!
+MÉDICA: Não se preocupe, é justamente para isso que estamos aqui. Porque aqui se busca sempre a melhor opção de tratamento para o paciente. Isso é certeza.
+ACOMPANHANTE: A questão é agendar e checar a disponibilidade, mas eu não tinha pensado nisso até agora...
+MÉDICA: Não adianta marcar a consulta sem disponibilidade de horário. Mas tem que se programar, gente. Tem que se programar. A disponibilidade de horários na localidade onde a gente mora, ela é limitada. Mas, infelizmente, não temos todas as especialidades aqui. Tem que ser na capital mesmo. Infelizmente, há lugares que a gente consegue consultas mas... 
+ACOMPANHANTE: É difícil, né? Tem que ter isso bem organizado.
+MÉDICA: Os médicos não atendem no laboratório local, infelizmente. Mas eu estou atendendo muitos pacientes aqui. 
+PACIENTE: Vou providenciar isso para adiantar.
+MÉDICO_SUPERVISOR: Bom, professor. Suas análises estão boas, tá? Graças a Deus. Sua função renal está estável. Assim, o senhor ficou com aquele [INCOMPREENSÍVEL] no rim, né? Por isso que o senhor está...
+PACIENTE: Mas está estável. Graças a Deus. Tá bom? Fez a endoscopia?
+MÉDICA: Sim, a endoscopia tem um tempo que... Quando aconteceu a consulta à endoscopia, eu fiz a endoscopia.
+PACIENTE: Por quê? Quando eu comecei a fazer os exames daqui, porque eu fiquei tendo a endoscopia. Mas na verdade até eu fui para o de lá e a endoscopia.
+MÉDICA: Mas já tem tempo, né?
+PACIENTE: Tem tempo. O médico daqui tinha solicitado mais, vamos lá. É um exame também que está aguardando até o que se pediu para marcar.
+MÉDICA: Para demandar que... Para demandar que... Mas agora não ligaram ainda. Eles não foram uma revolução. É uma revolução que... É lógico, eu digo que eu fiz, foi por meio daqui.
+PACIENTE: Porque quando eu estava internado eu fiz a endoscopia. É, mas tem tempo sim. Isso aí é... E lá na revolução também.
+MÉDICA: Na revolução, eu fiz outras.
+PACIENTE: Sim. Aí foi tudo, pediu que eu fiz outras.  É, mas tem tempo, senhor. Eu estou aqui, eu estou aqui.
+MÉDICA: Entrou na junção, eu não sei se me desculpe. Eu tenho que ir para uma consulta, eu tenho que ir para uma consulta.
+PACIENTE: Não tem tempo. Não, eu tenho que ir para uma consulta, eu tenho que ir para uma consulta, eu tenho que ir para a consulta. porque... porque ela tem que andar em casa.
+MÉDICA: Com a pressão alta, eu fiquei internado aqui aí fiz uma endoscopia foi, eu saí, aquela vez que eu passei mal acho que foi... aí o médico pediu uma endoscopia que eu fiz por aqui.
+ACOMPANHANTE: Eu faço consulta quando o senhor vai em agente novo?
+MÉDICA: Mas é endoscopia é endoscopia?
+PACIENTE: Não, não marcou mais não eu vi ali assim vim aqui, mostrei aí não colocou mais não marcou aquela consulta.
+ACOMPANHANTE: Marcou no gastroenterologista mas tem agora essa que faz, ele faz por baixo essa aqui faz endoscopia.
+MÉDICA: Não é só por baixo, como foi a endoscopia?
+PACIENTE: Não foi, foi um doutor é, foi um doutor que pediu é esse aí esse aí que agora não... o médico mas o senhor colocou lá, né? tavam esperando, né? a gente marcou foi em agosto ele falou, ah, demora talvez no agosto vamos ver mas aí ele olhou e disse que eu tinha que fazer isso aí também agora eu estou ele me levou para o telefone.
+MÉDICA: É como é mesmo, pelo momento está marcado, né? esse aí que o senhor tem que pegar.
+MÉDICA: Esse papel aí é para levar, tá bom? 
+ACOMPANHANTE: Qual? Ah, tá, me dá aí o papel de novo. 
+MÉDICA: O senhor está precisando de um medicamento? 
+ACOMPANHANTE: Não, não preciso. 
+MÉDICA: Eu vou fazer outra prescrição. O senhor está falando com o doutor Brázio? 
+ACOMPANHANTE: Estou. 
+MÉDICA: Me dá aí o que ele pediu, por favor. Agora vai dar certo. 
+MÉDICA: O senhor está falando com um ortopedista, tá? Você tem que entregar a solicitação lá no posto, não é? 
+ACOMPANHANTE: Isso aí, sim. 
+MÉDICA: Certo, mas eu tenho uma pergunta, o senhor já tomou estatinas? 
+ACOMPANHANTE: O que? 
+MÉDICA: O senhor já tomou remédio para colesterol, estatinas? 
+ACOMPANHANTE: Acho que não. 
+MÉDICA: Se eu conseguir esse remédio no posto, eu vou prescrever as estatinas para tomar à noite, tá? 
+ACOMPANHANTE: Entendi, eu tenho muita pressão, acho que é esse mesmo, né? Eu vou tomar 2 comprimidos à noite, é isso? Eu tomo alguns medicamentos para o colesterol à noite. Minha insulina é 6 de manhã e 4 antes do jantar. E o prazol, o senhor continua tomando? 
+PACIENTE: Continuo, eu estou tomando 40. 
+MÉDICA: Tá bem, o senhor está bem, tá? Pode viajar em paz, está bem? Cuidado com a alimentação, tá bom? O senhor está tomando os remédios direito. Quando o senhor vai voltar? 
+PACIENTE: Segunda-feira. 
+MÉDICA: Eu estarei aqui, então o senhor pode começar o remédio depois que voltar, tá? Deixe-me pegar o papel. Só um minutinho. Olha só, quando o senhor voltar da viagem o senhor começa o tratamento, tá bom? É, eu preciso imprimir uma coisa aqui. O senhor está lidando bem. O senhor vai voltar daqui a 4 meses, tá bom? Isso aqui, o senhor pode jogar fora, é só o resultado do exame que o senhor já fez, tá? Esse aqui é o pedido, então o senhor vai voltar daqui a 4 meses, tá bom? Vou marcar na recepção, tá? Aqui está a receita que fiz agora, tá? Quero que o senhor comece só depois da viagem, tá bom? É para o colesterol, mas o colesterol dele na verdade é bom, tá? Eu vou começar, porque para quem tem doença renal, vamos ter que controlar ainda mais.
+PACIENTE: Desculpe, doutora, eu não entendi. Esse efeito colateral é comum? E o que eu faço se sentir dor muscular?
+MÉDICA: Dor muscular é um efeito colateral conhecido deste medicamento. No entanto, ele não acontece com todos que o usam. Caso você note qualquer dor após iniciar o uso, interrompa o medicamento e me avise na próxima consulta. Faremos os ajustes necessários no tratamento. Quanto ao exame de sangue, ele é para verificar como o medicamento está afetando seu organismo. Se você se sentir mal, interrompa o uso e me avise.
+PACIENTE: Entendi. Vou seguir suas orientações. 
+MÉDICA: Ótimo. Retornaremos a este assunto na próxima consulta.
