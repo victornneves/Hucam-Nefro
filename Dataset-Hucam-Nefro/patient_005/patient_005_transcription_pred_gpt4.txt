@@ -18,35 +18,20 @@ ACOMPANHANTE: Ela não sabia, mas provavelmente ela já tinha antes. Ela trabalh
 MÉDICA: Ela imaginava, né. Foi percebendo... 
 ACOMPANHANTE: Exatamente. Tinham exames? 
 MÉDICA: Sim, e com o tratamento conseguimos reduzir a glicemia, que temos visto pelos exames. Eles nos mostram que o controle da glicose vem melhorando. Quando a senhora veio para o Prevenir, estava com uma taxa de função renal, que chamamos de TFG, de 26,2. E por isso classificada em G4, que são cinco estágios de insuficiência renal crônica. No G5, começamos a pensar em dialise. No G4 já ficamos de olho. Atualmente, a taxa se manteve em 26. Teve uma melhora, e agora já voltou a descer um pouco. Vamos falar agora sobre os eletrólitos. Estive observando nos exames recentes alguns distúrbios eletrolíticos, que são comuns em paciente com doença renal crônica, como alterações no fosfato. Também comparando com a anemia, para ver a relação do metabolismo ósseo, com a PTH...
-
 MÉDICO: É a falta de cálcio. Tem algum medicamento que ele possa passar pra... No caso, ela já tomou Aclasta, tem experiência com Aclasta. Você vai subir a postratina. Então, pode danificar mais a parte renal. E a outra razão de tanta dor, seria algo mais fisiológico pra vocês. Ela já se queixou bastante, mas ainda sente, coitada, mas é algo que ela pode suportar. E você sente dor aqui na região das costas? 
-
 ACOMPANHANTE: Esse aí, eu até vi uma infecção. 
-
 MÉDICO: Já teve algumas infecções? 
-
 ACOMPANHANTE: Sim. 
-
 MÉDICO: E a última? Foi em 2017, 2021? A última foi em 2021, ou teve alguma recente? 
-
 PACIENTE: Comecei esse ano. 
-
 MÉDICO: Você chegou a ser internada. Mas foi por uma infecção? 
-
 PACIENTE: Foi outra coisa. Foi, mas eu creio que foi uma cistite, não por causa do refluxo. 
-
 MÉDICO: Não chegou a confirmar a bactéria? 
-
 ACOMPANHANTE: Sim, ela está colonizada. Mas é assintomática. Se tiver sintoma, a gente trata. Tem condições que tratamos mesmo assintomática, carregando a bactéria. No caso dela, ela faz um controle disso. Isso aí, é o Dr. Falqueto que acompanha. Só pra eu entender, o que foi falado agora? 
-
 MÉDICO: Eu fiquei sabendo que você está com um problema no braço, mas não sei se já melhorou. Vamos dar uma olhada. Mas não está sentindo nada agora, certo? 
-
 ACOMPANHANTE: Ela não me relatou nada. 
-
 MÉDICO: Só para a gente continuar. Você disse que estava se sentindo mal cerca de um mês atrás. Você estava bastante debilitada. A gente já tem os seus exames, já solicitamos sorologias. Vimos aqui que ela tem imunidade adquirida, por conta do vírus Influenza, já levou a vacina. E também está em acompanhamento com a nutrição, para controlar a alimentação. 
-
 ACOMPANHANTE: Pois é, ela está fazendo jus ao ditado "chover no molhado", né? Ela ainda está tomando a vacina. 
-
 MÉDICO: É necessário que ela continue com a vacinação, porque a gente já sabe.
 MÉDICA: O que você costuma comer? Nós precisamos analisar isso.
 PACIENTE: É porque o médico disse que eu preciso evitar potássio, então preciso cozinhar.
@@ -219,39 +204,22 @@ MÉDICO: E foi a... Não. Não, eu tô. Você tem esse aumento de massa magra, �
 PACIENTE: Não, eu não tenho problema. Eu não tenho problema. Eu não tenho problema. Eu não tenho problema. Eu não tenho problema. Eu não tenho problema. Eu não tenho problema. Eu não tenho problema. 
 MÉDICO: Eu tô considerando aí um dos primeiros fatores da doença para mandar uma reanálise. Vamos lá. Vamos lá. Aí. Não tem problema nenhum. E a compensação? Beleza, pausando. Losartana, 50 de 12 em 12, metoprolol, 25 de 12 em 12, Anlodipino, 10 miligramas à noite. Furosemida, 40 de
 MÉDICA: Levotiroxina 50 pela manhã, 5 a 40 à noite. Carbonato de cálcio mais vitamina D junto com as refeições, né? Quanto é isso? 2, 2. 2, 2. E aí foi a questão das moléculas de ferro, 50 mil. Beleza. E aumentaram a dosagem do carbonato de cálcio.
-
 PACIENTE: Beleza, show.
-
 MÉDICA: Vamos ao exame físico. Pressão 12 por 8, 7, 10 por 70. Ritmo cardíaco regular, 54 pulsos. Deixa eu só ver se os resultados do exame estão planejados.
-
 PACIENTE: Sim, eu fiz os exames, graças a Deus, mas preciso comprar os medicamentos.
-
 MÉDICA: É mais ou menos. Eu tenho que ver o que eu vou fazer com o ferro. Ela está usando ferro. Agora... Tá, né? Deixa eu confirmar os valores do exame.
-
 PACIENTE: Sim, eu estou tomando o suplemento de ferro. O cálcio total é de 9,2. O TSH é normal. PTH de 72 com uma meta de 7,7. Chegou até mais de... Mais de 300.
-
 MÉDICO_SUPERVISOR: Você tem que ser... Você tirou o calcitriol da medicação. Mas ele chegou a usar calcitriol.
-
 PACIENTE: Eu devo continuar tomando o calcitriol?
-
 ACOMPANHANTE: Sim, ela falou com você sobre o calcitriol.
-
 MÉDICO_SUPERVISOR: Vamos prosseguir. Ver os outros exames que estão pendentes.
-
 ACOMPANHANTE: Ok...
-
 MÉDICO_SUPERVISOR: Sim, vamos ver os resultados da culturação. Tem todos os exames.
-
 PACIENTE: Ah! Tá. Deixa eu ver. PTH normal, meta 7,7. Agora está com blocks ad. já.
-
 MÉDICA: Entendi.
-
 MÉDICO_SUPERVISOR: AtCh basic... Ferro. Colesterol total, pateterol.
-
 MÉDICA: [INCOMPREENSÍVEL] 
-
 MÉDICO_SUPERVISOR: Vamos ver o que está acontecendo. Isso vai mudar alguma coisa. Que acontece com o colesterol... Eu vou anotar aqui.
-
 MÉDICA: Tá bom, eu vou anotar na minha. As duas de 5, fósforo de 5. Mas tá reduzindo também. Fósforo 5,1 aqui.
 MÉDICA: Eu tinha achado um pouco maior. Albumina de 4,4. Bic de 29, 1 globina de 11,3. Vitamina D de 39. Sódio com glicosúria. Sem proteína. Show!
 ACOMPANHANTE: E aí meu filho, o que que eu faço? 11,1, 11, esse exemplo.

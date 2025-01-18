@@ -40,15 +40,10 @@ MÉDICA: Não muito, na verdade. Cada pessoa tem sua forma de lidar com as emoç
 MÉDICA: Sei que você está passando por um momento novo e desafiador na sua vida.
 PACIENTE: Agradeço por sua compreensão e apoio, doutora.
 ACOMPANHANTE: Ele é muito responsável, sempre escolhe trabalhar com coisas que sabe fazer bem.
-
 MÉDICA: Isso é bom. Lembre-se de cuidar da sua saúde também. É importante tomar os remédios corretamente e acompanhar a pressão. Se sentir alguma coisa, ligue para o nosso número de contato. Ok?
-
 PACIENTE: OK, doutora, vou tentar lembrar de tudo isso.
-
 MÉDICA: Isso é importante. Procure ajuda se precisar. Estaremos aqui pra ajudar. Eles te deram esse resumo aqui com o que a gente falou?
-
 PACIENTE: Sim, está aqui.
-
 MÉDICA: OK, então até a próxima consulta. Qualquer dúvida, podem nos ligar. Para qualquer coisa, nós estamos aqui.
 PACIENTE: Eu trabalhei demais. Estou sempre atrás, correndo, mas sempre consigo alcançar algo. 
 ACOMPANHANTE: Ele é esforçado. Desde 1995 ele nunca para. Mesmo cansado, ele persiste. Tenho medo do que pode acontecer se ele continuar assim.
@@ -90,31 +85,18 @@ MÉDICA: Mas... Eu sei que ele toma, mas não deixe de tomar o café da manhã.
 PACIENTE: Mas eu acho que ele não sentiu fome, não sei. Eu também não senti fome hoje de manhã. Talvez foi isso. Podemos ver. Mas agora chegou a hora.
 ACOMPANHANTE: Pois é, mas agora chegou.
 MÉDICA: Este exame de circulação deve ser o Doppler dos membros inferiores. E sua creatinina, como está?
-
 PACIENTE: A enfermeira disse que estava um pouco alta, mas nada exagerado.
-
 MÉDICA: E você está tomando o Enalapril?
-
 PACIENTE: Sim, todo dia.
-
 MÉDICA: Ótimo. E a Hidralazina, você está tomando também?
-
 PACIENTE: Sim, estou tomando.
-
 MÉDICA: Muito bem. E o AAS, você está usando?
-
 PACIENTE: Sim.
-
 MÉDICA: Excelente. E a furosemida, como está o uso? 
-
 PACIENTE: Ah, estou tomando duas vezes ao dia.
-
 MÉDICA: E como você está se sentindo? 
-
 PACIENTE: Sem maiores problemas, doutora. 
-
 ACOMPANHANTE: Ela tem se sentido bem cansada ultimamente. Eu percebi isso.
-
 MÉDICA: Certo, obrigada por nos dizer isso. Vamos acompanhar de perto para ver se isso tem a ver com a medicação ou se é decorrente da própria doença renal.
 PACIENTE: Um exame de sangue. Na quinta... Deixa eu ver. Não, você vai fazer. 
 MÉDICA: E o outro. Eu saio no segundo turno. Os outros você deixa em um... Os outros eu saio no segundo turno. Os outros eu saio no segundo turno... 8h20, no dia 20, outras 9h e outras 1h20. Tudo dentro do dia. Imagina se você só olhou no seu boletim de tarde, hein? É pra vir cedo e ficar o dia inteiro. Não fazer uma molecagem assim. Igual eu fiz agora há pouco tempo, né? Há pouco tempo que eu fiz. 
@@ -148,46 +130,26 @@ PACIENTE: Sim, eu entendi.
 MÉDICA: Tem uma última coisa antes de terminarmos nosso dia. Nós conversamos sobre muitos problemas sérios e eu quero garantir que você não se sinta sobrecarregado com todas essas informações.
 MÉDICA: Lembre-se, nós estamos todos do seu lado. Não hesite em nos procurar se você precisar de qualquer coisa. Estamos aqui para ajudar.
 PACIENTE: Sim, eu entendo. Muito obrigado.
-
 MÉDICA: Graças a Deus, ainda. Eu não penso que eu nunca vou voltar no que eu já vi. Não, não. 
-
 ACOMPANHANTE: Ela não está falando disso. Você sair e se distrair. Não é que é porque você vai sair pra beber, nem pra fumar. Não é isso que ela quer dizer. Vou cansar agora. Você sair distrai a mente, né? Bater um papo com outras pessoas. Você está entendendo?
-
 PACIENTE: Quando eu bato um papo, eu vou gastar daqui.
-
 ACOMPANHANTE: Sim, meu filho, mas não é isso não. É isso que ela quer dizer, entendeu? Eu sair, passear. Você acha que ele está meio...
-
 PACIENTE: É, passear. 
-
 ACOMPANHANTE: Não, eu falo com ele, entendeu? Mas ele não tem vontade. É isso aí. Então...
-
 MÉDICA: É, mas assim, o que dá problema no rim, é claro que beber água é bom, sal, mais sal, ficar diabético, beber demais, um costume faz bem e mal, é isso aí. Ficar obeso, isso aí é o pior do mundo, é péssimo.
-
 PACIENTE: É, né? A pessoa se preocupa em limpar a cara e não cuidar do resto.
-
 MÉDICA: É. Olha aqui. Exatamente. Eu fiz várias modificações aqui, para o seu genético, pra gente fazer um ajuste pra você. Tá bom? Ó, vamos lá. AAS é manter depois do almoço, está bom? Alopurinol do mesmo jeito, rosuvastatina, insulina, alendronato, dois comprimidos são suficientes, mantém tudo igual. 
-
 MÉDICA: O que mudou? O losartan vai ser um por dia só, um pela manhã, não vai ser mais dois ao dia, tá? É muito importante que você reduza o uso de losartan nesse momento, tá? Compreendeu? Para sua pressão não subir, eu vou acrescentar hidralazina. 
-
 MÉDICA: Hidralazina é comprimido, não é caro, é mais barato, tá? Hidralazina é o que se usa, 50mg pela manhã e 1 à noite, pra ajudar a controlar a sua pressão. E o ciprofibrato, uma noite, por 3 meses. Está bom? Daqui a 3 meses, a gente vai querer fazer esse exame, pra ver se você está bem. Anotou tudo?
-
 MÉDICA: Vamos lá, isso é tudo fácil. Estranho, né? Ainda que eu saiba explicar. Vou dar o tempo necessário. Deixa eu ver se vou precisar de mais algum exame. Isso aqui ó. O medicamento Alprazolam, 1 comprimido pela manhã, são 60 comprimidos no total. Se tudo der certo, se
 MÉDICA: Se o medicamento estiver acabando e não der o tempo dele voltar aqui, vá no posto, pegue no posto com o médico, tá bom? Ele pode fazer, é só levar a cópia pra ele ver. Tá bom? Todo dia de manhã, toma um comprimido, né? Então, é esse que vai funcionar. Todo dia de manhã. Então, faz o horário, pode ser antes do café, tá? E esse aí, é um outro exame, [PACIENTE], que eu estou te pedindo um Doppler, mesma coisa, eu estou fazendo igual eu fiz aqui do pescoço, pedi do pescoço, é da barriga, da aorta, da artéria espacial, que é isso na barriga. Tá bom? Pra gente fazer um screening total seu. Você quer um áudio? Eu faço um áudio pra você.
-
 MÉDICA: Agora, bota tudo de bom que você pode ter aí. Me ajuda aqui, se você foi diagnosticado, hipertensão e diabetes desde 2013, né? Aí descobriu tudo isso, quando ele teve problema de pulmão. Qual que é o problema de pulmão, hein?
-
 PACIENTE: Tumor de hipófise.
-
 MÉDICA: Descobriu essas coisas todas. Aí, pelo pulmão, como é o nome do negócio aqui? 
-
 PACIENTE: Prótese.
-
 MÉDICA: Tomou prótese. Tá. Eu ouvi dizer que o diabetes é o mesmo horário, tá, vocês estão controlando, estão tratando. O que que tem de novo com diabetes? Diagnosticado em 2013, né? Descobriu durante o episódio de tuberculose pulmonar que foi tratado, né? Tá. Doença renal crônica. Doença renal crônica. Diabetes, tá? Muito bem. Teve problema em carótida, né? Carótidas. Carótidas. Tiraram todas.
-
 PACIENTE: Eu vou morrer?
-
 MÉDICA: Não, precisa ter cuidado, né? Eu acho que é bom. É possível. Eu passei três vezes por lá. Tá com anemia também, pode ser que isso... As anemias... estejam influenciando. Anemia, né? Nossa, anemia, anemia. Quase que uma dor já desce aí atrás. Nossa, eu durmo muito.
-
 MÉDICA: Eu esqueci de uma coisa que você precisa. Sulfato ferroso. E vou começar com um outro. Madrugada toma esse cálcio. Pega esse aqui que tem remédio. Tá? E que a gente encaminhou pra cá? Vem pra cá.
 MÉDICA: Prá eu entender, por que acha que não consegue trabalhar? 
 PACIENTE: Eu me canso muito, eu me canso.

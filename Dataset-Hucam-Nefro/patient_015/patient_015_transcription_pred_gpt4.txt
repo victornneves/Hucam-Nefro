@@ -42,9 +42,7 @@ PACIENTE: Você disse que faria um procedimento aqui no braço, está tudo bem p
 MÉDICA: Sim. Estamos seguindo o protocolo para o procedimento, certo? 
 PACIENTE: Sim, está indo bem, doutora.
 MÉDICA: Muito bem, então continue com esse esquema de medicamentos. Vamos agendar um exame para verificar essa questão da sua visão, ok?
-
 PACIENTE: Ok, obrigado.
-
 MÉDICA: E qualquer dúvida, você pode ligar para nós. Não se esqueça disso.
 MÉDICA: Miligramas de manhã e dois à noite. É o 0.1, de cinco a dois comprimidos ou o 0.2, segundo você?
 PACIENTE: Então, eu estava tomando 0.1. Só? Está ficando tudo muito caro, né? Aí eu fui e achei de 0.15. Aí estou comprando uma caixa de 0.15 e uma caixa de 0.1, ambos ao meio. Um comprimido e meio pela manhã e um e meio à tarde.
