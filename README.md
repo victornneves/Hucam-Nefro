@@ -50,3 +50,63 @@ relatorio_consulta_ambulatorial_nefrologia:
         - Example: "Patient has been briefed on hemodialysis and is awaiting arteriovenous fistula placement."
 
 ```
+
+
+```yaml
+Stages of CKD:
+    Stage 1:
+        Description: Kidney damage with normal kidney function
+        eGFR (mL/min/1.73 m²): ≥90
+        Key Features:
+            - Kidney damage evidenced by markers (e.g., albuminuria, imaging abnormalities, or biopsy findings).
+            - No significant loss of kidney function.
+
+    Stage 2:
+        Description: Kidney damage with mildly reduced kidney function
+        eGFR (mL/min/1.73 m²): 60–89
+        Key Features:
+            - Evidence of kidney damage as in Stage 1.
+            - Slight decrease in filtration capacity.
+            - Often asymptomatic.
+
+    Stage 3a:
+        Description: Mildly to moderately reduced kidney function
+        eGFR (mL/min/1.73 m²): 45–59
+        Key Features:
+            - May start showing early symptoms like fatigue or mild hypertension.
+            - Increased risk of complications (e.g., anemia, bone disorders).
+
+    Stage 3b:
+        Description: Moderately to severely reduced kidney function
+        eGFR (mL/min/1.73 m²): 30–44
+        Key Features:
+            - Clearer signs of kidney dysfunction.
+            - Metabolic changes (e.g., mild acidosis or electrolyte imbalances) may appear.
+        
+    Stage 4:
+        Description: Severely reduced kidney function
+        eGFR (mL/min/1.73 m²): 15–29
+        Key Features:
+            - Severe decline in kidney filtration.
+            - Symptoms like fatigue, swelling, hypertension, and laboratory abnormalities become pronounced.
+            - Preparation for renal replacement therapy (dialysis or transplant) often begins.
+
+    Stage 5:
+        Description: Kidney failure (End-Stage Renal Disease - ESRD)
+        eGFR (mL/min/1.73 m²): <15 or on dialysis
+        Key Features:
+            - Loss of nearly all kidney function.
+            - Dialysis or transplantation typically required to sustain life.
+            - Symptoms can include severe fluid retention, uremia, and other systemic complications.
+
+Albuminuria Categories:
+    A1:
+        ACR: <30 mg/g
+        Albuminuria Level: Normal to mildly increased
+    A2:
+        ACR: 30–300 mg/g
+        Albuminuria Level: Moderately increased (microalbuminuria)
+    A3:
+        ACR: '>300 mg/g'
+        Albuminuria Level: Severely increased (macroalbuminuria)
+```

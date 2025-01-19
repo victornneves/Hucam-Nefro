@@ -7,17 +7,22 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Também apresenta câimbras.
     - Sintomas depressivos (choro fácil, apatia).
   hipoteses_diagnosticas:
-    estagio_drc: 4 A3.
+    # estagio_drc: 4 A3.
+      estagio_drc:
+        grau: 4
+        albuminuria: 3
+        funcao_rim_atual: 21 ml/min/1,73m²
+      etiologia_doença_de_base: Doença renal do diabetes.
+      admissao: 
+        data: 25/07/24
+        CLCR_admissao: 25 ml/min/1,73m²
   historico_patologico_pregresso:
-    - Etiologia/Doença de Base: Doença renal do diabetes.
-    - Admissão Prevenir em: 25/07/24.
-    - CLCR Admissão: 25 ml/min/1,73m².
     - HAS e DM Tipo 2 diagnosticados em 2013.
     - Hipotireoidismo.
-    - Ex-tabagista: Fumou por 29 anos - 2 maços/dia.
+    - Ex-tabagista, Fumou por 29 anos - 2 maços/dia.
     - Ex-etilista.
     - Tratou tuberculose pulmonar prévia (2013).
-    - Cirurgias prévias: Tumor hipofisário (2019).
+    - Cirurgias prévias= Tumor hipofisário (2019).
     - Nega AVC e IAM.
     - Complicações DRC:
       - Anemia: Presente.
@@ -47,9 +52,9 @@ relatorio_consulta_ambulatorial_nefrologia:
   exame_fisico:
     - PA: 160x80 mmHg.
     - FC: 60 bpm.
-    - RCR 2T.
-    - MVUA sem RA.
-    - Abdome/MMII sem alterações.
+    - RCR: 2T.
+    - MVUA: sem RA.
+    - Abdome/MMII: sem alterações.
   conduta:
     - Encaminho à psicóloga do Prevenir.
     - Início de Citalopram 20 mg/dia.

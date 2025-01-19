@@ -15,13 +15,9 @@ PACIENTE: Porque quando ouve, não dá pra ver a pressão flutuando, por quê?
 MÉDICA: Não sei. 
 PACIENTE: [INCOMPREENSÍVEL]. Você pode me dizer? [INCOMPREENSÍVEL]. Você acha que podemos encaminhar isso para exames? [INCOMPREENSÍVEL]. E proporcional. Obrigada. Esse exame está meio estranho. Não sei porque a gente não está vendo. Está vendo com ele. Respira só um pouquinho porque esse sistema está lento pra caramba. Eu fico tão lento que eu perdi o
 MÉDICA: Você veio na consulta na semana passada? No dia de hoje já parou. Então, naquele dia o sistema não estava lento. Naquele dia parou. Hoje, só está lento para acessar os exames. Se eu preciso ver os exames, eu tenho que ficar esperando o tempo. Normalmente é rápido. Mas está demorando mais. Mas assim, né? Mas aquele dia parou tudo. Depois que ele foi reiniciado, voltou. Passou umas 9h30 e voltou. 9h00 mais ou menos. Aí eu consegui atender alguns pacientes. Teve um outro que chegou mais tarde. Mas teve uns 5 pacientes que foram embora porque não tinha previsão do retorno.
-
 PACIENTE: É, é chato mesmo. A gente, hoje em dia, depende de tudo, né? É. Antigamente, não. Não tinha esse problema. Eu, quando comecei o tratamento no Santa Rita, nem celular, o celular começou aparecendo, mas era raro. É. É, até aqueles... E nem todo mundo tinha acesso. 
-
 MÉDICA: Tinha uma emergência, ligava o telefone fixo, entendeu? É isso aí. E não era muito pesado fazer a ligação, não, né? É, a gente que é mais velha, pegou outra época. Era tudo manual. Foi em 2005. Não tinha... Esses aplicativos de celular não estavam nem em cogitação, pelo menos pelo pessoal comum. 
-
 PACIENTE: Se quer agendar uma consulta, não tem aplicativo. Então, a gente... vivemos uma geração totalmente diferente. Eu... Eu comecei o tratamento em 97, no hospital Santa Rita. Estive lá agora... no ano passado, eu já estava muito doente. Já estava tendo que ir para outro hospital.
-
 MÉDICA: Aí tudo se transformou, está totalmente diferente. É. Só que aí virou assim, né? Foi evoluindo. Eu não sei como é que era a noite, mas... Aí fizeram, acho que... quatro... ou cinco prédios novos de lá pra cá. Inclusive um ambulatório. O ambulatório... era terrível, né? Era terrível. Era um lugar... Não tinha sala de espera adequada, pra não entrar em contato com o chão. Onde ficava o corredor? O corredor era grande, tinha as portas todas embaixo, tinha reboco nas paredes, tinha uns dois ou três balcões.
 MÉDICA: Quando ela faz seus exames, sua creatinina varia sempre de 2.1 e 2.4, em média. Tá? Quando a gente olha desde 2021, tinha 2.4, em algum momento caiu pra... 2.3, chegou a 2.2, chegou a 2.3, chegou a 2.4, chegou a 2.5, chegou a 2.6, chegou a 2.7... voltou para 2.3, tá? Então tá estável, tá? Está totalmente estável, graças a Deus, tá bom?
 PACIENTE: E o... o 3.6? Que seria depois de chegar a 2.7?
@@ -41,7 +37,6 @@ MÉDICA: Sim, é isso aí. Converse com o seu município para ver se tem, pelo m
 PACIENTE: É, eu entendo, eu vou dar uma olhada. Vou ver se consigo me organizar para poder tomar a vacina. 
 MÉDICA: Isso mesmo, se não conseguir se organizar, por qualquer motivo, venha falar comigo. A gente pode ver o que faz, OK?
 PACIENTE: Certo, doutora. Obrigado. 
-
 MÉDICA: A rotina de vacinação que você está tomando, entendeu? Eu vou tentar ver lá.
 PACIENTE: Sim, para mim... não, não é nada. Não tem nada, não é essa alteração que eu tive ali no dia 27 de novembro. Isso de tempos em tempos acontece comigo.
 MÉDICA: Pode ser simplesmente um quadro viral. Você teve uma dor forte, mas também teve alívio, certo?

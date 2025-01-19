@@ -5,7 +5,12 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Paciente com relato de internação recente por provável EAP hipertensivo.
     - Vacinação Pendente influenza 2024. Hep B 18/07/24 - 16/09/24 - 3º dose em jan/24.
   hipoteses_diagnosticas:
-    estagio_drc: G4aA3
+    # estagio_drc: G4aA3
+    estagio_drc:
+      grau: 5
+      albuminuria: 2
+      funcao_rim_atual: 
+        valor: 10 ml/min/1.73m²
     etiologia_doença_de_base: Nefropatia diabética.
     admissao:
       data: 13/06/2024

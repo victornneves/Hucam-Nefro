@@ -13,7 +13,6 @@ Não inclua explicações ou informações adicionais, apenas o diálogo.
     Exemplo:
         Transcrição: "Zatão" → Correção: "Losartana".
         Transcrição: "amadão" → Correção: "Tramadol".
-    Caso nenhuma inferência plausível seja possível, utilize o token "[INCOMPREENSÍVEL]" como último recurso.
 
 2.2 - Coerência na Interação:
     Verifique se as falas fazem sentido com o papel do participante:
@@ -31,7 +30,6 @@ Não inclua explicações ou informações adicionais, apenas o diálogo.
     Textos em outras linguas são ruído.
     Identifique e remova trechos "lixo" (ex.: combinações de caracteres incoerentes, palavras sem sentido).
         Se possível, substitua por inferências baseadas no contexto.
-        Se o contexto não permitir inferências, use [INCOMPREENSÍVEL]
 
 2.5 - Preservação do Conteúdo e Estilo:
     O texto será comparado palavra por palavra com o original (ground truth).

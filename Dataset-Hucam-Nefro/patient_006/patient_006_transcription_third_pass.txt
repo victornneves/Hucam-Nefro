@@ -1,23 +1,13 @@
 MÉDICA: você precisa trazer o resultado, porque isso também precisa ser visto.
-
 PACIENTE: Ah, eu não sabia. Eu vou trazer na próxima, prometo.
-
 MÉDICA: Maravilha! E como está se sentindo hoje?
-
 PACIENTE: Ah, eu estou me sentindo bem.
-
 MÉDICA: Ótimo. Continue a tomar os medicamentos e siga as recomendações, viu? Precisamos manter a função renal estável. 
-
 ACOMPANHANTE: Claro, doutora. Nós vamos seguir todas as orientações.
-
 MÉDICA: Vocês estão fazendo um ótimo trabalho! Nos vemos no próximo mês então? 
-
 PACIENTE: Claro, no próximo mês estaremos aqui. Obrigado, doutora. 
-
 MÉDICA: De nada. Se precisar, é só telefonar. Até a próxima!
-
 ACOMPANHANTE: Até a próxima, doutora. Boa tarde!
-
 MÉDICA: Boa tarde!
 MÉDICA: Eu realizei a endoscopia. Por quê? Quando iniciei os exames daqui.
 PACIENTE: Foi porque tinha que fazer a endoscopia. Mas naquela época eu fui para o hospital e fiz a endoscopia. Mas já tem tempo, né? O médico daqui tinha solicitado mais, vamos lá. É um exame também que está aguardando até que seja marcado.

@@ -30,31 +30,18 @@ MÉDICA: Qual é o remédio?
 PACIENTE: Aqui. É aquele que tem que usar continuamente. Esse mesmo. Eu comecei o tratamento, mas não dei continuidade, foi isso? 
 MÉDICA: Sim. Acabei perdendo o prazo de validade. Tinha planejado dar entrada no pedido, pois tem validade de dois anos. Devido a isso, tentei fazer um novo exame. Mas no final, acabei comprando o remédio que encontrei.
 MÉDICA: Você comprou o medicamento que é administrado por seringa? É o mesmo que eu te receitei?
-
 PACIENTE: Sim, comprei. Um que é de seringa, quatro mil UI. Não consegui achar a versão subcutânea nas farmácias em que fui. 
-
 MÉDICA: Mas é o mesmo medicamento, apenas a forma de administração que muda. Você sabe administrar a injeção subcutânea?
-
 PACIENTE: Não, não sei.
-
 MÉDICA: Vou te ensinar, é simples. É como uma injeção na pele, igual à insulina.
-
 PACIENTE: Ah tá. E a outra versão que eu não encontrei?
-
 MÉDICA: Também é subcutânea. Os dois são o mesmo medicamento, só muda a forma de aplicação. Eu vou te passar um telefone para você tirar dúvidas e você pode mandar uma foto da seringa para confirmar se é a certa.
-
 PACIENTE: Ok.
-
 MÉDICA: E sobre os sintomas respiratórios, melhoraram com o medicamento que eu passei?
-
 PACIENTE: Sim, tomei e comecei a melhorar. As dores diminuíram bastante.
-
 MÉDICA: Ótimo. E você tem dormido bem? Sente enjoo?
-
 PACIENTE: Durmo bem, mas sinto fome demais.
-
 MÉDICA: Que bom que está com apetite. Sobre a colonoscopia, você pode fazer sim, mas é melhor esperar o efeito do medicamento. E não precisa ter receio do exame, não é algo complicado.
-
 PACIENTE: Entendi. Obrigada pelas orientações.
 MÉDICA: Foi chamada para fazer? 
 PACIENTE: Não, é porque a minha família não tem histórico de câncer, o médico sempre pediu para eu fazer. 

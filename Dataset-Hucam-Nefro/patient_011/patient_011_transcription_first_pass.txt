@@ -30,33 +30,19 @@ MÉDICA: Como é o remédio?
 PACIENTE: Espera aí. É esse aqui. É aquele remédio que tem que ficar ali. É o remédio. É, eu comecei para você, você não deu entrada? Foi isso? 
 PACIENTE: Foi. Eu perdi o prazo. Tinha que dar entrada lá, porque é dois anos. Eu perdi porque é dois anos. Eu tentei esse exame novo. Mas aí eu comprei. Só que eu achei.
 MÉDICA: Você comprou o medicamento que é administrado por seringa? É o mesmo que eu te receitei?
-
 PACIENTE: Sim, comprei. Um que é de seringa, quatro mil UI. Não consegui achar a versão subcutânea nas farmácias em que fui. 
-
 MÉDICA: Mas é o mesmo medicamento, apenas a forma de administração que muda. Você sabe administrar a injeção subcutânea?
-
 PACIENTE: Não, não sei.
-
 MÉDICA: Vou te ensinar, é simples. É como uma injeção na pele, igual à insulina.
-
 PACIENTE: Ah tá. E a outra versão que eu não encontrei?
-
 MÉDICA: Também é subcutânea. Os dois são o mesmo medicamento, só muda a forma de aplicação. Eu vou te passar um telefone para você tirar dúvidas e você pode mandar uma foto da seringa para confirmar se é a certa.
-
 PACIENTE: Ok.
-
 MÉDICA: E sobre os sintomas respiratórios, melhoraram com o medicamento que eu passei?
-
 PACIENTE: Sim, tomei e comecei a melhorar. As dores diminuíram bastante.
-
 MÉDICA: Ótimo. E você tem dormido bem? Sente enjoo?
-
 PACIENTE: Durmo bem, mas sinto fome demais.
-
 MÉDICA: Que bom que está com apetite. Sobre a colonoscopia, você pode fazer sim, mas é melhor esperar o efeito do medicamento. E não precisa ter receio do exame, não é algo complicado.
-
 PACIENTE: Entendi. Obrigada pelas orientações.
-
 MÉDICA: Foi chamada para fazer? 
 PACIENTE: Não, é porque a minha família não faz o número de câncer, o médico sempre pediu para eu fazer. 
 MÉDICA: Espera só, você estar com vaga incluída. Estamos com vaga incluída de diário, você pode fazer. Porque o meu medo é você fazer, desidratar, descompensar o rim e ter que entrar de urgência. Então vamos segurar mais uns dois meses, três meses, aí você pode correr atrás e fazer, tá? Vamos lá então. Então, deixa eu ver aqui, ó. Tomou a terceira dose da sena? 

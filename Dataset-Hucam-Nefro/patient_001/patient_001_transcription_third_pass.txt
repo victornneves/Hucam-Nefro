@@ -24,41 +24,23 @@ MÉDICO: A insulina regular deve ser tomada imediatamente antes da alimentação
 ACOMPANHANTE: Entendi, então as duas têm que ser tomadas antes do café da manhã com meia hora de antecedência. Mas ele não mede a glicose antes de tomar. Ontem ele ia tomar e a glicose deu 50, depois 187 e depois caiu para 54. Acredito que tenha caído pois ele não comeu após tomar a insulina.
 MÉDICO: Isso mesmo. A insulina regular é uma insulina de ação rápida. Portanto, é necessário comer após tomar a insulina regular.
 MÉDICO: Ela é insulina de ação rápida então assim, ela vai ter ação justamente para você não ter hiperglicemia depois que você come. Então, tomar insulina regular e não comer vai ocasionar problemas porque ela vai reduzir muito a glicose. Então, quando você for almoçar, o alimento vai ser absorvido como glicose e a glicose vai subir, então tem que usar insulina regular para não subir tanto, entendeu? Só que se você não come a glicose não sobe e se você usa insulina regular mesmo assim a glicose vai baixar, então é por isso que você teve hipoglicemia porque você tomou insulina regular e não comeu, entendeu?
-
 PACIENTE: Sim, eu tomei insulina de manhã e comi, e depois não comi mais até as 3 horas da tarde, esse é o horário do meu almoço?
-
 MÉDICO: Sim, é para almoçar às 3 horas da tarde.
-
 PACIENTE: E se passar das 4 horas da tarde?
-
 MÉDICO: E aí não é bom.
-
 ACOMPANHANTE: E o horário de almoço dele é de 11h30 até 12h.
-
 MÉDICO: E por que o senhor não comeu?
-
 PACIENTE: Porque eu fiquei deitado, não estava assistindo televisão, não senti fome. Eu estava cozinhando o almoço quando comecei a passar mal, tive confusão mental, comecei a ver tudo branco.
-
 MÉDICO: Isso não é bom, não, não.
-
 PACIENTE: Então, eu liguei para o vizinho e comecei a conversar, depois tive um sonho estranho de que estava conversando com um jornalista em São Paulo, mas prefiro não falar sobre isso. 
-
 MÉDICO: Deveria ter sonhado que você ganhou na Mega Sena e estava de férias nas Maldivas. 
-
 PACIENTE: Isto seria ótimo. Mas na realidade, eu desmaiei.
-
 MÉDICO: Precisamos cuidar disso. 
-
 PACIENTE: Sim, imagina se isso acontece quando eu estiver de férias? Eu estava de férias, mas não foram essas férias que planejei.
-
 MÉDICO: Entendi. O relatório médico que você trouxe é seu mesmo?
-
 PACIENTE: Sim, eu fui atendido pelo Dr. Nívia durante suas férias. Eu tive duas consultas com ela.
-
 MÉDICO: Vejo, então deixe-me dar uma olhada nisso. 
-
 ACOMPANHANTE: Você poderia aferir a pressão dele, por favor?
-
 MÉDICO: Coloque o braço aqui, por favor. Me conta uma coisa, o senhor está fazendo algum tratamento...
 MÉDICO: Você está fazendo xixi tranquilo?
 PACIENTE: Sim, tudo certinho, xixi normal, cocô normal.

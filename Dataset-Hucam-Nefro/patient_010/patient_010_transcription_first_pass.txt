@@ -1,11 +1,31 @@
-MÉDICA: É, eu posso abrir uma parte que tirar, hein?
-PACIENTE: Dê.
-MÉDICA: Olha só. Espera aqui, vou só tirar o álcool. Esse aqui é a sua receita, tá? Normal. Aqui dá uma creatina. Esse aqui é o travador do celular. Esse aqui é o exame para a próxima consulta. Então, você vai marcar aqui para março, depois você vai lá no laboratório marcar esse aqui. Tá bom? 
+MÉDICA: Você precisa do lado do... do canal do outro, hein? 
+PACIENTE: Uhum. Tá.
+MÉDICA: Tá. Eu peço a ver no que precisa tirar, né? 
+PACIENTE: É. Sim.
+MÉDICA: Olha só. Peraí que eu só vou tirar. Esse aqui é a sua receita. Tá? Normal. Aqui tem uma creatina. Esse aqui é o resultado do exame celular. Esse aqui é o exame para a próxima consulta. Você vai marcar aqui pra março. Depois você vai lá no laboratório e vai marcar esse aqui. Tá. Tá bom? 
 PACIENTE: Mas aí...
-MÉDICA: Não, esse aqui eu vou tirar ainda. Espera aí, só um minutinho. Eu dei 120... Ah, não posso colocar 120. A gente já está 90. Esse é de 12 em 12? Esse é de 8 em 8? A gente não aceita a outra forma. 
-PACIENTE: Ah. 
-MÉDICA: Ó, tá. Perfeito, ó trouxe tudo aqui. Esse aqui é do Cedrola, tá? 
-PACIENTE: Aham. 
-MÉDICA: Esse aqui é do Tramadol. Pronto, que é o que tá liberado. Aí você marca lá e depois já marca no laboratório. Tá bom. Tá bom ou não bem?
+MÉDICA: Não, esse aqui eu vou tirar ainda. Peraí, só um minutinho. Eu dei 120. Ah, não posso colocar 120. Já tá 90. Já tá né? É porque 7 e 12 é 12. Se é de 8 em 8... A gente não vai aceitar? Tem que tirar da forma.
+PACIENTE: Fala, vai até o terminal, esta API né? 
+MÉDICA: Vai lá. Vamos ao terminal. Peraí. Lembre-se de colocar o DANF comigo antes de ir.
+PACIENTE: Pra jogar um pouco. Não, né? E depois que está pronta... É, enfim.
+MÉDICA: Jogo ruim, né? 
+PACIENTE:  Então, eu vou lá. Eu vou dan- Ah, não sei.
+MÉDICA: Que ele fica, né? É ele fica lá. Vamos resolver.
+PACIENTE: Amém. Amém. Amém. A dor é aquela mesma que acabou na entrada anterior.
+MÉDICA: Não, eu sei, mas é porque não é a folha, é o código. Porque tem vários códigos para... Dois, acho que é a certa. É essa, não sei se vocês vão aceitar. Você toma isso aí para que dor, exatamente? 
+PACIENTE: Acontece muito com dor nos ossos. É.
+MÉDICA: É, agora, olha.
+PACIENTE: Olha, o peito. Olha. Olha. O outro. O outro. Olha. Vai. Vai. Vou ler. Vai. Vou ler. A dor é aquela mesma que acabou. 
+MÉDICA: Não, eu sei que é a mesma. O outro. A dor é aquela mesma. Amém. É isso.
+PACIENTE: É, o que há? A dor é aquela mesma. 
+MÉDICA: Não, não. Não é que tenha sido razoável. Eu sei que está no código. Mas eu sei que a dor é aquela mesma. 
+PACIENTE: O outro. Conhecem o lugar. Com certeza, aleluia. Já me lembro delas. Não? Todo mundo sabe.
+MÉDICA: Minha proposta é isso, manter o tratamento. É importante não se enganar. Você tem que tomar os medicamentos corretamente. 
+PACIENTE: Sim, entendi. 
+MÉDICA: Você tem receitas? 
+PACIENTE: Hum, pera. 
+MÉDICA: Não precisa se apressar. Você quer trazer o remédio?
+PACIENTE: Hum, hum.
+MÉDICA: Esse aqui é o Tramadol. O que está liberado? Aí você marca lá e depois já marca no laboratório.
 PACIENTE: Tá bom.
-MÉDICA: Vai com Deus.
+MÉDICA: Ótimo. Vai com Deus.

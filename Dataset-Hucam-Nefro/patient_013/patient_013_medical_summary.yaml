@@ -2,7 +2,11 @@ relatorio_consulta_ambulatorial_nefrologia:
   identificacao_paciente: Feminina, 67 anos, sem acompanhante, mora em Cariacica.
   subjetivo: Paciente assintomática. Nega náuseas, vômitos, perda ponderal.
   hipoteses_diagnosticas:
-    estagio_drc: G5 A1.
+    # estagio_drc: G5 A1.
+    estagio_drc:
+      grau: 5
+      albuminuria: 1
+      funcao_rim_atual: 11 ml/min/1.73m²
     etiologia_doença_de_base: HAS / Rim único (nefrectomia direita em 2010, por CA de células renais).
   historico_patologico_pregresso:    
     Admissão Prevenir em: 07/03/2017.

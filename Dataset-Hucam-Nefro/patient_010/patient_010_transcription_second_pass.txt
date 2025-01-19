@@ -1,11 +1,31 @@
-MÉDICA: É, eu posso abrir uma parte para tirar, hein?
-PACIENTE: Pode.
-MÉDICA: Olha só. Espera aqui, vou só pegar o álcool. Esse aqui é a sua receita, tá? Normal. Aqui dá uma creatinina. Esse aqui é o resultado do exame. Esse aqui é o pedido para a próxima consulta. Então, você vai marcar aqui para março, depois você vai lá no laboratório marcar esse aqui. Tá bom? 
+MÉDICA: Você precisa do lado do... do canal do outro, hein? 
+PACIENTE: Uhum. Tá.
+MÉDICA: Tá. Eu vou verificar o que precisa ser modificado, né? 
+PACIENTE: É. Sim.
+MÉDICA: Olha só. Peraí que eu só vou verificar. Esse aqui é a sua receita. Tá? Normal. Aqui tem uma creatinina. Esse aqui é o resultado do exame de urina. Esse aqui é o exame para a próxima consulta. Você vai marcar aqui pra março. Depois você vai lá no laboratório e vai marcar esse aqui. Tá. Tá bom? 
 PACIENTE: Mas aí...
-MÉDICA: Não, esse aqui eu vou pegar ainda. Espera aí, só um minutinho. Eu dei 120... Ah, não posso colocar 120. A dosagem é 90. Esse é de 12 em 12? Esse é de 8 em 8? A gente não aceita a outra posologia. 
-PACIENTE: Ah. 
-MÉDICA: Ó, tá. Perfeito, trouxe tudo aqui. Esse aqui é do Cetorolaco, tá? 
-PACIENTE: Aham. 
-MÉDICA: Esse aqui é do Tramadol. Pronto, que é o que tá liberado. Aí você marca lá e depois já marca no laboratório. Tá bom. Tá bom ou não bem?
+MÉDICA: Não, esse aqui eu vou ajustar ainda. Peraí, só um minutinho. Eu prescrevi 120. Ah, não posso prescrever 120. Já está 90. Já está né? É porque 7 e 12 é 12. Se é de 8 em 8... A gente não vai alterar? Tem que ajustar a dose.
+PACIENTE: Então, devo ir ao terminal, correto?
+MÉDICA: Sim, vá ao terminal. Peraí. Lembre-se de pegar o comprovante comigo antes de ir.
+PACIENTE: Pra conferir um pouco. Não, né? E depois ver se está pronta... É, enfim.
+MÉDICA: Confirmar é sempre bom, né? 
+PACIENTE: Então, eu vou lá. Eu vou ver- Ah, não sei.
+MÉDICA: Que ele fique, né? É, ele fica lá. Vamos resolver.
+PACIENTE: Concordo. Amém. Amém. A dor é aquela mesma que eu descrevi na consulta anterior.
+MÉDICA: Não, eu sei, mas é porque não é a folha, é o código. Porque tem vários códigos para... Dois, acho que é o correto. É esse, não sei se vocês vão aceitar. Você toma isso para qual dor, exatamente? 
+PACIENTE: Sinto muita dor nos ossos. É.
+MÉDICA: É, agora, veja bem.
+PACIENTE: Repara, olha o peito. Olha. Olha o outro. Olha. Vai. Vai. Vou ler. Vai. Vou ler. A dor é aquela mesma que mencionei. 
+MÉDICA: Não, eu sei que é a mesma. O outro. A dor é aquela mesma. Entendo. É isso.
+PACIENTE: É, né? A dor é aquela mesma. 
+MÉDICA: Não, não. Não é que tenha sido um equívoco. Eu sei que está no código. Mas eu sei que a dor é aquela mesma. 
+PACIENTE: O outro. Conheço o lugar. Com certeza, aleluia. Já me lembro delas. Não? Todo mundo sabe.
+MÉDICA: Minha proposta é isso, manter o tratamento. É importante não se enganar. Você tem que tomar os medicamentos corretamente. 
+PACIENTE: Sim, entendi. 
+MÉDICA: Você tem as receitas? 
+PACIENTE: Hum, pera. 
+MÉDICA: Não precisa se apressar. Você quer trazer o remédio?
+PACIENTE: Hum, hum.
+MÉDICA: Esse aqui é o Tramadol. O que está liberado? Aí você marca lá e depois já marca no laboratório.
 PACIENTE: Tá bom.
-MÉDICA: Vai com Deus.
+MÉDICA: Ótimo. Vai com Deus.
