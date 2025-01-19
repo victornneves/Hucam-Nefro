@@ -6,7 +6,10 @@ relatorio_consulta_ambulatorial_nefrologia:
       há 15 dias.
     - Fez colecistectomia em junho/24.
   hipoteses_diagnosticas:
-    estagio_drc: G3bA1; CLCR atual (CKD-EPI) = 32 ml/min/1,73³
+    estagio_drc:
+      grau: 3a
+      albuminuria: 1
+      funcao_rim_atual: 51 ml/min/1.73m²
     etiologia_doença_de_base: Indeterminada (cardiorrenal? nefropatia diabetica?).
     admissao:
       data: 09/2021
@@ -56,7 +59,7 @@ relatorio_consulta_ambulatorial_nefrologia:
       ACTATO: 2,4665 
     15/09/23: CT 122 // HDL 26//LDL 68,2//CT 9,4//PT 7,5//ALB 4,3//CR 2,16//UR 104// MG 2,06 // NA  135//K4,1//CL 100//P 4,5 // TG 135 // GLICOSE 82 / HBAIC 6,7 // AC URICO 9,1// PH 7,32 BIC 27,7 // HB  10,6// HT 32,2 // LEUCO 6520 // PLAQ 173000// VITD 35,8 // EAS DENS 1011 PH5 GLICOSE 30 ALB  NEGATIVO HEMACIAS 1 CRISTAIS E CILINDROS AUSENTES. 
     16/01/24: CA TOT 9,4 / PTN 7,9 / ALB 4,1 / CR 2,39 / UR 112 / AC URICO 10,6 / FE 57 / FERRIT 108,6 / SAT  24% | NA 135 |K4,1 |CL94 | MG 2,04 |[P4,8| FA 252 | PTH 82,5 | TRIG 172 |GLI 122 | HBAÍC 6,8 |  MICROALB 10,9 | GASO VEN BIC 29,2 | HB11,3 | HTC 35,5 | LEUCO 5660 | LEUCO 5660 | PLAQ 176000 | EAS PH5, ALB <  30, GLI 150, FIL MUCO ++, CILINDRO HIALINO+ 
-    08/06/24: CAI 5,1 CREAT 202 P3,1 MG2,69 K45 NA 140 U134 HCO3 29,8 HB 11,5 HT 36,5 7600  LEUC 155000 PLAQ 
+    08/06/24: CAI 5,1 CREAT 2,02 P3,1 MG2,69 K45 NA 140 U134 HCO3 29,8 HB 11,5 HT 36,5 7600  LEUC 155000 PLAQ 
     09/12/24: CR 1,6= CL 100; AU 8,4; FER 98; P4,2:CA 10; FA 179; HBG 6,8= GLIC 73; PTH 54;/ BIC 28; HB 11,4; 
   exames_complementares: 
     - ECOTT [18/06/2021]: FE 52%. Intermediária probabilidade de hipertensão pulmonar (PSAP 36 mmHg). Insuficiência valvar tricúspide discreta. Dilatação discreta do AE.

@@ -39,27 +39,16 @@ PACIENTE: Sim, ele é doutor. Eu realmente não entendi essa situação.
 MÉDICA: Entendo. Aqui só atendemos casos mais complexos de oftalmologia. Como o seu é mais simples eles estranharam o encaminhamento. Eu me lembro do Dr. Rodrigo que te atendeu primeiramente.
 PACIENTE: Sim, eu lembro. Ele tinha me dito que eu seria encaminhado para outro especialista.
 MÉDICA: Sim, o Projeto Prevenir. Teríamos uma equipe médica a seu favor. Todo um tratamento relacionado ao diabetes.
-
 PACIENTE: Sim, mas não é tudo que é relacionado ao rim?
-
 MÉDICA: Sim, e também contamos com uma equipe multidisciplinar, com nutricionista, assistente social, psicólogo, terapeuta ocupacional, enfermeira. Inclusive fazemos algumas parcerias com a cardiologia para avaliações pré-operatórias de risco para a fístula.
-
 PACIENTE: Eu já fiz algumas avaliações.
-
 MÉDICA: Já fez o mapa cardiovascular?
-
 PACIENTE: Não lembro de ter recebido autorização, não sei.
-
 MÉDICA: Foi agora, dia 19 de novembro que a senhora foi. Está aqui, confirma?
-
 PACIENTE: Foi liberada? Não sei.
-
 MÉDICA: Vou verificar aqui, está bem? Pelo que eu vejo, o cardiologista aumentou a dose do metoprolol, ficou 100mg ao dia, e acrescentou esse outro medicamento para o coração.
-
 PACIENTE: Então agora o metoprolol estou tomando duas vezes ao dia, não é isso?
-
 MÉDICA: Certo, duas vezes ao dia. Vou ter que emitir outra receita para você. Está bem?
-
 PACIENTE: Está.
 MÉDICA: Esse aqui é para colocar a fístula, não é isso?
 PACIENTE: Isso. Vamos fazer essa fístula, que ela fica quietinha e tranquila.

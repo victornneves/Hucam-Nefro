@@ -16,19 +16,12 @@ PACIENTE: Entendi.
 MÉDICO_SUPERVISOR: A senhora quem escolhe. A gente só vai te explicar como que funciona, tá?
 PACIENTE: Tá bom.
 MÉDICO_SUPERVISOR: Então, doutora, a paciente está usando a Ferrip Priv Rouge. Como está o uso?
-
 MÉDICA: Então, senhor, ela está tomando a Ferrip Priv Rouge uma vez ao dia, pela manhã. A insulina à noite e a acetazolamida de seis em seis horas. 
-
 MÉDICO_SUPERVISOR: Entendi. E a medicação cardíaca?
-
 MÉDICA: Ela disse que o medicamento para o coração foi retirado.
-
 MÉDICO_SUPERVISOR: Está tomando outra medicação?
-
 MÉDICA: Segundo ela mencionou, não.
-
 MÉDICO_SUPERVISOR: Entendi. Parece que as medicações estão solo controladas de acordo com o protocolo. Vamos continuar acompanhando.
-
 MÉDICO_SUPERVISOR: Bom, vamos repassar tudo que falamos aqui, né? As alterações nos medicamentos, os exames a serem feitos e as mudanças na dieta. 
 MÉDICA: Isso mesmo. A senhora suspendeu o lisinopril e o sulfato ferroso, certo? E está prolongando o uso de insulina, tomando atorvastatina e até pouco tempo atrás estava usando a vitamina D.
 PACIENTE: Sim, mas a vitamina D e o sulfato ferroso eu parei já faz uns dias. 
@@ -36,47 +29,26 @@ MÉDICO_SUPERVISOR: Tudo bem, mas é fundamental que você os retome, porque ele
 MÉDICA: Sobre o preparo para a diálise, nós vamos encaminhar os exames que devem ser feitos antes de iniciar o mapeamento e também vamos orientar vocês sobre a dieta que deve ser seguida a partir de agora. 
 ACOMPANHANTE: Certo, iremos seguir todas as orientações.
 MÉDICO_SUPERVISOR: Tudo bem. Muito bem. Eu entrei no meio da conversa. Vou só completar pra gente acelerar um pouquinho as coisas, mas vamos lá, tá certo? O seguinte, na verdade eu só queria entender o seguinte: primeiro, pra saber se tem outra coisa que tá impedindo você de fazer uma peritoneal, tem que passar com a gente, a gente olha e fala, opa, mas aqui tem obstrução, tem cálculo, isso vai dar errado. Agora, a gente só vai fazer isso de início se você falar, olha, realmente eu quero fazer.
- 
 PACIENTE: Quero fazer hemodiálise.
-
 MÉDICO_SUPERVISOR: Quer. Legal. Então o que a gente vai fazer agora, a gente vai fazer um mapeamento dos vasos do seu braço pra saber se eles aguentam uma fístula. Porque a gente pode fazer hemodiálise de duas maneiras, né? A gente pode fazer tanto aqui pelo peito, que é chamado de cateter. Esse tipo de cateter não é o ideal. Tudo bem? E a gente pode fazer também, tanto aqui pelo peito, pode fazer pelo braço. Isso que a gente chama de fístulas. Mas pra fazer a fístula, a gente precisa saber se os vasos do seu braço aguentam fazer isso. É então que a gente faz o Doppler do braço, vai ver se os vasos estão adequados pra fazer esse procedimento. Por isso que a gente vai fazer esse exame, tá bom? Aí a gente já sabe se dá ou não dá.
-
 MÉDICO_SUPERVISOR: Precisamos saber quanto estava a pressão lá da última vez que você foi na consulta, não soubemos disso ainda. Se a consulta tivesse sido realizada em outra unidade do PREVENIR, eu iria, já teria olhado.
-
 PACIENTE/ACOMPANHANTE: A pressão estava de 13.
-
 MÉDICA: 13.
-
 MÉDICO_SUPERVISOR: Foi de quanto? Eu vou perguntar pra você um assunto já resolvido.
- 
 PACIENTE/ACOMPANHANTE: Foi de 11.
- 
 MÉDICO_SUPERVISOR:   Foi de 11. Então deve ter sido o seguinte... você deve... nesse dia que você esteve lá, você deve ter chegado lá, muito estressada, nervosa.
- 
 MÉDICA: Você tá fazendo diálise, né? 
-
 PACIENTE: Estou. 
-
 MÉDICA: Tá bom então. Você continuará aí, vai bem. A não ser que, nossa, de repente você tá com uma fraqueza horrorosa.
-
 MÉDICO_SUPERVISOR: Que os sinais variam, tem tanto ondas como planos. Tem questões que você vai perceber. As ondas, você vai conseguir passar bem ao paciente exemplos do que é complicado e o que é mais sutil, que é a confusão mental.
-
 MÉDICA: Vamos continuar observando, porque a doença renal é uma doença crônica com variáveis.
-
 MÉDICO_SUPERVISOR: Isso, vamos lá, vamos conversar um pouquinho sobre a medicação da senhora. A medicação, a princípio agora já toda. Ah, tem a lembrança de ver com isso? Era menor aqui, teve uma queda grande.
-
 MÉDICA: [INCOMPREENSÍVEL]
-
 MÉDICO_SUPERVISOR: A tua dor, como que está a tua dor? 
-
 PACIENTE: De vez em quando sinto dor.
-
 MÉDICO_SUPERVISOR: Eu acho que é bom você voltar, porque se não voltar, vai haver uma ruptura, vai explodir.
-
 MÉDICA: Certo, é melhor voltar mesmo. 
-
 MÉDICO_SUPERVISOR: Então, tá certo, pode voltar, sem problemas. São duas semanas. Não é bom esperar muito, porque daqui a pouco passa dois meses, você nem vê. E a gente tá preocupado, né? A gente ficou preocupado com a sua consulta, a diminuição da sua creatinina. Porque não é normal isso acontecer com um paciente com doença renal crônica. Quer dizer, é raro, não é normal. O normal é que a creatinina sempre vai aumentando, aumentando, né? E de repente você chega aí, então a gente tem que prestar atenção no seu caso, entender por que isso tá acontecendo. Vamos pedir exames, ver de novo os seus exames, pra gente ver o que que tá acontecendo, tá bom? Agora, daqui pra frente, a gente vai ver a sua evolução. E pra isso a gente precisa se organizar, porque tem exame que você fez faz tempo, tem alguns que já vão vencer. Precisa fazer de novo.
-
 PACIENTE: Tá bom.
 MÉDICA: Vamos examinar a senhora. E aí, a senhora tá com quantos anos?
 PACIENTE: Setenta e cinco. 
@@ -129,7 +101,6 @@ PACIENTE: Vou tentar fazer, Doutor.
 MÉDICO_SUPERVISOR: Ótimo. Continue monitorando a pressão e nós daremos uma ligação na próxima semana para acompanhar como está indo, principalmente com o cansaço. Lembre-se que pode sempre nos chamar entre as consultas.
 PACIENTE: Obrigada, Doutor.
 MÉDICO_SUPERVISOR: Não precisa agradecer, estaremos sempre aqui para ajudá-la. Cuide-se!
-
 PACIENTE: É uma dor que começa no meio das costas e desce pela perna. Eu não consigo nem me mexer direito quando ela começa.
 MÉDICA: Que horas em geral a dor começa?
 PACIENTE: Praticamente todo dia, à tarde. Mas tem dias que começa mais cedo, tipo depois do almoço.
@@ -189,20 +160,13 @@ MÉDICA: Que bom que você entendeu. Se tiver qualquer dúvida, não deixe de pe
 PACIENTE: Ok. Muito obrigado. 
 MÉDICA: De nada. Até a próxima visita.
 PACIENTE: Até a próxima. Muito obrigado.
-
 MÉDICA: Exatamente, a hidralazina pode causar esse efeito colateral. Mas é sempre importante ressaltar que cada organismo reage de uma maneira, e no seu caso, prescrevi justamente por achar que os benefícios são maiores do que os possíveis efeitos colaterais. 
-
 PACIENTE: Entendo, doutora. E o que eu devo fazer se o inchaço aumentar muito? Eu suspendo o medicamento ou tem alguma outra coisa que eu possa fazer?
-
 MÉDICA: Se o inchaço aumentar muito, a senhora deve nos procurar novamente para que possamos avaliar a situação e fazer os ajustes necessários na medicação. Lembrando que, em casos de efeitos colaterais intensos, nunca devemos suspender o medicamento sem orientação médica.
-
 ACOMPANHANTE: A senhora falou sobre os exames de minha mãe, que estão um pouco alterados. Isso é motivo de preocupação? 
-
 MÉDICO_SUPERVISOR: Estamos mantendo o controle e monitorando. Por enquanto não há motivo para preocupação, mas vamos continuar acompanhando de perto. Se houver alterações significativas, podemos fazer ajustes no tratamento.
 PACIENTE: Obrigada, estava tudo bem explicado.
-
 MÉDICA: Obrigada pela supervisão.
-
 MÉDICO_SUPERVISOR: De nada, até logo.
 MÉDICA: Aqui estão as receitas. Esse aqui é o remédio para a senhora, okay? Os remédios que adicionamos, eu vou mostrar, okay? Vai continuar a mesma coisa. A insulina que a senhora está tomando, certo? E os outros remédios, a atorvastatina e tudo mais que a senhora usa. A losartana que é para a pressão vai continuar do mesmo jeito, de manhã e de noite.
 MÉDICA: E o bicarbonato? Bicarbonato. A gente incluiu aqui para a senhora tomar em vez de uma colher por dia, agora são duas por dia. E acrescentamos o amlodipino, que é outro remédio para a pressão, também à noite. 

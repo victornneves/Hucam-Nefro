@@ -89,45 +89,25 @@ MÉDICO_SUPERVISOR: Eritropoetina, uma vez por mês está correto. Mantém essa 
 PACIENTE: Então, como ficam os ajustes nos medicamentos? 
 MÉDICO: Até o momento, parece que a senhora está tomando tudo certinho. Vamos continuar com o mesmo tratamento e acompanhar os seus exames de sangue para avaliar se será necessário algum ajuste no futuro.
 MÉDICA_AUXILIAR: Tomo um na hora que eu vou almoçar. Antes, meia hora, porque a Sinvastatina deve ser tomada meia hora antes. E o outro eu tomo junto com a comida. Dá pra jantar? 
-
 PACIENTE: Não, não dá. 
-
 MÉDICA_AUXILIAR: Mas se você está tomando Sinvastatina, está ótimo. 
-
 PACIENTE: É, tomo um de manhã ou de noite. 
-
 MÉDICA_AUXILIAR: É a mesma coisa, tá? Não muda nada. A Sinvastatina não tem horário específico para tomar, pode ser a qualquer hora. Agora, o que você está falando que é junto com a comida, é aquele que você tem em casa, certo? 
-
 PACIENTE: É, tá em casa. 
-
 MÉDICA_AUXILIAR: Agora, em relação à insulina, a NPH, que você faz a aplicação. 
-
 PACIENTE: 20 unidades de NPH. 20 unidades de NPH. De manhã e 6 unidades à noite.
-
 MÉDICO_SUPERVISOR: Então, você está olhando quanto ela está usando de insulina NPH e também de insulina regular, né? Agora ela está usando a regular? 
-
 MÉDICA_AUXILIAR: Sim, começou a usar a insulina regular. A endocrinologista que prescreveu...
-
 PACIENTE: Na verdade, eu já deveria estar usando, mas acontece que tenho muita hipoglicemia. De manhã, minha glicemia estava 65. Tem vezes que venho aqui fazer exame e tenho hipoglicemia aqui mesmo, já passou algumas vezes. Então, eu fico hipoglicêmica muito fácil.
-
 MÉDICO_SUPERVISOR: Eu vi esse relato. E como você está usando a insulina regular? 
-
 PACIENTE: Eu uso se a glicemia estiver acima de 200. Eu aplico... 
-
 ACOMPANHANTE: Mas a instrução foi para usar duas unidades de insulina regular, não foi mãe? Eu acho que foi isso, não foi? A endocrinologista, né? É preciso conferir a prescrição. 
-
 MÉDICA_AUXILIAR: Eu vejo aqui que você está aplicando duas unidades de insulina regular. Se precisar, posso pegar a receita. É bom ter sempre à mão, porque às vezes eu aplico quatro unidades.
-
 ACOMPANHANTE: Mas isso tem que ser acertado com ela. Como vai ser a consulta? 
-
 MÉDICO_SUPERVISOR: Eu vou realizar a consulta agora.
-
 ACOMPANHANTE: Ok, vou conversar com ela. Venho junto nas consultas.
-
 MÉDICO_SUPERVISOR: Mas na última consulta, vi que foram prescritas duas unidades de insulina regular uma hora antes do almoço. Continua assim?
-
 ACOMPANHANTE: Então, verifico a glicemia capilar, faço o teste de HGT e vejo o resultado. Se estiver muito alto, não dou apenas duas unidades, dou quatro. Porque a endocrinologista não especificou e agora estou fazendo assim.
-
 MÉDICO_SUPERVISOR: Entendi. E agora, chegamos no tempo...
 MÉDICA_AUXILIAR: Sim, mas é sempre importante ter consciência desses sintomas e saber agir. Muito bom que você está cuidando delas, é fundamental.
 PACIENTE: Obrigada, doutora. Acho que estamos indo bem até agora, na medida do possível.

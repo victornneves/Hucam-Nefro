@@ -6,7 +6,11 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Vacinou 1ª dose para COVID-19.
     - Hepatite B = 22/08/24 - 01/10/24 / 01/11/24.
   hipoteses_diagnosticas:
-    estagio_drc: Estágio IV (21.7 mL/min/1,73m²) A3
+    # estagio_drc: Estágio IV (21.7 mL/min/1,73m²) A3
+    estagio_drc:
+      grau: 5
+      albuminuria: 3
+      funcao_rim_atual: 6 ml/min/1.73m²
     etiologia_doença_de_base: nefropatia por IgA? Doença de membrana fina?
     observacoes: 
       - EAS 18/04/22 com cilindro hemático e de 29/03/22 com codócitos e acantócitos | PTN < 1g.

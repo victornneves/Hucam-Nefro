@@ -5,6 +5,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from rouge_score import rouge_scorer
 
+PASS = "third"
+
 def concatenate_speaker_lines(text, speaker):
     return " ".join([line.split(": ", 1)[1] for line in text.splitlines() if line.startswith(f"{speaker}:")])
 
@@ -32,7 +34,7 @@ for patient in range(1, 17):
     print(f"Processing paciente {patient}")
     with open(f"Dataset-Hucam-Nefro/patient_{patient:03d}/patient_{patient:03d}_transcription_gt.txt", "r") as f:
         ground_truth = f.read()
-    with open(f"Dataset-Hucam-Nefro/patient_{patient:03d}/patient_{patient:03d}_transcription_pred_gpt4.txt", "r") as f:
+    with open(f"Dataset-Hucam-Nefro/patient_{patient:03d}/patient_{patient:03d}_transcription_{PASS}_pass.txt", "r") as f:
         prediction = f.read()
     
     # replace {'MÉDICA_AUXILIAR', 'MÉDICA_SUPERVISOR', 'MÉDICO_SUPERVISOR', 'ASSISTENTE', 'MÉDICO', 'MÉDICA'} by 'MEDIC_TEAM'
@@ -131,17 +133,30 @@ for patient in range(1, 17):
     results.append(patient_results)
 
 
+
 df = pd.DataFrame(results)
+
 df["Consult"] = df.index + 1
 
-df_all = df[["Consult", "all_cosine_similarity", "all_rougeL_recall", "all_rougeL_precision", "all_rougeL_f1"]]
-df_all.columns = ["Consult", "Cosine Similarity", "ROUGE-L Recall", "ROUGE-L Precision", "ROUGE-L F1"]
-df_all.to_latex("all_metrics.tex", float_format="%.2f")
+# Calculate means for all metrics columns
+mean_all = df[["all_cosine_similarity", "all_rougeL_recall", "all_rougeL_precision", "all_rougeL_f1"]].mean()
+mean_medics = df[["MEDIC_TEAM_cosine_similarity", "MEDIC_TEAM_rougeL_recall", "MEDIC_TEAM_rougeL_precision", "MEDIC_TEAM_rougeL_f1"]].mean()
+mean_patients = df[["PATIENT_AND_FAMILY_cosine_similarity", "PATIENT_AND_FAMILY_rougeL_recall", "PATIENT_AND_FAMILY_rougeL_precision", "PATIENT_AND_FAMILY_rougeL_f1"]].mean()
 
-df_medics = df[["Consult", "MEDIC_TEAM_cosine_similarity", "MEDIC_TEAM_rougeL_recall", "MEDIC_TEAM_rougeL_precision", "MEDIC_TEAM_rougeL_f1"]]
-df_medics.columns = ["Consult", "Cosine Similarity", "ROUGE-L Recall", "ROUGE-L Preci,sion", "ROUGE-L F1"]
+# Prepare the DataFrames for LaTeX export
+df_all = df[["Consult", "all_cosine_similarity", "all_rougeL_recall", "all_rougeL_precision", "all_rougeL_f1"]].copy()
+df_all.columns = ["Consult", "Cosine Similarity", "ROUGE-L Recall", "ROUGE-L Precision", "ROUGE-L F1"]
+df_all.loc["Mean"] = ["Mean"] + mean_all.tolist()
+df_all.to_latex("all_metrics.tex", float_format="%.2f", index=False)
+
+df_medics = df[["Consult", "MEDIC_TEAM_cosine_similarity", "MEDIC_TEAM_rougeL_recall", "MEDIC_TEAM_rougeL_precision", "MEDIC_TEAM_rougeL_f1"]].copy()
+df_medics.columns = ["Consult", "Cosine Similarity", "ROUGE-L Recall", "ROUGE-L Precision", "ROUGE-L F1"]
+df_medics.loc["Mean"] = ["Mean"] + mean_medics.tolist()
 df_medics.to_latex("medics_metrics.tex", float_format="%.2f", index=False)
 
-df_patients = df[["Consult", "PATIENT_AND_FAMILY_cosine_similarity", "PATIENT_AND_FAMILY_rougeL_recall", "PATIENT_AND_FAMILY_rougeL_precision", "PATIENT_AND_FAMILY_rougeL_f1"]]
+df_patients = df[["Consult", "PATIENT_AND_FAMILY_cosine_similarity", "PATIENT_AND_FAMILY_rougeL_recall", "PATIENT_AND_FAMILY_rougeL_precision", "PATIENT_AND_FAMILY_rougeL_f1"]].copy()
 df_patients.columns = ["Consult", "Cosine Similarity", "ROUGE-L Recall", "ROUGE-L Precision", "ROUGE-L F1"]
+df_patients.loc["Mean"] = ["Mean"] + mean_patients.tolist()
 df_patients.to_latex("patients_metrics.tex", float_format="%.2f", index=False)
+
+

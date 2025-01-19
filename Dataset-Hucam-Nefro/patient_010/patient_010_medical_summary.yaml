@@ -4,7 +4,12 @@ relatorio_consulta_ambulatorial_nefrologia:
   subjetivo:
     - Relata melhora da hiporexia, das náuseas e vômitos.
   hipoteses_diagnosticas: 
-    estagio_drc: 5 → TFGe - CKD-EPI 15 ml/min/1,73 m²
+    # estagio_drc: 5 → TFGe - CKD-EPI 15 ml/min/1,73 m²
+    estagio_drc:
+      grau: 4
+      albuminuria: 
+      funcao_rim_atual: 
+        valor: 17 ml/min/1.73m²
     etiologia_doença_de_base: Nefrite Lúpica - Diagnóstico em 2012
     admissao:
       data: 2013

@@ -220,48 +220,27 @@ MÉDICA: Tem que cuidar. Tem que cuidar. Tem que cuidar. Tem que cuidar. Temos q
 PACIENTE:  Graças a Deus, eu já ia até aqui. Tomo aí a água do remédio. Quatro vezes por dia. 
 MÉDICA: Três, né? A próxima consulta é
 MÉDICA: Tomou um copinho de água. Vamos relembrar. Eu entendo que está tudo complicado hoje, né? O mais importante para mim é te ajudar. 
-
 PACIENTE: As castanhas, nozes... Como pode a água fazer mal. Esse mix de frutos secos e outros, eu nem posso comer mais, né?
-
 MÉDICA: Eu entendi. Agora, no Natal quais são suas dúvidas? 
-
 PACIENTE: Porque vem ameixa, vem... Nozes, castanhas... Castanhas do Pará... Posso comer?
-
 MÉDICA: Sim, pode. Bem dosadinho, né?
-
 PACIENTE: Ótimo. 
-
 MÉDICA: Olha só, esse negócio que eu falei para a senhora, é o seguinte... Quando o rim está muito prejudicado, a gente pede para reduzir a proteína. Mas a senhora, para quem tem uma doença renal crônica estabelecida, isso agora não é um problema. Eu sei que a senhora não consegue comer muita proteína. A própria doença cardíaca tira um pouco da fome, não é verdade? 
-
 PACIENTE: Eu até imaginei... 
-
 MÉDICA: Esqueça dieta, tá? Esqueça. Em relação à Coca-Cola, não é muito legal?
-
 PACIENTE: Não, não tem problema. Meu marido, ele coloca o feijão, Zé Carlos... Ele nem pode fazer esse arroz para mim. Porque eu nem estou conseguindo comer. Ainda mais porque quando a gente está inchado, o estômago incha... Fica difícil de comer. Eu preciso de uma salada, que eu falei com ele.
-
 MÉDICA: Tá bom. Mas saiba que a uva tem muita água, por exemplo. 
-
 PACIENTE: Mas não é isso. Dá para comer uva? 
-
 MÉDICA: Não, não é necessário. Controle a quantidade de água. Tem que ter água. Entendeu? 
-
 PACIENTE: Você imagina a fermentação... 
-
 MÉDICA: Mas é difícil achar fruta que não tem água. Por isso que eu faço desse jeito...
-
 PACIENTE: Isso, faço o lanche melhor. 
-
 MÉDICA: Eu estou pedindo exames aqui para a senhora... Porque eu já havia enviado para a senhora pelo WhatsApp. Vou imprimir aqui. A senhora vai lá e marca. Eu quero que a senhora marque uma consulta com um cardiologista. Não é para fazer agora. Tem que esperar uns dias. Eu quero que a senhora faça para ajustar o diurético. Tá bom? Da minha parte, a senhora vai voltar daqui a 3 meses. Da parte do cardiologista... Até daqui a 2 meses... Aí será mais ou menos. Em Março. Tá? 
-
 PACIENTE: 2 meses e alguma coisa. 
-
 ACOMPANHANTE: O médico está me chamando. Você está
 ACOMPANHANTE: Eu tenho uma dúvida, a espironolactona e a Furosemida que foram prescritas têm contraindicações?
-
 MÉDICA: Sim, como todo medicamento, elas têm algumas contraindicações. Por exemplo, pacientes com problemas renais graves ou insuficiência hepática devem evitar a Furosemida. Já a espironolactona é contraindicada para pessoas com hiperpotassemia ou insuficiência renal aguda. 
-
 ACOMPANHANTE: Está bem, entendi. Obrigada por esclarecer.
-
 MÉDICA: De nada. Fiquem atentos aos sintomas que mencionei e não hesitem em me contatar se surgir qualquer dúvida.
 MÉDICA: Vou pedir à secretária para ela marcar. Porque acho que ela vai deixar agendado aqui, porque a gente também não vira, tá? 
 MÉDICA: Em relação ao rim, pode ficar tranquila, por enquanto, não tem nada a se preocupar. Mas é preciso controlar o coração para o rim melhorar. Tá bom? 

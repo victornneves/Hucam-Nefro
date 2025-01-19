@@ -25,52 +25,29 @@ MÉDICA: Conseguiu, né? Então também. Então depois eu vou até a minha. Mas 
 PACIENTE: Foi aqui mesmo.
 MÉDICA: Foi daqui, né? Bom, tá. Mas ela tem risco. É. E aí a senhora tinha ido na consulta? A consulta que a gente fala de apresentação de métodos, né? Pra caso a senhora precise entrar em diálise, né? Pra senhora poder escolher, né? E se preparar pra poder fazer a diálise, se precisar. Que aí seria pra escolher entre hemodiálise e diálise peritoneal, né?
 MÉDICA: Entendi, então você está aplicando de noite para o dia seguinte, né?
-
 PACIENTE: É. 
-
 MÉDICA: E a senhora usa... É, a insulina são dez unidades antes do jantar, foi isso que ficou combinado?
-
 PACIENTE: Isso. 
-
 MÉDICA: Isso? Certo. Então já tomou hoje o comprimido ou não tomou?
-
 PACIENTE: Já tomei.
-
 MÉDICA: Já tomou. OK! Então o que estava aqui era acetazolamida, tinha um remédio de anemia também que a senhora estava usando. Lembra qual é o nome dele?
-
 PACIENTE: Foi a ferrip. Ferripeixe.
-
 MÉDICA: Ferrip. Ferrip Priv Rouge, esse que a senhora tá usando, né? E tá tomando como, uma vez por dia ou duas vezes por dia?
-
 PACIENTE: Uma vez.
-
 MÉDICA: Uma a vez por dia, de manhã?
-
 PACIENTE: É. 
-
 MÉDICA: Aí eu já perguntei da insulina, já confirmei. E aí do coração, tá tomando alguma coisa?
-
 PACIENTE: Não.
-
 MÉDICA: O medicamento do coração foi retirado, então que é o... 
 vamos ver se eu lembro aqui... anti-hipertensivo, né? Que era o que a gente chamava de betabloqueador. Que era o Carvedilol. A senhora lembra?
-
 PACIENTE: Lembro.
-
 MÉDICA: Foi retirado esse, né?
-
 PACIENTE: Foi.
-
 MÉDICA: Então a senhora tá tomando o Ferrip Priv Rouge de manhã, a insulina à noite e a acetazolamida que faz uso de seis em seis horas.
-
 PACIENTE: Isso.
-
 MÉDICA: Então tá tudo esclarecido? Tomou a medicação direitinho?
-
 PACIENTE: Tomo. 
-
 MÉDICA: Então tá esclarecido. Bom, então eu vou repassar suas medicações com meu supervisor pra gente estar discutindo como que a gente vai fazer, tá bom? 
-
 PACIENTE: Tá.
 MÉDICO_SUPERVISOR: Bom, vamos repassar tudo que falamos aqui, né? As alterações nos medicamentos, os exames a serem feitos e as mudanças na dieta. 
 MÉDICA: Isso mesmo. A senhora suspendeu o lisinopril e o sulfato ferroso, certo? E está prologando o uso de insulina, tomando atorvastatina e até pouco tempo atrás estava usando a vitamina D.
@@ -81,15 +58,10 @@ ACOMPANHANTE: Certo, iremos seguir todas as orientações.
 MÉDICO_SUPERVISOR: Tudo bem. Muito bem. Eu entrei no meio da conversa. Vou só completar pra gente acelerar um pouquinho as coisas, mas vamos lá, tá certo? O seguinte, na verdade eu só queria entender o seguinte: primeiro, pra saber se tem outra coisa que tá inventando você de fazer uma peritoneal, tem que passar com a gente, a gente olha e fala, opa, mas aqui tem obstrução, tem cálculo, caca, isso vai dar errado. Agora, a gente só vai fazer isso de início se você falar, olha, realmente eu quero fazer.
  
 PACIENTE: Quero fazer hemodiálise.
-
 MÉDICO_SUPERVISOR: Quer. Legal. Então o que a gente vai fazer agora, a gente vai fazer um mapeamento dos vasos do seu braço pra saber se eles aguentam uma fístula. Porque a gente pode fazer hemodiálise de duas maneiras, né? A gente pode fazer tanto aqui pelo peito, que é chamado de cateter. Esse tipo de cateter não é o ideal. Tudo bem? E a gente pode fazer também, tanto aqui pelo peito, pode fazer pelo braço. Isso que a gente chama de fístulas. Mas pra fazer a fístula, a gente precisa saber se os vasos do seu braço aguentam fazer isso. É então que a gente faz o Doppler do braço, vai ver se os vasos estão adequados pra fazer esse procedimento. Por isso que a gente vai fazer esse exame, tá bom? Aí a gente já sabe se dá ou não dá.
-
 MÉDICO_SUPERVISOR: Precisamos saber quanto estava a pressão lá da última vez que você foi na consulta, não soubemos disso ainda. Se a consulta tivesse sido realizada em outra unidade do PREVENIR, eu iria, já teria olhado.
-
 PACIENTE/ACOMPANHANTE: A pressão estava de 13.
-
 MÉDICA: 13.
-
 MÉDICO_SUPERVISOR: Foi de quanto? Eu vou perguntar pra você um assunto já resolvido.
  
 PACIENTE/ACOMPANHANTE: Foi de 11.
@@ -97,29 +69,17 @@ PACIENTE/ACOMPANHANTE: Foi de 11.
 MÉDICO_SUPERVISOR:   Foi de 11. Então deve ter sido o seguinte... você deve... nesse dia que você esteve lá, você deve ter chegado lá, muito estressada, nervosa.
  
 MÉDICA: Você tá fazendo diálise, né? 
-
 PACIENTE: Estou. 
-
 MÉDICA: Tá bom então. Você continuará aí, vai bem. A não ser que, nossa, de repente você tá com uma fraqueza horrorosa.
-
 MÉDICO_SUPERVISOR: Que os sinais variam, tem tanto ondas como planos. Tem questões que você vai perceber. As ondas, você vai conseguir passar bem ao paciente exemplos do que é complicado e o que é mais sutil, que é a confusão mental.
-
 MÉDICA: Vamos continuar observando, porque a doença renal é uma doença crônica com variáveis.
-
 MÉDICO_SUPERVISOR: Isso, vamos lá, vamos conversar um pouquinho sobre a medicação da senhora. A medicação, a princípio agora já toda. Ah, tem a memória de ver com isso? Era menor aqui, teve uma queda grande.
-
 MÉDICA: [INCOMPREENSÍVEL]
-
 MÉDICO_SUPERVISOR: A tua dor, como que está a tua dor? 
-
 PACIENTE: De vez em quando sinto dor.
-
 MÉDICO_SUPERVISOR: Eu acho que é bom você voltar, porque se não voltar, vai haver uma ruptura, vai explodir.
-
 MÉDICA: Certo, é melhor voltar mesmo. 
-
 MÉDICO_SUPERVISOR: Então, tá certo, pode voltar, sem problemas. São duas semanas. Não é bom esperar muito, porque daqui a pouco passa dois meses, você nem vê. E a gente tá preocupado, né? A gente ficou preocupado com a sua consulta, a diminuição da sua creatinina. Porque não é normal isso acontecer com um paciente com doença renal crônica. Quer dizer, é raro, não é normal. O normal é que a creatinina sempre vai aumentando, aumentando, né? E de repente você chega aí, então a gente tem que prestar atenção no seu caso, entender por que isso tá acontecendo. Vamos pedir exames, ver de novo os seus exames, pra gente ver o que que tá acontecendo, tá bom? Agora, daqui pra frente, a gente vai ver a sua evolução. E pra isso a gente precisa se organizar, porque tem exame que você fez faz tempo, tem alguns que já vão vencer. Precisa fazer de novo.
-
 PACIENTE: Tá bom.
 MÉDICA: Vamos examinar a senhora. E aí, a senhora tá com quantos anos?
 PACIENTE: Um ano e sete. 
@@ -227,45 +187,25 @@ MÉDICA: A gente recomenda 3 ou 4 vezes. Evitando alimentos ricos em potássio j
 MÉDICO_SUPERVISOR: Ainda está com anemia, né? A hemoglobina, que é o que a gente mede no sangue, especialmente em paciente com doença renal crônica, tem que ficar entre 10 e 12 g/dL. O senhor está mais próximo de 10, então está no limite. Mas o ferro que a gente mediu aqui, já está mais do que bom. Então, não vamos continuar com o ferro. Deixa guardado lá, até checar a data de vencimento e tudo mais. Se quiser doar para alguém, se estiver muito perto da data de vencimento, pode fazer alguma troca, né? Mas se não estiver perto da data de vencimento, deixa lá guardadinho, tá? Então, não vamos mexer nessa parte de ferro mais. Da parte, então, da diálise peritoneal, está decidida. A gente deixou o doutor aqui, de qualquer forma, é também uma segunda opção. Vamos aguardar agora o ultrassom abdominal. Para ver se tem alguma outra coisa que poderia impedir, por exemplo, de fazer diálise peritoneal.
 MÉDICO_SUPERVISOR: Olhando os exames, a senhora está com as taxas um pouco alteradas, mas estamos controlando. Isso é o que a gente precisa. Quanto a sua pergunta sobre o inchaço..., no momento está mais controlado, mas deve-se estar atento. A medicação Hidralazina é bem eficaz, mas é possível que cause inchaço nas pernas, como a médica já mencionou.
 MÉDICO_SUPERVISOR: Qual o diagnóstico?
-
 MÉDICA: Doença renal crônica estágio 3, com suspeita de nephropatia diabética.
-
 MÉDICO_SUPERVISOR: E quanto ao inchaço?
-
 MÉDICA: Avaliamos, mas fizemos os exames de urina e sangue. Foram verificados os valores de ureia e creatinina. Vamos aguardar esses resultados. 
-
 MÉDICO_SUPERVISOR: Certo, ótimo. E quanto aos medicamentos? 
-
 MÉDICA: Ela estava fazendo uso de Losartana e Furosemida, mas devido ao inchaço recomendamos aumentar a dose de Furosemida para 40 mg duas vezes ao dia e manter a Losartana.
-
 MÉDICO_SUPERVISOR: Ótimo, continuem com as medicações. Deem orientação para a paciente retornar imediatamente se o inchaço aumentar ou se apresentar falta de ar. E quanto à vitamina D?
-
 MÉDICA: Ela estava fazendo uso, mas tinha parado. Recomendamos reiniciar, devido ao nível baixo nos exames.
-
 MÉDICO_SUPERVISOR: Correto, muito importante manter essa suplementação para proteção óssea. Vamos orientá-la a tomar todos os medicamentos corretamente e seguir as orientações. A paciente precisa entender a importância disso.
-
 MÉDICA: Sim, conversamos bastante sobre tudo. Ela estava bem ciente dos sintomas da doença e dos tratamentos.
-
 MÉDICO_SUPERVISOR: Excelente! Pela minha experiência, quando o paciente entende a importância do tratamento, eles tendem a aderir melhor. 
-
 MÉDICA: Exatamente.
-
 MÉDICO_SUPERVISOR: Ótimo trabalho! Vamos marcar o retorno dela para daqui a 4 meses, após a realização do ultrassom que ainda falta. Ficam as minhas anotações aqui, este é o seguimento que temos que fazer. Você conseguiu os resultados do exame de sangue?
-
 MÉDICA: Sim, pegamos os exames. Ela vai tomar a vitamina D de acordo, um comprimido por semana durante dois meses e depois um por mês.
-
 ACOMPANHANTE: E quanto ao inchaço que ela sentiu?
-
 MÉDICO_SUPERVISOR: O inchaço pode ser devido a várias circunstâncias, por isso é importante que ela acompanhe e monitore em casa, qualquer alteração ela deve nos contatar ou retornar aqui.
-
 MÉDICO_SUPERVISOR: Agora, se permitirem, eu vou buscar o próximo paciente.
-
 ACOMPANHANTE: Obrigada, estava tudo bem explicado.
-
 MÉDICA: Obrigada pela supervisão.
-
 MÉDICO_SUPERVISOR: De nada, até logo.
-
 MÉDICA: Aqui estão as receitas. Esse aqui é o remédio para a senhora, okay? Os remédios que adicionamos, eu vou mostrar, okay? Vai continuar a mesma coisa. A insulina que a senhora está tomando, certo? E os outros remédios, a atorvastatina e tudo mais que a senhora usa. A losartana que é para a pressão vai continuar do mesmo jeito, de manhã e de noite.
 MÉDICA: E o bicarbonato? Bicarbonato. A gente incluiu aqui para a senhora tomar em vez de uma colher por dia, agora são duas por dia. E acrescentamos o amlodipino, que é outro remédio para a pressão, também à noite. 
 MÉDICA: E também adicionamos a vitamina D, certo? São 50 mil unidades, tomar uma vez por semana, durante oito semanas. E depois tomar uma vez no mês, até a senhora retornar aqui. Tudo bem? Esses são os dois remédios que adicionamos. Aqui está a receita, são duas vias. Uma fica para a senhora, a outra fica para o curso. Tudo bem? Se a senhora for pegar no curso. 

@@ -7,7 +7,10 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Nega busca a pronto atendimento desde última consulta.
     - Permanece sedentário.
   hipoteses_diagnosticas:
-    estagio_drc: G4A1; TFGe atual 18ml/min/1.73m²
+    estagio_drc:
+      grau: 4
+      albuminuria: 1
+      funcao_rim_atual: 18 ml/min/1.73m²
     etiologia_doença_de_base: Doença renal do diabetes; nefroesclerose hipertensiva
     admissao: 
       data: 07/03/24

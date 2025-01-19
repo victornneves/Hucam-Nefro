@@ -2,7 +2,10 @@ relatorio_consulta_ambulatorial_nefrologia:
     identificacao_paciente: Feminina, 50 anos, sem outras informações de localidade.
     subjetivo: ""
     hipoteses_diagnosticas:
-        estagio_drc: 4
+        estagio_drc:
+            grau: 4
+            albuminuria: 
+            funcao_rim_atual: 14 ml/min/1.73m²
         etiologia_doença_de_base:  Nefrite Lúpica (NL IV - biópsia renal agosto de 2015).
     historico_patologico_pregresso:
         - Comorbidades: HAS, LES, depressão e fibromialgia.
@@ -74,10 +77,10 @@ relatorio_consulta_ambulatorial_nefrologia:
         - Mantenho losartan suspenso.
         - Retorno em 45 dias.
     impressão:
-        - Estágio atual: DRC Estágio IV - CKD-EPI 14 ml/min/1,73 m².
+        - Estágio Atual DRC Estágio IV - CKD-EPI 14 ml/min/1,73 m² (Estava 27 > 23 > 24 > 22 > 17 > 14).
         - Piora rápida de função renal nos últimos meses - já avaliada pela vascular para FAV.
         - Anemia já em uso de eritropoetina (reduzi dose para 4000 UI/semana na última consulta).
-        - Hiperfosfatemia apesar do uso de CaCO3.
+        - Hiperfosfatemia apesar do uso de CACO3.
         - Aumentou a quetiapina temporariamente com melhora da insônia.
-        - Apresentação de métodos=a escolheu HD (mora somente com o filho, que trabalha, por isso acha que não terá apoio para DP).
+        - Apresentação de métodos escolheu HD (mora somente com o filho, que trabalha, por isso acha que não terá apoio para DP).
         - RNM afastou neoplasia de pâncreas.

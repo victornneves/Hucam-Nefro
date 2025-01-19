@@ -18,21 +18,13 @@ MÉDICA: Você deve seguir as orientações das nutricionistas. Eles farão uma 
 PACIENTE: Sim, tento replicar as orientações que minha irmã me deu. Ela usa bastante ovo, azeite e limão na cozinha. Acho engraçado que ela não usa sal para cozinhar as verduras, mas acabei me acostumando. Comecei a preparar a comida sem sal também. Eu gostaria muito de comer o que gosto, mas sei que preciso seguir as recomendações, né? Então vou controlando o que posso. Mesmo assim, às vezes, não resisto e como um pedacinho de carne ou até uma cervejinha. 
 MÉDICA: É importante que você siga a dieta recomendada. Inclusive, devemos evitar o consumo de álcool, tá bom? Agora, sobre esse negócio da injeção, o que está acontecendo?
 MÉDICA: Não estou sentindo nada, não. O meu problema maior é só esse problema pessoal, se eu tivesse uma vida mais tranquila, eu não estaria assim. Estou fazendo de tudo para mudar, quero ter uma vida sem tantas dores de cabeça.
-
 PACIENTE: Esses dias eu fui parar três horas da manhã no hospital. Passei até sete horas da manhã dentro do hospital. Estou sofrendo muito.
-
 MÉDICA: Tenho tentado manter uma alimentação saudável, como a doutora recomendou. Um pouquinho de purê, tomate, alface e bife de frango. Não como feijão, mas gosto de arroz.
-
 PACIENTE: Também estou tentando comer mais frutas. Não como banana, melancia, mamão ou kiwi. Só maçã.
-
 PACIENTE: Também estou tomando bastante leite. De vez em quando eu faço um mingauzinho de maizena ou de fubá.
-
 PACIENTE: Estou preocupado com a situação. Tenho medo do que pode acontecer. 
-
 PACIENTE: Eu sei que minha saúde está delicada, tenho tentado manter uma dieta equilibrada. Até já comi peixe, uma vez até me arrisquei a fazer uma moqueca.
-
 PACIENTE: Tem dias que gosto de inovar na cozinha. Tentei fazer uma receita nova e achei bom.
-
 MÉDICA: Coloquei aqui que você vai pra consulta e que quando voltar a gente vai conversar sobre a possibilidade de início de diálise. Porque o doutor Leandro vai estar aqui. Aí ele vai conversar com você, tá bom? Está precisando da
 MÉDICA: Você está conseguindo pegar a hidralazina?
 PACIENTE: A hidralazina eu até comprei a caixinha, porque a hora que ele liberar, se ele tiver a caixinha, ele não te dá.

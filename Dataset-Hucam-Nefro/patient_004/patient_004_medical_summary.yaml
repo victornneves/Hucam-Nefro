@@ -6,10 +6,15 @@
       - Refere ainda ter administrado 6 ampolas do Noripurum.
       - Traz Doppler de membros superiores (04/11/24).
     hipoteses_diagnosticas: 
-      estagio_drc: G4 — TFGe 23 ml/min (CR 2,18 - 06/12/24
+      # estagio_drc: G4 — TFGe 23 ml/min (CR 2,18 - 06/12/24)
+      estagio_drc:
+        grau: 4
+        albuminuria: 
+        funcao_rim_atual: 
+          valor: 23 ml/min/1.73m²
       etiologia_doença_de_base: Nefropatia relacionada ao diabetes?
       admissao:
-        data: 26/09/24'
+        data: 26/09/24
     historico_patologico_pregresso: 
       - "DM (há mais de 10 anos) - Sem seguimento com endocrinologista"
       - "Retinopatia diabética - Realiza injeções anti-VEGF"
