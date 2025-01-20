@@ -1,11 +1,13 @@
 hipoteses_diagnosticas:
-    estagio_drc:
-        idade_paciente: 65 anos
-        sexo_paciente: Masculino
-        creatinina: 2.37 mg/dL
-        grau: 4
-        albuminuria: 3
-        funcao_rim_atual: 32.67 ml/min/1.73m²
-    etiologia_doença_de_base: Diabetes Mellitus tipo 2
-conduta: Continuar com o plano de tratamento atual. O paciente deve consultar um nutricionista e retornar ao médico se sentir alguma pressão baixa. O próximo check-up agendado para abril. Se o paciente ficar sem medicamentos, deve informar ao médico para obter uma nova receita.
-impressão: O paciente está progredindo bem com o tratamento atual. Ele tem que continuar com a medicação e a dieta prescritas. O CKD está na fase 4 e precisa de monitoramento regular.
+  estagio_drc:
+    idade_paciente: 65 anos
+    sexo_paciente: Masculino
+    creatinina: 2.37 mg/dL
+    grau: 4
+    albuminuria: 
+    funcao_rim_atual: 24.23 ml/min/1.73m²
+  etiologia_doença_de_base: Diabetes Mellitus tipo 2 insulino-dependente
+conduta:
+  - Paciente orientado a agendar consulta com nutricionista. Manter medicamentos atuais. Siga com os tratamentos para hipertensão e diabetes. Deverá retornar para acompanhamento em abril. Caso apresente queixas de hipotensão ou qualquer outro sintoma, contatar cardiologista. Não necessita de novas receitas ou exames laboratoriais por ora, exceto prescrições já vigentes.
+impressão:
+  - Paciente estável, controle eficaz dos níveis de pressão arterial e glicemia. Seguir com abordagem multidisciplinar para otimizar controle metabólico e hipertensivo, evitar progressão da doença renal crônica.

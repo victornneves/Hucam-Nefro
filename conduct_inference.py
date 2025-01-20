@@ -2,7 +2,6 @@ import os
 from openai import OpenAI
 import dotenv
 import yaml
-from datetime import datetime
 
 
 dotenv.load_dotenv()
@@ -121,21 +120,29 @@ def condense_dialog(dialog):
 
 def derive_outputs(condensed_dialog, summary_fields):
     """Derives diagnosis hypothesis, clinical impression, and conduct from provided inputs."""
-    today_date = datetime.now().strftime("%d/%m/%Y")
-
     # Define the prompt
     derive_prompt = (
-        f"dates are provided in the format day/month/year. Please mind this. Nowhere the date is month/day/year. The most recent exam refers to the exam closest to today's date 01/01/2025.\n"
+        f"IMPORTANT: Dates are always in the format day/month/year. For example, '09/12/2025' means the 9th of January, 2024. "
         f"Using the provided medical consultation summary and patient file information, "
         f"generate the following outputs:\n"
         f"1. Diagnosis Hypothesis\n"
-        f"The diagnosis hypothesis should include the patient's current stage of chronic kidney disease (CKD), the current renal function, and the etiology of the disease.\n"
-        f"- The current renal function can be calculated using the CKD-EPI formula. The results can be stage 1, 2, 3a, 3b, 4, or 5.\n"
-        f"- For the CKD-EPI formula, use the patient's age and gender from the 'Patient Identification' section and the creatinine level from the most recent exam from the 'Lab Exams' section.\n"
-        f"- If the creatinine data is older than 2 (two) months, state that the diagnosis is uncertain due to outdated exams. Rember the date format: day/month/year.\n"
-        f"- You should use only the latest creatinine level for the CKD stage calculation. The dates in the exam are in formath day/month/year. The most recent exam refers to the exam closest to today's date (01/01/2025). Do not estimate a floating value; calculate an exact result using the formula.\n"
+        f"The diagnosis hypothesis should include the patient's current stage of chronic kidney disease (CKD) the current renal function, and the etiology of the disease.\n"
+        f"- The current renal function CURRENT_RENAL_FUNCTION can be calculated using the CKD-EPI formula. The results can be stage 1, 2, 3a, 3b, 4, or 5.\n"
+        f"- For the CKD-EPI formula, use the patient's age and gender from the 'Patient Identification' section\n"
+        f"- The creatinine level from the MOST RECENT exam from the 'Lab Exams' section. It should be as 'Cr' or similar\n"
+        f"The formula is as follows: CKD-EPI Creatinine = 142 × (Scr / A)^B × 0.9938^age × (1.012 if female). \n"
+        f"Where the constants A and B depend on the patient's gender and serum creatinine (Scr) level: \n"
+        f"- For females: \n"
+        f"  - If Scr ≤ 0.7: A = 0.7, B = -0.241. \n"
+        f"  - If Scr > 0.7: A = 0.7, B = -1.2. \n"
+        f"- For males: \n"
+        f"  - If Scr ≤ 0.9: A = 0.9, B = -0.302. \n"
+        f"  - If Scr > 0.9: A = 0.9, B = -1.2. \n"
+        f"Use this formula to calculate the GFR accurately, considering the patient's age, sex, and most recent serum creatinine value.\n"
+        f"\n"
+        f"- The dates in the exam are in format day/month/year. The MOST RECENT exam refers to the exam closest to today's date (01/01/2025). Calculate an exact result using the CKD-EPI formula.\n"
+        f"- From the CURRENT_RENAL_FUNCTION, determine the stage of CKD (STAGE_OF_CKD). Which is one of1, 2, 3, 3b, 4, 5\n"
         f"- The albuminuria can be calculated using the albumin/creatinine ratio from the laboratory exams. If these values are not present, leave it blank.\n"
-        f"- If the CKD level cannot be inferred, explain why (e.g., missing updated laboratory exams).\n"
         f"\n"
         f"2. Clinical Impression\n"
         f"3. Conduct\n"
@@ -150,21 +157,14 @@ def derive_outputs(condensed_dialog, summary_fields):
                 idade_paciente: XX anos
                 sexo_paciente: XXX
                 creatinina: XX mg/dL
-                grau: one of 1, 2, 3, 3b, 4, 5 (put here just the value, do not write anything else)
-                albuminuria: one of 1, 2, 3 (put here just the value, do not write anything else)
-                funcao_rim_atual: XX ml/min/1.73m² (put here just the value and the unit, do not write anything else)
+                grau: STAGE_OF_CKD (put here just the value, do NOT write anything else)
+                albuminuria: one of 1, 2, 3 (put here just the value, do NOT write anything else)
+                funcao_rim_atual: CURRENT_RENAL_FUNCTION in ml/min/1.73m² (put here just the value and the unit, do NOT write anything else)
             etiologia_doença_de_base: XXX
-        conduta: XXX
-        impressão: XXX
-        
-        If you can't infer the CKD stage, because the creatinine data is older than 2 months (remember the date format), put:
-        hipoteses_diagnosticas:
-            estagio_drc: Incerto. (Escreva aqui o Motivo, mas dê uma tentativa de diagnóstico)
         conduta: XXX
         impressão: XXX
         """
     )
-
 
     concatenated_info = (
         f"Condensed Dialog:\n{condensed_dialog}\n\n"
@@ -178,7 +178,7 @@ def derive_outputs(condensed_dialog, summary_fields):
 
     try:
         response = client.chat.completions.create(
-            model="gpt-4",
+            model="gpt-4o",
             messages=[
                 {"role": "system", "content": derive_prompt},
                 {"role": "user", "content": concatenated_info},
@@ -259,8 +259,8 @@ def save_results(patient_id, condensed_dialog, outputs):
 
 
 def main():
-    for patient_id in [2]:
-    # for patient_id in range(1, 17):  # Process all patients
+    # for patient_id in [2]:
+    for patient_id in range(1, 17):  # Process all patients
         print(f"Processing patient {patient_id}...")
         process_patient(patient_id, load_condensed=True)
 

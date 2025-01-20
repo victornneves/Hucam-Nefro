@@ -81,4 +81,5 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Mantenho medicações
     - Solicito exames labs para próxima consulta
     - Retorno no amb de nefrologia geral.
-  impressão: 'Paciente portador de DRC de etiologia diabética cardiorrenal, aguardando consulta com nutricionista, sem alterações osteometabólicas. Função renal estável.'
+  impressão:
+    - 'Paciente portador de DRC de etiologia diabética cardiorrenal, aguardando consulta com nutricionista, sem alterações osteometabólicas. Função renal estável.'

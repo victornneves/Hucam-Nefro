@@ -1,11 +1,13 @@
 hipoteses_diagnosticas:
     estagio_drc:
         idade_paciente: 60 anos
-        sexo_paciente: masculino
+        sexo_paciente: Masculino
         creatinina: 3,3 mg/dL
         grau: 4
         albuminuria: 3
-        funcao_rim_atual: Incerto. (A creatinina está desatualizada, data de 08/10/2024) 
-    etiologia_doença_de_base: Diabetes Tipo 2 e HAS
-conduta: O paciente deverá continuar com suas medicações prescritas, incluindo Losartana 50mg 1-0-1, Anlodipino 5mg 1-0-1, Sinvastatina 20mg 0-0-2, Omeprazol 20mg 1-0-0, Domperidona 10mg 0-1-1, AAS 100mg 0-1-0, Insulina NPH 36 UI manhã e 16 UI à noite. Além disso, ele deverá realizar novos exames de sangue e urina para avaliação da função renal atual. O paciente deverá ser reavaliado em 1 mês ou mais cedo se houver alguma alteração no seu estado de saúde.
-impressão: Paciente com histórico de HAS, diabetes Tipo 2, tuberculose pulmonar e câncer hipofisário. Atualmente, apresenta sintomas sugestivos de doença renal crônica avançada e anemia. Além disso, possui sinais de depressão, possivelmente relacionados aos seus problemas crônicos de saúde. O controle adequado de suas condições coexistentes, além do manejo cuidadoso de sua doença renal, é essencial para melhora do quadro geral do paciente.
+        funcao_rim_atual: 21.22 ml/min/1.73m²
+    etiologia_doença_de_base: Diabetes tipo 2 e hipertensão arterial sistêmica
+conduta: 
+    - O paciente deve continuar com o tratamento atual, especialmente com foco no controle da pressão arterial e do diabetes. É importante aderir ao uso da Losartana, ajustado para uma vez ao dia, e introduzir a Hidralazina para manter a pressão arterial em níveis adequados. Ciprofibrato deve ser tomado à noite por três meses, além do Alprazolam pela manhã. O monitoramento da glicose é crucial devido ao histórico de hipoglicemia. Novos exames de sangue, incluindo funções renais e Doppler para artérias renais, devem ser agendados. Recomenda-se que a próxima consulta seja marcada em 3 meses. O paciente deve estar atento a sinais de piora como aumento da falta de ar e edema nas pernas, necessitando de acompanhamento médico imediato se surgirem.
+impressão: 
+    - O paciente apresenta doença renal crônica estágio 4, associada principalmente a diabetes mellitus tipo 2 e hipertensão arterial sistêmica, com albuminúria significativa. O quadro de saúde tem impacto significativo em seu bem-estar psicológico, aumentando a necessidade de suporte e acompanhamento médico contínuo. A adesão ao tratamento é crucial para evitar progressão para necessidade de diálise.

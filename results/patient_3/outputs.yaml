@@ -1,11 +1,13 @@
 hipoteses_diagnosticas:
-  estagio_drc:
-    idade_paciente: 72 anos
-    sexo_paciente: Masculino
-    creatinina: 5,44 mg/dL
-    grau: 5
-    albuminuria: 
-    funcao_rim_atual: 15 ml/min/1.73m²
-  etiologia_doença_de_base: Hipertensão Arterial e Diabetes Mellitus
-conduta: Encaminhar o paciente para a Dra. Marta para monitorar a Insulina. Ajustar a Losartana para um comprimido no café da manhã, dois no almoço e um no jantar. Adicionar Clonidina à rotina de medicamentos. Monitorar a pressão arterial e o nível de glicose. Pedir ao paciente que continue seguindo a dieta e que mantenha a ingestão de carne gorda limitada. Agendar consulta de acompanhamento para verificar a resposta ao tratamento com Clonidina e ajustes na Losartana em dois meses.
-impressão: Paciente com Hipertensão e Diabetes Mellitus, mal controlada, resultando em Doença Renal Crônica estágio 5. A creatininemia está alta e a função renal está decorrente. Os ajustes na medicação e os passos seguintes devem levar em consideração as interações medicamentosas e o estado grave do rim do paciente.
+    estagio_drc:
+        idade_paciente: 72 anos
+        sexo_paciente: Masculino
+        creatinina: 5,44 mg/dL
+        grau: 4
+        albuminuria: 
+        funcao_rim_atual: 15.98 ml/min/1.73m²
+    etiologia_doença_de_base: Hipertensão Arterial Sistêmica (HAS) e Diabetes Mellitus (DM)
+conduta:
+    - "Ajustar a medicação conforme a seguir: continuar com Noripurum a cada 15 dias, adicionar Clonidina à rotina de medicamentos, ajustar Losartana para um comprimido no café da manhã, dois no almoço, e um no jantar. Manter todos os outros medicamentos prescritos. Reforçar a necessidade de manter a dieta, especialmente quanto à ingestão de carne gorda. Retornar para nova consulta em 2 meses, trazendo resultados de novos exames laboratoriais para reavaliação do quadro renal e controle dos níveis pressóricos."
+impressão:
+    - "Paciente com hipertensão e diabetes, ambos de controle subótimo, apresentando quadro de doença renal crônica em estágio 4 com recomendação para ajuste terapêutico e seguimento em dois meses."

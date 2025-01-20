@@ -1,11 +1,13 @@
 hipoteses_diagnosticas:
     estagio_drc:
         idade_paciente: 76 anos
-        sexo_paciente: Masculino
-        creatinina: 1,85 mg/dL
-        grau: 4
-        albuminuria: 
-        funcao_rim_atual: 22 ml/min/1.73m²
-    etiologia_doença_de_base: Diabetes Mellitus, Tabagismo
-conduta: Manter atual tratamento com medicamentos. Iniciar tratamento com Sinvastatina e monitorar possíveis dores musculares. Manter dieta adequada. O paciente deve realizar os exames solicitados e trazê-los para a próxima consulta.
-impressão: Paciente com doença renal crônica em estágio 4, causada provavelmente por diabetes e tabagismo. A presença de úlcera antral e duodenal também contribuem para o estado de saúde do paciente. A função renal atualmente está estável. É necessário monitoramento contínuo.
+        sexo_paciente: masculino
+        creatinina: 1.85 mg/dL
+        grau: 3
+        albuminuria: 2
+        funcao_rim_atual: 40.6 ml/min/1.73m²
+    etiologia_doença_de_base: DM e HA
+conduta:
+    - O paciente deve continuar com os medicamentos prescritos= Omeprazol, Anlodipino, Insulina NPH, e iniciar o uso de Sinvastatina para controlar o colesterol. Instruções sobre dieta e atenção aos sinais de dor muscular como possível efeito colateral da Sinvastatina foram dadas. O paciente deve retornar para acompanhamento em 4 meses. Durante a próxima consulta, trazer os resultados dos exames laboratoriais. Será planejado encaminhamento para o exame esperado a ser marcado pelo sistema de saúde. Não houve necessidade de ajustes maiores na medicação atual.
+impressão:
+    - O paciente está estável e adere ao plano de tratamento. Risco moderado de progressão da DRC devido à combinação de fatores de saúde pré-existentes, mas controlados com medicação e cuidados contínuos.

@@ -1,0 +1,29 @@
+\begin{table*}[h]
+    \centering
+    \caption{Metrics for Diagnosis - CKD Stage and Etiology}
+    \begin{tabular}{lccclc}
+        \toprule
+        & \multicolumn{1}{c}{\textbf{CKD Stage}} & \multicolumn{1}{c}{\textbf{Etiology}}  & \multicolumn{1}{c}{\textbf{Etiology}} & \multicolumn{1}{c}{\textbf{CKD Stage}} & \multicolumn{1}{c}{\textbf{Cosine}}           \\
+\textbf{Patient}    & \multicolumn{1}{c}{\textbf{Actual}}    & \multicolumn{1}{c}{\textbf{Predicted}} & \multicolumn{1}{c}{\textbf{Predicted}} & \multicolumn{1}{c}{\textbf{Predicted}} & \multicolumn{1}{c}{\textbf{Similarity (MMS)}} \\
+\toprule
+    1  & 4   & 4   & Diabetes Mellitus Tipo 2 e HAS                & Doença renal do diabetes; nefroesclerose hipertensiva     & 0.93 \\
+    2  & 3a  & 3a  & Miocardiopatia dilatada de [...] alcoólica    & Indeterminada (cardiorrenal? nefropatia diabética?)       & 0.91 \\
+    3  & 5   & 4   & Hipertensão Arterial Sistêmica e Diabetes     & Nefropatia diabética                                      & 0.89 \\
+    4  & 4   & 4   & Hipertensão arterial e diabetes mellitus      & Nefropatia relacionada ao diabetes?                      & 0.89 \\
+    5  & 4   & 4   & Diabetes Mellitus tipo 2                      & DRD                                                      & 0.76 \\
+    6  & NaN & NaN & DM e HA                                       & DRC com LRA durante a HDA                                & 0.78 \\
+    7  & NaN & NaN & Hipertensão e Diabetes Mellitus               & CKD-EPI 29 ml/min/1.73 m² em julho/24                    & 0.80 \\
+    8  & 3b  & 3b  & Etiologia isquêmica                           & Síndrome cardiorrenal                                    & 0.88 \\
+    9  & 3b  & 4   & Diabetes Mellitus tipo 2 [...]                & DRD (Doença Renal Diabética)                             & 0.81 \\
+    10 & 4   & 4   & Lúpus e cistos renais Bosniak II              & Nefrite Lúpica                                           & 0.89 \\
+    11 & 5   & 5   & Hipertensão arterial sistêmica crônica        & Nefropatia por IgA? Doença de membrana fina?             & 0.93 \\
+    12 & 4   & 4   & Diabetes Mellitus e Nefrolitíase bilateral    & NaN                                                      & 0.58 \\
+    13 & 5   & 4   & Câncer de células com nefrectomia direita     & HAS / Rim único [...].                                   & 0.96 \\
+    14 & 3b  & 3b  & Sequela de orquiectomia e quimioterapia       & Nefrotoxicidade pós-QT                                   & 0.96 \\
+    15 & 4   & 4   & Lúpus Eritematoso Sistêmico e HAS             & Nefrite Lúpica (NL IV - biópsia renal agosto de 2015)    & 0.92 \\
+    16 & 4   & 4   & Diabetes tipo 2 e HAS                         & Doença renal do diabetes                                 & 0.91 \\
+    \bottomrule
+    \end{tabular}
+    \label{tab:ckd_metrics}
+    \end{table*}
+    

@@ -2,10 +2,12 @@ hipoteses_diagnosticas:
     estagio_drc:
         idade_paciente: 87 anos
         sexo_paciente: Masculino
-        creatinina: 2,16 mg/dL
+        creatinina: 2.16 mg/dL
         grau: 4
-        albuminuria: Indefinido. (Falta de dados para calcular a albuminúria)
-        funcao_rim_atual: Indefinido. (Data dos exames antiga)
-    etiologia_doença_de_base: HAS, DM
-conduta: Interromper o uso do ácido fólico até a análise dos exames e seguir nova prescrição médica. Diminuir a glicose para um comprimido antes do almoço e do jantar. Agendar consulta para 7 de fevereiro e refazer exames.
-impressão: O paciente está em estágio avançado da doença renal crônica (estágio 4) com anemia associada. Evidência de insuficiência cardíaca também está presente. A creatinina, se bem que um pouco elevada, é consistente com o estágio 4 da DRC.
+        albuminuria: 
+        funcao_rim_atual: 27.86 ml/min/1.73m²
+    etiologia_doença_de_base: Hipertensão e Diabetes Mellitus
+conduta: 
+    - Recomenda-se continuar monitorando a glicemia regularmente e seguir a nova prescrição médica. Suspender o ácido fólico após acabar o suprimento em casa e descontinuar o uso de sulfato ferroso conforme indicado. Coordenar a remarcação dos exames laboratoriais pendentes e agendar consulta de acompanhamento para 07 de fevereiro de 2025. Realizar novos exames de sangue, conforme recomendado pela médica, e adicionar à análise do hemograma. Reduzir a glicose para um comprimido antes do almoço e jantar. Informações sobre os medicamentos devem ser trazidas para próxima consulta.
+impressão: 
+    - O paciente apresenta artrose, anemia e doença renal crônica estágio 4, agravada por hipertensão e diabetes mellitus. Houve relatos de reações adversas a cuidados médicos prévios, o que resultou em insatisfação do paciente e de seu acompanhante. O quadro clínico é acompanhado de dor no braço possivelmente devido a ruptura de tendão e na perna devido à artrose. A condição renal piorou após infecção anterior, mas houve recuperação. Monitoramento cuidadoso de condições hematológicas e alterações na medicação são essenciais para a gestão eficaz do caso.
