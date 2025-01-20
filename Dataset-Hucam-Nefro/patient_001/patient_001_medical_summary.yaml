@@ -8,9 +8,9 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Permanece sedentário.
   hipoteses_diagnosticas:
     estagio_drc:
-      grau: 3b
+      grau: 4
       albuminuria: 1
-      funcao_rim_atual: 36 ml/min/1.73m²
+      funcao_rim_atual: 28 ml/min/1.73m²
     etiologia_doença_de_base: Doença renal do diabetes; nefroesclerose hipertensiva
     admissao: 
       data: 07/03/24
@@ -116,4 +116,4 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Seguimento conjunto com cirurgia vascular - realizou Doppler de carotidas > trazer no retorno
     - Escolha método= DP - avaliação acima
     - Retorno em 3 meses'
-  impressão: ''
+  impressão:

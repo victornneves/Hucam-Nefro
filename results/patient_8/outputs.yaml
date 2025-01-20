@@ -1,10 +1,22 @@
 hipoteses_diagnosticas:
-  estagio_drc:
-    idade_paciente: 62 anos
-    sexo_paciente: Feminina
-    creatinina: 1.4 mg/dL
-    grau: 3a
-    funcao_rim_atual: 41.46 ml/min/1.73m²
-  etiologia_doenca_de_base: Insuficiência Cardíaca
-conduta: A paciente deve manter o uso prescrito de seus medicamentos, ajustando as doses conforme as orientações médicas. Deve continuar os check-ups regulares com o cardiologista e seguir uma dieta pobre em proteínas e limitada em líquidos para preservar a função renal. Espera-se que ela marque uma consulta em 3 meses para verificar a eficácia do tratamento.
-impressão: A paciente apresenta doença renal crônica estágio 3a devido a insuficiência cardíaca. Relatou sintomas de cansaço e falta de disposição, indicando a necessidade de ajuste no tratamento. 
+    estagio_drc:
+        idade_paciente: 62 anos
+        sexo_paciente: Feminino
+        creatinina: 1.4 mg/dL
+        grau: 3b
+        albuminuria: 
+        funcao_rim_atual: 42.23 ml/min/1.73m²
+    etiologia_doença_de_base: Etiologia isquêmica
+conduta: 
+  - Ajustar dosagem de Furosemida e Espironolactona conforme necessário para melhorar sintomas de insuficiência cardíaca e reduzir edema.
+  - Continuar monitoramento mensal da função cardíaca e renal.
+  - Consultar cardiologista em 22/01/2025 para possíveis ajustes na medicação relacionada ao coração.
+  - Manter consulta de retorno com nefrologista em 3 meses para nova avaliação do estado renal.
+  - Verificar necessidade de suplementação de oxigênio com cardiologista ou pneumologista.
+  - Limitar a ingestão diária de água a 860 ml.
+  - Dieta, Evitar excesso de proteínas e reduzir consumo de Coca-Cola.
+  - Buscar assistência médica imediata em caso de sintomas agudos como dores fortes no peito ou falta de ar significativa.
+  - Considerar suporte psicológico para ansiedade e orientação sobre relaxamento.
+  - Continuar uso da medicação atual, ajustado conforme as necessidades específicas da paciente.
+impressão:
+  - Insuficiência cardíaca descompensada, potencial complicação renal crônica estágio 3b, hipertensão arterial sistêmica, necessidade de contínuo ajuste terapêutico e suporte multidisciplinar.

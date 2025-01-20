@@ -95,4 +95,5 @@ relatorio_consulta_ambulatorial_nefrologia:
     - "Mantenho sinvastatina 40 mg à noite."
     - "Reencaminho à nutricionista para acompanhamento conjunto."
     - "Retorno em 3 meses."
-  impressão: "Paciente com hipertensão e diabetes mellitus tipo 2 desde 2007, insulinizada, referiu melhora dos sintomas respiratórios nos últimos quatro meses. História anterior de sepse urinária e tratamento de ITU."
+  impressão: 
+    - "Paciente com hipertensão e diabetes mellitus tipo 2 desde 2007, insulinizada, referiu melhora dos sintomas respiratórios nos últimos quatro meses. História anterior de sepse urinária e tratamento de ITU."

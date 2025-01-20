@@ -1,16 +1,15 @@
 hipoteses_diagnosticas:
-  estagio_drc:
-    idade_paciente: 64 anos
-    sexo_paciente: Feminino
-    creatinina: 3,02 mg/dL
-    grau: 4
-    albuminuria: 2
-    funcao_rim_atual: 15.0 ml/min/1.73 m²
-  etiologia_doença_de_base: Nefropatia crônica originada por fibromialgia e cistos renais Bosniak II
+    estagio_drc:
+        idade_paciente: 64 anos
+        sexo_paciente: Feminina
+        creatinina: 3,02 mg/dL
+        grau: 4
+        albuminuria: 3
+        funcao_rim_atual: 18.71 ml/min/1.73m²
+    etiologia_doença_de_base: Lúpus e cistos renais Bosniak II
+
 conduta: 
-  - Ajuste da medicação Tramadol para controle da dor caso necessário.
-  - Continuar com o tratamento atual e tomar a medicação como prescrito.
-  - Próxima consulta marcada para Março 2025.
-  - Novos exames de laboratório, especificamente o nível de creatinina, devem ser solicitados para monitorar a função renal.
+    - Ajuste da medicação para Tramadol conforme necessidade para controle da dor. Continuar com a medicação prescrita, incluindo Sevelamer para controle de fósforo, e acompanhamento da pressão arterial. Agendar nova consulta em 3 meses, com indicação de novos exames laboratoriais para controle da função renal, eletrólitos e hemograma.
+
 impressão: 
-  Paciente apresenta estágio avançado de doença renal crônica secundária à fibromialgia e cistos renais Bozniak II. A dor óssea persistente é uma preocupação e pode exigir ajustes na medicação para controle adequado da dor. A paciente foi encorajada a continuar com o tratamento atual e tomar a medicação conforme indicado.
+    - Paciente em tratamento para nefropatia crônica com estágio 4 de doença renal crônica secundária a lúpus e presença de cistos renais. Sintomas de dor óssea controlados com Tramadol quando necessário. Monitoração e controle de fatores de risco cardiovascular e complicações associadas ao estágio avançado de DRC são fundamentais.

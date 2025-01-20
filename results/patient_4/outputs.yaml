@@ -1,11 +1,23 @@
 hipoteses_diagnosticas:
     estagio_drc:
         idade_paciente: 75 anos
-        sexo_paciente: feminina
+        sexo_paciente: Feminino
         creatinina: 2,18 mg/dL
-        grau: 
+        grau: 4
         albuminuria: 
-        funcao_rim_atual: 
-    etiologia_doença_de_base: Doença Renal Crônica secundária devido ao Diabetes Mellitus e Hipertensão Arterial Sistêmica.
-conduta: A paciente deve continuar com o tratamento atual, com ajustes. Duplicou a dose de bicarbonato para duas colheres por dia. Adicionado amlodipino para controle da pressão arterial. A paciente deve tomar 50.000 unidades de vitamina D uma vez por semana durante oito semanas e, em seguida, uma vez por mês até a próxima consulta. Exames de sangue e urina foram organizados para a paciente.
-impressão: A paciente tem apresentado queixa de cansaço e dor, com presença de edema e a anemia precisa ser controlada. A doença renal da paciente permanece estáveis ​​com a creatinina e o nível de ureia sendo monitorados. A pressão arterial da paciente e o diabetes também estão sendo controlados. A equipe médica irá monitorar a situação e ajustar o medicamento conforme necessário.
+        funcao_rim_atual: 17,16 ml/min/1.73m²
+    etiologia_doença_de_base: Hipertensão arterial e diabetes mellitus
+conduta: 
+    - Retomar o uso de vitamina D e sulfato ferroso
+    - Monitoramento constante para controlar pressão arterial e função renal
+    - Realizar exames antes do mapeamento para diálise
+    - Revisão e possível ajuste na medicação pressionada especialmente a dosagem de diuréticos e ajustar a insulina conforme necessário
+    - Recomendar dieta adequada para pacientes com doença renal crônica
+    - Iniciar mapeamento dos vasos do braço para hemodiálise
+    - Monitorar sinais de confusão mental
+    - Próxima consulta em 3 meses
+    - Realizar exames de sangue e urina antes da próxima consulta
+impressão: 
+    - Paciente com função renal gravemente comprometida, estágio 4 de doença renal crônica
+    - Controle atual da diabetes efetivo, mas necessidade de ajustes adicionais para pressão alta
+    - Preparação iniciada para diálise, preferência por hemodiálise

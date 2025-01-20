@@ -1,19 +1,19 @@
 hipoteses_diagnosticas:
     estagio_drc:
         idade_paciente: 57 anos
-        sexo_paciente: Feminina
+        sexo_paciente: Feminino
         creatinina: 2.08 mg/dL
         grau: 4
-        albuminuria: 
-        funcao_rim_atual: 27 ml/min/1.73m²
-    etiologia_doença_de_base: Diabetes Tipo 2 e Hipertensão arterial
+        albuminuria: 1
+        funcao_rim_atual: 24.47 ml/min/1.73m²
+    etiologia_doença_de_base: Diabetes Mellitus tipo 2
 conduta: 
-    - Continuar medicamentos atuais, sendo eles: Losartana, Atenolol, Anlodipino, Furosemida, Levotiroxina, Sinvastatina, Carbonato de cálcio + Vitamina D, Colecalciferol, Dapagliflozina, Sulfato ferroso e Insulina NPH.
-    - Modulação na dosagem de Insulina regular antes das refeições, dependendo do nível de glicemia.
-    - Monitoramento regular dos níveis de potássio após a introdução da Losartana.
-    - Consulta com pneumologista para observação de possível bronquite.
-    - Continuação de Carbonato de Cálcio agora com dosagem 2,2.
-    - Encaminhamento para nutricionista.
-    - Ecocardiograma e teste de caminhada com oxigenação para investigação de problemas cardiovasculares.
-    - Verificação das medicações corretas e retorno previsto daqui a três meses. 
-impressão: A paciente apresenta Doença Renal Crônica (DRC) de estágio 4, com função renal estável mas comprometida e história longa de diabetes, que é a provável causa da DRC. A paciente está sob controle médico para várias condições coexistentes, incluindo hipertensão, diabetes e dislipidemia, e também é monitorada para possíveis complicações da DRC. A função renal da paciente é monitorada regularmente e os ajustes de medicamentos têm-se mostrado eficazes até o momento. A conduta imediata é para manutenção do regime de medicamentos atual, juntamente com o seguimento contínuo e próximo para monitorar a eficácia e fazer ajustes, se necessário. A equipe médica, também, deve ficar atenta a sintomas de outras condições, como problemas respiratórios e de tiroide, pois têm potencial para influenciar o quadro geral de saúde do paciente.
+  - Continuar monitoramento regular dos níveis de creatinina, potássio e glicemia.
+  - Ajustar medicamentos conforme a necessidade, com atenção especial aos níveis de PTH e função cardiovascular.
+  - Aumentar a dose de carbonato de cálcio para 2,2,2 conforme discutido.
+  - Realizar ecocardiograma e teste de caminhada com oxigenação para investigação adicional do comprometimento cardiovascular.
+  - Encaminhamento para pneumologista para avaliação da condição respiratória.
+  - Avaliação nutricional com ênfase na adequação do fósforo na dieta.
+  - Agendar retorno para acompanhamento em três meses.
+impressão:
+  - A paciente apresenta insuficiência renal crônica estágio 4, provavelmente devido ao longo histórico de Diabetes Mellitus tipo 2. A função renal está estável, com sinais de comprometimento cardiovascular e osteoporose, exigindo ajustes na medicamentação e acompanhamento rigoroso.
