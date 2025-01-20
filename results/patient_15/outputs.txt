@@ -1,0 +1,8 @@
+hipoteses_diagnosticas:
+    estagio_drc:
+        grau: '5'
+        albuminuria: '680,6 mg/L'
+        funcao_rim_atual: '14 ml/min/1.73m²'
+    etiologia_doença_de_base: 'HAS, LES'
+conduta: "Orientou-se paciente a continuar medicamentação já prescrita incluindo a Alfapoetina e manter o controle do fósforo, destacando-se a importância do corretor de fósforo Sevelamer para substituir o carbonato de cálcio. Discutiu-se possível necessidade de ultrassom mais detalhado com altos níveis de fósforo. Orientou-se também o cuidado na alimentação e monitoramento da creatinina. Instruções adicionais incluem aplicar vaselina duas vezes ao dia na fístula, tomar Valsartana antes do café da manhã e entrar em contato imediatamente em caso de piora dos sintomas. Finalmente, orientou-se a marcação de novos exames e consulta de retorno, mantendo-se a necessidade de monitoramento próximo das condições do paciente."
+impressão: "Paciente com doença renal crônica estável em estágio 5 com comprometimento da função renal, possivelmente secundário a doenças como HAS e LES. Apresenta, ainda, sinais de problemas dermatológicos e fadiga, além do coronavírus, que podem complicar ainda mais seu quadro de saúde. Por outro lado, demonstra bom entendimento e seguimento das orientações médicas, o que é fundamental para evitar deterioração mais rápida de sua condição de saúde."

@@ -8,8 +8,7 @@ relatorio_consulta_ambulatorial_nefrologia:
     estagio_drc:
       grau: 4
       albuminuria: 
-      funcao_rim_atual: 
-        valor: 17 ml/min/1.73m²
+      funcao_rim_atual: 17 ml/min/1.73m²
     etiologia_doença_de_base: Nefrite Lúpica - Diagnóstico em 2012
     admissao:
       data: 2013
@@ -84,9 +83,9 @@ relatorio_consulta_ambulatorial_nefrologia:
   conduta:
     - Como houve melhora da função renal e dada a situação de 2 FAVs colocadas e inutilizadas, opto por não indicar FAV ainda (família muito reticente e no momento se nega a fazer FAV).
     - PermCath em caso de entrada súbita em TRS.
-    - Progressão: Opto por manter sem IECA/BRA devido à TRS.
-    - Anemia: Perfil de ferro adequado, sem critérios para iniciar EPO (exame set/24).
-    - DMO: Mantenho Sevelamer. Paciente já com dose otimizada nas principais refeições.
+    - "Progressão: Opto por manter sem IECA/BRA devido à TRS."
+    - "Anemia: Perfil de ferro adequado, sem critérios para iniciar EPO (exame set/24)."
+    - "DMO: Mantenho Sevelamer. Paciente já com dose otimizada nas principais refeições."
     - Aumento da dose de Sinvastatina (paciente com dificuldade de comprar Atorvastatina).
     - Retorno em 2 meses.
   impressão:

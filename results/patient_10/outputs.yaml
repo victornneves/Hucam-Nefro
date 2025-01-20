@@ -1,0 +1,16 @@
+hipoteses_diagnosticas:
+  estagio_drc:
+    idade_paciente: 64 anos
+    sexo_paciente: Feminino
+    creatinina: 3,02 mg/dL
+    grau: 4
+    albuminuria: 2
+    funcao_rim_atual: 15.0 ml/min/1.73 m²
+  etiologia_doença_de_base: Nefropatia crônica originada por fibromialgia e cistos renais Bosniak II
+conduta: 
+  - Ajuste da medicação Tramadol para controle da dor caso necessário.
+  - Continuar com o tratamento atual e tomar a medicação como prescrito.
+  - Próxima consulta marcada para Março 2025.
+  - Novos exames de laboratório, especificamente o nível de creatinina, devem ser solicitados para monitorar a função renal.
+impressão: 
+  Paciente apresenta estágio avançado de doença renal crônica secundária à fibromialgia e cistos renais Bozniak II. A dor óssea persistente é uma preocupação e pode exigir ajustes na medicação para controle adequado da dor. A paciente foi encorajada a continuar com o tratamento atual e tomar a medicação conforme indicado.

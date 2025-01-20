@@ -10,8 +10,7 @@
       estagio_drc:
         grau: 4
         albuminuria: 
-        funcao_rim_atual: 
-          valor: 23 ml/min/1.73m²
+        funcao_rim_atual: 23 ml/min/1.73m²
       etiologia_doença_de_base: Nefropatia relacionada ao diabetes?
       admissao:
         data: 26/09/24

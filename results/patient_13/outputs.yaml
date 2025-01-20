@@ -1,0 +1,11 @@
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 67 anos
+        sexo_paciente: Feminino
+        creatinina: 4.2 mg/dL
+        grau: 5
+        albuminuria: N/A
+        funcao_rim_atual: 11 ml/min/1.73m²
+    etiologia_doença_de_base: nefrectomia direita em 2010, por CA de células renais
+conduta: A paciente deve continuar o tratamento de diálise e seguir as orientações sobre alimentação para controlar os níveis de potássio. Também deve buscar apoio psicológico para lidar com o estresse e o medo do tratamento. Novos exames devem ser realizados em breve para acompanhar a evolução da doença renal. A próxima consulta está marcada para 23 de Janeiro.
+impressão: A paciente apresenta estresse e medo em relação ao tratamento de diálise, o que pode ter impacto no seu alcance do bem-estar e controle da doença renal. Além disso, a falta de controle sobre a alimentação e o alto nível de potássio são preocupantes. É necessário um acompanhamento próximo para monitorar a situação da paciente.

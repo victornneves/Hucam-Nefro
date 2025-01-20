@@ -14,7 +14,6 @@ relatorio_consulta_ambulatorial_nefrologia:
     admissao:
       data: 09/2021
       CLCR_admissao: 28 ml/min
-    sorologias_virais: Anti-HCV NR, Anti-HIV NR, HBsAg NR, Anti-HBg IgM NR (19/06/2023)
   historico_patologico_pregresso: 
     - HAS
     - DM
@@ -26,6 +25,7 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Internação 25/04/2022 - 04/05/2022 na AFPES por ICC descompensada + pneumonia + AVC (SIC)
     - Internação HDS 17/02/23 - 28/02/23 = Sepse foco abdominal
     - CVL
+    - sorologias_virais Anti-HCV NR, Anti-HIV NR, HBsAg NR, Anti-HBg IgM NR (19/06/2023)
   medicamentos_em_uso:
     - Furosemida 40mg 2cp manhã e 1 cp à tarde
     - AAS 100mg 1x/dia.

@@ -7,7 +7,7 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Nega demais sintomas.
   hipoteses_diagnosticas: 
     # estagio_drc: G4/A2
-    estagio_drc: 4
+    estagio_drc:
       grau: 4
       albuminuria: 2 
       funcao_rim_atual: 27 ml/min/1.73m²

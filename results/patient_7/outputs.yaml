@@ -1,0 +1,11 @@
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 87 anos
+        sexo_paciente: Masculino
+        creatinina: 2,16 mg/dL
+        grau: 4
+        albuminuria: Indefinido. (Falta de dados para calcular a albuminúria)
+        funcao_rim_atual: Indefinido. (Data dos exames antiga)
+    etiologia_doença_de_base: HAS, DM
+conduta: Interromper o uso do ácido fólico até a análise dos exames e seguir nova prescrição médica. Diminuir a glicose para um comprimido antes do almoço e do jantar. Agendar consulta para 7 de fevereiro e refazer exames.
+impressão: O paciente está em estágio avançado da doença renal crônica (estágio 4) com anemia associada. Evidência de insuficiência cardíaca também está presente. A creatinina, se bem que um pouco elevada, é consistente com o estágio 4 da DRC.

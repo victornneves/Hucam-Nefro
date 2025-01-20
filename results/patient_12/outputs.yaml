@@ -1,0 +1,11 @@
+hipoteses_diagnosticas:
+  estagio_drc:
+    idade_paciente: 67 anos
+    sexo_paciente: Feminino
+    creatinina: 2.68 mg/dL
+    grau: 4
+    albuminuria: 3
+    funcao_rim_atual: 15 ml/min/1.73m²
+  etiologia_doença_de_base: Doença renal cística.
+impressão: A paciente apresenta estágio 4 de doença renal crônica (DRC), com uma taxa de filtração glomerular estimada em 15 ml min/1.73m². Os principais fatores contribuintes para a DRC são nefrolitíase bilateral e diabetes. A albuminúria está no estágio 3, o que indica dano renal severo.
+conduta: A paciente deve continuar o tratamento atual para a DRC, que inclui controle rigoroso da pressão arterial e diabetes. A escolha do tratamento deve ser personalizada com base na taxa de progressão da doença renal, os efeitos colaterais do tratamento, a expectativa de vida do paciente e a preferência do paciente. Exames de laboratório devem ser realizados a cada 3 meses para monitorar a função renal e os níveis de potássio, cálcio e fósforo. É recomendado um encaminhamento para aconselhamento pré-diálise. A conduta adicional depende da evolução da doença renal.

@@ -12,10 +12,10 @@ relatorio_consulta_ambulatorial_nefrologia:
       albuminuria: 3
       funcao_rim_atual: 6 ml/min/1.73m²
     etiologia_doença_de_base: nefropatia por IgA? Doença de membrana fina?
-    observacoes: 
-      - EAS 18/04/22 com cilindro hemático e de 29/03/22 com codócitos e acantócitos | PTN < 1g.
-      - Biópsia renal não realizada devido a rins atróficos.
-      - Perda de seguimento de jul/23-jul/24 > Retorno após busca ativa.
+  observacoes: 
+    - EAS 18/04/22 com cilindro hemático e de 29/03/22 com codócitos e acantócitos | PTN < 1g.
+    - Biópsia renal não realizada devido a rins atróficos.
+    - Perda de seguimento de jul/23-jul/24 > Retorno após busca ativa.
   historico_patologico_pregresso:
     - HAS há 10 anos.
     - Asma Uso de Clenil diário e Salbutamol de resgate.
