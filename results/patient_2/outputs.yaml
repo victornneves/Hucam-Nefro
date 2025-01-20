@@ -1,0 +1,11 @@
+hipoteses_diagnosticas:
+    estagio_drc: 
+        idade_paciente: 53 anos
+        sexo_paciente: Masculino
+        creatinina: 1,6 mg/dL
+        grau: Incerto.
+        funcao_rim_atual: Incerto.
+        etiologia_doença_de_base: HAS, DM, DCV (ICFER - miocardiopatia dilatada de etiologia A/E - alcoólica? > Implante marcapasso + CDI). Descompensação de ICC, Pancreatite crônica alcoólica, AVC prévio (sequela motora = paresia MSD), epilepsia secundária.
+    estagio_drc: Incerto. (Dados de creatinina desatualizados, último registro em 09/12/24, há mais de 2 meses da data de referência em 01/01/25)
+conduta: É recomendada a manutenção das medicações prescritas o paciente, com a adição de Sulfato Ferroso para tratar a anemia. Continuar com constante monitoramento dos níveis de glicose, pressão arterial, hemoglobina glicada e dos sintomas relatados. É recomendado o acompanhamento com o especialista em Nefrologia Geral em um prazo de quatro meses.
+impressão: Paciente com múltiplas condições clínicas e medicamentos prescritos apresentando-se estável na consulta. Diagnóstico de doença renal crônico incerto devido à ausência de exames de laboratório atualizados.

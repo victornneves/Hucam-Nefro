@@ -1,0 +1,11 @@
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 60 anos
+        sexo_paciente: masculino
+        creatinina: 3,3 mg/dL
+        grau: 4
+        albuminuria: 3
+        funcao_rim_atual: Incerto. (A creatinina está desatualizada, data de 08/10/2024) 
+    etiologia_doença_de_base: Diabetes Tipo 2 e HAS
+conduta: O paciente deverá continuar com suas medicações prescritas, incluindo Losartana 50mg 1-0-1, Anlodipino 5mg 1-0-1, Sinvastatina 20mg 0-0-2, Omeprazol 20mg 1-0-0, Domperidona 10mg 0-1-1, AAS 100mg 0-1-0, Insulina NPH 36 UI manhã e 16 UI à noite. Além disso, ele deverá realizar novos exames de sangue e urina para avaliação da função renal atual. O paciente deverá ser reavaliado em 1 mês ou mais cedo se houver alguma alteração no seu estado de saúde.
+impressão: Paciente com histórico de HAS, diabetes Tipo 2, tuberculose pulmonar e câncer hipofisário. Atualmente, apresenta sintomas sugestivos de doença renal crônica avançada e anemia. Além disso, possui sinais de depressão, possivelmente relacionados aos seus problemas crônicos de saúde. O controle adequado de suas condições coexistentes, além do manejo cuidadoso de sua doença renal, é essencial para melhora do quadro geral do paciente.

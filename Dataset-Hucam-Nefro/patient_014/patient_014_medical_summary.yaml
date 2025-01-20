@@ -8,9 +8,8 @@ relatorio_consulta_ambulatorial_nefrologia:
       grau: 3b
       albuminuria: 1
       funcao_rim_atual: 32 ml/min/1.73m²
-    obeservacoes: Função renal estável.
+    etiologia_doença_de_base: Nefrotoxicidade pós-QT devido à neoplasia de testículo em 1997.
   historico_patologico_pregresso:
-    - Etiologia/Doença de Base: Nefrotoxicidade pós-QT devido à neoplasia de testículo em 1997.
     - Aumento testicular esquerdo e varicocele importante (acompanhado na urologia - aguarda cirurgia).
     - Comorbidades:
       - Neoplasia de testículo (dx aos 25 anos; tto com orquiectomia direita + QT/RT).

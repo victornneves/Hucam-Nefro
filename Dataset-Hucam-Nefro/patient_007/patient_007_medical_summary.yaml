@@ -5,8 +5,7 @@ relatorio_consulta_ambulatorial_nefrologia:
     dor importante em MID, principalmente em joelho e região tibial, quando anda.
     Apresentou rompimento de tendão no ombro esquerdo. Fez uso de AINES na ocasião.
     Está em uso de sacarato de hidróxido de ferro IV prescrito pela médica do posto.
-  hipoteses_diagnosticas:
-    estagio_drc: Incerto. CKD-EPI 29 ml/min/1,73 m2 em julho/24
+  hipoteses_diagnosticas: Incerto. CKD-EPI 29 ml/min/1,73 m2 em julho/24
   historico_patologico_pregresso:
     - HAS
     - DM

@@ -1,0 +1,11 @@
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 50 anos
+        sexo_paciente: Feminino
+        creatinina: 3,74 mg/dL
+        grau: 4
+        albuminuria: 3 (considerando microalbuminúria de 680,6 mg/L)
+        funcao_rim_atual: 15,7 ml/min/1.73m²
+    etiologia_doença_de_base: HAS, LES
+conduta: A paciente deve seguir rigorosamente o tratamento já prescrito e monitorar o nível de creatinina para evitar o aumento dos níveis. É necessário prestar atenção na dieta, com a preferência por alimentos saudáveis. Caso haja piora na saúde, a paciente deve procurar assistência médica imediatamente. A paciente deve iniciar a medicação Sevelamer, que foi prescrita para controle do fósforo, e continuar usando o medicamento Zorax. Deve-se agendar um ultrassom mais detalhado caso os níveis de fósforo estejam mais elevados do que o normal. 
+impressão: A paciente apresenta CKD em estágio 4, com função renal em 15,7 ml/min/1.73m². A etiologia da doença renal pode estar relacionada ao histórico de hipertensão arterial e lúpus eritematoso sistêmico. A paciente está recebendo a medicação adequada, porém é importante o monitoramento frequente e aderência à dieta e medicação prescritas. É necessário atenção especial ao nível de creatinina e presença de albuminuria, indicativos do estágio renal.

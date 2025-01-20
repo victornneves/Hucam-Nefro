@@ -230,12 +230,12 @@ relatorio_consulta_ambulatorial_nefrologia:
     - Doppler de AA Renais: Artérias Renais com Avaliação Prejudicada pelo Método Direto. Sinais Indiretos sugerem não haver estenoses proximais significativas detectáveis. IR Aumentado em Artérias Parenquimatosas Bilateralmente.
     - Doppler de MSD (21/11/24): Exame dentro do padrão da normalidade.
     - Doppler de MSE (21/11/24): Veia Basílica com Calibres Reduzidos em Antebraço e Punho.
-  impressao:
+  impressão:
     - DRC estágio 4A3 (CKD-EPI 29 ml/min/1,73m²) - Função Renal Estável.
     - Função Renal voltou ao valor basal, mesmo após reintrodução do Losartan.
     - Relata aderência parcial à dieta.
     - Aguardo USG Abdominal Total.
-    - Apresentação de métodos realizada: HD.
+    - Apresentação de métodos realizada, escolheu HD.
   conduta:
     - Encaminhar para FAV quando TFG < 20.
     - Manter Losartan 50 mg pela manhã.

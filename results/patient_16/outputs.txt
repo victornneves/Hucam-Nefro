@@ -1,0 +1,19 @@
+hipoteses_diagnosticas:
+  estagio_drc:
+    grau: Estágio 4
+    albuminuria: Alta (614)
+    funcao_rim_atual: 21 ml/min/1.73m²
+  etiologia_doença_de_base: Diabetes Mellitus Tipo 2 e Hipertensão Arterial Sistêmica
+conduta: 
+  - Foi solicitado exame de imagem Doppler para observar as artérias renais.
+  - Medicação prescrita inclui a redução de Losartana para uma vez ao dia.
+  - Foi introduzido Hidralazina para controlar a pressão arterial.
+  - Ciprofibrato foi prescrito para ser tomado uma vez à noite por três meses. 
+  - Alprazolam também foi prescrito, para tomar de manhã.
+  - O paciente foi orientado sobre a importância da correta aderência à medicação.
+  - Foi discutida a possibilidade da realização de um procedimento de fístula no braço para necessidades futuras de diálise.
+  - Em caso de necessidade, o paciente deve buscar uma receita de Alprazolam no posto de saúde.
+  - Paciente foi orientado a manter resultados de todos os exames em um só lugar para referência futura.
+  - Novos exames foram solicitados para monitorar a situação do paciente.
+impressão: 
+  Paciente com Diabetes Mellitus tipo 2 e Hipertensão Arterial, diagnosticados em 2013, avançando para doença renal crônica (estágio 4) com função renal de 21 ml/min/1.73m2. A etiologia é provavelmente devida às condições diabéticas e hipertensivas do paciente. O paciente apresenta sintomas clínicos de depressão, provavelmente devido às suas condições de saúde contínuas. Ele tem estado bastante preocupado com sua condição de saúde e tem dormido bastante, sugerindo possível depressão. O paciente precisa de um manejo adequado de suas condições existentes, bem como de apoio mental para lidar com sua situação atual. É crucial a adesão à medicação e o acompanhamento regular para evitar a progressão da doença renal. Além disso, devem ser tomadas medidas para controlar o diabetes e a pressão arterial. Há também a necessidade de monitorar o estado mental do paciente e tratar a depressão, caso se confirme.
