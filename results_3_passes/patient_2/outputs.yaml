@@ -1,0 +1,13 @@
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 53 anos
+        sexo_paciente: masculino
+        creatinina: 1,6 mg/dL
+        grau: 3a
+        albuminuria: 
+        funcao_rim_atual: 56.24 ml/min/1.73m²
+    etiologia_doença_de_base: HAS, DM, DCV, pancreatite crônica de etiologia alcoólica
+conduta: 
+    - Manter a medicação atual sem mudanças, exceto pela adição de Sulfato Ferroso para anemia. Agendou-se consulta de retorno para o ambulatório de Nefrologia Geral em 4 meses. Novos exames de função renal e eletrólitos devem ser solicitados antes da próxima consulta.
+impressão: 
+    - O paciente está estável, com pressão arterial controlada e exames em ordem. Sensibilidade dentária deve ser avaliada pelo dentista. A cirurgia de implante peniana está autorizada e agendada.

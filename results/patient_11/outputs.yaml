@@ -1,3 +1,4 @@
+
 hipoteses_diagnosticas:
     estagio_drc:
         idade_paciente: 44 anos
@@ -6,20 +7,6 @@ hipoteses_diagnosticas:
         grau: 5
         albuminuria: 
         funcao_rim_atual: 6 ml/min/1.73m²
-    etiologia_doença_de_base: Hipertensão arterial sistêmica crônica
-
-conduta: 
-    - A paciente deve iniciar a hemodiálise assim que houver disponibilidade de vaga na clínica de diálise.
-    - Ensinar a paciente ou um familiar a administrar a injeção subcutânea.
-    - Acompanhar de perto os níveis de creatinina e ureia, e realizar exames periódicos de função renal.
-    - Verificar se as serologias estão atualizadas.
-    - Recomendação de revisão constante dos medicamentos e monitoramento próximo dos efeitos devido à função renal comprometida.
-    - Não perder as visitas agendadas para hemodiálise.
-    - Retornar após o exame de ultrassom dos rins para revisão médica e acompanhamento, levando resultados via WhatsApp.
-    - Recomendar colonoscopia após estabilização médica e ação dos medicamentos, com sugestão de espera de 2 a 3 meses.
-    - Administrar a eritropoietina conforme prescrição sem atrasos para gerenciar anemia.
-    - Manter dieta balanceada, priorizando frutas e vegetais.
-    - Retornar para consulta de acompanhamento em 1 mês ou após início da diálise.
-
-impressão: 
-    - A paciente apresenta insuficiência renal crônica avançada (estágio 5), com necessidade iminente de hemodiálise. A hipertensão de longa data é o provável fator contribuinte para o estado avançado da doença. Observa-se também cansaço possivelmente relacionado à anemia e um bom estado geral, mas com necessidade de acompanhamento médico frequente.
+    etiologia_doença_de_base: Hipertensão arterial sistêmica
+conduta: O paciente deve iniciar o preparo para diálise imediatamente, conforme instruído. Manter contato com o médico de diálise para coordenação do tratamento em breve. Ajuste dietético recomendado, diminuindo o consumo de pão e macarrão e priorizando frutas e verduras. Continuar com a administração subcutânea de eritropoetina para tratar anemia, conforme prescrição. Diligenciar para a realização de ultrassom renal e enviar o laudo ao médico via WhatsApp assim que possível. Seguir usando cláusulas de segurança, evitandor desidratação adicional para prevenir descompensação renal. A continuidade dos medicamentos atuais está liberada; ajustes futuros podem ser realizados pelo médico de diálise. Reavaliar a cada 1 mês.
+impressão: O paciente se encontra em um estado avançado de doença renal crônica (estágio 5) com comprometimento significativo da função renal, necessitando de hemodiálise. A condição de anemia é preocupante e observa-se o impacto de condições relacionadas, como pressão arterial. O manejo metabólico, principalmente relacionado à hipertensão, é crítico. Atendimento continuado é essencial para monitorar e ajustar o tratamento conforme necessário. 

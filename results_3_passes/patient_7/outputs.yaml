@@ -1,0 +1,14 @@
+
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 87 anos
+        sexo_paciente: Masculino
+        creatinina: 2.16 mg/dL
+        grau: 4
+        albuminuria: 
+        funcao_rim_atual: 28.11 ml/min/1.73m²
+    etiologia_doença_de_base: Hipertensão Arterial Sistêmica (HAS) e Diabetes Mellitus (DM)
+conduta: 
+    - Continuar a administração de ferro oral e intravenoso de forma supervisionada, interromper temporariamente o uso de ácido fólico até resultados dos novos exames, ajustar a glicose para um comprimido antes do almoço e jantar. Não prescrever sulfato ferroso adicional até que novos exames sejam avaliados. Agendar nova consulta para 07/02/2025 e solicitar exames laboratoriais adicionais ao hemograma.
+impressão: 
+    - O paciente apresenta estenose renal crônica estágio 4 com função renal comprometida, associada à hipertensão e diabetes. Anemia é tratada com ferro, necessitando de revisão regular dos exames laboratoriais devido ao risco de sobrecarga de ferro e complicações relacionadas ao tratamento de artrose e outras comorbidades.

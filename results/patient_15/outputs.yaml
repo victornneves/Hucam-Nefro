@@ -1,13 +1,19 @@
+
 hipoteses_diagnosticas:
     estagio_drc:
         idade_paciente: 50 anos
-        sexo_paciente: Feminina
+        sexo_paciente: Feminino
         creatinina: 3,74 mg/dL
         grau: 4
         albuminuria: 
-        funcao_rim_atual: 15.1 ml/min/1.73m²
-    etiologia_doença_de_base: LES (Lúpus Eritematoso Sistêmico) e HAS (Hipertensão Arterial Sistêmica)
-conduta:
-    - "Reforçar a adesão aos medicamentos prescritos, especialmente a Alfapoetina semanalmente, para prevenção de anemia. Importância de seguir dieta baixa em fósforo e sódio, devido à condição renal. Ajustar Losartana, se já suspenso, considerar substituir por outro antipertensivo. Monitorar a creatinina e o fósforo regularmente, com novos exames de função renal e fosfatase alcalina em 3 meses. Sevelamer deve ser considerado na presença de fósforo elevado. Marcar próxima consulta em 3 meses ou mais cedo se houver piora dos sintomas. Proteger a área da fístula e evitar medições de pressão na região após a criação."
-impressão:
-    - "Paciente com doença renal crônica estágio 4 secundária a LES e HAS, apresenta estabilidade renal mas requer cuidados intensos para evitar progressão da insuficiência renal. Sintomas de cansaço e preocupações com fotofobia são pertinentes e foram abordados. Considerar ajuste de medicação e focar no manejo adequado de fósforo e anemia."
+        funcao_rim_atual: 17,09 ml/min/1.73m²
+    etiologia_doença_de_base: LES (Lúpus Eritematoso Sistêmico)
+
+conduta: 
+    - Continuar com a medicação atual, incluindo Alfapoetina semanal e ajustar doses conforme necessário.
+    - Manter acompanhamento regular com exames laboratoriais para monitorar função renal, eletrólitos e níveis de hemoglobina.
+    - Realizar hemodiálise conforme indicado pelos médicos com acompanhamento para possíveis ajustes de tratamento.
+    - Programar retorno ao médico nefrologista em 2 meses para reavaliação detalhada da condição renal.
+    - Seguir plano nutricional aprovado por equipe multi, atentando para restrições de potássio, fósforo e sódio.
+
+impressão: Paciente com estágio avançado de DRC secundária a LES, apresentando complicações associadas como anemia e desregulação de eletrólitos. Condição está sendo manejada de forma não emergencial, mas requer vigilância constante devido ao potencial de progressão para necessidade de diálise. Medicações bem toleradas até o momento, com necessidade de ajustes conforme evolução clínica.

@@ -1,0 +1,14 @@
+
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 75 anos
+        sexo_paciente: feminina
+        creatinina: 2,18 mg/dL
+        grau: 4
+        albuminuria: 
+        funcao_rim_atual: 20.26 ml/min/1.73m²
+    etiologia_doença_de_base: Hipertensão arterial e diabetes mellitus
+conduta:
+    - O médico recomendou que a paciente retome o uso de vitamina D e sulfato ferroso, importantes para a saúde. Será encaminhada para exames antes do mapeamento vascular necessário para a diálise. A medicação e dosagem foram ajustadas, incluindo um aumento na dosagem de bicarbonato e a introdução de amlodipino para o controle da pressão arterial. Será prescrita a vitamina D para uso contínuo. A paciente deverá continuar monitorando a pressão arterial em casa e manter as consultas regulares para revisão do tratamento. Um novo exame laboratorial de sangue e urina foi organizado, e a próxima consulta foi marcada em 2 meses.
+impressão: 
+    - Paciente com doença renal crônica em estágio 4, em preparação para diálise devido à função renal deteriorada associada à hipertensão e diabetes. Necessidade de vigilância contínua para ajustar o tratamento e retardar a progressão da doença, enquanto se controla a pressão arterial e a glicemia.s

@@ -18,7 +18,6 @@ PACIENTE: Sim, eu tenho conseguido controlar melhor.
 MÉDICA_AUXILIAR: Ótimo. Agora, quando você começou o programa Prevenir, sua taxa de filtração glomerular estava em 26,2 ml/min, o que é classificado como estágio 4 de doença renal. No estágio 5, a gente começa a pensar em hemodiálise. No estágio 4 a gente também já fica de olho. Atualmente, essa taxa manteve-se em 26. 
 MÉDICA_AUXILIAR: A senhora teve uma queda nessa taxa antes, mas agora já voltou a melhorar um pouco. Estávamos acompanhando também alguns distúrbios eletrolíticos, que são comuns em pacientes com doença renal crônica, como alterações nos níveis de fosfato, e anemia. Também estamos cuidando da relação do metabolismo ósseo, com a PTH, que é a paratireoide.
 MÉDICA_AUXILIAR: O Dr. Fernando até falou que ia começar com o...
-
 MÉDICA_AUXILIAR: O doutorado sobre isso, porque o doutorado meio que ficou impossibilitado, porque toda medicação que ele possa passar pra... No caso, ela tinha o Achopenídeo, já tinha o Achopenídeo. E evoluiu, né? Você vai subir o pós-tritoróxico. Então, pode danificar mais a parte renal. Aí, ele passou, deu uma medicação. Depois, eu nem comprei nele mais. E a outra razão de tanta dor, seria algo mais fisiológico pra vocês.
 PACIENTE: Já reclamou muito, só que hoje em dia sente ainda, tadinha, mas nada que possa sim.
 MÉDICA_AUXILIAR: E há uma dor aqui na região das costas? 
@@ -110,52 +109,32 @@ ACOMPANHANTE: Tá tomando certinho, né, mãe? Carbonato.
 PACIENTE: Como é que é, então? Eu tomo um... Quem é que é todo mundo? Café, dois no almoço, dois na janta. 
 MÉDICA_AUXILIAR: Isso aí, mostra assim. Isso aí. Vamos continuar, vai. Ele passou o Calcitriol 50 miligramas uma vez por mês. 
 ACOMPANHANTE: É isso aí. Tomou esse préço? Ele só toma um todo mês.
-MÉDICA_AUXILIAR:Aquela de mês. Aquela de todo mês, é. Tá certo. A Dapagliflozina, tá tomando? 
+MÉDICA_AUXILIAR: Aquela de mês. Aquela de todo mês, é. Tá certo. A Dapagliflozina, tá tomando? 
 PACIENTE: Ouro, ouro, ouro. 
 MÉDICA_AUXILIAR: Essa medicação é delicada. Ouro, ouro. Vocês sabem qual que é o ouro? Aquele que eu tomo depois do café, não é? 
 ACOMPANHANTE: É um comprimido após o café. Isso aí. 
 MÉDICA_AUXILIAR: E o Bicarbonato de Sódio? 
 PACIENTE: Bicarbonato de Sódio, mãe. Bicarbonato de Sódio, eu tomo.
 MÉDICO: Tomo um na hora que eu vou almoçar. Antes é meia hora, que o Sinvastatina é uma de meia hora. E o outro eu tomo junto com a comida. Dá de jantar? 
-
 PACIENTE: Não, não tem. 
-
 MÉDICO: Não, mas se você tá tomando Sinvastatina é ótimo. 
-
 PACIENTE: É, tomo um de manhã ou de noite. 
-
 MÉDICO: É a mesma coisa, tá? É uma até mesmo, não tem nada a ver com isso. Não, a Sinvastatina também é minha, mas não é de noite, tá vendo? É de agora, é todo dia de agora. Isso mesmo. Agora, o que você tá falando com ele, que é junto com a comida, é o que ele tá com o carro lá de casa. 
-
 PACIENTE: É, tá com o carro lá de casa. 
-
 MÉDICO: E aí, agora em relação à insulina, a NPH, aquela que a senhora faz a aplicação. 
-
 PACIENTE: 20 unidades de NPH. 20 unidades de NPH. De manhã e 6 unidades de NPH. 
-
 MÉDICO_SUPERVISOR: Então, você está olhando muito o que ela tá usando a insulina regular também agora, né? Agora ela tá usando a regular? 
-
 MÉDICO: Tá, começou a usar a insulina regular. A endocrinologista que eu...
-
 PACIENTE: Não, ela já tinha que usar, mas ela faz muito hipoglicemia. Não sei se você vai olhar aí o exame dela de manhã, estava 65 a glicemia de manhã. Tem vezes que ela vai vir aqui fazer o exame e dá hipoglicemia aqui, já travou várias vezes de manhã. Então, ela faz hipoglicemia muito fácil, tá vendo?
-
 MÉDICO_SUPERVISOR: Sim, eu vi esse relato. E como é que ela tá fazendo o uso da insulina regular? 
-
 PACIENTE: Então, eu deixo ela usar se a glicemia estiver acima de 200, eu dou... 
-
 ACOMPANHANTE: É, só que ela mandou usar duas unidades de insulina regular, não foi mãe? Eu acho que foi isso, não foi? A endocrinologista, né? Tem que achar o código. 
-
 MÉDICO: É, eu não quero. Você não tá... É do outro lado, né? Então, a senhora faz o uso de duas unidades de insulina regular. Só que, se quiser eu pegar na Receita, é até bom pra eu pegar no posto, porque tem dias que eu dou quatro. 
-
 ACOMPANHANTE: Mas aí, é com ela que tem que ver quanto que vai dar. Como vai fazer a consulta? 
-
 MÉDICO: Eu vou fazer a consulta logo após aqui.
-
 ACOMPANHANTE: Não, eu vou falar com ela. A gente vem com ela.
-
 MÉDICO: Mas eu vi que na última consulta, que está no mesmo dia que a última da leva, foram duas unidades de insulina regular bem a hora antes do almoço. Tá usando assim mesmo?
-
 ACOMPANHANTE: Então, olha, faz o teste de glicemia capilar, faz o HGT e olha quanto que tá. Se tiver muito alto, eu não tô dando dois, eu tô dando quatro, entendeu? Porque isso aí, a endocrinologista não... E agora eu tô assim mesmo, né?
-
 MÉDICO: Tá. E agora, chegamos no tempo...
 PACIENTE: Coisa que eu cheguei a subir e falei, doutora, posso seguir? Porque, enquanto ela não está bem, eu fico olhando pra ela. Ela faz isso, eu... Por isso que tem que ter um certo entendimento, né? Porque se tiver realmente uma dosagem muito alta de insulina, poderia aumentar a dosagem de insulina. Mas ficar atento para não dar os episódios de hipoglicemia. Saber que vai precisar repor a fonte de glicose se usar insulina. Então, tá certo isso. 
 MÉDICA_AUXILIAR: Não, não fala com ela. E não teve... Desmaio, desgastamento de nível de consciência... 
@@ -186,10 +165,8 @@ PACIENTE: Não, mas depois disso não está melhorando.
 ACOMPANHANTE: Não, mas depois disso não está melhorando.
 MÉDICO_SUPERVISOR: Graças a Deus. Entendeu? E teve algum outro episódio de infecção urinária, vocês falaram só de cistite, né?
 PACIENTE: Eu tive.
-
 MÉDICO_SUPERVISOR: Só que eu estou achando que não foi igual ao padrão, que ela não está bem, porque ela evoluiu pra melhor, ninguém responde. E não teve que tomar antibiótico?
 ACOMPANHANTE: Mas ela teve que tomar antibiótico e ficou internada.
-
 MÉDICO_SUPERVISOR: Mas como foi esse tratamento? Ela não melhorou sem antibiótico?
 ACOMPANHANTE: Sem antibiótico, ela não melhorou. E quanto tempo a internação durou? 
 PACIENTE: Era uma loucura. Não, mas você não pode... tiver uma infecção urinária, ela é difícil. É.

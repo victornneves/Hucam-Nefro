@@ -1,13 +1,14 @@
+
 hipoteses_diagnosticas:
     estagio_drc:
         idade_paciente: 87 anos
         sexo_paciente: Masculino
-        creatinina: 2.16 mg/dL
+        creatinina: 2,16 mg/dL
         grau: 4
         albuminuria: 
-        funcao_rim_atual: 27.86 ml/min/1.73m²
-    etiologia_doença_de_base: Hipertensão e Diabetes Mellitus
+        funcao_rim_atual: 28.11 ml/min/1.73m²
+    etiologia_doença_de_base: Diabetes Mellitus e Hipertensão Arterial Sistêmica
 conduta: 
-    - Recomenda-se continuar monitorando a glicemia regularmente e seguir a nova prescrição médica. Suspender o ácido fólico após acabar o suprimento em casa e descontinuar o uso de sulfato ferroso conforme indicado. Coordenar a remarcação dos exames laboratoriais pendentes e agendar consulta de acompanhamento para 07 de fevereiro de 2025. Realizar novos exames de sangue, conforme recomendado pela médica, e adicionar à análise do hemograma. Reduzir a glicose para um comprimido antes do almoço e jantar. Informações sobre os medicamentos devem ser trazidas para próxima consulta.
+    O paciente deve continuar com o tratamento anti-hipertensivo e diurético. O uso de gliclazida foi ajustado para 1 comprimido antes do almoço e do jantar. O paciente foi aconselhado a interromper o uso de sulfato ferroso e ácido fólico após terminar o suprimento existente em casa. A médica solicitou que o paciente agendasse exames laboratoriais e uma nova consulta foi marcada para 7 de fevereiro. É importante que o paciente leve o papel impresso com a data da consulta ao laboratório. Seguir supervisão médica para ajustar doses e verificar a progressão da função renal.
 impressão: 
-    - O paciente apresenta artrose, anemia e doença renal crônica estágio 4, agravada por hipertensão e diabetes mellitus. Houve relatos de reações adversas a cuidados médicos prévios, o que resultou em insatisfação do paciente e de seu acompanhante. O quadro clínico é acompanhado de dor no braço possivelmente devido a ruptura de tendão e na perna devido à artrose. A condição renal piorou após infecção anterior, mas houve recuperação. Monitoramento cuidadoso de condições hematológicas e alterações na medicação são essenciais para a gestão eficaz do caso.
+    O paciente apresenta doença renal crônica estágio 4, secundária a diabetes mellitus e hipertensão, com anemia tratada por injeções e uso de medicamentos apropriados. É necessário acompanhamento contínuo para monitorar a evolução da função renal e ajustar tratamentos conforme necessário. O paciente também apresenta dificuldades relacionadas à dor no braço e articulações, que devem ser acompanhadas de perto.

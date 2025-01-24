@@ -97,7 +97,6 @@ PACIENTE: Tá.
 MÉDICO: Todos os outros que você está tomando vai continuar tomando igual. 
 PACIENTE: Sim.
 MÉDICO: Esse é um a mais, pra controlar melhor a pressão. Aí vai tomar um comprimido de 12 em 12 horas. Beleza?
-
 MÉDICO: E o outro, o total da resgate? Tá tudo aqui.
 PACIENTE: Tá tudo... Não, calma, rapaz. Calma. 
 MÉDICO: Esse aqui é o exame, tá? Esse aqui é esse papel que você trouxe aí, tá? Aqui tá o papel, tá bom? E a Losartana que é aquele comprimidão que você pega lá na farmácia da Zan.

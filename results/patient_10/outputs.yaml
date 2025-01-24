@@ -1,15 +1,17 @@
+
 hipoteses_diagnosticas:
     estagio_drc:
         idade_paciente: 64 anos
-        sexo_paciente: Feminina
+        sexo_paciente: Feminino
         creatinina: 3,02 mg/dL
-        grau: 4
-        albuminuria: 3
-        funcao_rim_atual: 18.71 ml/min/1.73m²
-    etiologia_doença_de_base: Lúpus e cistos renais Bosniak II
-
+        grau: 5
+        albuminuria: 
+        funcao_rim_atual: 15.63 ml/min/1.73m²
+    etiologia_doença_de_base: Nefropatia crônica secundária a lúpus com cistos renais
 conduta: 
-    - Ajuste da medicação para Tramadol conforme necessidade para controle da dor. Continuar com a medicação prescrita, incluindo Sevelamer para controle de fósforo, e acompanhamento da pressão arterial. Agendar nova consulta em 3 meses, com indicação de novos exames laboratoriais para controle da função renal, eletrólitos e hemograma.
-
-impressão: 
-    - Paciente em tratamento para nefropatia crônica com estágio 4 de doença renal crônica secundária a lúpus e presença de cistos renais. Sintomas de dor óssea controlados com Tramadol quando necessário. Monitoração e controle de fatores de risco cardiovascular e complicações associadas ao estágio avançado de DRC são fundamentais.
+    - Recomendar controle rigoroso da pressão arterial com medicação atual (Metoprolol, Anlodipino, e Furosemida), ajustes conforme necessário.
+    - Manter o uso de Sevelamer para controle do fósforo.
+    - Administrar Tramadol 50 mg somente em caso de dor intensa.
+    - Próxima consulta agendada para daqui a 3 meses.
+    - Necessidade de novos exames laboratoriais na próxima consulta, incluindo função renal, perfil fosfato-cálcio, e hemograma.
+impressão: Paciente com doença renal crônica avançada (DRC estágio 5) com histórico de lúpus, hipertensão e nefropatia por cistos. Necessidade de monitoramento contínuo da função renal e dos sintomas associados para manejo clínico eficaz.

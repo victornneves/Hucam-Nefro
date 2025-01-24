@@ -1,0 +1,22 @@
+
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 72 anos
+        sexo_paciente: Masculino
+        creatinina: 5,44 mg/dL
+        grau: 5
+        albuminuria: 
+        funcao_rim_atual: 10.46 ml/min/1.73m²
+    etiologia_doença_de_base: Hipertensão arterial sistêmica e diabetes mellitus
+conduta: 
+    - Ajustar dosagem de Losartana para 1 comprimido no café da manhã, 2 no almoço e 1 no jantar.
+    - Adicionar Clonidina à rotina medicamentosa para melhor controle da pressão arterial.
+    - Manter Noripurum a cada 15 dias.
+    - Diminuir insulina conforme orientação da Dra. Marta.
+    - Manter dieta durante as festas de fim de ano, especialmente restrição de carne gorda.
+    - Revisar e organizar cartão de vacinação.
+    - Novo exame laboratorial solicitado para execução em dois meses.
+    - Agendar consulta de seguimento para após a realização dos novos exames.
+impressão: 
+    - Paciente apresenta insuficiência renal crônica avançada devido à hipertensão e diabetes, reforçando a necessidade de controle rigoroso dos parâmetros de pressão e glicemia.
+    - Manter acompanhamento próximo com especial atenção nas medicações anti-hipertensivas e gestão rigorosa da glicemia.

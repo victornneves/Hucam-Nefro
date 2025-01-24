@@ -1,0 +1,14 @@
+
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 52 anos
+        sexo_paciente: Masculino
+        creatinina: 2.37 mg/dL
+        grau: 3b
+        albuminuria: 
+        funcao_rim_atual: 33.519 ml/min/1.73m²
+    etiologia_doença_de_base: Após quimioterapia para neoplasia testicular
+conduta:
+    - Reforçar a importância de aderir à dieta prescrita pela nutricionista. Manter controle regular da pressão arterial, ajustar a losartana, caso necessário, devido à queda da pressão arterial com doses mais altas. Incentivar a prática de exercícios físicos leves, adaptados à capacidade atual do paciente, para evitar a perda de massa muscular. Gerenciar o estresse com técnicas de relaxamento e, se necessário, procurar ajuda de um profissional de saúde mental. Realizar exames de seguimento e consultar a equipe médica em quatro meses. Verificar e atualizar o calendário de vacinação.
+impressão: 
+    - Paciente com estágio 3b da Doença Renal Crônica devido a sequelas de quimioterapia e radioterapia para tratamento de neoplasia testicular. Mantém controle razoável da condição, com episódio recente de infecção não relacionado à função renal. Dificuldades para dormir e cãibras estão ligadas ao estresse e devem ser manejadas. É importante reforçar adesão às orientações de saúde.

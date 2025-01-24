@@ -1,13 +1,12 @@
+
 hipoteses_diagnosticas:
     estagio_drc:
         idade_paciente: 67 anos
-        sexo_paciente: Feminina
+        sexo_paciente: Feminino
         creatinina: 4.2 mg/dL
-        grau: 4
+        grau: 5
         albuminuria: 
-        funcao_rim_atual: 16.050 ml/min/1.73m²
-    etiologia_doença_de_base: Câncer de células renais com nefrectomia direita
-conduta:
-    - "A médica recomendou o início e cumprimento rigoroso de uma dieta para controlar os níveis de potássio e ajudar na saúde renal, evitando alimentos com alto teor de potássio, como banana. Foi recomendada a suspensão do álcool e aderência estrita aos medicamentos prescritos, como hidralazina e bicarbonato. A paciente também deve continuar com suas medicações atuais, incluindo Furosemida, Metoprolol, Sinvastatina, Sevelamer, Citalopram e Clonazepam. Um retorno para reavaliação está agendado para 23 de janeiro, e a paciente será atendida pelo Dr. Leão durante a ausência da médica em fevereiro. Exames laboratoriais adicionais são necessários para acompanhar a função renal e eletrólitos, especialmente antes de qualquer ajuste dos tratamentos. Recomenda-se que a paciente mantenha-se hidratada com água, evitando sucos e refrigerantes. É necessário realizar o exame para cateterização e confirmar frequência para procedimentos de diálise."
-impressão:
-    - "A paciente apresenta doença renal crônica estágio 4, com função renal gravemente comprometida, o que requer considerações para início de diálise e controle abrangente dos fatores de risco relevantes à saúde renal. O suporte psicológico pode ser necessário devido ao estresse relatado e medo em relação ao tratamento."
+        funcao_rim_atual: 11 ml/min/1.73m²
+    etiologia_doença_de_base: Câncer renal (nefrectomia direita)
+conduta: Recomenda-se iniciar a diálise imediatamente devido à baixa função renal e altos níveis de potássio. Manter dieta rigorosa conforme orientações até a próxima consulta em 23 de janeiro. Após esse período, realizar check-up em fevereiro. Uso contínuo de bicarbonato e introduzir água com gás. Buscar receita médica esquecida. Manter o uso de Citalopram e outros medicamentos conforme prescrição. Novo exame para avaliação de oclusão a ser realizado com cateter. Próxima consulta marcada para janeiro.
+impressão: A paciente apresenta Doença Renal Crônica em estágio 5, com função renal significativamente reduzida. Demonstrou resistência à diálise, mas essa intervenção é crucial para a melhora de seu estado de saúde, especialmente considerando os altos níveis de potássio. O controle dietético e a adesão ao tratamento médico são essenciais para estabilizar sua condição.

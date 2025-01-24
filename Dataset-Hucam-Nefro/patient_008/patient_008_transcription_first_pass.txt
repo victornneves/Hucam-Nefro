@@ -18,7 +18,6 @@ MÉDICA: Não chega. Não chega. Não chega. Não chega. Não chega. Não chega.
 PACIENTE: Não chega. Não chega. Não chega. 
 ACOMPANHANTE: [INCOMPREENSÍVEL]. Eu acho que é, eu vejo o dia todo quando era [INCOMPREENSÍVEL].
 PACIENTE: Eu sempre tenho usado uma furosemida. Mesmo sentindo-se mal, sei que preciso do oxigênio. O meu cansaço é muito grande e uma coisa está ligada a outra. 
-
 PACIENTE: Porque toda vez que eu me agito, me dá falta de ar também. Porque o meu coração é muito fraco. Agora se tem mais alguma coisa, dá uma olhada aí e diz, é porque... 
 MÉDICA: A gente vai... E agora o sódio na sua feculdade, dois vezes alto. Duas vezes. Fica um pouquinho quietinho para descansar, tá? Se precisar, eu te pergunto alguma coisa. Só para você descansar, não é? Porque eu não quero que você... Não, não, não. Não, não, não. Mais que 10. Não tá tomando hidralazina? 
 PACIENTE: Oi? 
@@ -221,64 +220,35 @@ MÉDICA: Tem que causar. Tem que causar. Tem que causar. Tem que causar. Tenho q
 PACIENTE:  Graças a Deus, eu já ia até aqui. Toma aí a água do remédio. Quatro vezes por dia. 
 MÉDICA: Três, né? Amanhã é
 MÉDICA: Tomou um copinho. Pra... De água. Vamos relembrar. Eu entendo que esta tudo complicado hoje, né? O mais importante para mim é te ajudar. 
-
 PACIENTE: As castanhas, nozes... Como pode a água fazer mal. Esse mix de frutos secos e outros, eu nem posso comer mais, né?
-
 MÉDICA: Eu entendi. Agora, no Natal quais são suas dúvidas? 
-
 PACIENTE: Porque vem ameixa, vem... Nozes, castanhas... Castanhas de Pará... Posso comer?
-
 MÉDICA: Sim, pode. Bem dosadinho, né?
-
 PACIENTE: Ótimo. 
-
 MÉDICA: Olha só, esse negócio que eu falei para a senhora, é o seguinte... Quando o rim está muito prejudicado, a gente pede para reduzir a proteína. Mas a senhora, para quem tem uma doença renal crônica estabelecida, isso agora não é um problema. Eu sei que a senhora não consegue comer muita proteína. A própria doença cardíaca tira um pouco da fome, não é verdade? 
-
 PACIENTE: Eu até imaginei... 
-
 MÉDICA: Esqueça dieta, tá? Esqueça. Em relação à Coca-Cola, não é muito legal?
-
 PACIENTE: Não, não tem problema. Meu marido, ele coloca o Feijão, Zé Carlos... Ele nem pode fazer esse arroz para mim. Porque eu nem estou conseguindo comer. Ainda mais porque quando a gente está inchado, o estômago incha... Fica difícil de comer. Eu preciso de um saladinho, que eu falei com ele.
-
 MÉDICA: Tá bom. Mas a uva não tem muita água, por exemplo, que eu gosto muito. 
-
 PACIENTE: Mas não é isso. Dá para comer uva? 
-
 MÉDICA: Não, não é necessário. Segura a quantidade de água. Tem que ter água. Entendeu? 
-
 PACIENTE: Você imagina a fermentação... 
-
 MÉDICA: Mas é fruta que não tem água, coisa muito difícil. Por isso que eu faço do jeito...
-
 PACIENTE: Isso, faço o lanche melhor. 
-
 MÉDICA: Eu estou pedindo os exames aqui para a senhora... Porque eu tinha enviado para a senhora, na verdade, pelo WhatsApp. Vou imprimir aqui. A senhora vai lá e marca aqui. Eu quero que a senhora faça para consultor cardiologista. Não é para fazer agora. Tem que esperar uns dias. Eu quero que a senhora faça para ajustar o diurético. Tá bom? Da minha parte, a senhora vai voltar daqui a 3 meses. Da parte... Até daqui a 2 meses... Aí será mais ou menos. Em Março. Tá? 
-
 PACIENTE: 2 meses e alguma coisa. 
-
 ACOMPANHANTE: Ele está me chamando. Você está
 MÉDICA: Vários anos de tratamento, né? Isso aí. A senhora vai voltar em março, então. 
-
 PACIENTE: Mas eu tenho que sair daqui. Eu vou fazer o que?
-
 MÉDICA: Acalme-se, vamos organizar isso. Depois, a senhora vai ao laboratório, tudo bem?
-
 PACIENTE: Certo. E quanto é a consulta do cardiologista?
-
 MÉDICA: Isso a senhora precisa ver com a secretaria. Mas o importante é marcar para poucos dias antes da consulta com o cardiologista. Se puder trazer o resultado dos exames para o cardiologista, seria melhor ainda. 
-
 PACIENTE: Entendi. E os medicamentos?
-
 MÉDICA: O diurético a senhora vai começar a tomar. A espironolactona, e o VEGF1, vai tomar 3 de manhã. E vai tomar também a Furosemida 3 vezes de manhã e 3 da tarde.
-
 PACIENTE: 3 de manhã?
-
 MÉDICA: Sim, uma dose mais alta mesmo, de propósito. Queremos estimular a produção de urina e tentar eliminar o excesso de líquido do seu corpo. Mas atenção, se tiver sintomas de desidratação, como tonturas ou boca seca, é preciso ajustar a dose. Entendido? 
-
 PACIENTE: Entendi.
-
 MÉDICA: Muito bem. Então, por minha parte, a senhora vai voltar mais ou menos em março, ok?
-
 PACIENTE: Tá bom.
 MÉDICA: Vou pedir à menina para ela marcar. Porque acho que ela vai ficar marcada aqui, porque a gente também não gira, tá? 
 MÉDICA: A parte do rim fica tranquila, por enquanto, não tem nada a se preocupar muito e compensar o coração para o rim melhorar. Tá bom? 

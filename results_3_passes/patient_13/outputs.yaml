@@ -1,0 +1,14 @@
+
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 67 anos
+        sexo_paciente: Feminino
+        creatinina: 4.2 mg/dL
+        grau: 5
+        albuminuria: 
+        funcao_rim_atual: 11 ml/min/1.73m²
+    etiologia_doença_de_base: Nefrectomia direita por carcinoma de células renais
+conduta: 
+    - A paciente foi orientada a manter o regime de diálise, reforçar a adesão ao plano alimentar com restrição de potássio, e evitar álcool. Necessidade de acompanhamento psicológico para manejo do estresse. Iniciar o uso do cateter conforme indicação. Retirar medicamentos prescritos, incluindo o Citalopram, na farmácia. Agendamento de consulta com o Dr. Leão durante o mês de fevereiro. Reavaliar em 1 mês, com novos exames laboratoriais de função renal e eletrólitos.
+impressão:
+    -  A paciente apresenta-se em estágio 5 de doença renal crônica com resistência ao tratamento dialítico. Há presença de hipercalemia associada ao estresse elevado, o que pode estar impactando sua condição clínica. A adesão ao tratamento médico e plano alimentar é crucial para o manejo eficaz da doença.

@@ -1,0 +1,22 @@
+
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 57 anos
+        sexo_paciente: Feminino
+        creatinina: 2,08 mg/dL
+        grau: 4
+        albuminuria: 
+        funcao_rim_atual: 25.76 ml/min/1.73m²
+    etiologia_doença_de_base: Diabetes Mellitus tipo 2
+conduta: 
+    - Monitoramento contínuo dos níveis de potássio devido ao uso de Losartana e ajuste regular da medicação conforme necessário para evitar hiperpotassemia.
+    - Avaliação regular e ajuste da insulina para controle da glicemia, considerando a hemoglobina glicada de 7,7%.
+    - Reforço na adesão à dieta prescrita pelo nutricionista e consulta regular com acompanhamento nutricional para manter o controle dos níveis de fósforo e cálcio.
+    - Continuação do uso de agentes quelantes e da suplementação de vitamina D para controle do PTH e melhoria da saúde óssea.
+    - Realização de ecocardiograma e prova de esforço com oxigênio para investigação de sintomas respiratórios e identificação precoce de possíveis complicações cardiovasculares.
+    - Manutenção das revisões periódicas com o reumatologista e pneumologista para monitoramento das condições estabelecidas.
+    - Agendamento de consulta de acompanhamento em 3 meses com pedido de novos exames laboratoriais para ajuste de plano de tratamento conforme necessário.
+impressão: 
+    - Paciente com doença renal crônica estágio 4 secundária ao diabetes mellitus tipo 2, apresentando estabilidade atual da função renal com manejo contínuo da hipertensão e dislipidemia.
+    - Osteoporose confirmada necessitando ajuste na management de cálcio e vitamina D, com melhora observada após mudança de medicação.
+    - Controle glicêmico em andamento, com necessidade de monitoramento frequente devido a episódios de hipoglicemia e ajustamentos de insulina. 

@@ -1,0 +1,14 @@
+
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 65 anos
+        sexo_paciente: Masculino
+        creatinina: 2.37 mg/dL
+        grau: 4
+        albuminuria: 
+        funcao_rim_atual: 24.69 ml/min/1.73m²
+    etiologia_doença_de_base: Nefropatia diabética
+conduta:
+    - O paciente deve manter o uso dos medicamentos atuais e retornar para uma consulta de acompanhamento em abril. Também deve consultar um nutricionista. Caso surjam problemas com pressão baixa, deve entrar em contato com o médico. Não há necessidade de receitas adicionais no momento, pois o paciente já possui medicamentos em casa. É importante manter o controle glicêmico rigoroso e monitorar a função renal e pressão arterial regularmente.
+impressão: 
+    - O paciente apresenta insuficiência renal crônica estágio 4, provavelmente devido à nefropatia diabética, controlada com a medicação em uso. O estado clínico do paciente está sob controle, com recomendações para acompanhamento multidisciplinar.

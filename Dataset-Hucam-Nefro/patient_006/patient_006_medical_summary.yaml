@@ -1,7 +1,15 @@
 relatorio_consulta_ambulatorial_nefrologia:
   identificacao_paciente: MASCULINO, 76 ANOS, APOSENTADO (PORTEIRO DE ESCOLA)
   subjetivo: RELATA DOR EM PROTRUSÃO EM FACE MEDIAL DO JOELHO ESQUERDO (DEFORMIDADE ÓSSEA ANTIGA). RELATA MELHORA DA FRAQUEZA EM MMII, MAS MANTÉM DISTENSÃO ABDOMINAL, SEM DOR ASSOCIADA.
-  hipoteses_diagnosticas: Incerto. DRC COM LRA DURANTE A HDA
+  hipoteses_diagnosticas:
+    estagio_drc:
+      grau: 3b
+      albuminuria:
+      funcao_rim_atual: 38 ml/min/1.73m²
+    etiologia_doença_de_base: Lesão renal aguda durante a Hemorragia digestiva alta
+  admissao:
+    data: 02/01/2025
+    CLCR_admissao: 43 ml/min/1,73 m²
   historico_patologico_pregresso:
     - HDA À CUSTA DE ÚLCERA ANTRAL E DUODENAL; ÚLÚLCERA ANTRAL COM BX EXCLUINDO MALIGNIDADE E BACTÉRIAS ESPIRALADAS
     - DM DX HA 7 ANOS
@@ -36,4 +44,7 @@ relatorio_consulta_ambulatorial_nefrologia:
     - POR ORA NÃO INICIO IECA/BRA. RECONSIDERAR NA PRÓXIMA CONSULTA APÓS AVALIAR SE HOVER ESTABILIZAÇÃO DA CREATININA
     - ASSOCIO ANLODIPINO PARA ALCANÇAR LDL < 70
     - RETORNO EM 4 MESES
-  impressão: 
+  impressão:
+    - DRC COM LRA DURANTE A HDA (JÁ EM RECUPERAÇÃO)
+    - CKD-EPI 37 ML/MIN/1,73 M2 - ESTAVA 44> 36>37 NEGATIVO)
+    - ANTI HBC TOTAL REATIVO COM ANTI HBS NR EM DUAS DOSAGENS (ANTI HBC IGM NEGATIVO)

@@ -1,23 +1,18 @@
+
 hipoteses_diagnosticas:
     estagio_drc:
-        idade_paciente: 75 anos
+        idade_paciente: 76 anos
         sexo_paciente: Feminino
         creatinina: 2,18 mg/dL
         grau: 4
         albuminuria: 
-        funcao_rim_atual: 17,16 ml/min/1.73m²
-    etiologia_doença_de_base: Hipertensão arterial e diabetes mellitus
+        funcao_rim_atual: 19.69 ml/min/1.73m²
+    etiologia_doença_de_base: nefropatia diabética
 conduta: 
-    - Retomar o uso de vitamina D e sulfato ferroso
-    - Monitoramento constante para controlar pressão arterial e função renal
-    - Realizar exames antes do mapeamento para diálise
-    - Revisão e possível ajuste na medicação pressionada especialmente a dosagem de diuréticos e ajustar a insulina conforme necessário
-    - Recomendar dieta adequada para pacientes com doença renal crônica
-    - Iniciar mapeamento dos vasos do braço para hemodiálise
-    - Monitorar sinais de confusão mental
-    - Próxima consulta em 3 meses
-    - Realizar exames de sangue e urina antes da próxima consulta
-impressão: 
-    - Paciente com função renal gravemente comprometida, estágio 4 de doença renal crônica
-    - Controle atual da diabetes efetivo, mas necessidade de ajustes adicionais para pressão alta
-    - Preparação iniciada para diálise, preferência por hemodiálise
+  - Aumentar a dose de bicarbonato de sódio para duas vezes ao dia para controle da acidose.
+  - Manter o uso de Losartana e incorporar Hidralazina para melhor controle da pressão arterial.
+  - Iniciar suplemento de vitamina D: um comprimido por semana durante dois meses, seguido de um comprimido por mês.
+  - Manter acompanhamento com endocrinologista para ajuste de insulina e possível necessidade de diálise.
+  - Marcar retorno em quatro meses, com exames de sangue e urina realizados previamente.
+  - Continuar monitoramento da pressão arterial em casa e registrar valores para revisão na próxima consulta.
+impressão: A paciente apresenta estágio 4 de doença renal crônica com função renal comprometida, nefropatia diabética, hipertensão de difícil controle, acidose metabólica e hipovitaminose D. O aumento do inchaço nas pernas e necessidade de considerar diálise peritoneal indicam progressão da condição renal.
