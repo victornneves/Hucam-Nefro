@@ -13,4 +13,5 @@ conduta:
     - Reduzir a dose de gliclazida para um comprimido antes do almoço e do jantar.
     - Realizar novos exames laboratoriais conforme orientado.
     - Próxima consulta marcada para 7 de fevereiro, levar documentação impressa para o laboratório na realização dos exames.
-impressão: Paciente idoso com Doença Renal Crônica estágio 4, possivelmente relacionada a HAS e DM, apresenta controle clínico regular, mas com necessidade de ajuste em medicação e acompanhamento frequente para gerenciar complicações associadas.
+impressão:
+    - Paciente idoso com Doença Renal Crônica estágio 4, possivelmente relacionada a HAS e DM, apresenta controle clínico regular, mas com necessidade de ajuste em medicação e acompanhamento frequente para gerenciar complicações associadas.

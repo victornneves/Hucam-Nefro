@@ -9,13 +9,11 @@ hipoteses_diagnosticas:
         funcao_rim_atual: 19.17 ml/min/1.73m²
     etiologia_doença_de_base: Hipertensão arterial sistêmica e diabetes mellitus
 conduta: 
-    - Manter a medicação atual com ajustes, incluindo:
-        - Clonidina: 1 comprimido a cada 12 horas.
-        - Noripurum a cada 15 dias até o retorno.
-        - Losartana com dosagem de 1 comprimido no café da manhã, 2 no almoço e 1 no jantar.
-    - Ropuru manter a cada 15 dias.
-    - Revisar a dose de insulina com Dra. Marta.
-    - Marcar Doppler para a parte superior direita do corpo e novos exames laboratoriais antes do retorno.
-    - Manter a dieta saudável conforme orientação da nutricionista.
-    - Retornar em dois meses para nova avaliação.
-impressão: O paciente apresenta melhora em relação ao último exame, mas permanece com disfunção renal grave, pressão alta mal controlada e necessidade de ajustes no tratamento para melhor controle glicêmico e pressão arterial.
+  - Manter a medicação atual com ajustes, incluindo Clonidina 1 comprimido a cada 12 horas. Noripurum a cada 15 dias até o retorno. Losartana com dosagem de 1 comprimido no café da manhã, 2 no almoço e 1 no jantar.
+  - Ropuru manter a cada 15 dias.
+  - Revisar a dose de insulina com Dra. Marta.
+  - Marcar Doppler para a parte superior direita do corpo e novos exames laboratoriais antes do retorno.
+  - Manter a dieta saudável conforme orientação da nutricionista.
+  - Retornar em dois meses para nova avaliação.
+impressão:
+  - O paciente apresenta melhora em relação ao último exame, mas permanece com disfunção renal grave, pressão alta mal controlada e necessidade de ajustes no tratamento para melhor controle glicêmico e pressão arterial.

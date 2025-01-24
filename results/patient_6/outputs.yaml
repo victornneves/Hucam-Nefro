@@ -8,5 +8,7 @@ hipoteses_diagnosticas:
         albuminuria: 1
         funcao_rim_atual: 42.54 ml/min/1.73m²
     etiologia_doença_de_base: Diabetes Mellitus (DM) e Hipertensão Arterial (HA)
-conduta: O paciente deve começar a tomar a Sinvastatina, dois comprimidos à noite, e continuar com a Insulina NPH (doses de 6UI de manhã e 4UI antes do jantar). O paciente deve ser cauteloso com a medicação devido ao risco de dor muscular e ajustar a dieta conforme orientado. Retorno agendado para 4 meses, com recomendação de realizar exame de sangue antes da próxima consulta. O paciente deve iniciar a nova medicação após a viagem para Parelheiros.
-impressão: O paciente está em bom estado geral, apresenta dislipidemia sendo tratada com medicação adequada, tem controle glicêmico a ser ajustado e função renal comprometida em estágio 3b da DRC. O acompanhamento regular e adesão ao tratamento prescrito são fundamentais.
+conduta: 
+    - O paciente deve começar a tomar a Sinvastatina, dois comprimidos à noite, e continuar com a Insulina NPH (doses de 6UI de manhã e 4UI antes do jantar). O paciente deve ser cauteloso com a medicação devido ao risco de dor muscular e ajustar a dieta conforme orientado. Retorno agendado para 4 meses, com recomendação de realizar exame de sangue antes da próxima consulta. O paciente deve iniciar a nova medicação após a viagem para Parelheiros.
+impressão: 
+    - O paciente está em bom estado geral, apresenta dislipidemia sendo tratada com medicação adequada, tem controle glicêmico a ser ajustado e função renal comprometida em estágio 3b da DRC. O acompanhamento regular e adesão ao tratamento prescrito são fundamentais.
