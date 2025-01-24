@@ -8,5 +8,7 @@ hipoteses_diagnosticas:
         albuminuria: 
         funcao_rim_atual: 63.26 ml/min/1.73m²
     etiologia_doença_de_base: Indeterminada
-conduta: Manter a medicação atual do paciente; Adicionar sulfato ferroso ao tratamento para melhorar a anemia; Acompanhar com retorno em quatro meses no ambulatório de nefrologia; Continuar monitoramento e controle de diabetes; Autorização para tratamento dentário já providenciada; Próxima consulta marcada para quatro meses; Novo exame de função renal e exames de acompanhamento de rotina antes da próxima consulta.
-impressão: Paciente em boas condições gerais com renovação de prescrição de medicação; Bons níveis de glicose e pressão arterial; Início de tratamento para anemia.
+conduta: 
+    - Manter a medicação atual do paciente; Adicionar sulfato ferroso ao tratamento para melhorar a anemia; Acompanhar com retorno em quatro meses no ambulatório de nefrologia; Continuar monitoramento e controle de diabetes; Autorização para tratamento dentário já providenciada; Próxima consulta marcada para quatro meses; Novo exame de função renal e exames de acompanhamento de rotina antes da próxima consulta.
+impressão:
+    - Paciente em boas condições gerais com renovação de prescrição de medicação; Bons níveis de glicose e pressão arterial; Início de tratamento para anemia.

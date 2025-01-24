@@ -14,4 +14,5 @@ conduta:
     - Administrar Tramadol 50 mg somente em caso de dor intensa.
     - Próxima consulta agendada para daqui a 3 meses.
     - Necessidade de novos exames laboratoriais na próxima consulta, incluindo função renal, perfil fosfato-cálcio, e hemograma.
-impressão: Paciente com doença renal crônica avançada (DRC estágio 5) com histórico de lúpus, hipertensão e nefropatia por cistos. Necessidade de monitoramento contínuo da função renal e dos sintomas associados para manejo clínico eficaz.
+impressão:
+    - Paciente com doença renal crônica avançada (DRC estágio 5) com histórico de lúpus, hipertensão e nefropatia por cistos. Necessidade de monitoramento contínuo da função renal e dos sintomas associados para manejo clínico eficaz.
