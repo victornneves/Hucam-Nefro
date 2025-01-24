@@ -16,4 +16,5 @@ conduta:
     - Programar retorno ao médico nefrologista em 2 meses para reavaliação detalhada da condição renal.
     - Seguir plano nutricional aprovado por equipe multi, atentando para restrições de potássio, fósforo e sódio.
 
-impressão: Paciente com estágio avançado de DRC secundária a LES, apresentando complicações associadas como anemia e desregulação de eletrólitos. Condição está sendo manejada de forma não emergencial, mas requer vigilância constante devido ao potencial de progressão para necessidade de diálise. Medicações bem toleradas até o momento, com necessidade de ajustes conforme evolução clínica.
+impressão:
+    - Paciente com estágio avançado de DRC secundária a LES, apresentando complicações associadas como anemia e desregulação de eletrólitos. Condição está sendo manejada de forma não emergencial, mas requer vigilância constante devido ao potencial de progressão para necessidade de diálise. Medicações bem toleradas até o momento, com necessidade de ajustes conforme evolução clínica.

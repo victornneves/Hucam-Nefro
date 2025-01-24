@@ -11,8 +11,9 @@ hipoteses_diagnosticas:
 conduta: 
   - Aumentar a dose de bicarbonato de sódio para duas vezes ao dia para controle da acidose.
   - Manter o uso de Losartana e incorporar Hidralazina para melhor controle da pressão arterial.
-  - Iniciar suplemento de vitamina D: um comprimido por semana durante dois meses, seguido de um comprimido por mês.
+  - Iniciar suplemento de vitamina D= um comprimido por semana durante dois meses, seguido de um comprimido por mês.
   - Manter acompanhamento com endocrinologista para ajuste de insulina e possível necessidade de diálise.
   - Marcar retorno em quatro meses, com exames de sangue e urina realizados previamente.
   - Continuar monitoramento da pressão arterial em casa e registrar valores para revisão na próxima consulta.
-impressão: A paciente apresenta estágio 4 de doença renal crônica com função renal comprometida, nefropatia diabética, hipertensão de difícil controle, acidose metabólica e hipovitaminose D. O aumento do inchaço nas pernas e necessidade de considerar diálise peritoneal indicam progressão da condição renal.
+impressão: 
+  - A paciente apresenta estágio 4 de doença renal crônica com função renal comprometida, nefropatia diabética, hipertensão de difícil controle, acidose metabólica e hipovitaminose D. O aumento do inchaço nas pernas e necessidade de considerar diálise peritoneal indicam progressão da condição renal.

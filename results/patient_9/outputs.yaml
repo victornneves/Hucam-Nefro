@@ -8,5 +8,7 @@ hipoteses_diagnosticas:
         albuminuria: 
         funcao_rim_atual: 38.89 ml/min/1.73m²
     etiologia_doença_de_base: Nefropatia diabética e hipertensão arterial sistêmica
-conduta: Continuar com Losartana e os demais medicamentos em uso, seguir rigorosamente o plano alimentar orientado pela nutricionista, mesmo com pequenas exceções ocasionais. Consultar com a nutricionista no dia 7 e levar o registro da dieta seguida até então. A próxima consulta de acompanhamento foi marcada para abril de 2025. Não foram solicitados novos exames adicionais neste momento.
-impressão: O paciente apresenta quadro de doença renal crônica estágio 3b, com histórico de diabetes mellitus tipo 2 e hipertensão arterial, bem controladas com medicação e dieta.
+conduta:
+    - Continuar com Losartana e os demais medicamentos em uso, seguir rigorosamente o plano alimentar orientado pela nutricionista, mesmo com pequenas exceções ocasionais. Consultar com a nutricionista no dia 7 e levar o registro da dieta seguida até então. A próxima consulta de acompanhamento foi marcada para abril de 2025. Não foram solicitados novos exames adicionais neste momento.
+impressão:
+    - O paciente apresenta quadro de doença renal crônica estágio 3b, com histórico de diabetes mellitus tipo 2 e hipertensão arterial, bem controladas com medicação e dieta.

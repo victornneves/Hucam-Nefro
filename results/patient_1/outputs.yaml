@@ -8,5 +8,7 @@ hipoteses_diagnosticas:
         albuminuria: 
         funcao_rim_atual: 24,01 ml/min/1.73m²
     etiologia_doença_de_base: Diabetes Mellitus tipo 2
-conduta: Continuar com a medicação prescrita, administrando insulina NPH conforme orientado, e insulina regular antes das refeições. Reforçar a necessidade de medir glicose antes da insulina e se alimentar bem para evitar hipoglicemia. Marcar consulta com nutricionista para controle do consumo de fósforo. Alimentação deve ser equilibrada, limitando alimentos ricos em fósforo e processados, com o paciente retornando em 3 meses, trazendo novos exames de sangue, incluindo função renal e níveis de fósforo.
-impressão: Paciente controlando bem a diabetes, mas com complicações renais avançadas devido a CKD estágio 4, além de apresentar histórico de episódios de hipoglicemia, possivelmente relacionado à má alimentação após administração de insulina.
+conduta: 
+    - Continuar com a medicação prescrita, administrando insulina NPH conforme orientado, e insulina regular antes das refeições. Reforçar a necessidade de medir glicose antes da insulina e se alimentar bem para evitar hipoglicemia. Marcar consulta com nutricionista para controle do consumo de fósforo. Alimentação deve ser equilibrada, limitando alimentos ricos em fósforo e processados, com o paciente retornando em 3 meses, trazendo novos exames de sangue, incluindo função renal e níveis de fósforo.
+impressão: 
+    - Paciente controlando bem a diabetes, mas com complicações renais avançadas devido a CKD estágio 4, além de apresentar histórico de episódios de hipoglicemia, possivelmente relacionado à má alimentação após administração de insulina.
