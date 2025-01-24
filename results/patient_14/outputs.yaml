@@ -5,10 +5,16 @@ hipoteses_diagnosticas:
         sexo_paciente: Masculino
         creatinina: 2,37 mg/dL
         grau: 3b
-        albuminuria: 
-        funcao_rim_atual: 39.43 ml/min/1.73m²
-    etiologia_doença_de_base: Nefropatia crônica decorrente de toxidade renal pós-quimioterapia para neoplasia testicular.
-conduta:
-    - Manter a losartana 50mg com supervisão estrita da pressão arterial para evitar hipotensão. Continuar com omeprazol 20mg diariamente. Recomendar exercícios físicos regulares para manutenção da função muscular e controle do estresse. Estimular a adesão às recomendações dietéticas, em especial controle de potássio e fósforo na dieta. Sugere-se reavaliação em 4 meses com nova dosagem de creatinina e exame de urina para monitoramento da função renal.
-impressão:
-    - Paciente com doença renal crônica associada a alguma estabilização da função renal recente. O nível de creatinina sugere declínio da função renal compatível com estágio 3b. Importância de aderência ao tratamento e acompanhamento regular, com foco em controle de pressão arterial e estresse emocional.
+        albuminuria: 3
+        funcao_rim_atual: 41,71 ml/min/1.73m²
+    etiologia_doença_de_base: Neoplasia de testículo com tratamento prévio
+conduta: 
+    - Continuar acompanhamento regular com nutricionista para auxiliar na adesão às mudanças dietéticas visando o controle da progressão da doença renal.
+    - Manter o uso de Losartana 25mg diário e Omeprazol 20mg diário. Monitorar pressão arterial e ajustar medicação se necessário.
+    - Aconselhamento para manejo do estresse, possivelmente com suporte psicológico se necessário, dada a alta sensibilidade emocional do paciente.
+    - Incentivar a prática de exercícios físicos leves e alongamentos conforme tolerado, considerando limitações físicas.
+    - Reavaliar em quatro meses, com solicitação de novos exames laboratoriais incluindo função renal e exames de imagem, se necessário, para monitorar a progressão.
+    - Reminder para tomar a vacina indicada pelo médico.
+impressão: 
+    - Doença renal crônica estável (estágio 3b), possivelmente causada por tratamento prévio para neoplasia de testículo.
+    - Saúde emocional e física afetada por estresse, destacando-se a necessidade de estratégias eficazes de manejo.

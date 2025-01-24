@@ -4,15 +4,9 @@ hipoteses_diagnosticas:
         idade_paciente: 64 anos
         sexo_paciente: Feminino
         creatinina: 3,02 mg/dL
-        grau: 5
+        grau: 4
         albuminuria: 
-        funcao_rim_atual: 15.63 ml/min/1.73m²
-    etiologia_doença_de_base: Nefropatia crônica secundária a lúpus com cistos renais
-conduta: 
-    - Recomendar controle rigoroso da pressão arterial com medicação atual (Metoprolol, Anlodipino, e Furosemida), ajustes conforme necessário.
-    - Manter o uso de Sevelamer para controle do fósforo.
-    - Administrar Tramadol 50 mg somente em caso de dor intensa.
-    - Próxima consulta agendada para daqui a 3 meses.
-    - Necessidade de novos exames laboratoriais na próxima consulta, incluindo função renal, perfil fosfato-cálcio, e hemograma.
-impressão:
-    - Paciente com doença renal crônica avançada (DRC estágio 5) com histórico de lúpus, hipertensão e nefropatia por cistos. Necessidade de monitoramento contínuo da função renal e dos sintomas associados para manejo clínico eficaz.
+        funcao_rim_atual: 18.12 ml/min/1.73m²
+    etiologia_doença_de_base: Nefropatia crônica relacionada a cistos renais e hipertensão
+conduta: A médica destaca a importância do paciente seguir corretamente o tratamento, incluindo a administração adequada dos medicamentos prescritos, como a manutenção do uso de Sinvastatina, Azatioprina, Metoprolol, Anlodipino, Furosemida, AAS, Sevelamer, Omeprazol, Amitriptilina, e Citoneurim. Recomenda o uso de Tramadol 50 mg SOS em caso de dor forte. Agendamento de novo exame laboratorial para março de 2025, com a necessidade de avaliações regulares devido à condição renal. Retorno programado para revisão e acompanhamento em 3 meses.
+impressão: Paciente com dor persistente provavelmente relacionada à condição renal e fibroálgica, com nefropatia crônica com cistos, necessitando de seguimento contínuo e controle rigoroso da pressão arterial.

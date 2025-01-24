@@ -3,21 +3,22 @@ hipoteses_diagnosticas:
     estagio_drc:
         idade_paciente: 60 anos
         sexo_paciente: Masculino
-        creatinina: 3.3 mg/dL
+        creatinina: 3,3 mg/dL
         grau: 4
-        albuminuria:
-        funcao_rim_atual: 24.92 ml/min/1.73m²
-    etiologia_doença_de_base: Diabetes Mellitus Tipo 2
-conduta: 
-    - Recomendar controle rigoroso da diabetes com insulina NPH (36 UI de manhã e 16 UI à noite) e reintroduzir o uso de Metformina com cautela.
-    - Ajustar a dose de Losartana para 50 mg uma vez ao dia pela manhã e monitorar PA regularmente.
-    - Introduzir tratamento para depressão com medicamento prescrito (Alopram) diariamente pela manhã.
-    - Prescrever Ciprofibrato por 3 meses para os níveis elevados de triglicerídeos.
-    - Proceder com o tratamento para anemia com Sulfato Ferroso e Carbonato de Cálcio conforme prescrito.
-    - Agendar consulta para acompanhamento em 3 meses.
-    - Realizar novos exames, incluindo Doppler e ecocardiograma, para monitoramento.
-    - Considerar necessidade de criar uma fístula arteriovenosa caso diálise se torne necessária.
-impressão: 
-    - O paciente demonstra cansaço extremo e sintomas de depressão, possivelmente exacerbados por sua condição de saúde geral e disfunção renal.
-    - A diabetes e hipertensão mal controladas contribuem para a progressão da doença renal crônica.
-    - Houve ajuste no tratamento medicamentoso, incluindo a introdução de uma medicação para depressão e um fibrato para hipertrigliceridemia.
+        albuminuria: 3
+        funcao_rim_atual: 22.99 ml/min/1.73m²
+    etiologia_doença_de_base: Diabetes Tipo 2
+conduta
+    Ajustar a medicação antihipertensiva: redução da dose de Losartana para 1 comprimido ao dia.
+    Iniciar tratamento com Hidralazina para controle da pressão arterial.
+    Prescrição de Ciprofibrato por 3 meses.
+    Prescrever Alopram diariamente pela manhã. Reforçar a importância de seguir o tratamento e buscar o medicamento no posto de saúde se necessário.
+    Recomendar a retomada do uso adequado da Insulina conforme prescrito.
+    Tratar anemia com sulfato ferroso e administrar carbonato de cálcio 30 minutos antes das refeições principais.
+    Monitorar a glicemia e ajustar doses de insulina conforme necessário para evitar hipoglicemia.
+    Explorar suporte psicológico devido aos sinais de depressão e perda de interesse pela vida.
+    Considerar a criação de uma fístula arteriovenosa para possibilidade de diálise futura.
+    Solicitar novos exames laboratoriais, incluindo Doppler.
+    Agendar próxima consulta em 3 meses.
+impressão
+    O paciente apresenta disfunção renal significativa, diabetes mellitus tipo 2 mal controlado e sinais de depressão. A função renal está seriamente comprometida, sendo necessário considerar a possibilidade de tratamento dialítico no futuro próximo. Há também sinais de descontrole da pressão arterial e hiperfosfatemia associada à doença renal crônica.

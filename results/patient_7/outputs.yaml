@@ -6,9 +6,11 @@ hipoteses_diagnosticas:
         creatinina: 2,16 mg/dL
         grau: 4
         albuminuria: 
-        funcao_rim_atual: 28.11 ml/min/1.73m²
-    etiologia_doença_de_base: Diabetes Mellitus e Hipertensão Arterial Sistêmica
+        funcao_rim_atual: 31.34 ml/min/1.73m²
+    etiologia_doença_de_base: Hipertensão Arterial Sistêmica (HAS) e Diabetes Mellitus (DM)
 conduta: 
-    - O paciente deve continuar com o tratamento anti-hipertensivo e diurético. O uso de gliclazida foi ajustado para 1 comprimido antes do almoço e do jantar. O paciente foi aconselhado a interromper o uso de sulfato ferroso e ácido fólico após terminar o suprimento existente em casa. A médica solicitou que o paciente agendasse exames laboratoriais e uma nova consulta foi marcada para 7 de fevereiro. É importante que o paciente leve o papel impresso com a data da consulta ao laboratório. Seguir supervisão médica para ajustar doses e verificar a progressão da função renal.
-impressão: 
-    - O paciente apresenta doença renal crônica estágio 4, secundária a diabetes mellitus e hipertensão, com anemia tratada por injeções e uso de medicamentos apropriados. É necessário acompanhamento contínuo para monitorar a evolução da função renal e ajustar tratamentos conforme necessário. O paciente também apresenta dificuldades relacionadas à dor no braço e articulações, que devem ser acompanhadas de perto.
+    - Continuar com as medicações atuais, exceto sulfato ferroso e ácido fólico, que devem ser interrompidos após o término do estoque existente em casa.
+    - Reduzir a dose de gliclazida para um comprimido antes do almoço e do jantar.
+    - Realizar novos exames laboratoriais conforme orientado.
+    - Próxima consulta marcada para 7 de fevereiro, levar documentação impressa para o laboratório na realização dos exames.
+impressão: Paciente idoso com Doença Renal Crônica estágio 4, possivelmente relacionada a HAS e DM, apresenta controle clínico regular, mas com necessidade de ajuste em medicação e acompanhamento frequente para gerenciar complicações associadas.

@@ -2,13 +2,11 @@
 hipoteses_diagnosticas:
     estagio_drc:
         idade_paciente: 62 anos
-        sexo_paciente: Feminino
+        sexo_paciente: feminina
         creatinina: 1,4 mg/dL
-        grau: 3 (grau 3a)
+        grau: 3a
         albuminuria: 
-        funcao_rim_atual: 49 ml/min/1.73m²
-    etiologia_doença_de_base: Doença isquêmica do coração
-conduta: 
-    - A conduta médica orienta a paciente a seguir com a medicação prescrita, incluindo Espironolactona, furosemida e VEGF1, para estimular a produção de urina e ajudar na eliminação do excesso de líquido do corpo. O uso de oxigênio deve ser solicitado por um cardiologista ou pneumologista, e a dieta deve ser pobre em proteínas com restrição de líquidos para 860 ml por dia. A paciente deve agendar uma consulta com o cardiologista para ajustar os diuréticos e realizar exames laboratoriais antes da próxima consulta. Caso ocorra desidratação, como tonturas ou boca seca, as doses dos diuréticos podem precisar de ajustes. A próxima consulta de acompanhamento está marcada para março, com instruções de retornar imediatamente ao atendimento médico caso a paciente descompense novamente.
-impressão:
-    - A paciente apresenta sintomas de descompensação cardíaca, associados a doença renal crônica moderada. Há necessidade de ajuste medicamentoso para controlar os sintomas de edema e dificuldades respiratórias, além de atenção às condições renais. A consulta aponta para a necessidade de cuidados multidisciplinares continuados, incluindo acompanhamento com cardiologista e moderação na ingestão de líquidos.
+        funcao_rim_atual: 45,31 ml/min/1.73m²
+    etiologia_doença_de_base: Doença cardíaca isquêmica
+conduta: "Recomendações de manutenção da medicação atual, com ajustes potenciais na dosagem de acordo com sinais de desidratação como tontura ou boca seca. Acompanhamento da ingestão de líquidos, limitando a 860 ml por dia, e incentivo ao consumo de sucos naturais. Recomendação para consulta com cardiologista em 22/01/25, seguida de exames laboratoriais. Indicação de retorno para acompanhamento em três meses e ajuste da medicação diurética conforme necessário. Realizar cateterismo para avaliar a presença de inchaços e a necessidade de mudanças na medicação diurética. Atenção à dieta pobre em proteínas, evitando alimentos com colesterol alto como feijão preto ou refrigerantes. É preciso discutir com o médico responsável se a administração de oxigênio deve ser ajustada. A prescrição inclui espironolactona e VEGF1, 3 vezes pela manhã, e furosemida 3 vezes de manhã e 3 à tarde. Atenção também ao consumo de saladas e ingestão moderada de frutos secos."
+impressão: "Paciente com doença renal crônica estável, mas com necessidade de ajustes contínuos na medicação devido a complicações cardiovasculares e história de acidentes vasculares isquêmicos. Função renal e cardíaca devem ser monitoradas de perto."

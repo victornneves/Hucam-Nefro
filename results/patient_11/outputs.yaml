@@ -2,13 +2,11 @@
 hipoteses_diagnosticas:
     estagio_drc:
         idade_paciente: 44 anos
-        sexo_paciente: Feminino
+        sexo_paciente: Feminina
         creatinina: 7,52 mg/dL
         grau: 5
         albuminuria: 
-        funcao_rim_atual: 6 ml/min/1.73m²
-    etiologia_doença_de_base: Hipertensão arterial sistêmica
-conduta:
-    - O paciente deve iniciar o preparo para diálise imediatamente, conforme instruído. Manter contato com o médico de diálise para coordenação do tratamento em breve. Ajuste dietético recomendado, diminuindo o consumo de pão e macarrão e priorizando frutas e verduras. Continuar com a administração subcutânea de eritropoetina para tratar anemia, conforme prescrição. Diligenciar para a realização de ultrassom renal e enviar o laudo ao médico via WhatsApp assim que possível. Seguir usando cláusulas de segurança, evitandor desidratação adicional para prevenir descompensação renal. A continuidade dos medicamentos atuais está liberada; ajustes futuros podem ser realizados pelo médico de diálise. Reavaliar a cada 1 mês.
-impressão:
-    - O paciente se encontra em um estado avançado de doença renal crônica (estágio 5) com comprometimento significativo da função renal, necessitando de hemodiálise. A condição de anemia é preocupante e observa-se o impacto de condições relacionadas, como pressão arterial. O manejo metabólico, principalmente relacionado à hipertensão, é crítico. Atendimento continuado é essencial para monitorar e ajustar o tratamento conforme necessário. 
+        funcao_rim_atual: 5.61 ml/min/1.73m²
+    etiologia_doença_de_base: Hipertensão Arterial Sistêmica (HAS)
+conduta: O paciente deve ser encaminhado para começar a diálise imediatamente devido à função renal crítica estimada em 6% e taxa de filtração glomerular extremamente baixa. Manter as medicações atuais com análises constantes e realizar um ultrassom renal como recomendado. Sugerir redução de consumo de carboidratos simples, como pão e macarrão, em sua dieta. Alteração na administração do medicamento para anemia para eritropoetina foi discutida e uma receita será providenciada. Seguir monitorando os níveis de pressão arterial e continuar o seguimento com o médico de diálise para possíveis ajustes na terapia. Submeter exames adicionais de hemoglobina e eletrolíticos antes da próxima consulta programada para 1 mês com novos exames laboratoriais para avaliação.
+impressão: O paciente apresenta doença renal crônica em estágio terminal, com função renal severamente comprometida, hipertensão arterial sistêmica de longa data, possíveis complicações de Uremia e necessidade urgente de terapia de suporte renal (diálise). A anemia persistente também requer monitoração contínua e tratamento apropriado para assegurar a estabilidade clínica.
