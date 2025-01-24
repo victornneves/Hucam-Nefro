@@ -15,4 +15,5 @@ conduta:
     - Consultar dentista para tratamento odontológico conforme autorizado.
     - Retorno marcado para acompanhamento ambulatorial em Nefrologia em quatro meses.
     - Novos exames laboratoriais solicitados para ajustar medicações conforme necessário.
-impressão: Paciente apresentando boa resposta ao tratamento farmacológico atual, estabilidade nos níveis de glicose e pressão arterial, mas com necessidade de intervenção para anemia e questões dentárias.
+impressão:
+    - Paciente apresentando boa resposta ao tratamento farmacológico atual, estabilidade nos níveis de glicose e pressão arterial, mas com necessidade de intervenção para anemia e questões dentárias.

@@ -8,17 +8,17 @@ hipoteses_diagnosticas:
         albuminuria: 3
         funcao_rim_atual: 22.99 ml/min/1.73m²
     etiologia_doença_de_base: Diabetes Tipo 2
-conduta
-    Ajustar a medicação antihipertensiva: redução da dose de Losartana para 1 comprimido ao dia.
-    Iniciar tratamento com Hidralazina para controle da pressão arterial.
-    Prescrição de Ciprofibrato por 3 meses.
-    Prescrever Alopram diariamente pela manhã. Reforçar a importância de seguir o tratamento e buscar o medicamento no posto de saúde se necessário.
-    Recomendar a retomada do uso adequado da Insulina conforme prescrito.
-    Tratar anemia com sulfato ferroso e administrar carbonato de cálcio 30 minutos antes das refeições principais.
-    Monitorar a glicemia e ajustar doses de insulina conforme necessário para evitar hipoglicemia.
-    Explorar suporte psicológico devido aos sinais de depressão e perda de interesse pela vida.
-    Considerar a criação de uma fístula arteriovenosa para possibilidade de diálise futura.
-    Solicitar novos exames laboratoriais, incluindo Doppler.
-    Agendar próxima consulta em 3 meses.
-impressão
-    O paciente apresenta disfunção renal significativa, diabetes mellitus tipo 2 mal controlado e sinais de depressão. A função renal está seriamente comprometida, sendo necessário considerar a possibilidade de tratamento dialítico no futuro próximo. Há também sinais de descontrole da pressão arterial e hiperfosfatemia associada à doença renal crônica.
+conduta:
+    - Ajustar a medicação antihipertensiva, redução da dose de Losartana para 1 comprimido ao dia.
+    - Iniciar tratamento com Hidralazina para controle da pressão arterial.
+    - Prescrição de Ciprofibrato por 3 meses.
+    - Prescrever Alopram diariamente pela manhã. Reforçar a importância de seguir o tratamento e buscar o medicamento no posto de saúde se necessário.
+    - Recomendar a retomada do uso adequado da Insulina conforme prescrito.
+    - Tratar anemia com sulfato ferroso e administrar carbonato de cálcio 30 minutos antes das refeições principais.
+    - Monitorar a glicemia e ajustar doses de insulina conforme necessário para evitar hipoglicemia.
+    - Explorar suporte psicológico devido aos sinais de depressão e perda de interesse pela vida.
+    - Considerar a criação de uma fístula arteriovenosa para possibilidade de diálise futura.
+    - Solicitar novos exames laboratoriais, incluindo Doppler.
+    - Agendar próxima consulta em 3 meses.
+impressão:
+    - O paciente apresenta disfunção renal significativa, diabetes mellitus tipo 2 mal controlado e sinais de depressão. A função renal está seriamente comprometida, sendo necessário considerar a possibilidade de tratamento dialítico no futuro próximo. Há também sinais de descontrole da pressão arterial e hiperfosfatemia associada à doença renal crônica.

@@ -8,5 +8,7 @@ hipoteses_diagnosticas:
         albuminuria: 
         funcao_rim_atual: 24.287 ml/min/1.73m²
     etiologia_doença_de_base: Diabetes Mellitus tipo 2 e hipertensão arterial sistêmica, provavelmente agravadas por histórico cardiovascular
-conduta: Continuar com a medicação Losartana conforme orientação médica. Destacar a importância de seguir rigorosamente a dieta prescrita, com consulta à nutricionista agendada. Acompanhar as flutuações de glicose e monitorar a saúde cardiovascular. Manter o uso dos medicamentos atuais sem necessidade de novas prescrições. A próxima consulta médica está agendada para abril de 2025. Realizar novos exames laboratoriais de função renal e controle glicêmico antes da próxima consulta.
-impressão: Paciente apresenta doença renal crônica em estágio 4, com função renal significativamente reduzida. A condição é provavelmente associada ao histórico de Diabetes Mellitus tipo 2 e hipertensão arterial sistêmica. A estabilidade aparente do paciente requer monitoramento contínuo.
+conduta:
+    - Continuar com a medicação Losartana conforme orientação médica. Destacar a importância de seguir rigorosamente a dieta prescrita, com consulta à nutricionista agendada. Acompanhar as flutuações de glicose e monitorar a saúde cardiovascular. Manter o uso dos medicamentos atuais sem necessidade de novas prescrições. A próxima consulta médica está agendada para abril de 2025. Realizar novos exames laboratoriais de função renal e controle glicêmico antes da próxima consulta.
+impressão:
+    - Paciente apresenta doença renal crônica em estágio 4, com função renal significativamente reduzida. A condição é provavelmente associada ao histórico de Diabetes Mellitus tipo 2 e hipertensão arterial sistêmica. A estabilidade aparente do paciente requer monitoramento contínuo.
