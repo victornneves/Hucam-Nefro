@@ -5,20 +5,8 @@ hipoteses_diagnosticas:
         sexo_paciente: Feminino
         creatinina: 2,68 mg/dL
         grau: 4
-        albuminuria: 
-        funcao_rim_atual: 21,48 ml/min/1.73m²
-    etiologia_doença_de_base: Nefrolitíase bilateral, diabetes mellitus, hipertensão arterial sistêmica, ateromatose aórtica
-conduta: 
-  - Recomenda-se manutenção do controle rigoroso da pressão arterial e glicemia, com regular monitoramento.
-  - Continuar medicamentos atuais, incluindo Metoprolol aumentado pela cardiologia para 100 mg.
-  - Realizar a implantação da fístula para hemodiálise.
-  - Prosseguir com acompanhamento cardiovascular e, se necessário, considerar o procedimento de cateterismo conforme avaliação do cardiologista.
-  - Proceder com acompanhamento oftalmológico para monitoramento da retinopatia diabética, apesar das dificuldades de encaminhamento discutidas.
-  - Administrar codeína para controle da dor ciática, conforme necessário, e considerar a administração de injeção de corticoide em caso de crise aguda.
-  - Indicação de seguir acompanhamentos de saúde mental devido ao histórico de transtorno depressivo.
-  - Programar nova consulta para revisão e acompanhamento em 3 meses, solicitando exames complementares antes da consulta para avaliação do estado renal, funções hepáticas e glicemia.
-  - Evitar o consumo de alimentos ricos em potássio e queijo, seguindo uma dieta equilibrada recomendada por nutricionista.
-impressão: 
-  - Paciente com doença renal crônica estágio 4, com risco aumentado devido a hipertensão e diabetes mellitus.
-  - Necessidade de continuidade no suporte multifuncional do Programa Prevenir com ênfase em controle de complicações associadas.
-  - Considerações acerca dos cuidados renais e necessidade de possível transição para terapia de substituição renal a depender da progressão do quadro.
+        albuminuria: 2
+        funcao_rim_atual: 21,37 ml/min/1.73m²
+    etiologia_doença_de_base: Nefrolitíase bilateral e Diabetes Mellitus
+conduta: Paciente deve continuar com a restrição de consumo de queijo e seguir a dieta para diabéticos. Manter o uso de todos os medicamentos conforme a prescrição atual, com ênfase no controle da pressão arterial e açúcar no sangue. Evitar o uso excessivo de medicamentos e monitorar reações adversas, especialmente com o novo medicamento para o coração adicionado pelo cardiologista. Monitorar a vitamina D e continuar com 7000 UI/semana. Procurar atenção imediata para dores agudas, administrando codeína conforme necessidade e corticoide somente durante crises. Realizar a análise vascular indicada antes da implantação da fístula. Considerar alternativas para o cateterismo enquanto se aguarda nova avaliação. Realizar exames laboratoriais antes da próxima consulta e considerar uma consulta com o oftalmologista para revisar o tratamento da visão. Agendar acompanhamento em três meses.
+impressão: A paciente apresenta agravamento da função renal e está em estágio 4 de doença renal crônica, com nefrolitíase e diabetes como condições subjacentes. Houve melhora na creatinina com a adaptação da dieta. Necessidade de acompanhamento contínuo de cardiologia devido à isquemia miocárdica documentada, além de monitorar a saúde mental e dor associada ao nervo ciático. Manter vigilância para possíveis reações adversas aos medicamentos.

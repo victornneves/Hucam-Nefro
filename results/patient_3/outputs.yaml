@@ -1,14 +1,21 @@
 
 hipoteses_diagnosticas:
-  estagio_drc:
-    idade_paciente: 72 anos
-    sexo_paciente: Masculino
-    creatinina: 5,44 mg/dL
-    grau: 4
-    albuminuria: 
-    funcao_rim_atual: 15 ml/min/1.73m²
-  etiologia_doença_de_base: HAS e DM 
+    estagio_drc:
+        idade_paciente: 72 anos
+        sexo_paciente: Masculino
+        creatinina: 5,44 mg/dL
+        grau: 4
+        albuminuria: 1
+        funcao_rim_atual: 19.17 ml/min/1.73m²
+    etiologia_doença_de_base: Hipertensão arterial sistêmica e diabetes mellitus
 conduta: 
-  - Recomendamos continuidade do controle rigoroso da pressão arterial com o uso de clonidina e losartana conforme prescrito. Ajuste na insulina deve ser revisado com a Dra. Marta. Manter a administração de Noripurum a cada 15 dias e retomar o uso de vitamina D. O paciente deve realizar exame Doppler na parte superior direita do corpo e rever resultados com o especialista. Retorno marcado para dois meses com novos exames solicitados, e deve-se continuar com uma dieta saudável como orientado pela nutricionista.
-impressão: 
-  - Paciente apresenta melhora na função renal, mas permanece em estágio avançado de doença renal crônica, associado à hipertensão e diabetes mellitus. Há necessidade de monitoramento contínuo e ajustes terapêuticos, principalmente na gestão da pressão arterial e níveis de glicose.
+    - Manter a medicação atual com ajustes, incluindo:
+        - Clonidina: 1 comprimido a cada 12 horas.
+        - Noripurum a cada 15 dias até o retorno.
+        - Losartana com dosagem de 1 comprimido no café da manhã, 2 no almoço e 1 no jantar.
+    - Ropuru manter a cada 15 dias.
+    - Revisar a dose de insulina com Dra. Marta.
+    - Marcar Doppler para a parte superior direita do corpo e novos exames laboratoriais antes do retorno.
+    - Manter a dieta saudável conforme orientação da nutricionista.
+    - Retornar em dois meses para nova avaliação.
+impressão: O paciente apresenta melhora em relação ao último exame, mas permanece com disfunção renal grave, pressão alta mal controlada e necessidade de ajustes no tratamento para melhor controle glicêmico e pressão arterial.

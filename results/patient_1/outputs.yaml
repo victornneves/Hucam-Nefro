@@ -3,12 +3,10 @@ hipoteses_diagnosticas:
     estagio_drc:
         idade_paciente: 74 anos
         sexo_paciente: Masculino
-        creatinina: 2,4 mg/dL
+        creatinina: 2.4 mg/dL
         grau: 4
-        albuminuria: 
-        funcao_rim_atual: 24,01 ml/min/1.73m²
-    etiologia_doença_de_base: Diabetes Mellitus tipo 2
-conduta: 
-    - Continuar com a medicação prescrita, administrando insulina NPH conforme orientado, e insulina regular antes das refeições. Reforçar a necessidade de medir glicose antes da insulina e se alimentar bem para evitar hipoglicemia. Marcar consulta com nutricionista para controle do consumo de fósforo. Alimentação deve ser equilibrada, limitando alimentos ricos em fósforo e processados, com o paciente retornando em 3 meses, trazendo novos exames de sangue, incluindo função renal e níveis de fósforo.
-impressão: 
-    - Paciente controlando bem a diabetes, mas com complicações renais avançadas devido a CKD estágio 4, além de apresentar histórico de episódios de hipoglicemia, possivelmente relacionado à má alimentação após administração de insulina.
+        albuminuria: 2
+        funcao_rim_atual: 25.44 ml/min/1.73m²
+    etiologia_doença_de_base: Hipertensão Arterial Sistêmica (HAS) e Diabetes Melito (DM)
+conduta: Manter a medicação atual com a dosagem ajustada da insulina NPH e regular conforme indicado (10 UI antes do café, 10 UI antes do jantar e 10 UI antes de dormir; regular 6, 6 e 5). Reforçar a importância de medir a glicose antes da insulina e comer imediatamente após tomar a insulina regular para evitar hipoglicemia. Reavaliar a ingestão de alimentos ricos em fósforo e tentar agendar com uma nutricionista. Continuar com o suporte ferroso e a suplementação de vitamina D conforme orientado. Retornar em 3 meses com novo conjunto de exames, incluindo microalbuminúria e perfil bioquímico completo.
+impressão: O paciente apresenta doença renal crônica estágio 4, necessidade de ajuste no manejo do diabetes para prevenir hipoglicemias e controle da ingestão de fósforo. Anemia leve presente, bem como suporte necessário para saúde mental. A função renal está significativamente comprometida, possivelmente atribuível à longa história de hipertensão e diabetes.

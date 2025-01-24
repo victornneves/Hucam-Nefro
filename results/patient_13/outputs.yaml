@@ -6,9 +6,7 @@ hipoteses_diagnosticas:
         creatinina: 4.2 mg/dL
         grau: 5
         albuminuria: 
-        funcao_rim_atual: 11 ml/min/1.73m²
-    etiologia_doença_de_base: Câncer renal (nefrectomia direita)
-conduta:
-    - Recomenda-se iniciar a diálise imediatamente devido à baixa função renal e altos níveis de potássio. Manter dieta rigorosa conforme orientações até a próxima consulta em 23 de janeiro. Após esse período, realizar check-up em fevereiro. Uso contínuo de bicarbonato e introduzir água com gás. Buscar receita médica esquecida. Manter o uso de Citalopram e outros medicamentos conforme prescrição. Novo exame para avaliação de oclusão a ser realizado com cateter. Próxima consulta marcada para janeiro.
-impressão:
-    - A paciente apresenta Doença Renal Crônica em estágio 5, com função renal significativamente reduzida. Demonstrou resistência à diálise, mas essa intervenção é crucial para a melhora de seu estado de saúde, especialmente considerando os altos níveis de potássio. O controle dietético e a adesão ao tratamento médico são essenciais para estabilizar sua condição.
+        funcao_rim_atual: 11.94 ml/min/1.73m²
+    etiologia_doença_de_base: Nefrectomia anterior devido a carcinoma de células renais
+conduta: A médica recomenda o início urgente da diálise devido à função renal muito baixa e altos níveis de potássio. Instruções dietéticas rigorosas devem ser seguidas até a próxima consulta em 23 de janeiro. A paciente receberá apoio contínuo, e medicamentos como Hidropatina e Citalopram devem ser tomados conforme prescritos. Será necessário um retorno para check-up em fevereiro durante as férias da médica.
+impressão: A paciente apresenta doença renal crônica em estágio avançado, necessitando de manejo nutricional e tratamento intensivo, incluindo a diálise, para melhorar sua qualidade de vida e controlar complicações associadas.

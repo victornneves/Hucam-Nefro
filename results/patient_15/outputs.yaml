@@ -5,16 +5,8 @@ hipoteses_diagnosticas:
         sexo_paciente: Feminino
         creatinina: 3,74 mg/dL
         grau: 4
-        albuminuria: 
-        funcao_rim_atual: 17,09 ml/min/1.73m²
+        albuminuria: 3
+        funcao_rim_atual: 15.17 ml/min/1.73m²
     etiologia_doença_de_base: LES (Lúpus Eritematoso Sistêmico)
-
-conduta: 
-    - Continuar com a medicação atual, incluindo Alfapoetina semanal e ajustar doses conforme necessário.
-    - Manter acompanhamento regular com exames laboratoriais para monitorar função renal, eletrólitos e níveis de hemoglobina.
-    - Realizar hemodiálise conforme indicado pelos médicos com acompanhamento para possíveis ajustes de tratamento.
-    - Programar retorno ao médico nefrologista em 2 meses para reavaliação detalhada da condição renal.
-    - Seguir plano nutricional aprovado por equipe multi, atentando para restrições de potássio, fósforo e sódio.
-
-impressão:
-    - Paciente com estágio avançado de DRC secundária a LES, apresentando complicações associadas como anemia e desregulação de eletrólitos. Condição está sendo manejada de forma não emergencial, mas requer vigilância constante devido ao potencial de progressão para necessidade de diálise. Medicações bem toleradas até o momento, com necessidade de ajustes conforme evolução clínica.
+conduta: Continuar o tratamento atual com Alfapoetina 4000 UI 1x/semana e manter a medicação para controle da pressão arterial e suporte com vitamina D e cálcio. Ajustar a dosagem do bicarbonato conforme exame de gás sanguíneo. Retomar o monitoramento regular dos níveis de creatinina e albumina. Recomenda-se realizar novos exames de sangue e urina em 3 meses. Consultar o médico nefrologista para discussão sobre a eventual necessidade de preparação para hemodiálise. Recomendações nutricionais e consultas regulares com nutricionista são essenciais. Nova consulta agendada para daqui a 3 meses.
+impressão: Paciente com comprometimento renal significativo em estágio 4 de DRC, provavelmente associado ao LES. A paciente apresenta sinais de lesão renal crônica com albuminúria. Apesar de o tratamento atual ser estável, é essencial monitorar a progressão da doença e ajustar a terapia renal substitutiva se necessário.
