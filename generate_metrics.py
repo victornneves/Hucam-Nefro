@@ -5,7 +5,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from rouge_score import rouge_scorer
 
-PASS = "third"
+PASS = "second"
 
 def concatenate_speaker_lines(text, speaker):
     return " ".join([line.split(": ", 1)[1] for line in text.splitlines() if line.startswith(f"{speaker}:")])
@@ -147,16 +147,16 @@ mean_patients = df[["PATIENT_AND_FAMILY_cosine_similarity", "PATIENT_AND_FAMILY_
 df_all = df[["Consult", "all_cosine_similarity", "all_rougeL_recall", "all_rougeL_precision", "all_rougeL_f1"]].copy()
 df_all.columns = ["Consult", "Cosine Similarity", "ROUGE-L Recall", "ROUGE-L Precision", "ROUGE-L F1"]
 df_all.loc["Mean"] = ["Mean"] + mean_all.tolist()
-df_all.to_latex("all_metrics.tex", float_format="%.2f", index=False)
+df_all.to_latex(f"all_metrics_{PASS}.tex", float_format="%.2f", index=False)
 
 df_medics = df[["Consult", "MEDIC_TEAM_cosine_similarity", "MEDIC_TEAM_rougeL_recall", "MEDIC_TEAM_rougeL_precision", "MEDIC_TEAM_rougeL_f1"]].copy()
 df_medics.columns = ["Consult", "Cosine Similarity", "ROUGE-L Recall", "ROUGE-L Precision", "ROUGE-L F1"]
 df_medics.loc["Mean"] = ["Mean"] + mean_medics.tolist()
-df_medics.to_latex("medics_metrics.tex", float_format="%.2f", index=False)
+df_medics.to_latex(f"medics_metrics_{PASS}.tex", float_format="%.2f", index=False)
 
 df_patients = df[["Consult", "PATIENT_AND_FAMILY_cosine_similarity", "PATIENT_AND_FAMILY_rougeL_recall", "PATIENT_AND_FAMILY_rougeL_precision", "PATIENT_AND_FAMILY_rougeL_f1"]].copy()
 df_patients.columns = ["Consult", "Cosine Similarity", "ROUGE-L Recall", "ROUGE-L Precision", "ROUGE-L F1"]
 df_patients.loc["Mean"] = ["Mean"] + mean_patients.tolist()
-df_patients.to_latex("patients_metrics.tex", float_format="%.2f", index=False)
+df_patients.to_latex(f"patients_metrics_{PASS}.tex", float_format="%.2f", index=False)
 
 

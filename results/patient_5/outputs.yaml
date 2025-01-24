@@ -1,19 +1,23 @@
+
 hipoteses_diagnosticas:
     estagio_drc:
         idade_paciente: 57 anos
-        sexo_paciente: Feminino
-        creatinina: 2.08 mg/dL
+        sexo_paciente: Feminina
+        creatinina: 2,08 mg/dL
         grau: 4
-        albuminuria: 1
-        funcao_rim_atual: 24.47 ml/min/1.73m²
-    etiologia_doença_de_base: Diabetes Mellitus tipo 2
+        albuminuria: 
+        funcao_rim_atual: 28,71 ml/min/1.73m²
+    etiologia_doença_de_base: Diabetes mellitus tipo 2
 conduta: 
-  - Continuar monitoramento regular dos níveis de creatinina, potássio e glicemia.
-  - Ajustar medicamentos conforme a necessidade, com atenção especial aos níveis de PTH e função cardiovascular.
-  - Aumentar a dose de carbonato de cálcio para 2,2,2 conforme discutido.
-  - Realizar ecocardiograma e teste de caminhada com oxigenação para investigação adicional do comprometimento cardiovascular.
-  - Encaminhamento para pneumologista para avaliação da condição respiratória.
-  - Avaliação nutricional com ênfase na adequação do fósforo na dieta.
-  - Agendar retorno para acompanhamento em três meses.
-impressão:
-  - A paciente apresenta insuficiência renal crônica estágio 4, provavelmente devido ao longo histórico de Diabetes Mellitus tipo 2. A função renal está estável, com sinais de comprometimento cardiovascular e osteoporose, exigindo ajustes na medicamentação e acompanhamento rigoroso.
+  - Continuar acompanhamento com endocrinologista para controle do diabetes. Manter HbA1c em nível adequado, atualmente 7,7%.
+  - Ajustar a dose de dapagliflozina se necessário, considerando os episódios de hipoglicemia relatados.
+  - Continuar tratamento para hipertensão arterial com Losartana, Atenolol e Anlodipino. Monitorar regularmente a pressão arterial, atualmente controlada.
+  - Realizar reavaliação da função renal e eletrólitos nos próximos 3 meses.
+  - Continuar suplementação de vitamina D e ajuste na dose de carbonato de cálcio conforme necessidade para controle do fósforo.
+  - Manter uso de cálcio e suplemento de vitamina D para controle de osteoporose. Continuar a acompanhar densitometria óssea para avaliar necessidade de ajuste terapêutico.
+  - Revisar uso de Sinvastatina e ajustar ou suspender, se necessário, dependendo dos resultados de colesterol LDL.
+  - Considerar ajuste na insulina NPH e regular, seguindo monitoramento de glicose e ajuste conforme hipoglicemia e hiperglicemia ocorridas.
+  - Recomendar acompanhamento com nutricionista para ajuste dietético, especialmente em relação ao controle de fósforo e potássio.
+  - Avaliar necessidade de novos exames laboratoriais a cada 3 meses ou quando necessário.
+  - Programar a próxima consulta em 3 meses. 
+impressão: Paciente estável com doença renal crônica estágio 4 secundária a diabetes tipo 2. Controle glicêmico relativamente adequado, ainda com necessidade de ajustes para reduzir hipoglicemias. Hipertensão e dislipidemia controladas. Deve-se manter acompanhamento multidisciplinar e monitorar possíveis complicações de DRC, como distúrbios eletrolíticos e deterioração óssea.

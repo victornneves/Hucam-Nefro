@@ -39,7 +39,7 @@ PACIENTE: É.
 MÉDICA: Aí eu já perguntei da insulina, já confirmei. E aí do coração, tá tomando alguma coisa?
 PACIENTE: Não.
 MÉDICA: O medicamento do coração foi retirado, então que é o... 
-vamos ver se eu lembro aqui... anti-hipertensivo, né? Que era o que a gente chamava de betabloqueador. Que era o Carvedilol. A senhora lembra?
+MÉDICA: vamos ver se eu lembro aqui... anti-hipertensivo, né? Que era o que a gente chamava de betabloqueador. Que era o Carvedilol. A senhora lembra?
 PACIENTE: Lembro.
 MÉDICA: Foi retirado esse, né?
 PACIENTE: Foi.
@@ -56,18 +56,14 @@ MÉDICO_SUPERVISOR: Tudo bem, mas é fundamental que você os retome, porque ele
 MÉDICA: Sobre o preparo para a diálise, nós vamos encaminhar os exames que devem ser feitos antes de iniciar o mapeamento e também vamos orientar vocês sobre a dieta que deve ser seguida a partir de agora. 
 ACOMPANHANTE: Certo, iremos seguir todas as orientações.
 MÉDICO_SUPERVISOR: Tudo bem. Muito bem. Eu entrei no meio da conversa. Vou só completar pra gente acelerar um pouquinho as coisas, mas vamos lá, tá certo? O seguinte, na verdade eu só queria entender o seguinte: primeiro, pra saber se tem outra coisa que tá inventando você de fazer uma peritoneal, tem que passar com a gente, a gente olha e fala, opa, mas aqui tem obstrução, tem cálculo, caca, isso vai dar errado. Agora, a gente só vai fazer isso de início se você falar, olha, realmente eu quero fazer.
- 
 PACIENTE: Quero fazer hemodiálise.
 MÉDICO_SUPERVISOR: Quer. Legal. Então o que a gente vai fazer agora, a gente vai fazer um mapeamento dos vasos do seu braço pra saber se eles aguentam uma fístula. Porque a gente pode fazer hemodiálise de duas maneiras, né? A gente pode fazer tanto aqui pelo peito, que é chamado de cateter. Esse tipo de cateter não é o ideal. Tudo bem? E a gente pode fazer também, tanto aqui pelo peito, pode fazer pelo braço. Isso que a gente chama de fístulas. Mas pra fazer a fístula, a gente precisa saber se os vasos do seu braço aguentam fazer isso. É então que a gente faz o Doppler do braço, vai ver se os vasos estão adequados pra fazer esse procedimento. Por isso que a gente vai fazer esse exame, tá bom? Aí a gente já sabe se dá ou não dá.
 MÉDICO_SUPERVISOR: Precisamos saber quanto estava a pressão lá da última vez que você foi na consulta, não soubemos disso ainda. Se a consulta tivesse sido realizada em outra unidade do PREVENIR, eu iria, já teria olhado.
 PACIENTE/ACOMPANHANTE: A pressão estava de 13.
 MÉDICA: 13.
 MÉDICO_SUPERVISOR: Foi de quanto? Eu vou perguntar pra você um assunto já resolvido.
- 
 PACIENTE/ACOMPANHANTE: Foi de 11.
- 
 MÉDICO_SUPERVISOR:   Foi de 11. Então deve ter sido o seguinte... você deve... nesse dia que você esteve lá, você deve ter chegado lá, muito estressada, nervosa.
- 
 MÉDICA: Você tá fazendo diálise, né? 
 PACIENTE: Estou. 
 MÉDICA: Tá bom então. Você continuará aí, vai bem. A não ser que, nossa, de repente você tá com uma fraqueza horrorosa.
@@ -122,7 +118,7 @@ MÉDICO_SUPERVISOR: Como foi o atendimento?
 MÉDICA: Fiz o exame de rotina, estou aguardando os resultados.
 MÉDICO_SUPERVISOR: Por que? 
 MÉDICA: Porque estou muito feliz com o progresso do paciente.
-MÉDICO_SUPERVISOR:Boa tarde Doutora, posso me juntar a vocês agora?
+MÉDICO_SUPERVISOR: Boa tarde Doutora, posso me juntar a vocês agora?
 MÉDICA: Claro, seja bem-vindo.
 MÉDICO_SUPERVISOR: Olá senhora, como está se sentindo hoje? Existe alguma queixa específica?
 PACIENTE: Eu estou muito cansada.

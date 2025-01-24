@@ -11,7 +11,7 @@ relatorio_consulta_ambulatorial_nefrologia:
       grau: 4
       albuminuria: 2 
       funcao_rim_atual: 27 ml/min/1.73m²
-    etiologia_doença_de_base: DRD
+    etiologia_doença_de_base: Doença Renal Diabética
     admissao:
       data: 31/08/2023
       CLCR_admissao: CKD-EPI = 26.2 ml/min/1.73 m²

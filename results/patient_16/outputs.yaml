@@ -1,13 +1,23 @@
+
 hipoteses_diagnosticas:
     estagio_drc:
         idade_paciente: 60 anos
         sexo_paciente: Masculino
-        creatinina: 3,3 mg/dL
+        creatinina: 3.3 mg/dL
         grau: 4
-        albuminuria: 3
-        funcao_rim_atual: 21.22 ml/min/1.73m²
-    etiologia_doença_de_base: Diabetes tipo 2 e hipertensão arterial sistêmica
+        albuminuria:
+        funcao_rim_atual: 24.92 ml/min/1.73m²
+    etiologia_doença_de_base: Diabetes Mellitus Tipo 2
 conduta: 
-    - O paciente deve continuar com o tratamento atual, especialmente com foco no controle da pressão arterial e do diabetes. É importante aderir ao uso da Losartana, ajustado para uma vez ao dia, e introduzir a Hidralazina para manter a pressão arterial em níveis adequados. Ciprofibrato deve ser tomado à noite por três meses, além do Alprazolam pela manhã. O monitoramento da glicose é crucial devido ao histórico de hipoglicemia. Novos exames de sangue, incluindo funções renais e Doppler para artérias renais, devem ser agendados. Recomenda-se que a próxima consulta seja marcada em 3 meses. O paciente deve estar atento a sinais de piora como aumento da falta de ar e edema nas pernas, necessitando de acompanhamento médico imediato se surgirem.
+    - Recomendar controle rigoroso da diabetes com insulina NPH (36 UI de manhã e 16 UI à noite) e reintroduzir o uso de Metformina com cautela.
+    - Ajustar a dose de Losartana para 50 mg uma vez ao dia pela manhã e monitorar PA regularmente.
+    - Introduzir tratamento para depressão com medicamento prescrito (Alopram) diariamente pela manhã.
+    - Prescrever Ciprofibrato por 3 meses para os níveis elevados de triglicerídeos.
+    - Proceder com o tratamento para anemia com Sulfato Ferroso e Carbonato de Cálcio conforme prescrito.
+    - Agendar consulta para acompanhamento em 3 meses.
+    - Realizar novos exames, incluindo Doppler e ecocardiograma, para monitoramento.
+    - Considerar necessidade de criar uma fístula arteriovenosa caso diálise se torne necessária.
 impressão: 
-    - O paciente apresenta doença renal crônica estágio 4, associada principalmente a diabetes mellitus tipo 2 e hipertensão arterial sistêmica, com albuminúria significativa. O quadro de saúde tem impacto significativo em seu bem-estar psicológico, aumentando a necessidade de suporte e acompanhamento médico contínuo. A adesão ao tratamento é crucial para evitar progressão para necessidade de diálise.
+    - O paciente demonstra cansaço extremo e sintomas de depressão, possivelmente exacerbados por sua condição de saúde geral e disfunção renal.
+    - A diabetes e hipertensão mal controladas contribuem para a progressão da doença renal crônica.
+    - Houve ajuste no tratamento medicamentoso, incluindo a introdução de uma medicação para depressão e um fibrato para hipertrigliceridemia.

@@ -1,0 +1,23 @@
+
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 67 anos
+        sexo_paciente: Feminino
+        creatinina: 2,68 mg/dL
+        grau: 4
+        albuminuria: 3
+        funcao_rim_atual: 15.53 ml/min/1.73m²
+    etiologia_doença_de_base: Nefrolitíase bilateral, Diabetes Mellitus (DM), Hipertensão Arterial Sistêmica (HAS)
+conduta: 
+  - Adiamento do procedimento de cateterismo se houver melhora nos níveis de creatinina durante a hemodiálise.
+  - Estrita adesão à dieta para controle de diabetes e suporte nutricional contínuo.
+  - Manutenção do tratamento multidisciplinar conforme o Projeto Prevenir, incluindo acompanhamento com nutricionista, assistente social, e psicólogo.
+  - Prescrição de injeção para controle da dor ciática a ser administrada na farmácia.
+  - Uso de Diclofenaco com moderação conforme a necessidade, para dor, com cautela em relação aos efeitos adversos.
+  - Continuar com a medicação atual, como Metoprolol, insulina e suplementação de vitamina D.
+  - preparar-se para colocação de fístula.
+  - Seguir as recomendações específicas, como uso de Bicarbonato de Sódio e AAS.
+  - Revisão médica agendada para abril e via WhatsApp para remarcação, se necessário.
+  - Realização de novos exames conforme prescrição para a próxima consulta.
+impressão: 
+  - A paciente apresenta progressão de Doença Renal Crônica (DRC) ainda controlada, mas requer tratamento contínuo e multidisciplinar devido ao diabetes, hipertensão arterial, e doenças renais. Monitoramento e ajustes de medicamentos são críticos para manter a função renal e cardiovascular, aliviando a dor e prevenindo complicações.

@@ -43,27 +43,16 @@ PACIENTE: Sim. Uhum.
 MÉDICA: Fiquei um tempão com ele.
 PACIENTE: Sim. Aí ele falou para mim que eu ia passar para esse.
 MÉDICA: Sim, o Projeto Prevenir. Eu teria... Teria uma equipe médica a meu favor. Todo um tratamento relacionado ao diabetes.
-
 PACIENTE: É, mas não é tudo que é relacionado ao rim?
-
 MÉDICA: Sim, e também há uma equipe rápida, com nutricionista, assistente social, psicólogo, terapeuta ocupacional, enfermeira. Inclusive fazemos algumas parcerias com a cardiologia para fazer riscos cirúrgicos para a fístula.
-
 PACIENTE: Eu já fiz algumas coisas.
-
 MÉDICA: Já fez o mapa cardiovascular?
-
 PACIENTE: Não lembro de ter recebido liberação, não, de... Não sei.
-
 MÉDICA: Foi agora, dia 19 de novembro que a senhora foi. Está aqui, confirma?
-
 PACIENTE: Foi liberada? Não sei.
-
 MÉDICA: Vou checar aqui, tá bom? Pelo que eu vejo, o cardiologista aumentou o metoprolol, ficou 100mg ao dia, e acrescentou esse novo para o coração.
-
 PACIENTE: Então agora o metoprolol estou tomando... duas vezes ao dia, não é isso?
-
 MÉDICA: Certo, duas vezes ao dia. Vou ter que te dar outra receita. Tá? 
-
 PACIENTE: Tá.
 MÉDICA: Esse aqui é para colocar a fístula, não é isso?
 PACIENTE: Isso. Vamos fazer essa fístula, que ela fica quietinha e tranquila.
@@ -88,7 +77,6 @@ PACIENTE: O método da Lola está o método do coração, né? E agora o pessoal
 MÉDICA: O método do coração também. Ok. Está tudo indo bem, meu amor. Está tudo sob controle.
 PACIENTE: Graças a Deus, o que se busca, as coisas estão andando, tá? Eu estou sentindo que é minha vontade. Essa é a minha vontade. Eu tinha uma depressão aí, eu não queria saber de mais nada, eu queria até morrer aqui, fazer esse negócio, mas...
 MÉDICA: A senhora teve um tempo que não era tão ruim assim. E também não é até agora. A gente precisa fazer a física, porque está mantendo menos de 20% do que foi feito. De repente, eu conheço gente que fica... assim tipo de quem? Que está... Oi, mesmo. de você.
-
 MÉDICA: A taxa dela chegou a 11%, já tem 17%. Ela ficou assim. E está segurando, entendeu? Então, isso é muito relativo. Só que a gente precisa ficar preparada. Eu penso no organismo da pessoa. 
 PACIENTE: Com certeza. Eu penso no organismo. Eu tinha feito, doutora, uma ressonância, né? Porque eu sinto muita dor no meu nervo ciático, nessa perna direita. Tem hora que até um degrauzinho me afeta. Sinto muita dor. 
 MÉDICA: Entendi. Muito forte, né? E não pode tomar, é inflamatório, pode tomar nada, né? 

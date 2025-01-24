@@ -1,28 +1,12 @@
+
 hipoteses_diagnosticas:
     estagio_drc:
         idade_paciente: 74 anos
         sexo_paciente: Masculino
-        creatinina: 2.4 mg/dL
+        creatinina: 2,4 mg/dL
         grau: 4
         albuminuria: 
-        funcao_rim_atual: 27.01 ml/min/1.73m²
-    etiologia_doença_de_base: Diabetes Mellitus Tipo 2 e Hipertensão Arterial Sistêmica
-conduta: 
-    - Medicações: 
-        - Manter Losartana 50 mg 12/12 hs, Hidralazina 50 mg 6/6 hs, corrigir para 6/6 se necessário, Furosemida 40 mg 1+1 comp
-        - Manter Sustrate 10 mg 12/12 hs, Gabapentina 300 mg 3x/semana, AAS 100 mg após almoço, Dapagliflozina 10 mg 1x ao dia
-        - Ajustar Insulina NPH para 10 UI manhã, 10 UI noite
-        - Corrigir Insulina regular as doses como 6, 6, 5 UI
-        - Manter Sinvastatina 40 mg/noite
-        - Manter sulfato ferroso 2 comp 12/12
-        - Manter colecalciferol 7000UI 2x/semana
-    - Recomendações Dietéticas:
-        - Controlar consumo de fósforo, limitar lácteos exceto queijo minas
-        - Dieta com restrição de sal e proteína animal
-    - Orientações:
-        - Fazer refeições de 3 em 3 horas para prevenir hipoglicemia
-        - Monitorar glicemia regularmente
-    - Próximo retorno em 3 meses
-    - Repetir exames laboratoriais em 3 meses
-impressão:
-    - O paciente está com controle adequado do diabetes e pressão arterial; função renal estável com anemia leve sem necessidade de tratamento adicional no momento.
+        funcao_rim_atual: 24,01 ml/min/1.73m²
+    etiologia_doença_de_base: Diabetes Mellitus tipo 2
+conduta: Continuar com a medicação prescrita, administrando insulina NPH conforme orientado, e insulina regular antes das refeições. Reforçar a necessidade de medir glicose antes da insulina e se alimentar bem para evitar hipoglicemia. Marcar consulta com nutricionista para controle do consumo de fósforo. Alimentação deve ser equilibrada, limitando alimentos ricos em fósforo e processados, com o paciente retornando em 3 meses, trazendo novos exames de sangue, incluindo função renal e níveis de fósforo.
+impressão: Paciente controlando bem a diabetes, mas com complicações renais avançadas devido a CKD estágio 4, além de apresentar histórico de episódios de hipoglicemia, possivelmente relacionado à má alimentação após administração de insulina.

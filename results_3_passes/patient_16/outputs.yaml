@@ -1,0 +1,14 @@
+
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 60 anos
+        sexo_paciente: Masculino
+        creatinina: 3.3 mg/dL
+        grau: 4
+        albuminuria: 
+        funcao_rim_atual: 21.02 ml/min/1.73m²
+    etiologia_doença_de_base: Diabetes Tipo 2
+conduta:
+    - Recomenda-se ajustar o controle glicêmico, considerando a possibilidade de ajuste nas doses de insulina para evitar hipoglicemias. Prescrever Hidralazina para controle da hipertensão, redução da dosagem de Losartana e introdução de Alprazolam para manejo da ansiedade e possível depressão. Acompanhar o uso de ciprofibrato e seu impacto no bem-estar mental do paciente. Manter uso de sulfato ferroso e carbonato de cálcio conforme orientado para tratar a anemia. Acompanhamento trimestral para reavaliação da função renal e controle de pressão arterial. Solicitar um Doppler das artérias renais e exames de sangue para monitorar função hepática, perfil lipídico e eletrólitos. 
+impressão:
+    - O paciente apresenta doença renal crônica estágio 4, hipertensão arterial sistêmica e diabetes mellitus tipo 2, além de clínica sugestiva de depressão. A presença de anemia e o risco aumentado de complicações renais requerem intervenção médica contínua e ajuste cuidadoso de medicação.

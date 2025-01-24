@@ -10,7 +10,7 @@ relatorio_consulta_ambulatorial_nefrologia:
       grau: 3a
       albuminuria: 1
       funcao_rim_atual: 51 ml/min/1.73m²
-    etiologia_doença_de_base: Indeterminada (cardiorrenal? nefropatia diabetica?).
+    etiologia_doença_de_base: cardiorrenal? nefropatia diabetica?.
     admissao:
       data: 09/2021
       CLCR_admissao: 28 ml/min

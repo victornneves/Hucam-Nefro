@@ -149,6 +149,7 @@ def derive_outputs(condensed_dialog, summary_fields):
         f"The conduct should include the doctor's recommendations, treatment plan, and follow-up instructions. If necessary, include medication adjustments such as dosage or frequency changes, interruptions, or new prescriptions.\n"
         f"The conduct should also specify the time for the next appointment in months and the need for new exams.\n"
         f"Make sure the outputs are precise and concise.\n"
+        f"If there is not sufficent data for etiologia_doença_de_base, albuminuria, or funcao_rim_atual, leave the respective field blank.\n"
         f"Provide the result in Brazilian Portuguese."
         f"Provide the results in the yaml format like this:\n"
         """
@@ -192,7 +193,7 @@ def derive_outputs(condensed_dialog, summary_fields):
 
 
 def load_dialog(patient_id):
-    PASS = "third"
+    PASS = "first"
     with open(
         f"Dataset-Hucam-Nefro/patient_{patient_id:03d}/patient_{patient_id:03d}_transcription_{PASS}_pass.txt",
         "r",
@@ -222,7 +223,7 @@ def process_patient(patient_id, load_condensed=False):
     if load_condensed:
         print("Loading condensed dialog...")
         try:
-            with open(f"results/patient_{patient_id}/condensed_dialog.txt", "r", encoding="utf-8") as f:
+            with open(f"old_results/patient_{patient_id}/condensed_dialog.txt", "r", encoding="utf-8") as f:
                 condensed_dialog = f.read()
         except FileNotFoundError:
             condensed_dialog = None
@@ -259,7 +260,7 @@ def save_results(patient_id, condensed_dialog, outputs):
 
 
 def main():
-    # for patient_id in [2]:
+    # for patient_id in [6]:
     for patient_id in range(1, 17):  # Process all patients
         print(f"Processing patient {patient_id}...")
         process_patient(patient_id, load_condensed=True)

@@ -1,0 +1,14 @@
+
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 62 anos
+        sexo_paciente: Feminina
+        creatinina: 1,4 mg/dL
+        grau: 3a
+        albuminuria: 
+        funcao_rim_atual: 47.48 ml/min/1.73m²
+    etiologia_doença_de_base: Doença renal crônica relacionada à isquemia devido à doença arterial coronariana.
+conduta:
+    - Recomendação para consulta com cardiologista marcada para 22/03/2025 para adequação do tratamento; ajuste na dose de espironolactona e furosemida para controle de sintomas de IC; manter uso de prednisolona, AAS, rivaroxabana e clopidogrel; suplemento de colecalciferol semanal; reduzir a ingestão de proteínas e água para não sobrecarregar os rins; limitar cafeína e evitar Coca-Cola; evitar dietas restritivas; iniciar terapia de relaxamento psicológico; próxima consulta com médico atual em 3 meses.
+impressão: 
+    - Provável descompensação cardíaca relacionada à ICFER de etiologia isquêmica e sobrecarga de fluido devido à insuficiência cardíaca congestiva exacerbada.

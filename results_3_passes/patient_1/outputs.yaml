@@ -1,0 +1,13 @@
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 74 anos
+        sexo_paciente: Masculino
+        creatinina: 2,4 mg/dL
+        grau: 4
+        albuminuria: 3
+        funcao_rim_atual: 25,69 ml/min/1.73m²
+    etiologia_doença_de_base: Hipertensão Arterial Sistêmica (HAS) e Diabetes Mellitus (DM)
+conduta: 
+    - O médico reforçou a importância de ajustar a frequência da insulina regular conforme necessário, mas não alterou a dosagem atual. Foi ressaltada a necessidade de alimentação regular, especialmente após a administração de insulina, para evitar episódios de hipoglicemia. O paciente receberá suplementos de ferro e vitamina D conforme prescrição atual. Ele deve evitar alimentos ricos em fósforo, particularmente laticínios, limitando o consumo de queijo minas a duas vezes por semana. O paciente deve continuar tomando sua medicação conforme o atual plano de tratamento e deverá retornar após 3 meses para nova consulta e coleta de exames laboratoriais. Um encaminhamento foi feito para um psicólogo, e as consultas médicas deverão ser organizadas para evitar sobrecarga de compromissos.
+impressão:
+    - A condição renal do paciente mostra comprometimento estável em um nível de Estágio 4 de DRC, associada ao longo histórico de hipertensão e diabetes. A adesão às orientações dietéticas e ao plano de medicamentos, incluindo insulina, é essencial para manter a estabilidade da função renal e glicêmica. A comunicação eficaz com o paciente e seu acompanhante parece vital para o manejo adequado da condição.
