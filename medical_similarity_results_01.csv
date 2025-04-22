@@ -1,0 +1,17 @@
+patient_id,GT Diagnosis,Pred Diagnosis,Diagnosis Similarity
+1,4 Doença renal do diabetes; nefroesclerose hipertensiva,4 Diabetes Mellitus tipo 2,8.0
+2,3a cardiorrenal? nefropatia diabetica?.,3 Indeterminada,5.0
+3,5 Nefropatia diabética.,4 HAS e DM,8.0
+4,4 Nefropatia relacionada ao diabetes?,4 nefropatia diabética,9.0
+5,4 Doença Renal Diabética,4 Diabetes mellitus tipo 2,
+6,3b Lesão renal aguda durante a Hemorragia digestiva alta,3b Diabetes Mellitus tipo 2,2.0
+7,Incerto,4 Diabetes Mellitus e Hipertensão Arterial Sistêmica,
+8,3b Síndrome cardiorrenal.,3 (grau 3a) Doença isquêmica do coração,8.0
+9,3b DRD (Doença Renal Diabética),3b Nefropatia diabética e hipertensão arterial sistêmica,3.0
+10,4 Nefrite Lúpica,5 Nefropatia crônica secundária a lúpus com cistos renais,6.0
+11,5 nefropatia por IgA? Doença de membrana fina?,5 Hipertensão arterial sistêmica,1.0
+12,4,"4 Nefrolitíase bilateral, diabetes mellitus, hipertensão arterial sistêmica, ateromatose aórtica",8.0
+13,"5 Hipertensão Arterial Sistemica / Rim único (nefrectomia direita em 2010, por CA de células renais).",5 Câncer renal (nefrectomia direita),8.0
+14,3b Nefrotoxicidade pós-QT devido à neoplasia de testículo em 1997.,3b Nefropatia crônica decorrente de toxidade renal pós-quimioterapia para neoplasia testicular.,8.0
+15,4 Nefrite Lúpica (NL IV - biópsia renal agosto de 2015).,4 LES (Lúpus Eritematoso Sistêmico),8.0
+16,4 Doença renal do diabetes.,4 Diabetes Mellitus Tipo 2,8.0

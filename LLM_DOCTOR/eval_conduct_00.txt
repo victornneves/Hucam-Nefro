@@ -1,0 +1,199 @@
+GT Paciente com MRPA adequado em domicílio - mantenho anti-HAS
+Já em uso de BRA e iSGLT2
+DM bem controlado
+Jato urinário fino - seguimento conjunto com urologia no HUCAM - aguarda BX próstata
+Hiperfosfatemia - P 4,0 > 5,7 oriento consulta com nutricionista - avaliar quelante
+Bom retorno
+Seguimento conjunto com nutrição= Hiperk resolvida
+Anemia em melhora > HB 10,7 > 11,2>11,5 - mantenho reposição de ferro
+DMO= aumento Colecalciferol 7000UI 2x/semana.
+Seguimento de retinopatia/ catarata com oftalmologista no HEVV
+Seguimento conjunto com cirurgia vascular - realizou Doppler de carotidas > trazer no retorno
+Escolha método= DP - avaliação acima
+Retorno em 3 meses'
+PRED Manter a medicação atual com a dosagem ajustada da insulina NPH e regular conforme indicado (10 UI antes do café, 10 UI antes do jantar e 10 UI antes de dormir; regular 6, 6 e 5). Reforçar a importância de medir a glicose antes da insulina e comer imediatamente após tomar a insulina regular para evitar hipoglicemia. Reavaliar a ingestão de alimentos ricos em fósforo e tentar agendar com uma nutricionista. Continuar com o suporte ferroso e a suplementação de vitamina D conforme orientado. Retornar em 3 meses com novo conjunto de exames, incluindo microalbuminúria e perfil bioquímico completo.
+1  The two opinions are sufficiently similar and both are correct. The first opinion mentions the adequate blood pressure control, well-controlled diabetes, and fine urinary stream with a pending prostate biopsy. It also addresses the hyperphosphatemia and recommends consultation with a nutritionist. The anemia is noted to be improving, and there is a plan for follow-up with a vascular surgeon. The second opinion focuses on the medication regimen, emphasizing the importance of measuring glucose before insulin administration and adjusting the dosage accordingly. It also mentions the need to limit phosphorus-rich foods and continue iron and vitamin D supplementation. Both opinions agree on the overall management plan and the need for follow-up in 3 months with new lab tests. Therefore, the score is Aligned_Correct.
+
+GT Paciente com função renal estável, DRC 3A sem complicações significativas.
+Anemia discreta com fer < 100 > inicio reposição sulfato ferroso 40mg 12/12
+Mantenho restrição hídrica 800 ml/dia
+Mantenho medicações
+Solicito exames labs para próxima consulta
+Retorno no amb de nefrologia geral.
+PRED Manter a medicação atual, já que está funcionando bem.
+Introdução de sulfato ferroso para tratamento de anemia.
+Programar cirurgia para prótese peniana.
+Consultar dentista para tratamento odontológico conforme autorizado.
+Retorno marcado para acompanhamento ambulatorial em Nefrologia em quatro meses.
+Novos exames laboratoriais solicitados para ajustar medicações conforme necessário.
+2  Different_second_Correct. As opiniões médicas apresentam diferenças, mas a segunda opinião é mais apropriada ao contexto clínico do paciente.
+
+GT Paciente mantendo hipertensão > Associo clonidina 0,1mg 12/12h
+Mantenho demais anti-HAS
+Em seguimento do DM2 com Dra. Marta - Relata redução da insulina pelo cardiologista
+Em atualização do calendário vacinal - Pendente 3º dose em jan/24
+Anemia - HB 8,8 - Mantenho EPO 4000/semana (renovo receita e avalio liberação)
+Deficiência relativa de ferro - IST 19%; FER 263 > Fez uso de sacarato 10 AMP após coleta de exame (atualmente em dose de manutenção a cada 15 dias)
+Vit D 18 - Ataque + manutenção colecalciferol
+Hiperfosfatemia persistente - P 4,8 > 5,9 > 4,1 > 4,7= aumento dose de sevelamer 1+2+1 (calcificação valvar e contra indicação a quelantes a base de cálcio (Valva aórtica é trivalvular, exibe fibrocalcificação leve dos folhetos e abertura preservada dos mesmos))
+Apresentação de método - Optado por hemodiálise - Solicito novamente risco cardio e Doppler para confecção de FAV= Risco cardio marcado 21/01/25 // pendente mapeamento MSD (fez somente MSE)
+Mantenho demais medicações
+Seguimento conjunto com nutricionista
+Oriento compra de sacarato e dose de ataque 10 ampolas
+Retorno 2 meses
+PRED Manter a medicação atual com ajustes, incluindo Clonidina 1 comprimido a cada 12 horas. Noripurum a cada 15 dias até o retorno. Losartana com dosagem de 1 comprimido no café da manhã, 2 no almoço e 1 no jantar.
+Ropuru manter a cada 15 dias.
+Revisar a dose de insulina com Dra. Marta.
+Marcar Doppler para a parte superior direita do corpo e novos exames laboratoriais antes do retorno.
+Manter a dieta saudável conforme orientação da nutricionista.
+Retornar em dois meses para nova avaliação.
+3  I analyzed the two medical opinions and compared them with the clinical context provided.   Both opinions agree on the overall management of the patient's conditions, including the adjustment of medication dosages and the need for further evaluation and monitoring.   However, there are some differences in the specifics. For example, the first opinion mentions the use of erythropoietin for anemia, while the second opinion does not. The second opinion emphasizes the importance of reviewing the insulin dose with Dr. Marta, which is not mentioned in the first opinion.  Given these similarities and differences, I would score the opinions as Different_Both_Correct. Both opinions are valid and aligned with the clinical context, but they have distinct perspectives and recommendations that are not mutually exclusive.
+
+GT Mantenho losartana 50mg 12/12h + acrescento anlodipino 5mg noite --> controle de PA.
+Oriento anotação da pressão arterial e glicemias nas últimas 2 semanas antes do retorno > Avaliar se PA elevada persistentemente ou se HAS jaleco branco.
+Prescrevo ataque de vitamina D 50.000 UI/semana por 8 semanas + 1x/mês no dia 08 de cada mês.
+Aumento reposição de bicarbonato de sódio para 2 colheres/dia.
+Retorno com exames em 04 meses.'
+PRED Aumentar o bicarbonato para duas colheres por dia e introduzir amlodipino para melhorar o controle da pressão arterial. Continuar o uso de insulina Basaglar, losartana e atorvastatina. Reintroduzir a vitamina D conforme esquema de 2 comprimidos por semana por 4 semanas e depois 1 por mês. Monitorar a pressão arterial em casa, especialmente nas últimas duas semanas antes do retorno, e controlar a glicemia regularmente. Realizar exames de sangue e urina antes da próxima consulta. Marcar retorno em quatro meses. Considerar a diálise peritoneal conforme a necessidade.
+4  The two medical opinions are sufficiently similar and both are correct. They both agree on increasing the bicarbonate dosage, controlling blood pressure with amlodipine, continuing current medication, reintroducing vitamin D, monitoring blood pressure at home, and considering peritoneal dialysis as needed. Therefore, the score is Aligned_Correct.
+
+GT Níveis pressóricos adequados.
+Reforço da tomada correta das medicações de uso contínuo e esclareço dúvidas.
+Anemia: Hb 11,3 sem indicação EPO. Deficiência relativa de ferro já em uso de sulfato ferroso 40mg (0+1+1).
+DMO: Mantenho carbonato de cálcio como quelante +Vit D, aumento dose para 2+2+2. Oriento dieta pobre em fósforo. Colecalciferol 50.000UI 1x/mês. Mantenho sem calcitriol (hiperP + queda importante do PTH durante o uso PTH 232 > 65).
+Em curso de controle da diabetes: Hb glicada 8,5 > 7,7. Em acompanhamento com endocrinologista. Oriento dieta.
+Mantenho sem reposição de BIC.
+Mantenho sinvastatina 40 mg à noite.
+Reencaminho à nutricionista para acompanhamento conjunto.
+Retorno em 3 meses.
+PRED Continuar monitoramento regular dos níveis glicêmicos e ajuste da insulina conforme necessário; manter o uso dos medicamentos prescritos, incluindo Losartana, Atenolol, Anlodipino, Furosemida, Levotiroxina, Sinvastatina e Dapagliflozina. Reforçar a dieta com restrição de potássio e fósforo. Monitorar de perto o quadro ósseo e ajustar terapias de cálcio e vitamina D conforme necessário. Revisar o plano de tratamento para anemia e acompanhar as consultas trimestrais. Agendar próxima consulta para daqui a 3 meses e solicitar novos exames laboratoriais para avaliação da função renal e controle de outras comorbidades.
+5  Aligned_Correct. As duas opiniões médicas estão alinhadas e ambas estão corretas.
+
+GT ENCAMINHEI AO ORTOPEDISTA PARA AVALIAÇÃO DA DEFORMIDADE, MAS PACIENTE NÃO LEVOU ENCAMINHAMENTO AO POSTO. ORIENTO MARCAR
+MANTENHO PACIENTE NO PREVENIR.
+AGUARDO COLONO SOLICITADA PELO CAD
+POR ORA NÃO INICIO IECA/BRA. RECONSIDERAR NA PRÓXIMA CONSULTA APÓS AVALIAR SE HOVER ESTABILIZAÇÃO DA CREATININA
+ASSOCIO ANLODIPINO PARA ALCANÇAR LDL < 70
+RETORNO EM 4 MESES
+PRED O paciente deve começar a tomar a Sinvastatina, dois comprimidos à noite, e continuar com a Insulina NPH (doses de 6UI de manhã e 4UI antes do jantar). O paciente deve ser cauteloso com a medicação devido ao risco de dor muscular e ajustar a dieta conforme orientado. Retorno agendado para 4 meses, com recomendação de realizar exame de sangue antes da próxima consulta. O paciente deve iniciar a nova medicação após a viagem para Parelheiros.
+6  Different_second_Correct. As opiniões médicas são muito diferentes, e apenas a segunda está correta. A primeira opinião não aborda a mudança de medicação para Sinvastatina e não menciona a importância de ajustar a dieta e ter cuidado com a dor muscular. A segunda opinião está mais alinhada com as necessidades do paciente, considerando a doença renal e a necessidade de controle de colesterol.
+
+GT Suspendo sulfato ferroso até reavaliação, já que está em uso de ferro IV
+Solicito exames para avaliar DRC
+PRED Continuar com as medicações atuais, exceto sulfato ferroso e ácido fólico, que devem ser interrompidos após o término do estoque existente em casa.
+Reduzir a dose de gliclazida para um comprimido antes do almoço e do jantar.
+Realizar novos exames laboratoriais conforme orientado.
+Próxima consulta marcada para 7 de fevereiro, levar documentação impressa para o laboratório na realização dos exames.
+7  Aligned_Correct
+
+GT Oriento buscar internação em caso de piora dos sintomas.
+Aumento da dose de furosemida para 3 cps 2x/dia e espironolactona para 75 mg/dia (rever dose na consulta com cardio).
+Solicito exames para consulta com cardiologista em 22/01/25.
+Retorno em 2 meses (avaliar se haverá modificação da função renal ou do potássio com o aumento da dose de diurético).
+Oriento restrição hídrica para 800 ml/dia.
+PRED Recomendações de manutenção da medicação atual, com ajustes potenciais na dosagem de acordo com sinais de desidratação como tontura ou boca seca. Acompanhamento da ingestão de líquidos, limitando a 860 ml por dia, e incentivo ao consumo de sucos naturais. Recomendação para consulta com cardiologista em 22/01/25, seguida de exames laboratoriais. Indicação de retorno para acompanhamento em três meses e ajuste da medicação diurética conforme necessário. Realizar cateterismo para avaliar a presença de inchaços e a necessidade de mudanças na medicação diurética. Atenção à dieta pobre em proteínas, evitando alimentos com colesterol alto como feijão preto ou refrigerantes. É preciso discutir com o médico responsável se a administração de oxigênio deve ser ajustada. A prescrição inclui espironolactona e VEGF1, 3 vezes pela manhã, e furosemida 3 vezes de manhã e 3 à tarde. Atenção também ao consumo de saladas e ingestão moderada de frutos secos.
+8  Different_Both_Incorrect
+
+GT Encaminhar para FAV quando TFG < 20.
+Manter Losartan 50 mg pela manhã.
+Oriento marcar otorrino (dei o encaminhamento na última consulta).
+Conversar sobre a importância de seguir dieta - consulta com nutricionista em 07/01/25.
+Retorno em 3 meses.
+PRED Continuar com a medicação Losartana conforme orientação médica. Destacar a importância de seguir rigorosamente a dieta prescrita, com consulta à nutricionista agendada. Acompanhar as flutuações de glicose e monitorar a saúde cardiovascular. Manter o uso dos medicamentos atuais sem necessidade de novas prescrições. A próxima consulta médica está agendada para abril de 2025. Realizar novos exames laboratoriais de função renal e controle glicêmico antes da próxima consulta.
+9  The two opinions are sufficiently similar and both are correct. The first opinion suggests referring the patient to FAV when TFG < 20, while the second opinion does not mention this specific recommendation. However, both opinions agree on continuing with the medication Losartana, emphasizing the importance of following a strict diet, and monitoring the patient's health. Therefore, the correct score is Aligned_Correct.
+
+GT Como houve melhora da função renal e dada a situação de 2 FAVs colocadas e inutilizadas, opto por não indicar FAV ainda (família muito reticente e no momento se nega a fazer FAV).
+PermCath em caso de entrada súbita em TRS.
+Progressão: Opto por manter sem IECA/BRA devido à TRS.
+Anemia: Perfil de ferro adequado, sem critérios para iniciar EPO (exame set/24).
+DMO: Mantenho Sevelamer. Paciente já com dose otimizada nas principais refeições.
+Aumento da dose de Sinvastatina (paciente com dificuldade de comprar Atorvastatina).
+Retorno em 2 meses.
+PRED A médica destaca a importância do paciente seguir corretamente o tratamento, incluindo a administração adequada dos medicamentos prescritos, como a manutenção do uso de Sinvastatina, Azatioprina, Metoprolol, Anlodipino, Furosemida, AAS, Sevelamer, Omeprazol, Amitriptilina, e Citoneurim. Recomenda o uso de Tramadol 50 mg SOS em caso de dor forte. Agendamento de novo exame laboratorial para março de 2025, com a necessidade de avaliações regulares devido à condição renal. Retorno programado para revisão e acompanhamento em 3 meses.
+10  The two medical opinions are sufficiently similar and both are correct. The first opinion suggests not indicating a new arteriovenous fistula (AVF) due to the patient's family being reluctant and the current situation of two failed AVFs. It also mentions maintaining the current treatment without ACE inhibitors or beta blockers due to the patient being in renal replacement therapy (TRS) and adjusting the dosage of some medications. The second opinion emphasizes the importance of the patient adhering to the prescribed treatment, including medication administration, and recommends scheduling a new laboratory test for March 2025 with regular assessments due to the renal condition. Both opinions agree on the overall management plan and medication adjustments, which align with the patient's clinical context. Therefore, the score is Aligned_Correct.
+
+GT Providenciar vaga em clínica de HD.
+Solicito USG de rins e vias urinárias (exigência da SESA para dar entrada na vaga).
+Oriento sobre sinais de alarme e procurar pronto-socorro.
+Oriento novamente a tomar 3ª dose de vacina hepatite B.
+Aguardando ECO TT - 20/01/25.
+Mantenho anti-HAS - Relato de PA controlada em casa - Oriento MRPA.
+Anemia relacionada à DRC - Faço novamente LME para abertura de processo EPO (perdeu o prazo).
+Hiperfosfatemia - Manter CaCO3 (iniciado recentemente).
+Considerar Sevelamer caso não melhore o P.
+Manter uso correto de bicarbonato.
+DMO - PTH 247 (210 → 247 → 313) Iniciar Calcitriol assim que possível.
+Vitamina D 41,1 Ainda tem 2 comprimidos de 50.000 UI para tomar mensal. Oriente tomar e depois parar, até novo resultado de exame.
+Retorno mensal até iniciar HD.
+PRED O paciente deve ser encaminhado para começar a diálise imediatamente devido à função renal crítica estimada em 6% e taxa de filtração glomerular extremamente baixa. Manter as medicações atuais com análises constantes e realizar um ultrassom renal como recomendado. Sugerir redução de consumo de carboidratos simples, como pão e macarrão, em sua dieta. Alteração na administração do medicamento para anemia para eritropoetina foi discutida e uma receita será providenciada. Seguir monitorando os níveis de pressão arterial e continuar o seguimento com o médico de diálise para possíveis ajustes na terapia. Submeter exames adicionais de hemoglobina e eletrolíticos antes da próxima consulta programada para 1 mês com novos exames laboratoriais para avaliação.
+11  As opiniões médicas são suficientemente semelhantes e ambas estão corretas. Score: Aligned_Correct. Justificativa: Ambas as opiniões concordam em que o paciente deve ser encaminhado para diálise e manter as medicações atuais. Além disso, elas recomendam a realização de exames como ultrassom renal e monitoramento de pressão arterial.
+
+GT Encaminhada ao vascular (DAOP?).
+Consulta com vascular (FAV) em 17/02/25.
+Já encaminhada ao psiquiatra pela psicóloga (aguarda).
+Deixo sem medicações psicotrópicas, paciente resistente ao uso, e hoje pareceu menos ansiosa após conversar sobre seus medos em relação à TRS.
+Retorno em 3 meses.
+PRED Paciente deve continuar com a restrição de consumo de queijo e seguir a dieta para diabéticos. Manter o uso de todos os medicamentos conforme a prescrição atual, com ênfase no controle da pressão arterial e açúcar no sangue. Evitar o uso excessivo de medicamentos e monitorar reações adversas, especialmente com o novo medicamento para o coração adicionado pelo cardiologista. Monitorar a vitamina D e continuar com 7000 UI/semana. Procurar atenção imediata para dores agudas, administrando codeína conforme necessidade e corticoide somente durante crises. Realizar a análise vascular indicada antes da implantação da fístula. Considerar alternativas para o cateterismo enquanto se aguarda nova avaliação. Realizar exames laboratoriais antes da próxima consulta e considerar uma consulta com o oftalmologista para revisar o tratamento da visão. Agendar acompanhamento em três meses.
+12  Aligned_Correct. As opiniões são suficientemente semelhantes e ambas estão corretas.
+
+GT DIETA POBRE EM K
+AGUARDO LIBERAÇÃO DE EPO E MANTENHO SEVELAMER
+CONVERSO SOBRE RISCOS DA HIPERCALCEMIA E DE NÃO INICIAR DIÁLISE
+CONVERSO COM PACIENTE SOBRE NECESSIDADE DE INICIAR HD, MAS A MESMA SE RECUSA (ASSINOU TERMO DE RECUSA).
+NO FINAL DA CONVERSA, DISSE QUE IRÁ A APARECIDA NO FINAL DE JANEIRO E QUANDO VOLTAR CONVERSAREMOS SOBRE O INÍCIO DE HD
+MANTENHO MEDICAÇÕES
+RETORNO EM FEVEREIRO/25 COM DR. LEANDRO, POIS ESTAREI DE FÉRIAS E NÃO É POSSÍVEL
+AGUARDAR MAIS TEMPO PARA REAVALIAÇÃO.
+CASO AINDA SEJA MANTIDA EM TTO CONSERVADOR, MARCAR PRÓXIMA CONSULTA PARA MIM
+PRED A médica recomenda o início urgente da diálise devido à função renal muito baixa e altos níveis de potássio. Instruções dietéticas rigorosas devem ser seguidas até a próxima consulta em 23 de janeiro. A paciente receberá apoio contínuo, e medicamentos como Hidropatina e Citalopram devem ser tomados conforme prescritos. Será necessário um retorno para check-up em fevereiro durante as férias da médica.
+13  Aligned_Correct. Both opinions are similar and correct, emphasizing the urgent need for dialysis due to low renal function and high potassium levels. The importance of adhering to dietary restrictions and medication regimen is also highlighted.
+
+GT Oriento retornar alongamento de MMII e fazer exercícios de força.
+Mantenho medicações.
+Oriento procurar vacinação hepatite B dose dobrada (dei encaminhamento).
+Seguir em acompanhamento com urologista do HUCAM.
+Retorno em 4 meses.
+PRED Continuar acompanhamento regular com nutricionista para auxiliar na adesão às mudanças dietéticas visando o controle da progressão da doença renal.
+Manter o uso de Losartana 25mg diário e Omeprazol 20mg diário. Monitorar pressão arterial e ajustar medicação se necessário.
+Aconselhamento para manejo do estresse, possivelmente com suporte psicológico se necessário, dada a alta sensibilidade emocional do paciente.
+Incentivar a prática de exercícios físicos leves e alongamentos conforme tolerado, considerando limitações físicas.
+Reavaliar em quatro meses, com solicitação de novos exames laboratoriais incluindo função renal e exames de imagem, se necessário, para monitorar a progressão.
+Reminder para tomar a vacina indicada pelo médico.
+14  Different_first_Correct. The two opinions are quite different, but the first one is correct based on the clinical context provided.
+
+GT Aguardar ser chamada para FAV.
+Vacinação Hepatite B.
+Caso piore função renal, considerar Permcath.
+Mantenho EPO 4000 UI/semana.
+Mantenho sulfato ferroso.
+Prescrevo Sevelamer (faço laudo para Farmácia Cidadã).
+Mantenho losartan suspenso.
+Retorno em 45 dias.
+PRED Continuar o tratamento atual com Alfapoetina 4000 UI 1x/semana e manter a medicação para controle da pressão arterial e suporte com vitamina D e cálcio. Ajustar a dosagem do bicarbonato conforme exame de gás sanguíneo. Retomar o monitoramento regular dos níveis de creatinina e albumina. Recomenda-se realizar novos exames de sangue e urina em 3 meses. Consultar o médico nefrologista para discussão sobre a eventual necessidade de preparação para hemodiálise. Recomendações nutricionais e consultas regulares com nutricionista são essenciais. Nova consulta agendada para daqui a 3 meses.
+15  The two opinions are sufficiently similar and both are correct.
+
+GT Encaminho à psicóloga do Prevenir.
+Início de Citalopram 20 mg/dia.
+Associo Hidralazina 50 mg 12/12h.
+Associo Ciprofibrato 100 mg/dia.
+Reduzo dose de Losartan para 50 mg/dia.
+Solicito Doppler arterial de MMII.
+Solicito Doppler de aorta e ilíacas.
+Aguardo USG renal (marcado para 20/01/25).
+Aguardo Doppler carótidas, ECOTT e Doppler MMSS para FAV (marcados para 2025).
+Encaminhar para risco cirúrgico (FAV) caso continue piorando a função renal.
+Converso sobre risco de TRS.
+Retorno em 2 meses.
+PRED Ajustar a medicação antihipertensiva, redução da dose de Losartana para 1 comprimido ao dia.
+Iniciar tratamento com Hidralazina para controle da pressão arterial.
+Prescrição de Ciprofibrato por 3 meses.
+Prescrever Alopram diariamente pela manhã. Reforçar a importância de seguir o tratamento e buscar o medicamento no posto de saúde se necessário.
+Recomendar a retomada do uso adequado da Insulina conforme prescrito.
+Tratar anemia com sulfato ferroso e administrar carbonato de cálcio 30 minutos antes das refeições principais.
+Monitorar a glicemia e ajustar doses de insulina conforme necessário para evitar hipoglicemia.
+Explorar suporte psicológico devido aos sinais de depressão e perda de interesse pela vida.
+Considerar a criação de uma fístula arteriovenosa para possibilidade de diálise futura.
+Solicitar novos exames laboratoriais, incluindo Doppler.
+Agendar próxima consulta em 3 meses.
+16  Different_first_Correct. As opiniões são muito diferentes, e apenas a primeira está correta.
+

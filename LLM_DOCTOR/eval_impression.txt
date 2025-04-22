@@ -1,0 +1,106 @@
+GT None
+PRED O paciente apresenta doença renal crônica estágio 4, necessidade de ajuste no manejo do diabetes para prevenir hipoglicemias e controle da ingestão de fósforo. Anemia leve presente, bem como suporte necessário para saúde mental. A função renal está significativamente comprometida, possivelmente atribuível à longa história de hipertensão e diabetes.
+1  Different_Both_Correct
+
+GT Paciente portador de DRC de etiologia diabética cardiorrenal, aguardando consulta com nutricionista, sem alterações osteometabólicas. Função renal estável.
+PRED Paciente apresentando boa resposta ao tratamento farmacológico atual, estabilidade nos níveis de glicose e pressão arterial, mas com necessidade de intervenção para anemia e questões dentárias.
+2  The two medical opinions are sufficiently similar and both are plausible.  Explanation: Both medical opinions agree that the patient is responding well to current treatment and has stable renal function. They also acknowledge the need for intervention regarding anemia and dental issues. Therefore, the correct score is Aligned_Correct.
+
+GT None
+PRED O paciente apresenta melhora em relação ao último exame, mas permanece com disfunção renal grave, pressão alta mal controlada e necessidade de ajustes no tratamento para melhor controle glicêmico e pressão arterial.
+3  Different_second_Correct: As opiniões são muito diferentes, e apenas a segunda é plausível.
+
+GT Paciente hipertensa, com diabetes mellitus há mais de 10 anos, insulinizada,
+veio encaminhada da oftalmologia, onde realiza acompanhamento para retinopatia
+diabética em uso de injeções anti VEGF e colírios. Possui história familiar para
+doenças renais (não especificadas). Retorna hoje com exames com evidência de piora
+da TFGe em 30%, dentro do limite esperado após o início de iSGLT2.'
+PRED Paciente com doença renal crônica estágio 4 provavelmente devido a nefropatia diabética e hipertensão. Apresenta anemia leve, acidose metabólica e hipertensão que requerem ajuste de tratamento. Discussão de opções para diálise futura é necessária.
+4  Different_Both_Correct. The two medical opinions are distinct but both are plausible given the clinical context. The first opinion focuses on the patient's hypertension, diabetes, and retinopathy, while the second opinion highlights the chronic kidney disease, anemia, acidosis, and the need for dialysis discussion. Both opinions address valid aspects of the patient's health condition.
+
+GT Paciente com hipertensão e diabetes mellitus tipo 2 desde 2007, insulinizada, referiu melhora dos sintomas respiratórios nos últimos quatro meses. História anterior de sepse urinária e tratamento de ITU.
+PRED A paciente apresenta Doença Renal Crônica estágio 4 com função renal comprometida, necessitando de um controle rigoroso das comorbidades associadas como diabetes e hipertensão. O tratamento contínuo e ajustes dietéticos são cruciais para a estabilização da progressão da doença, considerando também o potencial impacto da osteoporose e outros fatores de risco.
+5  Different_Both_Correct
+
+GT DRC COM LRA DURANTE A HDA (JÁ EM RECUPERAÇÃO)
+CKD-EPI 37 ML/MIN/1,73 M2 - ESTAVA 44> 36>37 NEGATIVO)
+ANTI HBC TOTAL REATIVO COM ANTI HBS NR EM DUAS DOSAGENS (ANTI HBC IGM NEGATIVO)
+PRED O paciente está em bom estado geral, apresenta dislipidemia sendo tratada com medicação adequada, tem controle glicêmico a ser ajustado e função renal comprometida em estágio 3b da DRC. O acompanhamento regular e adesão ao tratamento prescrito são fundamentais.
+6  I would analyze the clinical conversation, patient's information, and laboratory data. Based on this analysis, I would determine the following:  1. Similarity/Difference of Opinions: The two medical opinions are different.  2. Plausibility: Both opinions are plausible given the context of the patient's clinical condition and laboratory data.  3. Score: Different_Both_Correct.  Explanation: The first medical opinion focuses on the patient's recovery from acute renal injury during hospitalization and mentions the presence of anti-HBc total reactive with negative anti-HBs, indicating past or ongoing hepatitis B virus infection. The second medical opinion provides a broader assessment of the patient's general health, mentioning dislipidemia, need for adjustment of glycemic control, and stage 3b chronic kidney disease (CKD). Both opinions address different aspects of the patient's condition and are supported by the available clinical data. Therefore, they are considered correct despite their differences.
+
+GT CKD-EPI 29 ml/min/1,73 m2 5 meses atrás. Realizar novos exames para avaliar DRC
+PRED Paciente idoso com Doença Renal Crônica estágio 4, possivelmente relacionada a HAS e DM, apresenta controle clínico regular, mas com necessidade de ajuste em medicação e acompanhamento frequente para gerenciar complicações associadas.
+7  After reviewing the conversation summary, patient's information, and laboratory tests, I will analyze the two distinct medical opinions.  The first opinion states that the patient's estimated glomerular filtration rate (eGFR) using the CKD-EPI formula is 29 ml/min/1,73 m2 five months ago. It also suggests conducting new tests to evaluate the progression of the chronic kidney disease (CKD).  The second opinion mentions that the patient is an elderly individual with stage 4 CKD, possibly related to hypertension (HAS) and diabetes mellitus (DM). It further states that the patient has regular clinical control but requires medication adjustments and frequent monitoring to manage associated complications.  Based on this information, my analysis is as follows:  The two opinions are sufficiently different, as the first one focuses on the eGFR value and the need for further testing, while the second opinion provides a more comprehensive overview of the patient's condition and management.  However, both opinions are plausible given the clinical context of the patient. The first opinion highlights the importance of monitoring the progression of CKD through regular testing, while the second opinion acknowledges the need for ongoing management and adjustment of treatment to address complications.  Therefore, I would assign the score Different_Both_C
+
+GT PACIENTE CARDIOPATA COM MÚLTIPLAS DESCOMPENSAÇÕES RECENTES
+APRESENTANDO AUMENTO DE CREATININA NOS ÚLTIMOS MESES. PROVÁVEL SÍNDROME CARDIORRENAL.
+CKD-EPI 43 ML/MIN/1,73 M2
+NO MOMENTO A PRIORIDADE É REALIZAR A COMPENSAÇÃO CARDÍACA
+PRED Paciente com doença renal crônica estável, mas com necessidade de ajustes contínuos na medicação devido a complicações cardiovasculares e história de acidentes vasculares isquêmicos. Função renal e cardíaca devem ser monitoradas de perto.
+8  Different_Both_Correct: As opiniões são muito diferentes, mas ambas são plausíveis. A primeira opinião destaca a síndrome cardiorrenal e a necessidade de compensação cardíaca, enquanto a segunda opinião foca na estabilidade da doença renal crônica com ajustes necessários na medicação e monitoramento contínuo da função renal e cardíaca. Ambas as opiniões são válidas e coerentes com as informações fornecidas.
+
+GT DRC estágio 4A3 (CKD-EPI 29 ml/min/1,73m²) - Função Renal Estável.
+Função Renal voltou ao valor basal, mesmo após reintrodução do Losartan.
+Relata aderência parcial à dieta.
+Aguardo USG Abdominal Total.
+Apresentação de métodos realizada, escolheu HD.
+PRED Paciente apresenta doença renal crônica em estágio 4, com função renal significativamente reduzida. A condição é provavelmente associada ao histórico de Diabetes Mellitus tipo 2 e hipertensão arterial sistêmica. A estabilidade aparente do paciente requer monitoramento contínuo.
+9  Based on the information provided, the two medical opinions are sufficiently similar and both are plausible. Therefore, the score is Aligned_Correct.  Explanation: Both opinions agree that the patient has chronic kidney disease (CKD) at stage 4. They also acknowledge the association with the patient's history of diabetes mellitus type 2 and systemic arterial hypertension. The first opinion mentions that the renal function has returned to baseline after reintroduction of Losartan, while the second opinion emphasizes the need for continuous monitoring. However, these differences do not significantly alter the overall alignment and plausibility of the opinions.
+
+GT DRC 4 (CKD-EPI 17 ML/MIN/1,73 M²) - ESTAVA 17 > 15 > 12 > 14 > 17
+Paciente já fez 2 FAVs (radial e braquial, última em 2019) por conta de TFG < 20, mas a paciente acabou perdendo as duas por falta de uso (recuperou parte da função renal, e ambas as FAVs não foram usadas e então pararam funcionar). Paciente e a família negaram-se a colocar a FAV por medo de novo insucesso.  Optamos por aguardar a necessidade real de HD e colocar PermCath, visto que a paciente já perdeu 2 acessos venosos.
+PA em casa na meta.
+PRED Paciente com dor persistente provavelmente relacionada à condição renal e fibroálgica, com nefropatia crônica com cistos, necessitando de seguimento contínuo e controle rigoroso da pressão arterial.
+10  Different_second_Correct: As opiniões são muito diferentes, e apenas a segunda é plausível.  A opinião médica 1 se concentra em aspectos de doença renal crônica e acesso venoso para hemodiálise, mencionando o CKD-EPI e a perda de função renal. No entanto, essa opinião não menciona a dor persistente nem a fibroálgia, que foram discutidas na consulta.  A opinião médica 2 menciona a dor persistente e a fibroálgia, e enfatiza a necessidade de seguimento contínuo e controle rigoroso da pressão arterial. Essa opinião parece mais alinhada com o sumário da consulta e as necessidades do paciente.  Portanto, apenas a segunda opinião é plausível e justifica o score de Different_second_Correct.
+
+GT DRC 5 (6 ML/MIN/1,73 M²) - Mantida assintomática. Fez 2 doses de vacina hepatite B → Anti-HBs segue negativo. FAV com bom frêmito (04/11/24) - Fez Doppler de MMSS hoje que mostrou FAV em boas condições.
+PRED O paciente apresenta doença renal crônica em estágio terminal, com função renal severamente comprometida, hipertensão arterial sistêmica de longa data, possíveis complicações de Uremia e necessidade urgente de terapia de suporte renal (diálise). A anemia persistente também requer monitoração contínua e tratamento apropriado para assegurar a estabilidade clínica.
+11  The two opinions are sufficiently different, and both are plausible. The first opinion mentions that the patient is asymptomatic with a well-functioning arteriovenous fistula (AVF) and discusses the administration of a hepatitis B vaccine. The second opinion, on the other hand, describes the patient as having end-stage renal disease with severely impaired renal function, longstanding systemic hypertension, potential uremic complications, and an urgent need for renal support therapy (dialysis). It also highlights the persistence of anemia requiring continuous monitoring and appropriate treatment.  Given these differences in focus and severity of the patient's condition, my score would be Different_Both_Correct.
+
+GT DRC 4 - CKD-EPI 19 mL/min/1,73 m² (estava 20 > 17 > 19).
+Fez 3 doses de vacinação Hepatite B - Anti-HBS reativo.
+Cardiologista do Centro de Especialidades (Dr. Anderson Patrick) solicitou laudo autorizando CATE, mas conversamos e ele disse que não há máxima urgência na realização de CATE, e optamos por esperar um pouco.
+Anti-HBS reativo.
+Melhora do P.
+Já fez risco cirúrgico (liberado).
+PRED A paciente apresenta agravamento da função renal e está em estágio 4 de doença renal crônica, com nefrolitíase e diabetes como condições subjacentes. Houve melhora na creatinina com a adaptação da dieta. Necessidade de acompanhamento contínuo de cardiologia devido à isquemia miocárdica documentada, além de monitorar a saúde mental e dor associada ao nervo ciático. Manter vigilância para possíveis reações adversas aos medicamentos.
+12  The two medical opinions are sufficiently similar and both are plausible. The first opinion mentions the patient's worsening kidney function and the need for continued monitoring of cardiac health, mental health, and sciatic nerve pain. The second opinion also notes the worsening kidney function and the importance of monitoring cardiac health. Both opinions agree on the patient's condition and necessary follow-up care. Therefore, the score is Aligned_Correct.
+
+GT DRC Estágio G5 (CKD-EPI 11 ml/min/1,73 m²)
+Piora progressiva da função renal.
+Hiperfosfatemia Mesmo em uso de Sevelamer.
+Anemia; Indicação de EPO já solicitada.
+HIPERCALCEMIA (MELHOR EM RELAÇÃO À ÚLTIMA CONSULTA, MAS AINDA ELEVADO)
+SEM SINAIS DE UREMIA
+FAV FUNCIONANTE
+PACIENTE MUITO RESISTENTE AO INÍCIO DE DIÁLISE, APESAR DE REPETIDAMENTE ORIENTADA
+PRED A paciente apresenta doença renal crônica em estágio avançado, necessitando de manejo nutricional e tratamento intensivo, incluindo a diálise, para melhorar sua qualidade de vida e controlar complicações associadas.
+13  Different_Both_Correct: As opiniões são muito diferentes, mas ambas são plausíveis.
+
+GT DR estágio 3b
+Função renal estável
+Já fez 3 doses de vacina hepatite B - anti HBS NR.
+Melhora importante da dislipidemia após início de atorvastatina.
+Foi à nutricionista.
+PRED Doença renal crônica estável (estágio 3b), possivelmente causada por tratamento prévio para neoplasia de testículo.
+Saúde emocional e física afetada por estresse, destacando-se a necessidade de estratégias eficazes de manejo.
+14  Similaridade entre opiniões = Suffcientemente semelhantes. Validade das opiniões = Ambas são plausíveis.
+
+GT Estágio Atual DRC Estágio IV - CKD-EPI 14 ml/min/1,73 m² (Estava 27 > 23 > 24 > 22 > 17 > 14).
+Piora rápida de função renal nos últimos meses - já avaliada pela vascular para FAV.
+Anemia já em uso de eritropoetina (reduzi dose para 4000 UI/semana na última consulta).
+Hiperfosfatemia apesar do uso de CACO3.
+Aumentou a quetiapina temporariamente com melhora da insônia.
+Apresentação de métodos escolheu HD (mora somente com o filho, que trabalha, por isso acha que não terá apoio para DP).
+RNM afastou neoplasia de pâncreas.
+PRED Paciente com comprometimento renal significativo em estágio 4 de DRC, provavelmente associado ao LES. A paciente apresenta sinais de lesão renal crônica com albuminúria. Apesar de o tratamento atual ser estável, é essencial monitorar a progressão da doença e ajustar a terapia renal substitutiva se necessário.
+15  Different_Both_Correct. As opiniões médicas são suficientemente diferentes, mas ambas são plausíveis.
+
+GT Paciente renal crônico estágio G4 com queixa sugestiva de claudicação intermitente (ex-tabagista).
+CKD-EPI 21 ml/min/1,73m² (estava 25) - Piora de função renal.
+Foi à nutricionista.
+Hipertrigliceridemia (>500).
+Sintomas depressivos leves.
+PRED O paciente apresenta disfunção renal significativa, diabetes mellitus tipo 2 mal controlado e sinais de depressão. A função renal está seriamente comprometida, sendo necessário considerar a possibilidade de tratamento dialítico no futuro próximo. Há também sinais de descontrole da pressão arterial e hiperfosfatemia associada à doença renal crônica.
+16  The two opinions are different but both are plausible.  In the first opinion, the patient is described as a chronic kidney disease (CKD) stage G4 with a suggestive complaint of intermittent claudication. The CKD-EPI is 21 ml/min/1.73m², indicating a decline in kidney function. The patient also has hypertriglyceridemia and mild depressive symptoms.  In the second opinion, the patient is reported to have significant renal dysfunction, uncontrolled diabetes mellitus type 2, and signs of depression. The kidney function is seriously impaired, and the possibility of future dialysis treatment should be considered. There are also signs of uncontrolled hypertension and hyperphosphatemia associated with chronic kidney disease.  Both opinions agree on the presence of renal dysfunction, but they differ in their assessment of the severity and associated complications. The first opinion focuses more on the specific symptoms and laboratory findings, while the second opinion takes a more holistic approach by considering the overall impact on the patient's health.  Therefore, the score is Different_Both_Correct.
+
