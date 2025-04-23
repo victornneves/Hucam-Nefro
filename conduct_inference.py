@@ -259,8 +259,8 @@ def save_results(patient_id, condensed_dialog, outputs):
 
 
 def main():
-    # for patient_id in [6]:
-    for patient_id in range(1, 17):  # Process all patients
+    for patient_id in [17]:
+    # for patient_id in range(1, 17):  # Process all patients
         print(f"Processing patient {patient_id}...")
         process_patient(patient_id, load_condensed=True)
 

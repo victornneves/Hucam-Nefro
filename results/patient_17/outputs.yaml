@@ -1,0 +1,22 @@
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 43 anos
+        sexo_paciente: Feminino
+        creatinina: 1.47 mg/dL
+        grau: 3a
+        albuminuria: 
+        funcao_rim_atual: 47.63 ml/min/1.73m²
+    etiologia_doença_de_base: Diabetes Mellitus tipo 2
+conduta: 
+    - Ajustar a dose de insulina para 10 unidades pela manhã e 6 unidades à noite.
+    - Introduzir W-glicosina (inibidor de SGLT2) e continuar com o uso de Losartan sujeito à monitoração da pressão arterial.
+    - Solicitar acompanhamento com endocrinologista para abril de 2025 para avaliação detalhada do controle glicêmico.
+    - Reposicionar o bicarbonato conforme necessário devido à acidose, mas não intervir na anemia leve no momento.
+    - Recomendar nova coleta do exame de urina de 24 horas para monitoramento.
+    - Prescrever medicamento adicional a ser adquirido de forma privada, já que a dispensa gratuita é para pacientes acima de 65 anos.
+    - Programar nova consulta de acompanhamento para 3 meses.
+
+impressão: 
+    - Doença Renal Crônica associada a Diabetes Mellitus tipo 2 com complicações micro e macrovasculares, incluindo retinopatia diabética e doença vascular periférica.
+    - Controle glicêmico inadequado, indicado por hemoglobina glicada elevada.
+    - Complicações da DRC, como albuminúria e acidose leve, requerem ajuste contínuo de tratamento.

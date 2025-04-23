@@ -5,7 +5,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from rouge_score import rouge_scorer
 
-PASS = "second"
+PASS = "first"
 
 def concatenate_speaker_lines(text, speaker):
     return " ".join([line.split(": ", 1)[1] for line in text.splitlines() if line.startswith(f"{speaker}:")])
@@ -30,7 +30,8 @@ def get_speakers(patient_id):
 
 results = []
 
-for patient in range(1, 17):
+# for patient in range(1, 17):
+for patient in [17]:
     print(f"Processing paciente {patient}")
     with open(f"Dataset-Hucam-Nefro/patient_{patient:03d}/patient_{patient:03d}_transcription_gt.txt", "r") as f:
         ground_truth = f.read()
