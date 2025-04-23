@@ -1,0 +1,54 @@
+# ID: FEMININO, 43 ANOS
+ETIOLOGIA: NEFROPATIA DIABÉTICA >> TFG 32 - G3b A?
+ORIGEM: ENCAMINHADA PELA DRA SUELEN REALIZOU 02 CONSULTAS ONLINE.
+ADMISSÃO PREVENIR: 08/08/2024
+
+# SUBJETIVO: NEGA INTERCORRÊNCIAS, REFERE INTERNAÇÃO NA UTI POR VÔMITOS E DESIDRATAÇÃO.
+
+# HPP:
+INTERNADA 21/02-28/02/24: PIELONEFRITE AGUDA COMPLICADA - CHOQUE SÉPTICO DE FOCO URINÁRIO. AGUDIZAÇÃO DE DRC >> FEZ HEMODIÁLISE.
+21/02/2024: PO DRENAGEM DE ABSCESSO RETROPERITONEAL
+HAS
+DM TIPO 2 HÁ 14 ANOS / DAOP COM AMPUTAÇÃO DE PODODACTILO ESQUERDO | SEGUIMENTO COM OFTALMOLOGIA NO HUCAM
+RELATO DE OSTEOMIELITE PRÉVIA EM PERNA DIREITA COM MÚLTIPLAS ABORDAGENS
+
+# ALERGIAS: DIPIRONA, DICLOFENACO, BROMOPRIDA E TRAMADOL
+
+# MEDICAÇÕES DE USO CONTÍNUO:
+INSULINA NPH 10UI PELA MANHÃ
+INSULINA REGULAR - NÃO SABE A DOSE?
+ANLODIPINO 5 MG 12/12H
+DOXICICLINA 100 MG 12/12H (OSTEOMIELITE >> PROGRAMAÇÃO DE 6 MESES) - interrompeu em fev/25
+LOSARTANA 50 MG 1X/DIA - NÃO ESTÁ USANDO
+FUROSEMIDA 01 CP/DIA
+PACO SOS
+
+# EXAMES COMPLEMENTARES:
+
+>> LABORATORIAIS:
+    06/10/2023: 1,86
+    16/02/24: HB 8,7 / LEUCO 8850 / PLAQ 462.000 / CREAT 1,9 / UR 121 / NA 134 / K 5,6 / PCR 34
+    27/02/24: CREAT 1,83 / K 4,5
+    16/08/24: CR 1,82 / VIT D 50.1 / UR 118 / NA 140 / SAT TRANSF 24 | RELAÇÃO PROTEINA/CREAT 0,59 | K 4 | PTH 75,7 | P 4,1 | FERRITINA 749.4 | CL 102 | CT 9,9 | HB 11,2 | LEUCO 10040 | PLAQ 340.000 | EAS ALBUMINA 15 LEUCO 500 CILINDRO HIALINO
+    19/08/24: CR 1,95 | UR 122,9 | NA 143 | CT 146 | LDL 70 | HDL 50 | TG 130 | GLI 71 | MG 1,5 | K 4,9 | HB 10,8 | VCM 92 | LEUCO 10070 / PLAQ 281000
+    29/11/25: AU 6,6; CA 8,9; CL 105; CR 1,47; FER 354; P 3,7; GLIC 214; HBG 11,2; MG 1,78; PTH 120; K 4,3; NA 136; TGC UR 88; BIC 19,9; HB 11,2
+
+>> IMAGEM:
+- TC DE ABDOME EXTERNO (12/02/24): Coleções líquidas e gasosas no espaço pararrenal direito, destacando-se uma área mais importante localizada anteriormente a este rim, com extensão craniocaudal de 11,0 cm e medindo nos maiores eixos transversos 7,9 x 3,0 cm. Estes achados se comunicam com outras pequenas coleções regionais, destacando-se uma outra maior que se localiza medialmente ao músculo psoas direito direito lobo abaixo do rim, chegando a medir no maior eixo craniocaudal pelo menos 8,0 cm nos maiores eixos transversos 4,6 x 3,5 cm. Este conjunto de achados comprime e desloca o rim direito, sem dilatação do sistema coletor ou cálculos. Notando-se uma pequena hipodensidade que pode a cisto, porém é indeterminada no cortical do terço médio medindo 1,2 cm. Aumento do número de linfonodos retroperitoneais, possivelmente reacionais.
+- TC ABDOME HUCAM (21/02/2024): Rins tópicos, com forma, contornos e dimensões normais, concentrando e eliminando em tempo fisiológico e sob boa densidade o meio de contraste. Observam-se ao menos três coleções com realce parietal e focos gasosos de permeio no espaço perirrenal direito, uma delas justa capsular no terço superior/médio anterior, medindo cerca de 7,6 x 3,0 x 3,1 cm (CC x LL x AP) e outras duas inferiormente aderidas ao psoas, medindo em conjunto cerca de 11,9 x 7,8 x 4,5 cm (CC x LL x AP). Nota-se ainda pequena quantidade de líquido livre no espaço hepatorrenal. Cálculo no agrupamento caliciano inferior esquerdo medindo cerca de 7 mm.
+- USG RINS E VIAS URINÁRIAS RIM DIREITO 10,7 x 5,7 cm, espessura do parênquima 2,6 cm. RIM ESQUERDO 10,2 x 5,9 cm, espessura do parênquima: 2,2 cm. Conclusão: discreta dilatação pielocalicial à esquerda cisto renal a direita
+
+# EXAME FÍSICO:
+    BOM ESTADO GERAL, LOTE, HIDRATADA ACIANOTICA
+    RCR, 2 T, BNF, PA: 125/80 MMHG. FC 80 BPM
+    MMII: EDEMA +/4+, AMPUTAÇÃO DE 4º E 5º PODODACTILO ESQUERDO
+
+CONDUTA:
+    - SEGUIMENTO CONJUNTO COM ENDOCRINOLOGIA - AINDA SEM PREVISÃO > AUMENTO INSULINA PARA 10+6UI + INÍCIO DAPAGLIFLOZINA 10MG/DIA
+    - INÍCIO NOVAMENTE LOSARTANA 50 MG 1X/DIA
+    - ANEMIA HB > 10 COM ESTOQUES PRESERVADOS: SEM INDICAÇÃO DE TRATAMENTO
+    - ACIDOSE - BIC 19,9: INÍCIO REPOSIÇÃO DE BIC 1 COLHER DE CHÁ /DIA
+    - RETORNO EM 3 MESES NO AMBULATÓRIO
+
+Procedimentos Realizados:
+CONSULTA MÉDICA EM ATENÇÃO ESPECIALIZADA, quantidade: 1

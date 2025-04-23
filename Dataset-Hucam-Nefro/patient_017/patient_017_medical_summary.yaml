@@ -1,0 +1,73 @@
+relatorio_consulta_ambulatorial_nefrologia:
+  identificacao_paciente: Feminino, 43 anos
+  subjetivo:
+    - Encaminhada pela Dra Suelen. Realizou 02 consultas online.
+  hipoteses_diagnosticas:
+    # estagio_drc: 
+      estagio_drc:
+        grau: 3b
+        albuminuria: 1
+        funcao_rim_atual: TFGe 32 ml/min (estimada)
+      etiologia_doença_de_base: Nefropatia diabética
+        data: 08/08/24
+        CLCR_admissao: 
+  historico_patologico_pregresso:
+    - Internação 21/02–28/02/24 por pielonefrite aguda complicada com choque séptico e necessidade de hemodiálise.
+    - Drenagem de abscesso retroperitoneal em 21/02/2024.
+    - Hipertensão arterial sistêmica (HAS).
+    - Diabetes Mellitus tipo 2 há 14 anos.
+    - DAOP com amputação de 4º e 5º pododáctilos do pé esquerdo.
+    - Osteomielite prévia na perna direita com múltiplas abordagens.
+    - Complicações DRC:
+      - Anemia: Não (HB > 10 com estoques preservados).
+      - Hiperfosfatemia: Não há menção.
+      - PTH > 300: Não (PTH mais alto: 120).
+      - Hiperuricemia: Não há menção.
+  alergias: dipirona, diclofenato, bromoprida e tramadol.
+  medicamentos_em_uso:
+    - Insulina NPH 10 UI pela manhã
+    - Insulina regular (dose incerta)
+    - Anlodipino 5 mg 12/12h
+    - Doxiciclina 100 mg 12/12h (osteomielite - programação de 6 meses - interrompida em fev/25)
+    - Losartana 50 mg 1x/dia (não está usando)
+    - Furosemida 01 cp/dia
+    - Paco SOS
+  preparo_para_terapia_substituicao_renal:
+    - Apresentação de método dialítico: Não informado
+    - Método escolhido: Não informado.
+    - Acesso: Não aplicável.
+    - Sorologias (08/10/24): Não informado.
+    - Tx preemptivo (CICr < 10ml/min): Não se aplica.
+  exames_laboratoriais:
+    - 06/10/2023: CR 1,86
+    - 16/02/24: HB 8,7, LEUCO 8850, PLAQ 462000, CREAT 1,9, UR 121, NA 134, K 5,6, PCR 34
+    - 27/02/24: CREAT 1,83, K 4,5
+    - 16/08/24: CR 1,82, VIT D 50,1, UR 118, NA 140, SAT TRANSF 24, PROT/CREAT 0,59, K 4,0, PTH 75,7, P 4,1, FERRITINA 749,4, CL 102, CT 9,9, HB 11,2, LEUCO 10040, PLAQ 340000, EAS: albumina 15, leuco 500, cilindro hialino
+    - 19/08/24: CR 1,95, UR 122,9, NA 143, CT 146, LDL 70, HDL 50, TG 130, GLI 71, MG 1,5, K 4,9, HB 10,8, VCM 92, LEUCO 10070, PLAQ 281000
+    - 29/11/25: AU 6,6, CA 8,9, CL 105, CR 1,47, FER 354, P 3,7, GLIC 214, HBG 11,2, MG 1,78, PTH 120, K 4,3, NA 136, TGC UR 88, BIC 19,9, HB 11,2
+  exames_complementares:
+    - TC abdome externo (12/02/24): Coleções líquidas e gasosas em espaço pararrenal direito, a maior medindo 11 x 7,9 x 3,0 cm, comprimindo o rim direito, sem dilatação do sistema coletor. Aumento de linfonodos retroperitoneais.
+    - TC abdome HUCAM (21/02/24): Três coleções perirrenais à direita, a maior 11,9 x 7,8 x 4,5 cm, mais líquido livre no hepatorrenal. Cálculo de 7 mm no agrupamento caliciano inferior esquerdo.
+    - USG rins e vias urinárias: Rim direito 10,7 x 5,7 cm, espessura 2,6 cm. Rim esquerdo 10,2 x 5,9 cm, espessura 2,2 cm. Discreta dilatação pielocalicial à esquerda. Cisto renal à direita.
+  exame_fisico:
+    - Geral: Bom estado geral, lote, hidratada, acianótica
+    - PA: 125/80 mmHg
+    - FC: 80 bpm.
+    - RCR: 2T, BNF
+    - MVUA: não relatado.
+    - Abdome/MMII: Edema +/4+, amputação de 4º e 5º pododáctilos do pé esquerdo.
+  conduta:
+    - Seguimento com endocrinologia (ainda sem previsão)
+    - Aumento da insulina para 10+6 UI
+    - Início de dapagliflozina 10 mg/dia
+    - Reinício da losartana 50 mg 1x/dia
+    - Anemia: Sem indicação de tratamento
+    - Acidose: BIC 19,9: Início de reposição de bicarbonato 1 colher de chá/dia
+    - Retorno em 3 meses no ambulatório
+  impressão:
+    - Doença renal crônica estágio G3b
+    - Albuminúria presente
+    - Função renal relativamente estável com TFGe ~32 ml/min
+    - Complicações infecciosas importantes (pielonefrite, abscesso retroperitoneal)
+    - Controle glicêmico em ajuste
+    - Seguimento conjunto necessário com endocrinologia e nefrologia
