@@ -93,7 +93,7 @@ PACIENTE: Porque eu fico com medo, não tem, dela ficar baixa, muito baixa.
 MÉDICO: Ficar o que muito baixa, a pressão?
 PACIENTE: Isso.
 MÉDICO: Ah, tá, aham. Entendi. Vamos ver a pressão como é que está. Então, olha só, ela tem uma doença renal de diabetes, deixa eu só ver.
-PESSOA NÃO RELACIONADA: [ininteligível].
+PESSOA_NÃO_RELACIONADA: [ininteligível].
 MÉDICO: Que vergonha, hein, bicho. Caceta. Consultas anteriores, vamos ver aqui. Deixa eu ver, endócrino C, enfermagem, Ranieli. Doutora Marta. Solicito exames, oriento a reduzir a dose de insulina regular para 6 unidades. Você tá usando a regular também?
 PACIENTE: Sim.
 MÉDICO: Aham. Quantas unidades de regular?
@@ -115,7 +115,7 @@ PACIENTE: Uhum.
 MÉDICO: [ininteligível]. Dapagliflozina. Você tem quantos anos?
 PACIENTE: 44.
 MÉDICO: 10 mg por dia. Beleza.
-PESSOA NÃO RELACIONADA: 125 para 84.
+PESSOA_NÃO_RELACIONADA: 125 para 84.
 MÉDICO: A pressão em casa tá ficando quanto?
 PACIENTE: 10, 11, por aí.
 MÉDICO: É? Beleza Tá É... É... [ininteligível] 50 mg uma vez por dia. Então, olha só, eu tô começando iSGLT2 pra ela. E tô começando um BRA, né? Que a gente sempre tem que pensar nessas duas medicações, principalmente relacionadas à doença renal do diabetes, tá? É, o Losartana, eu tô passando pra senhora, Diana, é pra tomar, tá? Não deixa de tomar, não que ele é importante, principalmente pra reduzir a quantidade de proteína que se perde pela urina, tudo bem?
@@ -133,9 +133,9 @@ PACIENTE: Não.
 MÉDICO: Não toma mais. Tá, beleza. Vou fazer algumas alterações nos seus exames. Eu vou fazer alguma é, algumas alterações nas suas receitas e aí eu vou te passar o que a gente vai fazer aqui direitinho, detalhado, tá bom?
 PACIENTE: Sim.
 MÉDICO: Mas vou aguardar para você fazer, para a gente fazer juntos.
-PESSOA NÃO RELACIONADA: [ininteligível], você chamou a Diana?
+PESSOA_NÃO_RELACIONADA: [ininteligível], você chamou a Diana?
 MÉDICO: Chamei.
-PESSOA NÃO RELACIONADA: Tá, beleza.
+PESSOA_NÃO_RELACIONADA: Tá, beleza.
 MÉDICO: Só pedir seus exames aqui, só um minuto, tá?
 PACIENTE: Uhum.
 MÉDICO: Você... A gente tem um remédio que a gente tem indicação de associar, só que ele seria um remédio comprado, tá? Eu vou passar para você e aí você vê se a gente vai ter condição, porque para liberar de graça, a gente só consegue liberar acima de 65 anos, tá? Que não é o seu caso, tá bom? Mas aí a gente vê se você vai conseguir avaliando o preço. Na farmácia popular ele custa um pouco mais barato, tá?
@@ -157,4 +157,4 @@ PACIENTE: Tá, obrigada.
 MÉDICO: Tchau tchau Diana, tudo de bom, viu?
 PACIENTE: Tchau.
 MÉDICO: Até mais. Vamos lá ver se o [ininteligível] quer alguma coisa.
-PESSOA NÃO RELACIONADA: [ininteligível].
+PESSOA_NÃO_RELACIONADA: [ininteligível].
