@@ -1,77 +1,50 @@
 relatorio_consulta_ambulatorial_nefrologia:
   identificacao_paciente: Feminino, 43 anos
   subjetivo:
-    - Encaminhada pela Dra Suelen. Realizou 02 consultas online.
+    - "ORIGEM: ENCAMINHADA PELA DRA SUELEN REALIZOU 02 CONSULTAS ONLINE."
+    - NEGA INTERCORRÊNCIAS, REFERE INTERNAÇÃO NA UTI POR VÔMITOS E DESIDRATAÇÃO.
   hipoteses_diagnosticas:
     estagio_drc:
       grau: 3b A?
-      albuminuria: 1
-      funcao_rim_atual: TFGe 32 ml/min (estimada)
+      albuminuria:
+      funcao_rim_atual: TFG 32
     etiologia_doenca_de_base:
-      nome: Nefropatia diabética
+      nome: NEFROPATIA DIABÉTICA
       data: 08/08/24
-      CLCR_admissao:
   historico_patologico_pregresso:
-    - Internação 21/02–28/02/24 por pielonefrite aguda complicada com choque séptico e necessidade de hemodiálise.
-    - Drenagem de abscesso retroperitoneal em 21/02/2024.
-    - Hipertensão arterial sistêmica (HAS).
-    - Diabetes Mellitus tipo 2 há 14 anos.
-    - DAOP com amputação de 4º e 5º pododáctilos do pé esquerdo.
-    - Osteomielite prévia na perna direita com múltiplas abordagens.
-    - Complicações DRC:
-        - Anemia: "Não (HB > 10 com estoques preservados)."
-        - Hiperfosfatemia: "Não há menção."
-        - PTH > 300: "Não (PTH mais alto: 120)."
-        - Hiperuricemia: "Não há menção."
+    - "INTERNADA 21/02-28/02/24: PIELONEFRITE AGUDA COMPLICADA - CHOQUE SÉPTICO DE FOCO URINÁRIO. AGUDIZAÇÃO DE DRC >> FEZ HEMODIÁLISE."
+    - "21/02/2024: PO DRENAGEM DE ABSCESSO RETROPERITONEAL"
+    - HAS
+    - DM TIPO 2 HÁ 14 ANOS / DAOP COM AMPUTAÇÃO DE PODODACTILO ESQUERDO | SEGUIMENTO COM OFTALMOLOGIA NO HUCAM
+    - RELATO DE OSTEOMIELITE PRÉVIA EM PERNA DIREITA COM MÚLTIPLAS ABORDAGENS
   alergias:
-    - dipirona
-    - diclofenato
-    - bromoprida
-    - tramadol
+    - DIPIRONA, DICLOFENACO, BROMOPRIDA E TRAMADOL
   medicamentos_em_uso:
-    - Insulina NPH 10 UI pela manhã
-    - Insulina regular (dose incerta)
-    - Anlodipino 5 mg 12/12h
-    - Doxiciclina 100 mg 12/12h (osteomielite - programação de 6 meses - interrompida em fev/25)
-    - Losartana 50 mg 1x/dia (não está usando)
-    - Furosemida 01 cp/dia
-    - Paco SOS
-  preparo_para_terapia_substituicao_renal:
-    - apresentacao_metodo_dialitico: Não informado
-    - metodo_escolhido: Não informado.
-    - acesso: Não aplicável.
-    - sorologias_08_10_24: Não informado.
-    - tx_preemptivo_cicr_menor_10: Não se aplica.
+    - INSULINA NPH 10UI PELA MANHÃ
+    - INSULINA REGULAR - NÃO SABE A DOSE?
+    - ANLODIPINO 5 MG 12/12H
+    - DOXICICLINA 100 MG 12/12H (OSTEOMIELITE >> PROGRAMAÇÃO DE 6 MESES) - interrompeu em fev/25
+    - LOSARTANA 50 MG 1X/DIA - NÃO ESTÁ USANDO
+    - FUROSEMIDA 01 CP/DIA
+    - PACO SOS
   exames_laboratoriais:
-    - "06/10/2023: CR 1,86"
-    - "16/02/24: HB 8,7, LEUCO 8850, PLAQ 462000, CREAT 1,9, UR 121, NA 134, K 5,6, PCR 34"
-    - "27/02/24: CREAT 1,83, K 4,5"
-    - "16/08/24: CR 1,82, VIT D 50,1, UR 118, NA 140, SAT TRANSF 24, PROT/CREAT 0,59, K 4,0, PTH 75,7, P 4,1, FERRITINA 749,4, CL 102, CT 9,9, HB 11,2, LEUCO 10040, PLAQ 340000, EAS: albumina 15, leuco 500, cilindro hialino"
-    - "19/08/24: CR 1,95, UR 122,9, NA 143, CT 146, LDL 70, HDL 50, TG 130, GLI 71, MG 1,5, K 4,9, HB 10,8, VCM 92, LEUCO 10070, PLAQ 281000"
-    - "29/11/25: AU 6,6, CA 8,9, CL 105, CR 1,47, FER 354, P 3,7, GLIC 214, HBG 11,2, MG 1,78, PTH 120, K 4,3, NA 136, TGC UR 88, BIC 19,9, HB 11,2"
+    - "06/10/2023: 1,86"
+    - "16/02/24: HB 8,7 / LEUCO 8850 / PLAQ 462.000 / CREAT 1,9 / UR 121 / NA 134 / K 5,6 / PCR 34"
+    - "27/02/24: CREAT 1,83 / K 4,5"
+    - "16/08/24: CR 1,82 / VIT D 50.1 / UR 118 / NA 140 / SAT TRANSF 24 | RELAÇÃO PROTEINA/CREAT 0,59 | K 4 | PTH 75,7 | P 4,1 | FERRITINA 749.4 | CL 102 | CT 9,9 | HB 11,2 | LEUCO 10040 | PLAQ 340.000 | EAS ALBUMINA 15 LEUCO 500 CILINDRO HIALINO"
+    - "19/08/24: CR 1,95 | UR 122,9 | NA 143 | CT 146 | LDL 70 | HDL 50 | TG 130 | GLI 71 | MG 1,5 | K 4,9 | HB 10,8 | VCM 92 | LEUCO 10070 / PLAQ 281000"
+    - "29/11/25: AU 6,6; CA 8,9; CL 105; CR 1,47; FER 354; P 3,7; GLIC 214; HBG 11,2; MG 1,78; PTH 120; K 4,3; NA 136; TGC UR 88; BIC 19,9; HB 11,2"
   exames_complementares:
-    - "TC abdome externo (12/02/24): Coleções líquidas e gasosas em espaço pararrenal direito, a maior medindo 11 x 7,9 x 3,0 cm, comprimindo o rim direito, sem dilatação do sistema coletor. Aumento de linfonodos retroperitoneais."
-    - "TC abdome HUCAM (21/02/24): Três coleções perirrenais à direita, a maior 11,9 x 7,8 x 4,5 cm, mais líquido livre no hepatorrenal. Cálculo de 7 mm no agrupamento caliciano inferior esquerdo."
-    - "USG rins e vias urinárias: Rim direito 10,7 x 5,7 cm, espessura 2,6 cm. Rim esquerdo 10,2 x 5,9 cm, espessura 2,2 cm. Discreta dilatação pielocalicial à esquerda. Cisto renal à direita."
+    - "TC DE ABDOME EXTERNO (12/02/24): Coleções líquidas e gasosas no espaço pararrenal direito, destacando-se uma área mais importante localizada anteriormente a este rim, com extensão craniocaudal de 11,0 cm e medindo nos maiores eixos transversos 7,9 x 3,0 cm. Estes achados se comunicam com outras pequenas coleções regionais, destacando-se uma outra maior que se localiza medialmente ao músculo psoas direito direito lobo abaixo do rim, chegando a medir no maior eixo craniocaudal pelo menos 8,0 cm nos maiores eixos transversos 4,6 x 3,5 cm. Este conjunto de achados comprime e desloca o rim direito, sem dilatação do sistema coletor ou cálculos. Notando-se uma pequena hipodensidade que pode a cisto, porém é indeterminada no cortical do terço médio medindo 1,2 cm. Aumento do número de linfonodos retroperitoneais, possivelmente reacionais."
+    - "TC ABDOME HUCAM (21/02/2024): Rins tópicos, com forma, contornos e dimensões normais, concentrando e eliminando em tempo fisiológico e sob boa densidade o meio de contraste. Observam-se ao menos três coleções com realce parietal e focos gasosos de permeio no espaço perirrenal direito, uma delas justa capsular no terço superior/médio anterior, medindo cerca de 7,6 x 3,0 x 3,1 cm (CC x LL x AP) e outras duas inferiormente aderidas ao psoas, medindo em conjunto cerca de 11,9 x 7,8 x 4,5 cm (CC x LL x AP). Nota-se ainda pequena quantidade de líquido livre no espaço hepatorrenal. Cálculo no agrupamento caliciano inferior esquerdo medindo cerca de 7 mm."
+    - "USG RINS E VIAS URINÁRIAS RIM DIREITO 10,7 x 5,7 cm, espessura do parênquima 2,6 cm. RIM ESQUERDO 10,2 x 5,9 cm, espessura do parênquima: 2,2 cm. Conclusão: discreta dilatação pielocalicial à esquerda cisto renal a direita"
   exame_fisico:
-    - "Geral: Bom estado geral, lote, hidratada, acianótica"
-    - "PA: 125/80 mmHg"
-    - "FC: 80 bpm."
-    - "RCR: 2T, BNF"
-    - "MVUA: não relatado."
-    - "Abdome/MMII: Edema +/4+, amputação de 4º e 5º pododáctilos do pé esquerdo."
+    - "BOM ESTADO GERAL, LOTE, HIDRATADA ACIANOTICA"
+    - "RCR, 2 T, BNF, PA: 125/80 MMHG. FC 80 BPM"
+    - "MMII: EDEMA +/4+, AMPUTAÇÃO DE 4º E 5º PODODACTILO ESQUERDO"
   conduta:
-    - Seguimento com endocrinologia (ainda sem previsão)
-    - Aumento da insulina para 10+6 UI
-    - Início de dapagliflozina 10 mg/dia
-    - Reinício da losartana 50 mg 1x/dia
-    - "Anemia: Sem indicação de tratamento"
-    - "Acidose: BIC 19,9: Início de reposição de bicarbonato 1 colher de chá/dia"
-    - Retorno em 3 meses no ambulatório
-  impressão:
-    - Doença renal crônica estágio G3b
-    - Albuminúria presente
-    - Função renal relativamente estável com TFGe ~32 ml/min
-    - Complicações infecciosas importantes (pielonefrite, abscesso retroperitoneal)
-    - Controle glicêmico em ajuste
-    - Seguimento conjunto necessário com endocrinologia e nefrologia
+    - SEGUIMENTO CONJUNTO COM ENDOCRINOLOGIA - AINDA SEM PREVISÃO > AUMENTO INSULINA PARA 10+6UI + INÍCIO DAPAGLIFLOZINA 10MG/DIA
+    - INÍCIO NOVAMENTE LOSARTANA 50 MG 1X/DIA
+    - "ANEMIA HB > 10 COM ESTOQUES PRESERVADOS: SEM INDICAÇÃO DE TRATAMENTO"
+    - "ACIDOSE - BIC 19,9: INÍCIO REPOSIÇÃO DE BIC 1 COLHER DE CHÁ /DIA"
+    - RETORNO EM 3 MESES NO AMBULATÓRIO
