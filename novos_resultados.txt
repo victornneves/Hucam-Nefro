@@ -1,0 +1,42 @@
+OpenBio Llama 70B
+paciente 17  
+
+Etiologia:
+    17 1. The two opinions are quite different, but both are plausible. 2. The first opinion suggests 3b A?, which is an incomplete diagnosis and does not provide enough information to determine plausibility. 3. The second opinion states diabetes type 2 with micro and macrovascular complications, which is consistent with the patient's history of diabetes, kidney disease, and peripheral vascular disease.  Therefore, the score is Different_Both_Correct.
+
+Conduta:
+    I would score it as 'Different_Both_Correct'. Although the two opinions are distinct, both are plausible given the clinical context of the patient and the discussion during the consultation. The first opinion emphasizes the importance of managing blood glucose levels with insulin and dapagliflozin, while also addressing the need for losartan to reduce proteinuria. The second opinion suggests similar adjustments in insulin dosage, initiation of an SGLT2 inhibitor, and restarting losartan. Both opinions also mention the need for further investigation and monitoring. Therefore, while the opinions differ in some details, both are reasonable and reflect an understanding of the patient's complex medical condition
+    
+Impressão:
+    The two medical opinions are sufficiently similar and both are plausible. The patient has diabetes mellitus type 2 with inadequate glycemic control and complications including peripheral vascular disease and chronic kidney disease stage 3. The patient is also being followed up for diabetic retinopathy. Therefore, the correct score is Aligned_Correct.
+
+
+Deepseek
+paciente 17
+
+Etiologia:
+    Different_Both_Correct:
+        As opiniões divergem no estágio da DRC (3b vs. 3a), mas isso reflete variações temporais nos exames. Ambas são plausíveis.
+        Quanto à etiologia, a Opinião 1 é mais precisa ao especificar nefropatia diabética, enquanto a Opinião 2 é genérica, mas não incorreta.
+Conduta:
+
+    Aligned_Correct: As opiniões são suficientemente semelhantes e ambas são plausíveis.
+	
+Impressão:
+    Conclusão:
+    	Como apenas uma opinião foi fornecida, não há comparação possível. No entanto, a Opinião 2 é altamente plausível e precisa, refletindo as melhores práticas em nefrologia para DRC diabética. Se outra opinião fosse fornecida, poderíamos avaliar similaridade e coerência.
+    Score Aplicável: *N/A* (apenas uma opinião disponível).
+
+
+Metrics
+All:
+	1 & 0.96 & 0.75 & 0.87 & 0.81 \\
+	Mean & 0.96 & 0.75 & 0.87 & 0.81 \\
+Patients:
+	1 & 0.90 & 0.61 & 0.80 & 0.69 \\
+	Mean & 0.90 & 0.61 & 0.80 & 0.69 \\
+Medics:
+	1 & 0.96 & 0.68 & 0.83 & 0.75 \\
+	Mean & 0.96 & 0.68 & 0.83 & 0.75 \\
+	
+	

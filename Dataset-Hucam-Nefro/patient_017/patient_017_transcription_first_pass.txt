@@ -1,99 +1,105 @@
-MÉDICO: Diana, bom dia, tudo bem? Deixa só você assinando aí. Esse projeto é o projeto da UFES de inteligência artificial para consultas. Para agilizar o processo de consulta. A ideia é a gente fazer uma consulta falada e isso gerar todo o registro médico aqui. Entendeu? Então é esse projeto que a pessoa da UFES está fazendo. Tá bom? Beleza? Tudo bem, Diana? Beleza? Vamos lá. A Diana tem uma doença renal de diabetes. E ela esteve aqui. Foi nossa primeira consulta passada?
+PESSOA_NÃO_RELACIONADA: Diana, bom dia, tudo bem? Deixa só você assinando aí. Esse projeto é o projeto da UFIS. De inteligência artificial para consultas. Para agilizar o processo de consulta. A ideia é a gente fazer uma consulta falada. E isso gerar todo o registro médico aqui. Entendeu? Então é esse projeto que a pessoa da UFIS está fazendo. Tá bom? Beleza? Tudo bem, Diana? Beleza? Vamos lá.
+MÉDICO: A Diana tem uma doença renal de diabetes. E ela esteve aqui. Foi nossa primeira consulta passada?
 PACIENTE: Foi.
-MÉDICO: E a gente viu que ela já teve uma complicação. Que é uma doença vascular periférica. Ela tem uma lesão que está tomando. Ela estava... Interrompeu a doxiciclina? Por uma otite? Interrompeu, né? Você sabe quando que você interrompeu?
+MÉDICO: E a gente viu que ela já teve uma complicação. Que é uma doença vascular periférica. Ela tem uma lesão que está tomando. Ela estava... Interrompeu a doxiclina? Por uma ótima razão? Interrompeu, né? Você sabe quando que você interrompeu?
 PACIENTE: Foi mês passado.
-MÉDICO: Fevereiro, né? Ok. E ela vem acompanhando aqui com a gente desde agosto de 2024. Diana, da última consulta para hoje, a senhora teve alguma intercorrência?
+MÉDICO: Fevereiro, né? Ok. E ela vem acompanhando aqui com a gente. Desde agosto de 2024. Diana, da última consulta para hoje. A senhora teve alguma intercorrência?
 PACIENTE: Não.
-MÉDICO: Nenhuma? Não teve nenhuma internação? Nenhuma? Nenhuma necessidade de ir ao UPA? Alguma coisa assim? Nada? 
-PACIENTE: Não tive dor, foi por potássio. Foi por UTI.
-MÉDICO: Como assim? Estava baixo. Internação na UTI?
-PACIENTE: Isso.
-MÉDICO: E o que você sentiu, na verdade?
-PACIENTE: Não estava aguentando muito. Não comia nada. Aí fiquei desidratada. Aí isso foi o que me internou.
-MÉDICO: Ah, tá, entendi. Você estava vomitando.
-PACIENTE: Ah, tá, entendi. E por que você estava vomitando? Era por alguma causa ou não? Isso, claro. Que era por causa do potássio mesmo. O potássio causou isso?
-PACIENTE: Isso. Eu não estava comendo. Aí o que eu comia não ficava. Aí só ficava tomando água. Água que eu ficava pouco. Uns minutos eu já vomitava. E fiquei muito fraca.
+MÉDICO: Nenhuma? Não teve nenhuma internação? Nenhuma? Nenhuma necessidade de ir da U? Alguma coisa assim? Nada? 
+PACIENTE: Não tive dor rindo. Foi por potássio. Foi por UTI. 
+MÉDICO: Como assim?
+PACIENTE: Estava baixo. Internação na UTI? Isso. E o que você sentiu, na verdade?
+PACIENTE: Não estava urinando muito. Não comia nada. Aí fiquei desidratada. Aí isso foi o meu termo.
+MÉDICO: Ah, tá. Entendi. Você estava vomitando.
+PACIENTE: Ah, tá. Entendi.
+MÉDICO: E por que você estava vomitando? Era uma causa assim? Alguma coisa ou não?
+PACIENTE: Isso, claro. Que era por causa do potássio mesmo. O potássio causou isso?
+MÉDICO: Isso.
+PACIENTE: Eu não estava comendo. Aí o que eu comia não ficava. Aí só ficava tomando água. Água que eu ficava pouco. Uns minutos eu já vomitava. E fiquei muito fraca.
 MÉDICO: Entendi. Tá bom. Me conta uma coisa aqui. A senhora trouxe os exames?
 PACIENTE: Não, filho. Foi feito aqui.
-MÉDICO: Foi feito aqui e você não trouxe não, né? Tá aqui no sistema, né?
-PACIENTE: Tá no sistema.
-MÉDICO: Tá, me conta uma coisa. O oftalmologista, você está acompanhando aqui no UCAM?
+MÉDICO: Foi feito aqui e você não trouxe não, né? Tá aqui no sistema, né? Tá no sistema. Tá, me conta uma coisa. O oftalmologista, você está acompanhando aqui no UCAM?
 PACIENTE: Comecei.
 MÉDICO: Começou? Isso. Beleza, show. E você fez alguma aplicação, alguma coisa?
 PACIENTE: Não.
 MÉDICO: Não? Só fez o exame?
 PACIENTE: Isso.
-MÉDICO: Beleza. E eles falaram para você que tinha acometimento do diabetes na retina?
-PACIENTE: Tinha algumas pintinhas de sangue.
-MÉDICO: Tinha algumas pintinhas de sangue já, né? Show de bola, beleza. Deixa eu dar uma olhada nos seus exames aqui. De encomenda exames. Só um minuto, tá? Vou anotar os exames da senhora. Os exames foram... Ué. Seu exame foi de novembro?
+MÉDICO: Beleza. E eles falaram para você que tinha acometimento do diabetes na retina? Tinha algumas pintinhas de sangue?
+PACIENTE: Tinha algumas pintinhas de sangue já, né?
+MÉDICO: Show de bola, beleza. Deixa eu dar uma olhada nos seus exames aqui. De encomendar exames. Só um minuto, tá? Vou anotar os exames da senhora. Os exames foram... Ué. Seu exame foi de novembro?
 PACIENTE: Foi.
 MÉDICO: Por que tanta demora assim para voltar?
-PACIENTE: Aí eles me pediram outro agora. Ele está fazendo agora o teste. Ele abriu a doutora... Como é que se chama? Endócrino, um negócio assim. Endócrino. 
-MÉDICO: Pediu o exame de novembro? Pediu outro exame agora para você, né?
-PACIENTE: Foi esse de novembro. E você não coletou ainda? Ainda não. Só que eu tinha vaga, quero pintar um caninho e abrir.
-MÉDICO:  Tá bom. Entendi. Você está acompanhando com o endócrino daqui?
+PESSOA_NÃO_RELACIONADA: Aí eles me pediram outro agora. Ele está fazendo agora o teste. Ele abriu a doutora... Como é que se chama? Endócrino, um negócio assim.
+MÉDICO: Endócrino? Pediu o exame de novembro? Pediu outro exame agora para você, né?
+PACIENTE: Foi esse de novembro. E você não coletou ainda?
+MÉDICO: Ainda não. Só que eu tinha vaga, quero pintar uma caninha e abrir.
+PESSOA_NÃO_RELACIONADA: Tá bom. Entendi. Você está acompanhando com o endócrino daqui?
 PACIENTE: Isso.
-MÉDICO: Show de bola, beleza? Eu vou rever daqui a pouquinho os seus remédios Que você está usando. Muito provavelmente você não ficou internada por conta do potássio, tá? Foi você passou mal, vomitou desidratou e isso causou o potássio baixo, entendeu? Não encontraram, tá? Só um minutinho que eu estou vendo os exames da senhora aqui, tá? Vamos aos remédios que a senhora usa? Me conta aqui. A senhora está usando a insulina como?
-PACIENTE: Sim, ela passou a caneta para mim. Só que aí eu não consegui. 
-MÉDICO: A caneta tem que pegar, né? 
-PACIENTE: É, aí eles não me liberaram porque tem sede 60... Ando para cima. Mas você está usando quantas unidades?
-MÉDICO: Dez.
-PACIENTE: Dez de manhã?
-MÉDICO: Isso. E mais a noite alguma, não?
-PACIENTE: Não. Não? Não.
-MÉDICO: E aquelas quatro unidades que usava à noite? Ela tirou? 
-PACIENTE: Ela tirou? Sim. 
+MÉDICO: Show de bola, beleza? Eu vou rever daqui a pouquinho os seus remédios que você está usando. Muito provavelmente você não ficou internada por conta do potássio, tá? Foi você passou mal, vomitou, desidratou e isso causou o potássio baixo, entendeu? Não encontraram, tá? Só um minutinho que eu estou vendo os exames da senhora aqui, tá? Vamos aos remédios que a senhora usa? Me conta aqui. A senhora está usando a insulina como?
+PACIENTE: Sim, ela passou a caneta para mim. Só que aí eu não consegui.
+MÉDICO: A caneta tem que pegar, né?
+PACIENTE: É, aí eles não me liberaram porque tem sede 60... ando para cima.
+MÉDICO: Mas você está usando quantas unidades?
+PACIENTE: Dez.
+MÉDICO: Dez de manhã?
+PACIENTE: Isso.
+MÉDICO: E mais a noite alguma, não?
+PACIENTE: Não.
+MÉDICO: Não? Não. E aquelas quatro unidades que usava à noite?
+PACIENTE: Ela tirou.
+MÉDICO: Ela tirou?
+PACIENTE: Sim.
 MÉDICO: Tem certeza? Acho que não tirou. 
 PACIENTE: Acho que tirou?
-MÉDICO: Não, acho que ela tirou. Anodipina, 5mg de 12 em 12. Vê a impressão dela para mim. Losartan, uma vez por dia. Tomou, mas não. Por que não?
-PESSOA_NÃO_RELACIONADA: Porque você está preocupado, é assim, por causa dele, né? Do linho, comigo. 
-MÉDICO: Mas foi eu que passei? 
-PACIENTE: Foi, aí eu não vou tomar não, só tomo um outro de 5mg. Anodipina?
-MÉDICO: Isso. E furosemida?
+MÉDICO: Não, acho que ela tirou. Anodipina, 5mg de 12 em 12. Vê a impressão dela para mim.
+PACIENTE: Losartana, uma vez por dia.
+MÉDICO: Tomou, mas não. Por que não?
+PACIENTE: Porque você está preocupado, é assim, por causa dele, né? Do rins, comigo.
+MÉDICO: Mas foi eu que passei?
+PACIENTE: Foi, aí eu não vou tomar não, só tomo um outro de 5mg.
+MÉDICO: Anodipina?
+PACIENTE: Isso.
+MÉDICO: Tá. E furosemida?
 PACIENTE: Também.
 MÉDICO: Também o que?
 PACIENTE: Tomando sim.
-MÉDICO: Tá, e por que você não tomou losartan? 
-PACIENTE: Porque eu fico com medo de montar ela, ela fica baixa, muito baixa. 
+MÉDICO: Tá, e por que você não tomou losartana?
+PACIENTE: Porque eu fico com medo de baixar muito a pressão.
 MÉDICO: Fica o que? Muito baixa a pressão?
-PACIENTE: Isso. 
-MÉDICO: Ah, tá. Entendi. Vamos ver, é só comentar. Então, olha só, ela tem uma doença renal de diabetes, deixa eu só ver. Que vergonha, hein, bicho. Caceta. Consultas anteriores, vamos ver aqui. Deixa eu ver, endócrino. C, enfermagem, ramiéria. Doutora Marta. Solicito exames, oriento a reduzir a dose de insulina regular para 6 unidades. Você tá usando a regular também? 
-PACIENTE: Sim. 
-MÉDICO: Aham. Quantas unidades de regular? 
-PACIENTE: Acho que foi 10, eu acho que ela passou. 
+PACIENTE: Isso.
+MÉDICO: Ah, tá. Entendi. Vamos ver, é só comentar. Então, olha só, ela tem uma doença renal de diabetes, deixa eu só ver. Que vergonha, hein, bicho. Caceta. Consultas anteriores, vamos ver aqui. Deixa eu ver, endócrino. C, enfermagem, Enfermeira Marta. Solicito exames, oriento a reduzir a dose de insulina regular para 6 unidades. Você tá usando a regular também?
+PACIENTE: Sim.
+MÉDICO: Aham. Quantas unidades de regular?
+PACIENTE: Acho que foi 10, eu acho que ela passou.
 MÉDICO: Você acha?
-PACIENTE: É, eu acho que foi 10, eu tô e olho no papel, não tem... 
-MÉDICO: Entendi. Você não gravou até hoje? 
-PACIENTE: Não. 
-PESSOA_NÃO_RELACIONADA: O que é que é meu filho? 
-MÉDICO: Ele que... Ah, tá, entendi, tá bom. Então. 
-MÉDICO: Nós temos, olha só, uma doença renal de diabetes, tá? Essa doença renal de diabetes já com complicações micro e macrovasculares, né? Tem retinopatia, tem doença vascular periférica. E ela tem uma hemoglobina glicada de 11,2. Eu tô achando muito esquisito essa história de ter reduzido a insulina, sendo que ela tá com uma glicada tão alta, né? Ela tem total indicação também de associação de W-glicosina, né? Que é um ISGLT2, né? Que a gente vai iniciar hoje, tá? Então assim, é... Vou colocar aqui, seguimento conjunto com endócrino. Você vai voltar na endócrina quando?
-PACIENTE: Quando eu conseguir a vaga.
-MÉDICO: Em abril.
-PACIENTE: Isso, eu vou marcar.
-MÉDICO: Mas você não sabe se vai conseguir a vaga?
-PACIENTE: Então, tem isso aí que eu vou ter que marcar primeiro. Quando eu conseguir marcar com ela, eu faço o exame.
-MÉDICO: Entendi. Eu vou aumentar a insulina pra 10 mais 6 unidades à noite, tá? Insulina... Você tem quantos anos?
-PACIENTE: 44. 
-MÉDICO: 45, 44. Beleza. A pressão em casa tá ficando quanto? 
-PACIENTE: 10, 11, 15. 
-MÉDICO: É? Beleza. Tá. É... E aí, você tá com o que? 
-PACIENTE: 10, 11, 15. 
-MÉDICO: 15, 16. 15, 16. 16, 17. 20, 21, 22, 23, 24. 25, 26, 27, 28, 29, 30. 22, 33, 34, 35, 36, 38, 40. Então, olha só. Eu tô começando em SGLT2 pra ela. E tô começando um BRA, né? Que a gente sempre tem que pensar nessas duas medicações. Principalmente relacionadas à doença renal do diabetes, tá? O losartan, eu tô passando pra senhora, Diana. É pra tomar, tá? Não deixa de tomar, não. Que ele é importante. Principalmente pra reduzir a quantidade de proteína. Que você vai ter na sua dieta. E aí, você vai ter que tomar. Se você tiver que tomar o SGLT2. Que você vai ter na sua dieta. É pra tomar, tá? Não deixa de tomar, não. Que ele é importante. Principalmente pra reduzir a quantidade de proteína. Que se perde pela urina. Tudo bem? Falando agora de complicações. Ela tem uma... Deixa eu só anotar aqui. Depois dos exames elas saíram aqui. Gás venoso e hemograma. Só um minutinho, tá?
-PESSOA_NÃO_RELACIONADA: Cuidado! Um que cai no chuveiro.
-MÉDICO: Agora... Lanche. Quase. Na linha. Na nossa. Então, passando pelas complicações, a gente vai colocar a anemia, ela tem uma anemia discreta na verdade, 11.2, mas...
-MÉDICO: Ferritina dela de 354, saturação de transferrina a gente não tem, tá? Sem indicação de tratamento para anemia no momento, tá bom? Então, ela tem uma acidose com um bicarbonato de 19. O Cadigo fala hoje para a gente manter reposição inicial, reposição de bicarbonato acima de 16. Vou deixar pouco de bicarbonato, até o bicarbonatozinho de colherzinha ela meter, tá? Consulta com o oftalmologista, ela já foi. O vascular lá te deu alta do Jaime? 
+PACIENTE: É, eu acho que foi 10, eu tô e olho no papel, não tem...
+MÉDICO: Entendi. Você não gravou até hoje?
 PACIENTE: Não.
-MÉDICO: Não? Você continua acompanhando com ele?
-PACIENTE: Sim.
-MÉDICO: Não, o vascular sim, só está com infecto. Só está com infecto, né? Mas a doxiciclina não toma mais?
+MÉDICO: O que é que é meu filho?
+PESSOA_NÃO_RELACIONADA: Ele que...
+MÉDICO: Ah, tá, entendi, tá bom. Então.
+MÉDICO: Nós temos, olha só, uma doença renal de diabetes, tá? Essa doença renal de diabetes já com complicações micro e macrovasculares, né? Tem retinopatia, tem doença vascular periférica. E ela tem uma hemoglobina glicada de 11,2. Eu tô achando muito esquisito essa história de ter reduzido a insulina, sendo que ela tá com uma glicada tão alta, né? É... Ela tem total indicação também de associação de... também de associação de W-glicosina, né? Que é um... um ISGLT2, né? Que a gente vai iniciar hoje, tá?
+PESSOA_NÃO_RELACIONADA: Então assim, é... Vou colocar aqui, segmento conjunto com endócrino. Você vai voltar na endócrina quando?
+PACIENTE: Quando eu conseguir a vaga.
+PESSOA_NÃO_RELACIONADA: Em abril. Em abril? 
+PACIENTE: Isso, eu vou marcar. 
+PESSOA_NÃO_RELACIONADA: Mas você não sabe se vai conseguir a vaga?
+PACIENTE: Então, tem isso aí que eu vou ter que marcar primeiro. Quando eu conseguir marcar com ela, eu faço o exame.
+MÉDICO: Entendi. Eu vou aumentar a insulina pra 10 mais 6 unidades à noite, tá? Insulina... ... ... Você tem quantos anos? 
+PACIENTE: 44.
+MÉDICO: 45, 44. Beleza. 105, 44. A pressão em casa tá ficando quanto? 
+PACIENTE: 10, 11, 15. 
+MÉDICO: É? Beleza. Tá. É... É... E aí, você tá com o que? 10, 11, 15, 15, 16, 16,17. Então, olha só. Eu tô começando em SGLT2 pra ela. E tô começando um BRA, né? Que a gente sempre tem que pensar nessas duas medicações. Principalmente relacionadas à doença renal do diabetes, tá? O losartan, eu tô passando pra senhora, Diana. É pra tomar, tá? Não deixa de tomar, não. Que ele é importante principalmente pra reduzir a quantidade de proteína que você vai ter na sua dieta. E aí, você vai ter que tomar se você tiver que tomar o SGLT2. Que você vai ter na sua dieta. É pra tomar, tá? Não deixa de tomar, não. Que ele é importante principalmente pra reduzir a quantidade de proteína que se perde pela urina. Tudo bem? Falando agora de complicações. Ela tem uma... Deixa eu só anotar aqui depois dos exames. Eles saíram aqui: gás venoso e hemograma. Só um minutinho, tá? E aí, você tá com a sua dieta, tá? Ó. Agora... lanche. Isso? Já. Tá. Então, passando pelas complicações, a gente vai colocar a anemia, ela tem uma anemia discreta na verdade, 11.2.
+MÉDICO: Dentro do álcool, entre 10 e 12, então a gente não tem muito o que fazer. Ferritina dela de 354, saturação de transferrina a gente não tem, tá? Sem indicação de tratamento para anemia no momento, tá bom? Então, ela tem uma acidose com um bicarbonato de 19. O Cadigo fala hoje para a gente manter reposição inicial, reposição de bicarbonato acima de 16, mas eu gosto sempre de deixar o bicarbonato entre 22 a 24 ali, então vou iniciar uma reposição de bicarbonato para ela, tá? Reposição inicial, reposição de bicarbonato acima de 16. Vou deixar pouco de bicarbonato, até o bicarbonatozinho de colherzinha ela meter, tá? Consulta com o oftalmologista, ela já foi. O vascular lá te deu alta do Jaime? 
 PACIENTE: Não. 
-MÉDICO: Não toma mais. Não. Tá, vou fazer algumas alterações nas suas receitas e aí eu vou te passar o que a gente vai fazer aqui direitinho, detalhado, tá bom?
-PACIENTE: Sim.
-MÉDICO: Mas vou aguardar para você fazer, para a gente fazer juntos. Só pedir seus exames aqui, só um minuto, tá? Tá. Então, eu vou fazer uma alteração na sua... Você... A gente tem um remédio que a gente tem indicação de associar, só que ele seria um remédio comprado, tá? Eu vou passar para você e aí você vê se a gente vai ter condição, porque para liberar de graça, a gente só consegue liberar acima de 65 anos, tá? Que não é o seu caso, tá bom? Mas aí a gente vê se você vai conseguir avaliando o preço. Na farmácia popular ele custa um pouco mais barato, tá?
-PACIENTE: Sim.
-MÉDICO: Aquele exame de urina de 24 horas você já fez, não já?
-PACIENTE: Sim.
-MÉDICO: Tá, nós vamos pedir também, tá? Então... Aqui... Isso aí, derruba o negócio.
-PESSOA_NÃO_RELACIONADA: Isso. Vamos lá.
-MÉDICO: Obrigado.
+MÉDICO: Não? Você continua acompanhando com ele? 
+PACIENTE: Sim. 
+MÉDICO: Não, o vascular sim, só está com infecto. Só está com infecto, né? Mas a doxiciclina não toma mais? 
+PACIENTE: Não. 
+MÉDICO: Não toma mais. Não. Tá, beleza. Vou fazer algumas alterações na sua... Eu vou fazer algumas alterações nas suas receitas e aí eu vou te passar o que a gente vai fazer aqui direitinho, detalhado, tá bom? 
+PACIENTE: Sim. 
+MÉDICO: Mas vou aguardar para você fazer, para a gente fazer juntos. Não adianta. Chamei. Tá, beleza. Só pedir seus exames aqui, só um minuto, tá? Tá. Então, eu vou fazer uma alteração na sua... Você... A gente tem um remédio que a gente tem indicação de associar, só que ele seria um remédio comprado, tá? Eu vou passar para você e aí você vê se a gente vai ter condição, porque para liberar de graça, a gente só consegue liberar acima de 65 anos, tá? Que não é o seu caso, tá bom? Mas aí a gente vê se você vai conseguir avaliando o preço. Na farmácia popular ele custa um pouco mais barato, tá? 
+PACIENTE: Sim. 
+MÉDICO: Aquele exame de urina de 24 horas você já fez, não já? 
+PACIENTE: Sim. 
+MÉDICO: Tá, nós vamos pedir também, tá? Então... Como é o assunto que eu vou testar aqui? Aqui... Isso aí, derruba o negócio. Isso.
