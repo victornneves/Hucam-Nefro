@@ -48,3 +48,5 @@ relatorio_consulta_ambulatorial_nefrologia:
     - "ANEMIA HB > 10 COM ESTOQUES PRESERVADOS: SEM INDICAÇÃO DE TRATAMENTO"
     - "ACIDOSE - BIC 19,9: INÍCIO REPOSIÇÃO DE BIC 1 COLHER DE CHÁ /DIA"
     - RETORNO EM 3 MESES NO AMBULATÓRIO
+  impressão:
+    - "Não provido"
