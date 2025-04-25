@@ -92,7 +92,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 
 # Define cache directory
-cache_dir = "/media/dataset_ego4d/models"
+cache_dir = "/mnt/external8tb/models"
 
 # Load the LLama3 model and tokenizer
 model_name = "aaditya/OpenBioLLM-Llama3-8B"
@@ -167,7 +167,7 @@ def evaluate_patient(patient_id):
 # Iterate over patients and compile results
 results = []
 # for patient_id in range(1, 17):
-for patient_id in [1]:
+for patient_id in [17]:
     print(f"Evaluating patient {patient_id}")
     patient_results = evaluate_patient(patient_id)
     if patient_results:
