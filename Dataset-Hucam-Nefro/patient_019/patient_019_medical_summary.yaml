@@ -1,0 +1,101 @@
+relatorio_consulta_ambulatorial_nefrologia:
+  identificacao_paciente: Feminino, 75 anos, aposentada, mora em Vila Velha, 7 filhos
+  situacao_programa: Ativo
+  hipoteses_diagnosticas:
+    estagio_drc:
+      grau: 4/A2
+    etiologia_doenca_base: Nefroesclerose hipertensiva / uso de AINES
+    admissao:
+      programa_prevenir: 2024-07-23
+  preparo_para_terapia_substituicao_renal:
+    apresentacao_metodo_dialitico: data
+    metodo_escolhido: não informado
+    acesso: não se aplica
+    sorologias:
+      Tx PREEMPTIVO (ClCr < 10ml/min): NÃO SE APLICA
+  vacinacao:
+    influenza_2024: pendente
+  historico_patologico_pregresso:
+    - HAS – em acompanhamento pela UBS
+    - Intolerância à glicose – em acompanhamento pela UBS
+    - 2 IAM há 8 anos – sem acompanhamento (alta da cardiologia)
+    - Ex-tabagista – parou após IAM
+    - Ex-etilista – parou após IAM
+    - Nega prática de exercício físico
+  eliminacoes:
+    evacuacoes: sem alterações
+    diurese: fisiológica, sem alterações
+  medicamentos_em_uso:
+    - Hidralazina 50mg 12/12h
+    - Isossorbida 20mg 12/12h
+    - Carvedilol 12,5mg 2 comp 12/12h
+    - Trimetazidina 35mg 1 comp 12/12h
+    - Gliclazida 60mg 2 comp pela manhã
+    - AAS 100mg após almoço
+    - Rosuva/Eze 20/10mg 1 comp à noite
+    - Anlodipino 5mg 2 comp à noite
+    - Alopurinol 100mg 1 comp/dia
+    - Furosemida 40mg 1+1 comp
+  exames_laboratoriais:
+    "2024-10-08":
+      AU: 10,3
+      CA: 10,5
+      HDL: 45
+      CT: 123
+      LDL: 55
+      CR: 2,95
+      FER: 74
+      P: 3,7
+      GLIC: 132
+      HBG: 5,9%
+      MG: 2,45
+      K: 3,8
+      ALB: 4,5
+      RELACAO_P_C: 0,142
+      IST: 20%
+      NA: 141
+      TGC: 11
+      UR: 128
+      BIC: 30,6
+      HB: 12,7
+      HCT: 38,4
+      PTH: 138
+      VIT_D: 33,8
+      EAWS: sem alterações
+    "2025-03-06":
+      AU: 7
+      CA: 10,1
+      HDL: 41
+      LDL: 53
+      CR: 2,02
+      P: 3,7
+      GLIC: 99
+      HBG: 5,4%
+      MG: 2,29
+      K: 4,3
+      NA: 143
+      TGC: 105
+      UR: 57
+      BIC: 25,2
+      HB: 11,9
+      HCT: 36,9
+      VIT_D: 32,8
+  exames_imagem: []
+  exame_fisico:
+    peso: "62,3kg > 61,5kg"
+    hidratacao: hidratado
+    edemas: ausentes
+    corado: normocorado
+    PA: "130/60 mmHg"
+    ritmo_cardiaco: regular, sem sopros
+    sinais_congestao_hipervolemia: ausentes
+    diurese_residual: não especificada
+  conduta:
+    - Bom controle pressórico em domicílio mantenho anti-HAS
+    - Controle de dislipidemia DLP LDL 53
+    - Anemia ausente- EAWS 1,9 Sem medicação específica no momento
+    - DMO, bom controle de cálcio e fósforo, Vitamina D no alvo (32,8)
+    - Mantenho demais medicações de uso contínuo
+    - Retorno em 6 meses
+  impressão:
+    - DRC 4 secundária a nefroesclerose hipertensiva
