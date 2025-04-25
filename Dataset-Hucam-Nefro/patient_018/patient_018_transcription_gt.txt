@@ -1,19 +1,20 @@
+PESSOA_NÃO_RELACIONADA: Deixar vocês em paz aí.
 MÉDICO: Bom dia Zé, tudo bem?
-PACIENTE: Tudo bem.
-MÉDICO: Vamos lá meu amigo, estivemos na última consulta foi no dia 5 de dezembro, não foi?
+PACIENTE: Tudo bom.
+MÉDICO: Vamos lá meu amigo, ó, estivemos na última consulta foi no dia 5 de dezembro, não foi?
 PACIENTE: Sim.
 MÉDICO: Show de bola. No dia 5 de dezembro a gente conversou com o senhor a respeito de alguns ajustes que a gente precisava fazer, principalmente relacionados à dieta, não foi?
 PACIENTE: Isso.
 MÉDICO: E aí eu vi que você passou também pela consulta com a nutricionista, não foi?
 PACIENTE: Com certeza.
-MÉDICO: Como é que foi a consulta com a nutricionista? Você teve alguma mudança real é, aí na parte da nutrição? Mudou o cardápio? Como é que ficou essa adaptação aí a essa... Depois dessa consulta, me conte.
+MÉDICO: Como é que foi a consulta com a nutricionista? Você teve alguma é, mudança real é, aí na parte da nutrição? Mudou o cardápio? Como é que ficou essa adaptação aí a essa, Depois dessa consulta, me conte.
 PACIENTE: Ela ficou, sim, do jeito que ela passou eu estou tentando seguir a regra direitinho, pra mim tá sendo bom.
 MÉDICO: Ãnm?
 PACIENTE: Pra mim tá sendo bom.
 MÉDICO: Tá sendo bom? Show. É, alguma intercorrência da última consulta para cá, não?
 PACIENTE: Não.
 MÉDICO: Nenhuma intercorrência. Não passou mal, nada?
-PACIENTE: Não, sempre... De uns 5 dias para cá, não, Mas em antes estava dando umas dunas, um pouco de estômago cedo.
+PACIENTE: Não, sempre... De uns 5 dias para cá, não, Mas em antes estava dando umas dor, na boca do estômago cedo.
 MÉDICO: Aham.
 PACIENTE: Não sei se é porque eu estava levantando muito tarde, né? Deixando de comer. Mas agora, de uns 5 dias para cá, sumiu.
 MÉDICO: Sumiu, não está sentindo nada.
@@ -26,7 +27,7 @@ MÉDICO: Aham. Você planta o que lá?
 PACIENTE: Mexo com café.
 MÉDICO: Café, né? Entendi, tá. Ein, me conta um coisa. Remédios, mudou alguma coisa?
 PACIENTE: Não.
-MÉDICO: Não mudou nada.
+MÉDICO: Mudou nada.
 PACIENTE: Mesmo jeito.
 MÉDICO: Tá, mesma coisa, né?
 PACIENTE: Isso.
@@ -35,62 +36,66 @@ PACIENTE: É, isso mesmo.
 MÉDICO: Né?
 ACOMPANHANTE: É.
 PACIENTE: Foi.
-MÉDICO: Isso. E a insulina, eu também tinha colocado a insulina da noite, pra antes de dormir.
+MÉDICO: Isso. E a insulina, eu também tinha colocado a insulina pra, da noite, pra antes de dormir.
 PACIENTE: Uhum.
 MÉDICO: Não foi isso? Deu uma melhorada nos episódios de hipoglicemia? Algumas coisas, melhorou?
 PACIENTE: É, deu.
-ACOMPANHANTE: Deu depois que ele voltou. Ele voltou na endócrino e aí ela orientou ele a tomar é, melhorar o jeito. Tornou moldar a insulina de novo.
+ACOMPANHANTE: Deu depois que ele voltou. Ele voltou na endócrino e aí ela orientou ele a tomar é, melhorar o jeito. Tornou mudar a insulina de novo.
 MÉDICO: Tá como a insulina dele hoje?
 ACOMPANHANTE: E mudou.
 MÉDICO: Tá como?
-ACOMPANHANTE: Tá do mesmo jeito. Assim, nós mudemos de MPH passando para gar, gar...
+ACOMPANHANTE: Tá do mesmo jeito. Assim, nós mudemos de MPH passamos para gar, gar...
 MÉDICO: Glargina. Ah tá, aham.
 ACOMPANHANTE: Ele não tinha voltado para ela. Aí voltou para ela de novo.
 MÉDICO: E quantas unidades de Glargina ele está tomando?
 ACOMPANHANTE: 19, só de manhã.
-MÉDICO: 19 só de manhã. Show de bola. Beleza. E as outras? A outra é a lístro antes das refeições.
+MÉDICO: 19 só de manhã. Show de bola. Beleza. E as outras? A outra é a Lispro antes das refeições.
 ACOMPANHANTE: A outra ficou do mesmo jeito.
 MÉDICO: Tá bom. Combinado. Eu tinha reduzido também o losartana do senhor para uma vez por dia. Não foi isso?
 ACOMPANHANTE: Sim.
 MÉDICO: Ao invés de duas vezes por dia, uma vez por dia, né? E os episódios de pressão baixa, essas coisas, melhoraram?
 ACOMPANHANTE: Tá, tá melhor.
 MÉDICO: Tá melhor.
-ACOMPANHANTE: Tá sempre 11, 12... É, eu até tinha...
+ACOMPANHANTE: Tá sempre 11, 12... 
+MÉDICO: Show.
+ACOMPANHANTE: É, eu até tinha...
 MÉDICO: Anotado, né?
 ACOMPANHANTE: ... lá em casa anotei, que foi a nutricionista que pediu pra mim...
-MÉDICO: Tá. Exames dele. Tem aí? Você chegou a passar pela diálise peritoneal? Ainda não, né?
+MÉDICO: Tá. Exames dele. Tem aí?
+ACOMPANHANTE: Tá aqui.
+MÉDICO: Você chegou a passar pela diálise peritoneal? Ainda não, né?
 ACOMPANHANTE: Não.
 MÉDICO: Lá em cima.
 PACIENTE: Não, acho que
 ACOMPANHANTE: Não, passou não.
-MÉDICO: Diálise peritoneal ainda não, né? 
+MÉDICO: Avaliação da diálise peritoneal ainda não, né? 
 ACOMPANHANTE: Esses aqui são...
 MÉDICO: Esses aqui são os exames novos?
 PACIENTE: É, os de sangue que [ininteligível].
-MÉDICO: 16 do 2 de 25. Ácido úrico 7,5. Glicose de 248. Triglicerídeos de 79. Fósdoro 4,9. Ferritina de 711. Fosfato de etalina de 180. Sódio de 134. Potássio de 5,7. Cloro de 99. Magnésio de 2,56. Ureia de 141. Creatinina de 3,01. Albumina de 3,8. Cálcio total de 9,6. Colesterol total de 150. HDL de 44. LDL de 90. Bicarbonato de 25,9. Hemoglobina de 9,69. Hematócrito de 30,4. PTH de 45. Vitamina D de 40. EAS sem alterações. Hemoglobina glicada de 9,3. Show de bola. Vamo lá.
-ACOMPANHANTE: Aqui, doutor, tenho uma dúvida pro senhor olhar
+MÉDICO: 16 do 2 de 25. Ácido úrico 7,5. Glicose de 248. Triglicerídeos de 79. Fósdoro 4,9. Ferritina de 711. Fosfatase alcalina de 180. Sódio de 134. Potássio de 5,7. Cloro de 99. Magnésio de 2,56. Ureia de 141. Creatinina de 3,01. Albumina de 3,8. Cálcio total de 9,6. Colesterol total de 150. HDL de 44. LDL de 90. Bicarbonato de 25,9. Hemoglobina de 9,69. Hematócrito de 30,4. PTH de 45. Vitamina D de 40. EAS sem alterações. Hemoglobina glicada de 9,3. Show de bola. Vamo lá.
+ACOMPANHANTE: Aqui, doutor, uma dúvida pro senhor olhar.
 MÉDICO: Isso aqui é o que, esses outros?
-ACOMPANHANTE: Esses outros foi o [ininteligível] que pediu. Ultrassom. Aqui eu vi que a, eu fiz por conta a Ferritina tava subindo, tornei a fazer e tava alta. Aí eu fui na médica e pediu Hemoglobina [ininteligível].
+ACOMPANHANTE: Esses outros foi o [ininteligível] que pediu. Ultrassom. Aqui eu vi que a, eu fiz por conta, a Ferritina tava subindo, tornei a fazer e tava alta. Aí eu fui na médica e pediu Hemoglobina [ininteligível].
 MÉDICO: Hemoglobina glicada, né?
 ACOMPANHANTE: É, mas a Ferritina tá muito alto.
 MÉDICO: Mas isso aqui é de março, né?
-ACOMPANHANTE: É, fez agora, da endócrino. Ela pediu, ela pede.
+ACOMPANHANTE: É, fez agora [ininteligível], da endócrino. Ela pediu, ela pede.
 MÉDICO: Aham.
-ACOMPANHANTE: Aí ela ficou um pouco preocupada com essa Ferritina dele alta.
-MÉDICO: Com a Ferritina, né? É, a Ferritina pode ser uma [ininteligível] de fase aguda, né, assim, entendeu? Mas a gente vai ter que acompanhar. A Ferritina dele realmente estava alta aqui no exame, de 700 e pouco, entendeu? Tá? É, manteve aí de 800. Esse é o doppler de artérias renais, né?
-ACOMPANHANTE: É, [ininteligível] de todos os exames aí
-MÉDICO: Artérias renais que estava pendente, de 11 do 12 de 24. Sem estenoses hemodinâmica amicidinibas [ininteligível]. Beleza. E esse do envelope pardo aqui o que?
+ACOMPANHANTE: Aí ela ficou um pouquinho preocupada com essa Ferritina dele alta.
+MÉDICO: Com a Ferritina, né? É, a Ferritina pode ser uma proteína de fase aguda, né, assim, entendeu? Mas a gente vai ter que acompanhar. A Ferritina dele realmente estava alta aqui no exame, de 700 e pouco, entendeu? Tá? É, manteve aí de 800. Esse é o doppler de artérias renais, né?
+ACOMPANHANTE: É, [ininteligível] de todos os exames aí.
+MÉDICO: Artérias renais que estava pendente, de 11 do 12 de 24. Sem estenoses hemodinâmica significatiivas [ininteligível]. Beleza. E esse do envelope pardo aqui o que?
 ACOMPANHANTE: É, esses dois aí pedimos também, um é raio-x e o outro é... 
-MÉDICO: [ininteligível] O eco. Transtorácico de 5 do 2 de 25, ele tem uma fração de ação de 64%. De valvas... [ininteligível] Baixa probabilidade... Não tem nada de calcificação vascular aqui, ditando aqui na válvula, tá vendo? Então tá tranquilo. Dentro dos limites da normalidade... Calcificação valvar ausente... Beleza, pode guardar nesse. E esse aqui... São os raios-x. Foi a gente que pediu esses raios-x?
+MÉDICO: [ininteligível] O eco. Transtoráxico de 5 do 2 de 25, ele tem uma fração de ação de 64%. De valvas... [ininteligível] Baixa probabilidade... Não tem nada de calcificação vascular aqui, ditando aqui na válvula, tá vendo? Então tá tranquilo. Dentro dos limites da normalidade... Calcificação valvar ausente... Beleza, pode guardar nesse. E esse aqui... São os raios-x. Foi a gente que pediu esses raios-x?
 ACOMPANHANTE: Foi.
-MÉDICO: Foi a gente. Calcificações vasculares nas mãos bilateralmente no punho direito. Entendeu? Então é pra isso que a gente pediu. Tá vendo? Se você ver aqui... Aqui a imagem aqui tá muito ruim. Aqui eu não vou conseguir ver. Né, não dá pra mostrar pra vocês, não. Calcificações [ininteligível] nas mãos bilateralmente no punho direito. Não dá pra ver nada. Só se a gente abrir aqui. [ininteligível]. É José? Claudio.
-PACIENTE: Silva Moura.
-MÉDICO: Silva Moura. José Cláudio da Silva Moura. José Cláudio da Silva Moura. Eco raio-x da mão. Eu consigo ver a imagem aqui?
+MÉDICO: Foi a gente. Calcificações vasculares nas mãos bilateralmente no punho direito. Entendeu? Então é pra isso que a gente pediu. Tá vendo? Se você ver aqui... Aqui a imagem aqui tá muito ruim. Aqui eu não vou conseguir ver. Né, não dá pra mostrar pra vocês, não. Calcificações [ininteligível] nas mãos bilateralmente no punho direita. Não dá pra ver nada. Só se a gente abrir aqui. [ininteligível]. É José? Claudio.
+PACIENTE: da Silva Moura.
+MÉDICO: da Silva Moura. José Cláudio da Silva Moura. José Cláudio da Silva Moura. Eco raio-x da mão. Eu consigo ver a imagem aqui?
 ACOMPANHANTE: Consegue.
 MÉDICO: Aonde?
 PESSOA_NÃO_RELACIONADA: Nos três pontinhos. 
 MÉDICO: JPEG? Qual?
-PESSOA_NÃO_RELACIONADA: Pode ser no [ininteligível] o Evo.
+PESSOA_NÃO_RELACIONADA: Pode ser no [ininteligível] web.
 ACOMPANHANTE: [ininteligível].
 MÉDICO: que foi, meu rei? Frio?
 PESSOA_NÃO_RELACIONADA: Tadinho é que tá lá meio [ininteligível]
@@ -99,26 +104,26 @@ PESSOA_NÃO_RELACIONADA: Tá gelado. Até tomei frio lá dentro.
 ACOMPANHANTE: [ininteligível].
 PESSOA_NÃO_RELACIONADA: Ele fica na lupinha ali de cima.
 MÉDICO: Aqui?
-PESSOA_NÃO_RELACIONADA: É. É, arrastar. Arrasta. Aí depois vem clicando nessas, nessas
-MÉDICO: Aqui ó. Aqui dá pra ver direitinho o vaso, ó. Tá vendo? viu, Gui?
+PESSOA_NÃO_RELACIONADA: É. É, arrastar. Arrasta. Aí depois vem clicando nessas
+MÉDICO: Aqui ó, calcificação vascular aqui ó, tá vendo? Aqui dá pra ver direitinho o vaso, ó. Tá vendo? viu, Gui?
 PESSOA_NÃO_RELACIONADA: Uhum.
 MÉDICO: Ó, aqui tem calcificação, aqui tem calcificação.
 PESSOA_NÃO_RELACIONADA: Nessa aqui de baixo dá pra ver mesmo não.
-MÉDICO: [ininteligível] aqui tem calcificação, aqui tem calcificação. Ele falou do punho também, mas o punho não tem aqui né? Aqui, aqui dá pra ver direitinho. Ó, aqui dá pra ver calcificação, aqui dá pra ver calcificação, aqui. Aqui, onde vai ser? Aqui não consigo ver nada não. Show? Então a gente tem a presença da calcificação vascular, tá? Então vamos lá. Do ponto de vista de progressão, ele tá usando a glargina, ele já alterou a glargina, a hemoglobina glicada dele vem em melhora, a glicada prévia dele era de 9,2, depois 9,3, não tinha dado tanto tempo de melhoria assim, e agora 8,3 no novo exame aqui, né? Então ele já tá em segmento com o endócrino, e que vai é, deixa eu só anontar isso aqui antes de a gente continuar, pera aí, rapidinho. Raio-x... [ininteligível]... calcificações vasculares nas duas [ininteligível]. Então então a gente tá bem melhor certo? Pressão. Pressão tá super bem controlada usando os remédios de pressão que ele tá tomando. Vamos rever aqui os remédios. É o losartana de manhã, certo? hidroclorotiazida de manhã, rosuvastatina um comprimido à noite, anlodipino à noite, furosemida de manhã, colecalciferol que é aquele de uma vez por semana.
+MÉDICO: Aqui tem calcificação, aqui tem calcificação. Ele falou do punho também, mas o punho não tem aqui né? Aqui, aqui dá pra ver direitinho. Ó, aqui dá pra ver calcificação, aqui dá pra ver calcificação, aqui. Aqui, onde vai ser? Aqui não consigo ver nada não. Show? Então a gente tem a presença da calcificação vascular, tá? Então vamos lá. Do ponto de vista de progressão, ele tá usando a glargina, ele já alterou pra glargina, a hemoglobina glicada dele vem em melhora, a glicada prévia dele era de 9,2, depois 9,3, não tinha dado tanto tempo de melhoria assim, e agora 8,3 no novo exame aqui, né? Então ele já tá em segmento com o endócrino, e que vai é, deixa eu só anontar isso aqui antes de a gente continuar, pera aí, rapidinho. Raio-x... [ininteligível]... calcificações vasculares nas duas [ininteligível]. Então então a gente tá bem melhor certo? Pressão. Pressão tá super bem controlada usando os remédios de pressão que ele tá tomando. Vamos rever aqui os remédios. É o losartana de manhã, certo? hidroclorotiazida de manhã, rosuvastatina um comprimido à noite, anlodipino à noite, furosemida de manhã, colecalciferol que é aquele de uma vez por semana.
 ACOMPANHANTE: Duas. [ininteligível] passou pra duas.
 MÉDICO: Passou pra duas vezes por semana.
 ACOMPANHANTE: É de duas em duas vezes
 MÉDICO: Tá? E o Eprex, ele tinha sido suspenso, o alfaepoetina, aquela injeçãozinha da anemia?
 ACOMPANHANTE: Sim.
 MÉDICO: Tinha sido suspenso. Foi a gente que suspendeu?
-ACOMPANHANTE: Já, já tem mais de uns dois meses da última consulta suspendeu.
-MÉDICO: Foi né? É, mas a gente vai ter que voltar ele, tá? É, como tá completando quase seis meses vai ter que ser quase uma abertura, uma nova abertura de processo. Vou ver aqui o que a gente faz aqui. Vamos lá. É, a pressão em casa você falou que tá ficando boa né?
+ACOMPANHANTE: Já, já tem mais de uns dois meses já, da última consulta suspendeu.
+MÉDICO: Foi né? É, mas a gente vai ter que voltar ele, tá? É, como tá completando quase seis meses vai ter que ser quase que uma abertura, uma nova abertura de processo. Vou ver aqui o que a gente faz aqui. Vamos lá. É, a pressão em casa você falou que tá ficando boa né?
 ACOMPANHANTE: Tá, tá.
-MÉDICO: Beleza. Mantenho antihipertensivos. Em seguimento com a endocrinologia ajustada a insulina e melhora progressiva da hemoglobina glicada mas ainda não tá boa, tá? A gente precisa ainda melhorar, tudo bem? É, mantenho sem, sem, o iSGLT2 no momento. Vamos pras complicações. Ele tem uma anemia. É, uso prévio de Eprex. A hemoglobina agora dele tá de 9,6. Tá aqui no final. 9,69. 69 mais com IST solicito, faço solicitação mais [ininteligível] realizava duas vezes por semana. Vamo lá. O [ininteligível]  foi feito. Hiperfosfatemia. O fósforo dele era de... Agora o fósforo dele tá de 4.9, ele era um fósforo de 6.1, e antes ele era um fósforo de 6.2. Hiperfosfatemia. Fósforo de 6.2, ele ia para 6.1 e ele ia para 4.9. Abertura de processo de Sevelamer. Calcificação vascular documentada em raixo-x, mãos e punhos. Vamos lá. LDL de 90. Está usando rosuvastatina. Estou colocando aqui para depois eu explicar para vocês, tá? Aqui tá normal. É isso. Vamos lá. Então é uma doença renal do diabetes que já tá acompanhamento com endócrino, como a gente já falou. Vamos falar agora das complicações. Ele tem uma anemia, ele já usou alfaepoetina previamente. Só que a alfaepoetina ela vence se você ficar seis meses sem usar. Ele ficou em novembro. Então tem novembro, dezembro, janeiro, fevereiro, março. Cinco meses. Até ele ir lá, vai vencer com certeza. Então eu vou reabrir o processo para alfaepoetina para ele, tá? Aí tem que levar esses exames que ele trouxe aqui pra solicitar um novo processo para pegar novamente a alfaepoetina, tá? Ele tem uma hiperfosfatemia também. Essa hiperfosfatemia é uma hiperfosfatemia persistente apesar de ter dieta orientada. Então a gente pode abrir processo relacionado a quelante. A gente vai usar quelante. Não vai usar quelante de fosfato de cálcio por causa da calcificação vascular documentada. A gente vai usar o quelante fóssil. Eu tenho que abrir processo também pra Sevelamer. Tá? É, outras complicações e aí sim está relacionada a progressão de doença. Deslipidemia. Ele está com a LDL acima do alvo. O alvo é 70. Ele tá com 90. Vou aumentar a rosuvastatina. É, que mais? A anemia a gente já falou. A hiperglicemia. Ele não, ele tem uma hiperglicemia mas é uma hiperglicemia assintomática. Então não indica tratamento. Assintomática. Não indica tratamento. E o bicarbonato dele tá de 25. Ele não tem acidose. Então a gente também tá resolvido. Beleza? O que que nós estamos querendo dizer aqui, meu amigo? Acidose ausente. Os exames do rim do senhor. Eles estão estáveis quanto à função do rim, mas as complicações, a gente está precisando ainda de colocar no eixo. A gente já começou o remédio para anemia. Teve que suspender esse remédio para anemia. Nós vamos ter que voltar com ele agora. O fósforo. A gente orientou a dieta do senhor. O fósforo vem melhorando mas a gente vai ter que ajudar com remédio. Essas coisas são normais nessa fase aqui para a gente poder ver, tá? Ele passou por apresentação de método também. Foi indicado. Foi optado por diálise peritoneal. A gente está aguardando a avaliação da diálise peritoneal. Eu vou fazer um laudo de encaminhamento para diálise peritoneal. Eu vou fazer a papelada toda aqui. Vou explicar para vocês direitinho o que que a gente vai fazer. Combinado? Beleza? Show? Dos remédios dele. Nós vamos manter os remédios dele do jeito que tá. Não vai mudar nada. Vai manter tudo do jeito que ele tá usando hoje. Tudo bem? Ele vai precisar de receita dos remédios?
-ACOMPANHANTE: Não, cara. Lá no meu pai [ininteligível] do mesmo jeito, a menina.
-MÉDICO: Não vai precisar não, né? Então eu vou fazer só a receita da farmácia cidadã mesmo. Tá? A gente bota aqui uma vez por semana, 4 mais 4 mais 4, incluir o Sevelamer que a gente vai colocar, é 800mg, a gente vai um comprimido junto com as refeições. [ininteligível] e jantar aqui vai dar 60 mais 60 mais 60 e via oral. [ininteligível]. Aqui a gente tem todas as nossas LME's. José Cláudio ainda não tá aqui. José Cláudio da Silva Moura. Qual o peso do senhor, José?
+MÉDICO: Beleza. Mantenho antihipertensivos. Em seguimento com a endocrinologia ajustada a insulina e melhora progressiva da hemoglobina glicada mas ainda não tá boa, tá? A gente precisa ainda melhorar, tudo bem? É, mantenho sem, sem, o iSGLT2 no momento. Vamos pras complicações. Ele tem uma anemia. É, uso prévio de Eprex. A hemoglobina agora dele tá de 9,6. Tá aqui no final. 9,69. 69 mais com IST solicito, faço solicitação mais [ininteligível] realizava duas vezes por semana. Vamo lá. O [ininteligível]  foi feito. Hiperfosfatemia. O fósforo dele era de... Agora o fósforo dele tá de 4.9, ele era um fósforo de 6.1, e antes ele era um fósforo de 6.2. Hiperfosfatemia. Fósforo de 6.2, ele ia para 6.1 foi para 4.9. Abertura de processo de Sevelamer. Calcificação vascular documentada em raixo-x, mãos e punhos. Vamos lá. LDL de 90. Está usando rosuvastatina. Estou colocando aqui para depois eu explicar para vocês, tá? Aqui tá normal. [ininteligível] É isso. [ininteligível] Vamos lá. Então é uma doença renal do diabetes que já tá acompanhamento com endócrino, como a gente já falou. Vamos falar agora das complicações. Ele tem uma anemia, ele já usou alfaepoetina previamente. Só que a alfaepoetina ela vence se você ficar seis meses sem usar. Ele ficou em novembro. Então tem novembro, dezembro, janeiro, fevereiro, março. Cinco meses. Até ele ir lá, vai vencer com certeza. Então eu vou reabrir o processo para alfaepoetina para ele, tá? Aí tem que levar esses exames que ele trouxe aqui pra solicitar um novo processo para pegar novamente a alfaepoetina, tá? Ele tem uma hiperfosfatemia também. Essa hiperfosfatemia é uma hiperfosfatemia persistente apesar de ter dieta orientada. Então a gente pode abrir processo relacionado a quelante. A gente vai usar quelante. Não vai usar quelante de fosfato de cálcio por causa da calcificação vascular documentada. A gente vai usar o quelante fóssil. Eu tenho que abrir processo também pra Sevelamer. Tá? É, outras complicações e aí sim está relacionada a progressão de doença. Deslipidemia. Ele está com a LDL acima do alvo. O alvo é 70. Tá com 90. Vou aumentar a rosuvastatina. É, que mais? A anemia a gente já falou. A hiperuricemia. Ele não, ele tem uma hiperuricemia mas é uma hiperuricemia assintomática. Então não indica tratamento. Assintomática. Não indica tratamento. E o bicarbonato dele tá de 25. Ele não tem acidose. Então a gente também tá resolvido. Beleza? O que que nós estamos querendo dizer aqui, meu amigo? Acidose ausente. Os exames do rim do senhor, eles estão estáveis quanto à função do rim, mas as complicações, a gente está precisando ainda de colocar no eixo. A gente já começou o remédio para anemia. Teve que suspender esse remédio para anemia. Nós vamos ter que voltar com ele agora. O fósforo. A gente orientou a dieta do senhor. O fósforo vem melhorando mas a gente vai ter que ajudar com remédio. Essas coisas são normais nessa fase aqui para a gente poder ver, tá? Ele passou por apresentação de método também. Foi indicado. Foi optado por diálise peritoneal. A gente está aguardando a avaliação da diálise peritoneal. Eu vou fazer um laudo de encaminhamento para diálise peritoneal, tá? Eu vou fazer a papelada toda aqui. Vou explicar para vocês direitinho o que que a gente vai fazer. Combinado? Beleza? Show? Dos remédios dele. Nós vamos manter os remédios dele do jeito que tá. Não vai mudar nada. É, vai manter tudo do jeito que ele tá usando hoje. Tudo bem? Ele vai precisar de receita dos remédios?
+ACOMPANHANTE: Não, cara. Lá no meu pai [ininteligível] do mesmo jeito, a menina
+MÉDICO: Não vai precisar não, né? Então eu vou fazer só a receita da farmácia cidadã mesmo. Tá? A gente bota aqui uma vez por semana, 4 mais 4 mais 4, incluir o Sevelamer que a gente vai colocar, é 800mg, a gente vai um comprimido junto com as refeições. [ininteligível] e jantar, aqui vai dar 60 mais 60 mais 60 e via oral. [ininteligível]. Aqui a gente tem todas as nossas LME's. José Cláudio ainda não tá aqui. José Cláudio da Silva Moura. Qual o peso do senhor, José?
 PACIENTE: Quando eu pesei, eu tô com 64,5 mais ou menos. Nessa faixa mesmo.
-MÉDICO: 64. Beleza. Show de bola. 444, doença renal, [ininteligível], tratamento conservador [ininteligível] 64 de ferro com ferritina maior do que 500. A ferritina alta que vai ajudar. Solicito retorno. Retorno de tratamento com a [ininteligível]. E quando você for pegar essas LME's, ela sai na recepção lá, tá? Como. [ininteligível]. Tá. E agora, a de Sevelamer, a gente tem que fazer ela diferente. Vai ser 60. E o CID é de osteodistrofia renal. Osteodistrofia renal. Paciente da sexta de 4 com hiperfosfatemia. Hiperfosfatemia persistente. E... Hiperfosfatemia persistente. Já no seguimento com o nutricionista. E com contraindicação. Apesar de [ininteligível] contraindicação. E... De... A base de cálcio. Ou... Por... calcificação vascular [ininteligível]. Beleza. A receita já tá pronta. Devolução que não tá aqui ainda. Os dois processos foram feitos, tá faltando só o termo de consentimento. Exame dele. PTH não precisa, esse remédio de ferro vai precisar. É um monte de papel que eu tenho que fazer, tá, Zé? Então, cara, desculpa a demora aí, mas está acabando. Tá?
+MÉDICO: 64. Beleza. Show de bola. 444, doença renal, [ininteligível], tratamento conservador [ininteligível] 64 de ferro com ferritina maior do que 500. A ferritina alta que vai ajudar. Solicito retorno. Retorno de tratamento com a alfaepoetina E quando você for pegar essas LME's, ela sai na recepção lá, tá? Como. [ininteligível]. Tá. E agora, a de Sevelamer, a gente tem que fazer ela diferente. Vai ser 60. E o CID é de osteodistrofia renal. Osteodistrofia renal. Paciente DRC estágio 4 com hiperfosfatemia. Hiperfosfatemia persistente. E... Hiperfosfatemia persistente. Já no seguimento com o nutricionista. E com contraindicação. Apesar de [ininteligível] contraindicação. E... De... A base de cálcio. Ou... Por... calcificação vascular [ininteligível]. Beleza. A receita já tá pronta. Devolução que não tá aqui ainda. Os dois processos foram feitos, tá faltando só o termo de consentimento. Exame dele. [ininteligível] não precisa, esse remédio de ferro vai precisar. É um monte de papel que eu tenho que fazer, tá, Zé? Então, cara, desculpa a demora aí, mas está acabando. Tá?
 PACIENTE: Tá.
 MÉDICO: Beleza? Aí eu vou, saindo esses papéis, eu vou te explicar tudo, tá? Pode ficar tranquilo. Vamos lá. Exame pedido, receita feita, falta só os termos de consentimento agora. Prevenir, farmácia cidadã. Termos farmácia cidadã. Termo da alfaepoetina. Já vou mandar logo para não ter dor de cabeça. [ininteligível] 2 e 3. E o termo da [ininteligível]. 3 e 4. Vocês pegam lá, por favor, pessoal? Eu posso finalizar aqui. Vamos lá. Isso aqui vai ficar comigo. Isso aqui você vai usar para pedir o exame, tá? O retorno do senhor vai ser em dois meses aqui comigo, tá? Eu estou pegando as receitas lá para poder te passar, tá bom? Se quiser guardar isso aqui. Deixa ela voltar com os papéis para a gente poder falar para vocês, tá? Fala.
 PESSOA_NÃO_RELACIONADA: não, deixa eu perguntar uma questão de fluxo, e no caso se a gente indicasse...
@@ -126,9 +131,9 @@ MÉDICO: O quê?
 PESSOA_NÃO_RELACIONADA: A questão de fluxo, mesmo. Se indicasse diálise pro paciente aqui no ambulatório. Aí, interna, faz diálise?
 MÉDICO:  Cara, então, depende, né? Tudo depende, né? Depende de qual é a condição do paciente no momento da sua avaliação. Se ele tiver em urgência, a gente vai tentar internar para tentar dialisar. Mas a ideia é que ele não interne.
 PESSOA_NÃO_RELACIONADA: Perfeito.
-MÉDICO:  A ideia é que ele tenha o acesso para solicitar a vaga via regulação e aí a gente faz contato com o paciente: ó, procurar a clínica tal, no dia tal, tal hora, tal. Entendeu? Sacou? Esse é o ideal. Entendeu? Se ele interna, cara, eu assumo meio que uma, eu gosto de assumir meio que uma responsabilidade, então eu vou atrás do Permcath e tudo. entendeu? Sacou? Apesar disso está mais difícil agora por conta da troca de residentes aí. Hoje é 23, graças a Deus. Sevelamer. 23. [ininteligível]. Os exames dele, você vai ter que levar junto com esse processo lá para a farmácia cidadã. Os exames antigos e os exames atuais. Beleza? Tá bom? Sempre levar tudo lá para abrir processo. Seguinte, vamos lá. Os exames dele para coletar para daqui a dois meses são esses aqui. Você pode já deixar marcadinho ali na frente. Tá? Aqui, ó. Beleza? Junto com esse aí. Tá bom? Esse aqui é o processo da farmácia cidadã. Ele já pegou um remédio lá chamado Alfaepoetina, que é aquela injeçãozinha. A gente vai voltar a pegar esse remédio, tá? Só que nós vamos pegar um outro remédio também. Que é um remédio de tomar agora. Que é para não ter acúmulo de fósforo no sangue, tá? É o Sevelamer, que é esse daqui. Tem que tomar um comprimido junto com o almoço e junto com o jantar. É junto com a alimentação mesmo, tá?
+MÉDICO:  A ideia é que ele tenha o acesso para solicitar a vaga via regulação e aí a gente faz contato com o paciente: ó, procurar a clínica tal, no dia tal, tal hora, tal. Entendeu? Sacou? Esse é o ideal. Entendeu? Se ele interna, cara, eu assumo meio que uma, eu gosto de assumir meio que uma responsabilidade, então eu vou atrás do Permcath e tudo. entendeu? Sacou? Apesar disso está mais difícil agora por conta da troca de residentes aí. Hoje é 23, graças a Deus. Sevelamer. 23. [ininteligível]. Os exames dele, você vai ter que levar junto com esse processo lá para a farmácia cidadã. Os exames antigos e os exames atuais. Beleza? Tá bom? Sempre levar tudo lá para abrir processo. Seguinte, vamos lá. Os exames dele para coletar para daqui a 2 meses são esses aqui. Você pode já deixar marcadinho ali na frente. Tá? Aqui, ó. Beleza? Junto com esse aí. Tá bom? Esse aqui é o processo da farmácia cidadã. Ele já pegou um remédio lá chamado Alfaepoetina, que é aquela injeçãozinha. A gente vai voltar a pegar esse remédio, tá? Só que nós vamos pegar um outro remédio também. Que é um remédio de tomar agora. Que é para não ter acúmulo de fósforo no sangue, tá? É o Sevelamer, que é esse daqui. Tem que tomar um comprimido junto com o almoço e junto com o jantar. É junto com a alimentação mesmo, tá?
 PACIENTE: Você toma e almoça.
-MÉDICO: Toma e almoça. Isso. Todo o processo tá aqui. Tá tudo bonitinho aqui. Vai ser tudo anexado aqui. Tá bom? Só vai faltar os exames que você vai levar no dia, tá? Aqui é a nossa evolução. E aqui são os laudos. Tanto da Alfaepoetina quanto do Sevelamer também vão anexados aqui. Isso tudo aqui vai dar entrada lá no processo. Tudo bem? Combinado? Beleza?
+MÉDICO: Toma e almoça. Isso. Todo o processo tá aqui. Tá tudo bonitinho aqui. Vai ser tudo anexado aqui. Tá bom? Só vai faltar os exames que você vai levar no dia, tá? Aqui é a nossa evolução. E aqui são os laudos, tanto da Alfaepoetina quanto do Sevelamer também vão anexados aqui. Isso tudo aqui vai dar entrada lá no processo. Tudo bem? Combinado? Beleza?
 ACOMPANHANTE:  Se eu conseguir dar entrada dessa vez, né.
 MÉDICO: Por quê?
 ACOMPANHANTE: Porque da outra não deu nada certo.
@@ -140,7 +145,7 @@ ACOMPANHANTE: ...comprando não. Eu estava comprando até...
 MÉDICO: A injeção?
 ACOMPANHANTE: Aham. Até o senhor suspender.
 MÉDICO: Ah é?
-ACOMPANHANTE: É. 
+ACOMPANHANTE: É. Fui lá um dia...
 MÉDICO: Mas está tudo certinho aí.
 ACOMPANHANTE: Fui lá um dia, faltava isso, faltava aquilo. Vim aqui e peguei tudo.
 MÉDICO: Tudo de bom, meu rei, vai com Deus, tá?
@@ -149,10 +154,10 @@ PESSOA_NÃO_RELACIONADA: Tchau. Obrigada.
 MÉDICO: Entendi. Tchau. Tchau, tchau pessoal. Até mais.
 PESSOA_NÃO_RELACIONADA: Obrigado.
 MÉDICO: José... Deixa eu ver se ele já têm... Deixa eu ver se esses pacientes já têm consulta marcada ali. José Claudio. Dúvidas? Vocês? Alguma?
-PESSOA_NÃO_RELACIONADA: Não.
+PESSOA_NÃO_RELACIONADA: Nenhuma.
 PESSOA_NÃO_RELACIONADA: Só uma, na verdade, é, o paciente com DM1 pode usar o inibidor de iSTM2?
 MÉDICO: Não. Não.
 PESSOA_NÃO_RELACIONADA: Não.
-MÉDICO: Não foi estudado, na verdade. Entendeu? Oi, Gi, beleza? Gi, você consegue dar uma olhada se esse paciente foi encaminhado para avaliação da diálise peritoneal, por favor? Está pendente aqui. Você chega para mim? Obrigado.
+MÉDICO: Não foi estudado, na verdade. Entendeu? Oi, Gi, beleza? Gi, você consegue dar uma olhada se esse paciente foi encaminhado para avaliação da diálise peritoneal, por favor? Está pendente aqui. Você checa para mim? Obrigado.
 PESSOA_NÃO_RELACIONADA: Ô, professor. Já estou de volta.
 MÉDICO: Valeu, valeu, valeu. Falou. Acabou. Obrigado. Obrigado.
