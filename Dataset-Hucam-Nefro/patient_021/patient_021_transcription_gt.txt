@@ -1,0 +1,330 @@
+MÉDICO: Vamos lá então. Terezinha, deixa eu só confirmar algumas informações com você tá bom? Tá com 77 anos?
+PACIENTE: Quanto?
+MÉDICO: Quantos anos a senhora está?
+PACIENTE: 78
+MÉDICO: 78 anos, né? Joia. Você é lá de Nova Venecia, né? Mora em Vitória agora.
+PACIENTE: MOro em Vitória.
+MÉDICO: Tá joia. Você acompanha aqui por conta de uma doença renal crônica, né?Que você já tem há um tempo.
+PACIENTE: Já tem há um tempo.
+MÉDICO: Correto? Que você teve por conta do diabetes.
+PACIENTE: Isso.
+MÉDICO: Não foi isso? E aí começou aqui no Prevenir, no ambulatório Prevenir em maio de 2011. Foi isso? Ou já nem lembra mais?
+PACIENTE: Não lembro mais não.
+MÉDICO: Mas já tem um tempo então, né?
+PACIENTE: Já tem um tempo.
+MÉDICO: Tá certo. Tem pressão alta, não é?
+PACIENTE: Isso.
+MÉDICO: Toma remédio pra pressão alta, pro diabetes e pra tireoide, não é?
+PACIENTE: Tireoide.
+MÉDICO: Colesterol, você consegue confirmar pra mim? Se você tá tomando, quais remédios você tá tomando? Sei que são muitos, né?
+PACIENTE: Eu tô sem receita.
+MÉDICO: Sem a receita? Mas você sabe de cabeça?
+PACIENTE: Eu tenho a receita.
+MÉDICO: Tem?
+PACIENTE: Eu vou dar a receita, porque pra mim falar assim.
+MÉDICO: É, é muito remédio mesmo.
+PACIENTE: Muito remédio.
+MÉDICO: Você costuma vir nas consultas de três em três meses?
+PACIENTE: É, sempre passa, né?
+MÉDICO: Sempre passa um pouquinho, né?
+PACIENTE: É, porque...
+MÉDICO: Com licença. Tá tomando todos esses, né?
+PACIENTE: Todos esses.
+MÉDICO: Tá tomando esse metoprolol ainda? Ou você substituiu por esse propranolol? Tá tomando os dois?
+PACIENTE: Os dois.
+MÉDICO: Tá tomando os dois?
+PACIENTE: Aham.
+MÉDICO: Então, o prorolol de 50. Você toma duas vezes ao dia, né?
+PACIENTE: Duas vezes ao dia.
+MÉDICO: Sinvastatina, né? Tá tomando Você toma de 40... De noite, não é? Sinvastatina, para o colesterol?
+PACIENTE: É.
+MÉDICO: Hidrocloro de 25 pela manhã. Losartana. Levotiroxina. Insulina toma certinho, né?
+PACIENTE: Certinho.
+MÉDICO: NPH e regular 24 unidades, né? De manhã, no almoço e antes do jantar. Joia. Regular...
+PACIENTE: 6
+MÉDICO: Tá tomando 6? Era mais, reduziu?
+PACIENTE: Me passaram. Aumentaram a minha consulta agora, doutor Adilson, para 6.
+MÉDICO: Ah, sua consulta com a Dilson, é verdade, vi aqui. Agora tá tomando 6, 6, 6.
+PACIENTE: Isso.
+MÉDICO: Entendi. Dapagliflozina. E a hidralazina. Metformina não tá aqui, né? Mas você toma metformina também.
+PACIENTE: Não.
+MÉDICO: É pro diabetes.
+PACIENTE: Toma não.
+MÉDICO: Não toma mais. Suspendeu?
+PACIENTE: Doutor Adilson suspendeu.
+MÉDICO: Sabe por que ele suspendeu? Não tava precisando mais?
+PACIENTE: Não tava precisando.
+MÉDICO: Não tava?
+PACIENTE: Não.
+MÉDICO: Flunarizina tá tomando ainda? Flunarizina pra tontura?
+PACIENTE: Eu tomo Vertic.
+MÉDICO: Vertic?
+PACIENTE: Eu tenho os exames que eu peguei hoje.
+MÉDICO: Ah, Vertix é a Flunarizina, é a mesma coisa. E colírio para o olho você usa também, né? Então tá joia. Tem algum exame de imagem que você tenha feito?
+PACIENTE: Tem.
+MÉDICO: Foi só o de sangue? Fez de imagem também? Algum ultrassom?
+PACIENTE: Não. Só exame de sangue e urina.
+MÉDICO: Chegou a ir no neurologista por conta dos tremores que estava tendo?
+PACIENTE: Olha.
+MÉDICO: Não chegou a ir.
+PACIENTE: Eles falam. Eu não sei. Eu não tremo assim. Eu acho que é um mau costume que eu tenho. É impossível.
+MÉDICO: Ah, entendi. Se você for fazer alguma coisa com a mão. Lavar a louça, fazer, escrever, não treme?
+PACIENTE: Não.
+MÉDICO: Se você ficar sem prestar atenção em repouso.
+PACIENTE: Ainda mais se eu estiver conversando, aí eu dou.
+MÉDICO: Entendi. Não atrapalha muito então fazer as coisas do tremor.
+PACIENTE: Não.
+MÉDICO: Só aparece quando... Entendi.
+PACIENTE: Nada. Nem para dormir, nada.
+MÉDICO: Faz o acompanhamento com o nutricionista?
+PACIENTE: Eu tinha que estar fazendo, mas tem muito tempo que eu não vou.
+MÉDICO: E o acompanhamento com o oftalmologista tem feito certinho?
+PACIENTE: Sim.
+MÉDICO: Por conta do glaucoma?
+PACIENTE: Sim.
+MÉDICO: A cirurgia para a catarata não fez?
+PACIENTE: Não, não fiz.
+MÉDICO: E com o endócrino? Acompanha também com Adilson, né? Esse tem ido certinho em todas as consultas?
+PACIENTE: Tem. Sempre.
+MÉDICO: Joia. Os exames que você disse que a senhora fez foi aqui no hospital mesmo? Aqui no HUCAM?
+PACIENTE: Foi. Peguei hoje.
+MÉDICO: Pegou hoje?
+PACIENTE: Sim.
+MÉDICO: Tem impresso? Está bem. Facilita para mim. Licença. Obrigado. Tudo do dia 21 do 2, né? De fevereiro agora. Vou só anotar tudo? E aí eu faço seu exame físico, tá? Você falou que não tem acompanhado mais tanto com a nutricionista, né? Mas você faz dieta certinho?
+PACIENTE: Sim, faço.
+MÉDICO: A senhora mora sozinha ou mora com...
+PACIENTE: Moro com minha filha e ele.
+MÉDICO: Uma filha.
+PACIENTE: E três netos.
+MÉDICO: A comida da senhora é a mesma comida de todo mundo?
+PACIENTE: É, mas a comida dela também não pode. Com sal não pode.
+MÉDICO: Entendi.
+PACIENTE: Comida de viver sem gordura, sem sal. Tá muito alto, os exames?
+MÉDICO: O colesterol está um pouquinho alto, glicose também.
+PACIENTE: A glicose aumentou um pouquinho.
+MÉDICO: É.
+PACIENTE: E os rins?
+MÉDICO: Os rins. Eu tenho que dar uma olhadinha Nas suas exame prévios para eu saber como estava antes. Mas a creatina diminuiu um pouco A uréia um pouquinho alta. Mas já estava antes. Então teve uma redução. Ela está um pouquinho alta.  Mas reduziu em comparação ao anterior. Vou até dar uma olhadinha nisso agora. Tá com alguma queixa hoje?
+PACIENTE: Não.
+MÉDICO: Da última consulta apareceu alguma coisa que queira contar? Teve efeito adverso de alguma medicação que você está tomando? Sentiu alguma coisa?
+PACIENTE: Não.
+MÉDICO: Nada? Tudo certo?
+PACIENTE: Só uma coisa que eu queria.
+MÉDICO: Pode falar.
+PACIENTE: Um encaminhamento, se pudesse me dar, um médico de pele, porque eu estou com as... As pentes saem assim,
+MÉDICO: O que que é?
+PACIENTE: Não é machucado não.
+MÉDICO: Deixa eu dar uma olhada.
+PACIENTE: Sai assim.
+MÉDICO: Fica seco, você diz assim?
+PACIENTE: Seco.
+MÉDICO: Aonde? Aqui ou ali?
+PACIENTE: Sempre sai assim. [ININTELIGÍVEL] aqui, saiu.
+MÉDICO: Fica vermelho, a pele volta?
+PACIENTE: Não.
+MÉDICO: Não fica não?
+PACIENTE: Não.
+MÉDICO: Tem umas manchinhas vermelhas.
+PACIENTE: Não sei.
+MÉDICO: E essa casquinha branca?
+PACIENTE: Essa casquinha branca.
+MÉDICO: Isso que te incomoda mais, e é só no rosto?
+PACIENTE: Só no rosto. E nesses negócios não? Não, isso aí, eu quero ir também, preciso dar um remédio para tirar essas manchas, que tira, né?
+MÉDICO: Essas manchinhas escuras?
+PACIENTE: É. Eu [ININTELIGÍVEL] também.
+MÉDICO: Parece ser a ceratose seborreica, da velhice, né?
+PACIENTE: Da velhice. Ah, eu não sei o que que é isso aqui, ele clareia, escurece, mas é uma coisa a tôa aqui. 
+MÉDICO: E coça?
+PACIENTE: Não.
+MÉDICO: Não?
+PACIENTE: Não.
+MÉDICO: Mas muda de cor. Ela fica vermelha, depois... 
+PACIENTE: Não, não, nada. Sempre some, aí quando eu tomo o remédio assim que coisa a pele, ela clareia.
+MÉDICO: Entendi.
+PACIENTE: Mas esses negócios aqui tem que... Ela fica observando, né?
+MÉDICO: É.
+PACIENTE: É porque a minha patroa tá fazendo tratamento de câncer. Dá essas manchas aí tambem.
+MÉDICO: Essas mesmas manchas?
+PACIENTE: Essas mesmas manchas.
+MÉDICO: Normalmente o câncer de pele ou é uma manchinha bem escura, que apareceu e tá crescendo, ou é um nódulozinho, ou é um desses secos assim, esse aí não parece ser.
+PACIENTE: E avermelhado?
+MÉDICO: Avermelhado? Avermelhado não parece. Não, não parece ser.
+PACIENTE: Isso aqui era grande, aí eu fui usando, assim que eu tomava pra limpar a pele, limpou mais. Aí agora tá voltando, uns pouquinho e voltando de novo. Aí eu pedi um encaminhamento pra dédico de pele, aqui acho que tem, né?
+MÉDICO: A gente consegue fazer o encaminhamento. Vou até anotar aqui. Eu faço.
+PACIENTE: Você não consegue me dar o remédio disso não?
+MÉDICO: Pra você? Pra você eu não sei, por que teria que abrir um outro...
+PACIENTE: Eu só queria fazer um tratamento aqui de...
+MÉDICO: Você acompanha aqui por algum outro... Especialidade?
+PACIENTE: Por muitos anos.
+MÉDICO: Eu tenho que ver com um doutor isso.
+PACIENTE: Precisando da ajuda de alguém aqui de dentro.
+MÉDICO: Você acompanha, faz medição da pressão em casa, não faz?
+PACIENTE: Faço.
+MÉDICO: Você registra tudo, anota tudo?
+PACIENTE: Não trouxe, não. 
+MÉDICO: Não trouxe?
+PACIENTE: Não trouxe.
+MÉDICO: A glicemia mede também em casa?
+PACIENTE: Meço.
+MÉDICO: Mede, mas também não trouxe? Não tá com você ai.
+PACIENTE: Não trouxe.
+MÉDICO: Lembrar de trazer. Acho que na última consulta você também não tinha trazido para a gente ver.
+PACIENTE: Eu tenho que pegar a folha para mim. Aí eu vou medir na folha de caderno mesmo. [ININTELIGÍVEL]
+MÉDICO: Os tremores que você disse são só nas mãos?
+PACIENTE: É.
+MÉDICO: Não tem nas pernas, não? Só nas mãos?
+PACIENTE: Não.
+MÉDICO: Nas duas mãos?
+PACIENTE: Mas é em uma só.
+MÉDICO: É mais na direita?
+PACIENTE: É. Quando eu estou assim, distraída, assim, aí eu fico assim, ou eu estou conversando. Aí isso fala, não sei...
+MÉDICO: E tem quanto tempo que começou, você lembra?
+PACIENTE: Não lembro. Mas já tem bastante tempo.
+MÉDICO: Tem mais de um ano?
+PACIENTE: Eu faço isso tem muito tempo já. Muitos anos.
+MÉDICO: Muitos anos.
+PACIENTE: Muito tempo, mas eu não... Eu posso estar normal, igual eu trabalhando no restaurante da UFES mesmo. Aí, quando eu ficava... Eu era saladeira. Quando faltava salada, aí eu ficava nervosa, dando tremido, nervosa. Mas, tirando disso, não sou.
+MÉDICO: Sempre foi assim, então?
+PACIENTE: É, sempre assim. Tem muitos anos que eu estou só desse jeito, assim, normal, assim. Ai, doutora, deu uma olha, com esse frio aqui. Está muito frio.
+MÉDICO: Está muito frio? Daqui a pouco eu vou lá e... Eu pego o controle, tá? Essas manchinhas na pele que você falou que apareceu, tem quanto tempo?
+PACIENTE: Nossa, tem ...
+MÉDICO: Mais de ano também?
+PACIENTE: Mais de ano, nossa. Eles já tem uns 4, 5 anos já. Não aumenta não, só assim.
+MÉDICO: E elas não coçam, né?
+PACIENTE: Não coçam. Essas aí costumam coçar um pouco.
+MÉDICO: Essa aí de cima?
+PACIENTE: É, a testa assim eu coço.
+MÉDICO: E muda a sensibilidade? Você sente menos nessa parte da pele do que no resto do corpo ou é normal?
+PACIENTE: Não, só aqui mesmo?
+MÉDICO: Não, sim, mas nesse lugar que tem essa manchinha aí, você sente menos nessa parte da pele ou é normal?
+PACIENTE: Não, sinto assim.
+MÉDICO: Você sente normal?
+PACIENTE: Normal.
+MÉDICO: Pegou muito sol durante a vida? 
+PACIENTE: Não..
+MÉDICO: Vive dentro de casa mais, né?
+PACIENTE: Sempre trabalhei na sombra.
+MÉDICO: Já passou alguma coisa no rosto que você começou a usar recentemente?
+PACIENTE: Não, não passei nada para bater com isso, não.
+MÉDICO: Um creme novo que começou a usar? Nada disso?
+PACIENTE: Não, creme de perfumes, as coisas, sempre eu passo.
+MÉDICO: Mas é o mesmo desde sempre? Ou começou a usar algum diferente recentemente?
+PACIENTE: Não, não.
+MÉDICO: Que possa ter causado isso? Não percebeu nenhuma relação nesse sentido, não?
+PACIENTE: Não. 
+MÉDICO: As pernas incham, como é que é?
+PACIENTE: Difícil inchar. 
+MÉDICO: Difícil inchar? Fica muito cansada para fazer as coisas do dia a dia? Subir escada?
+PACIENTE: Eu canso por causa da dor dos joelhos.
+MÉDICO: Ah, os joelhos estão ardendo.
+PACIENTE: Se não fosse isso. É porque eu fui em Santa Teresa, aí acho que a perna estava pendurada, aí quando eu voltei ela estava meio inchada.
+MÉDICO: Um dedinho aqui. Vamos medir a pressão?
+PACIENTE: Eu tô aqui pensando Minha pressão hoje está meio alta. Porque ontem eu comi uma taioba meio salgada.
+MÉDICO: Vamos ver. Chega um pouquinho mais pra cá. Afastar a cadeira um pouquinho mais pra cá. Pra perto. Isso, encostar o braço aqui Tá pequeno pro seu braço... Normalmente é alta a sua pressão?
+PACIENTE: Não.
+MÉDICO: Normalmente é baixa?
+PACIENTE: Não, baixa não. Ela é 13, 14, 15.
+MÉDICO: Ah, tá.
+PACIENTE: Ainda mais não, porque eu comi um negócio meio salgado. O resto estava sem sal, mas...
+MÉDICO: Tá joia então. Vou lá chamar o doutor, que aí ele passa o caso também. Tá? Só um minutinho, tá?
+MÉDICO: Vamos lá, então. Essa é a Terezinha, ela tem 78 anos, é lá de Nova Venecia, mas mora em Vitória.
+MÉDICO_SUPERVISOR: Terra boa, hein? Você sabia que o meu primeiro plantão em Vitória, de médico, foi lá em Nova Venecia?
+PACIENTE: É.
+MÉDICO_SUPERVISOR: Hospital São Marcos.
+PACIENTE: É, tem muitos anos.
+MÉDICO_SUPERVISOR: Ah, você mora aqui já, né?
+PACIENTE: Moro aqui.
+MÉDICO: Mora em Vitória.
+MÉDICO_SUPERVISOR: Ah, tá. Hospital São Marcos. Nunca teve um plantão tão ruim na minha vida. Deus que me livre. Fiz parto. Coração parado. Acidente morto. Deus do meu Deus. Vai, vamos lá.
+MÉDICO: Ela acompanha aqui por conta de uma doença renal crônica, estágio 3B A3. Aqui tem uma taxa de filtração, mas acho que atualizaram e não mudaram aqui, né? Esse 3B seria já 4, né?
+MÉDICO_SUPERVISOR: Pode atualizar.
+MÉDICO: É porque eu fiz... com os exames de hoje, ficou 31.
+MÉDICO_SUPERVISOR: Então, continua 3.
+MÉDICO: Então, continua 3. É só muda o 31 aqui em cima.
+MÉDICO_SUPERVISOR: Você vai mudar o 31, entendeu?
+MÉDICO: Tem a minha data de hoje aqui.
+MÉDICO_SUPERVISOR: Pode tirar isso aí. Essa data aí.
+MÉDICO: Não é importante.
+MÉDICO_SUPERVISOR: Cara, então, você tem que entender o seguinte, você não precisa ficar preso ao clearance, se é 31, se é 27, se é 29, cara, isso não interessa, o que interessa é o estágio de acordo com o risco de progressão, entendeu? Às vezes eu coloco 3B barra 4, eu estou com um clearance de 30, entendeu?
+MÉDICO: Muito limítrofe.
+MÉDICO_SUPERVISOR: Muito, é, toca o barco, entendeu?
+MÉDICO: Tá. Mas por conta de uma doença de diabetes, começou aqui em 2011, clearance de admissão de 36. De complicações de RT, não tem nenhuma, nem anemia, nem hiperfosfatemia, RT é bom [ININTELIGÍVEL]
+MÉDICO_SUPERVISOR: Pedir novas sorologias, tá?
+MÉDICO: Pedir novas, né? Isso aqui eu marquei só porque eu não entendi o que...
+MÉDICO_SUPERVISOR: Transplante PREEMPTIVO. É o transplante que a gente indica para pacientes que não fizeram a modiálise ainda. Então, pacientes com clearance menor do que 10 ou pacientes diabéticos com clearance menor do que 15, tem indicação de serem encaminhados para transplante PREEMPTIVO. Entendeu?
+MÉDICO: Beleza. De comorbidade, então, tem hipertensão, diabetes, hipotireoidismo, epidemia e obesidade. Então, tudo isso aqui de medicamentos. Na última consulta tinha sido, inclusive, suspensa a metformina porque o clearance abaixou. Mas agora está 31. Estava 27 antes, né?
+MÉDICO_SUPERVISOR: Tá, beleza. Deixa eu só ler de novo as medicações. Sinva 40, hidralazina de 12,12, puran, losartana de 12,12,  hidrocloro, Propranolol,  metoprolol, 50 de 12,12, insulina mais regular, vitamina D, flunarizina, dapaglifosina.
+MÉDICO: Esses são da oftalmo.
+MÉDICO_SUPERVISOR: Meu anjo, a endócrino, a senhora acompanha onde?
+MÉDICO: Acompanha aqui com Adilson, né?
+PACIENTE: É aqui mesmo.
+MÉDICO_SUPERVISOR: É aqui mesmo, né? Tá bom. Vai, toca o barco.
+MÉDICO: De exame físico.
+MÉDICO_SUPERVISOR: Peso mantido.
+MÉDICO: É, só.
+MÉDICO_SUPERVISOR: Pressão de 160 por 80.
+MÉDICO: Já estava alto na última consulta também. A única coisa que ela tem de queixa são umas manchas na pele que aparecem aqui no rosto. Mas...
+MÉDICO_SUPERVISOR: São marcas da idade.
+MÉDICO: É. Ela queria até um encaminhamento para a dermatologia.
+PACIENTE: É, algumas pintas que tem aqui...
+MÉDICO_SUPERVISOR: Tem aqui no posto de saúde pra poder ver isso aí. Tá?
+PACIENTE: Ah, é?
+MÉDICO_SUPERVISOR: É, tá bom? Vamos aos exames, meu amigo.
+MÉDICO: Exames de agora.
+MÉDICO_SUPERVISOR: Colesterol total de 154. Com HDL e LDL de 80. Que está próximo do nosso limite, que é 70. É... O cálcio total de 9.7. Albumina de 4.3. Creatina de 1.67?
+MÉDICO: Aham.
+MÉDICO_SUPERVISOR: Bom demais. Sódio, potássio, cloro, fósforo no limite superior, que é 4,5, triglicerídeo um pouco acima do alto, 168. Uma glicose com hemoglobina glicada de 8,5, que não está dentro do nosso alvo aí.
+MÉDICO: Já foi menor também.
+MÉDICO_SUPERVISOR: BIC 21, HB de 12,2, vitamina D de 31 e um EAS com uma glicosúria importante. Certo?
+MÉDICO: Aham.
+MÉDICO_SUPERVISOR: Então vamos lá. Do ponto de vista de pressão, a gente pode dar uma regulada nessa pressão dela, concorda? Do ponto de vista de progressão?
+PACIENTE: Eu acho, doutor, que eu ontem comi uma taiaobinha meia puxada.
+MÉDICO_SUPERVISOR: Meia puxada, né? A taiaoba, né? Sobe lá nos remédios dela lá.
+MÉDICO: Ela usa hidralazina, 50 de 12 em 12, dose baixa. Losartan já está na dose máxima.
+MÉDICO_SUPERVISOR: O que a gente pode fazer, cara, é associar uma anlodipino à noite.
+MÉDICO: A noite.
+MÉDICO_SUPERVISOR: 5 miligramas, exatamente. Vamos fazer isso?
+PACIENTE: Anlodipina?
+MÉDICO_SUPERVISOR: É. Você já tomou?
+PACIENTE: Tem uma. Eu não sei se a anlodipina, que me dá uma tosse, uma tosse.
+MÉDICO_SUPERVISOR: Não, não é esse não. Não é esse não.
+PACIENTE: Não?
+MÉDICO_SUPERVISOR: Não. 5 miligramas à noite. Isso. Aí o diabetes, a senhora vai voltar quando no doutor Adilson?
+PACIENTE: Olha, não está marcado ainda não. Não tem vaga agora não.
+MÉDICO_SUPERVISOR: Tá.
+PACIENTE: Eu tive nele esse mês passado agora.
+MÉDICO_SUPERVISOR: E ele... Ah é?
+PACIENTE: Uhum.
+MÉDICO_SUPERVISOR: E ele aumentou? Ele diminuiu a insulina? O que ele fez?
+PACIENTE: Não, ele... Ele não aumentou não. Ficou normal.
+MÉDICO_SUPERVISOR: Coloca aqui. Assim, quando o cara... Eu deixo sempre o segmento conjunto com a endócrina. Porque quando assim, quando ele está... É acompanhamento. Eu vou meter a mão na insulina do cara? Entendeu? Tipo assim, aí bota o segmento conjunto, não está dentro do alvo. O alvo óculos aumentou de 6,5 a 8, né? De segmento, de objetivo, né? De hemoglobina glicada. Mas eu não vou mexer nessa glicose dela agora não. Tá?
+MÉDICO: Tá. Só na pressão, então?
+MÉDICO_SUPERVISOR: Só na pressão, beleza? E agora vamos falar das complicações, então. Tá? Das complicações, ela tem uma hemoglobina de anemia 12.2. Então, você pode colocar aqui uma anemia ausente. Beleza? Aí você pode botar assim, uma LDL de 85. Ela... 80, não?
+MÉDICO: 85. 
+MÉDICO_SUPERVISOR: Onde? 
+MÉDICO: LDL de 80. 
+MÉDICO_SUPERVISOR: 80, 80. Você lembra o que ela usa?
+MÉDICO: Sinvastatina, não é?
+MÉDICO_SUPERVISOR: Sinvastatina de 20 ou 40?
+MÉDICO: De 40.
+MÉDICO_SUPERVISOR: De 40 já? Vamos manter. Vamos manter por enquanto, tá? Coloca assim, é... Anemia ausente aí embaixo, né? Dislipidemia com LDL de 80. E o sinvastatina, 40 miligramas. Mantenho. Oriento dieta. Tem tempo que a senhora... A senhora já passou pela consulta com a nutricionista?
+MÉDICO: Ela perdeu o segmento.
+PACIENTE: Não, não tenho ido mais, não.
+MÉDICO_SUPERVISOR: Tá, coloca aqui. Encaminha para a nutricionista.
+PACIENTE: Sabe porquê? A minha neta, ela... Por isso que eu estou indo, ela está me dando orientação.
+MÉDICO_SUPERVISOR: Não serve, não.
+PACIENTE: Serve, não?
+MÉDICO_SUPERVISOR: Serve, não. Sabe por quê? Porque ela pega leve com a senhora. Tem que pegar pesado com a senhora. Entendeu?
+PACIENTE: Ai, meu Deus.
+MÉDICO_SUPERVISOR: É. Aí coloca aqui, eu vou encaminhar ela para a nutricionista. Tá?
+MÉDICO: Aham.
+MÉDICO_SUPERVISOR: Que mais? Fósforo no limite superior, mas ainda sem precisar atuar. Beleza? Sem anemia e o restante tudo certo. Beleza? Vitamina D. Ela está repondo vitamina D, não?
+PACIENTE: Eu estou parada com a vitamina D.
+MÉDICO: Parou também?
+MÉDICO_SUPERVISOR: Vamos segurar, porque está acima de 30, a gente segura. Depois a gente vai. E bicarbonato, porque ela está com bicarbonato de 21, a gente pode começar a repor uma colher de chá de bicarbonato por dia. Reposição de bicarbonato, uma colher de chá por dia. Aí na precessão você vai colocar bicarbonato sódio, uma colher de chá, diluir no copo d'água e beber uma vez por dia. Beleza?
+MÉDICO: Beleza.
+MÉDICO_SUPERVISOR: Tchau, meu amor. Tchau. Um beijo, gata. 
+MÉDICO: Fazer atividade física para o senhora é difícil, né?  Por conta do joelho.
+PACIENTE: É difícil. É difícil. 
+MÉDICO: Então não faz. Acaba não fazendo nada, né?
+PACIENTE: Não dá. Está difícil. Até para andar quase. 

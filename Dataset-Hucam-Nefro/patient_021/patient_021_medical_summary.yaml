@@ -1,0 +1,366 @@
+relatorio_consulta_ambulatorial_nefrologia:
+  identificacao_paciente:
+    sexo: Feminino
+    idade: 78 anos
+    naturalidade: NOVA VENECIA
+    residencia: VITÓRIA
+    acompanhado_por: Filha
+  subjetivo:
+    - Paciente acompanhada da irmã, vem em consulta de rotina. Não traz consigo controle glicêmico e pressórico.
+    - Mantém tremores finos em mão direita, não sabe informar o início, porém quando questionada sobre ou realiza alguma atividade (ex escrever), cessa os tremores.
+    - Refere manchas eritematosas e descamativas na pele, predominantemente em rosto, de início há 5 anos, não associada a prurido ou a perda de sensibilidade.
+  hipoteses_diagnosticas:
+    estagio_drc:
+      grau: 3b
+      albuminuria: A3
+      funcao_rim_atual: 31 ml/min/1.73m² (eGFR CKD-EPI)
+    etiologia_doença_de_base: Doença Renal do Diabetes
+    admissao:
+      data: MAIO/11
+      CLCR_admissao: 36 ml/min
+  historico_patologico_pregresso:
+    comorbidades:
+      - HAS
+      - DM
+      - Hipotireoidismo (Secundária a lobectomia direita por nódulo tireoidiano - SIC)
+      - Dislipidemia (Alto risco cardiovascular - meta LDL < 70)
+      - Obesidade Grau II
+    medicamentos_suspensos:
+      - Metformina 500mg, 2x/dia (pois CLCR < 30)
+    vacinacao: 3 doses para HEP B.
+    serologias_virais:
+      05/04/214:
+        anti_hbs: 6.23
+        hbsag: NR
+        anti_hbc: NR
+        anti_hiv: NR
+        anti_hcv: NR
+    preparo_para_terapia_substituicao_renal:
+      apresentacao_metodo_dialitico: Não
+      metodo_escolhido: Não se aplica
+      acesso: Não se aplica
+      tx_preemptivo_clcr_menor_10: Não se aplica
+  medicamentos_em_uso:
+    - Hidroclorotiazida 25mg/dia
+    - Propranolol 40mg 12/12 horas
+    - Metoprolol 50mg 2x/dia
+    - Insulina NPH 24-24-24 UI
+    - Insulina Regular 6-6-6 UI
+    - Vitamina D 50.000 UI/1 meses
+    - Flunarizina 10mg 12/12h
+    - Forxiga 10mg 1x dia
+    - Glamigam MT ao
+    - Dorzolamida 12/12 h
+    - Sinvastatina 40 mg - 1x/dia
+    - Hidralazina 50 mg - 12/12 horas
+    - Puran T4 50 mcg, 1x/dia
+    - Losartana 50mg 2x/dia
+    - Anlodipino 5mg à noite (Início)
+    - Reposição de BIC, 1 colher de chá por dia (Início)
+  exame_fisico:
+    peso:
+      '08/05': 88.5 kg
+      '14/09/23': 91.75 kg
+      '20/03/2025': 91.65 kg
+    geral: Bom estado geral, normocorada, hidratada, anictérica, acionótica, afebril.
+    neuro: Vigil, lúcida e orientada em tempo e espaço, GCS 15, PIFR, sem déficits focais aparentes.
+    acv_resp: 2T, BNF. S/ sopros, PA 160x 80 mmHg, FC 55 bpm. Exame fisiológico bilateral sem RA, eupneica, SAT 02 98%
+    abdomen: Globoso as custas de panículo adiposo, flácido, indolor.
+    mmii: Sem edemas, panturrilhas flácidas.
+  exames_complementares:
+    ecott_27/07/22: FEVE 73%, Insuficiência valvar tricuspide discreta, insuficiência valvar mitral discreta, intermediária probabilidade de hipertensão pulmonar.
+    us_rins_vias_urinarias_05/09/23: Rim direito com aumento difuso da ecogenicidade, sem sinais de lesão expansiva. Complexo coletor sem sinais de litiar, medindo 10,1. Rim esquerdo com aumento difuso da ecogenicidade, sem outras alterações, medindo 10,4. Impressa: Rins com sinais de nefropatia crônica.
+    us_abdominal_com_doppler: Ausência de estenoses em artérias renais, aumento do índice de resistência em arterias interlobares de rins bilateralmente, indicando nefropatia parenquimatosa.
+  exames_laboratoriais:
+    '23/12/20':
+      HB: 11.8
+      HCT: 162
+      HD: 46
+      LDL: 78
+      TG: 192
+      HBA1C: 7.6%
+      GLIC: 157.2
+      UR: 52.7
+      CR: 1.65
+      TGO: 28.3
+      TGP: 23.1
+      GGT: 63
+      NA: 137
+      K: 4.7
+      CAI: 9.5
+      P: 3.6
+      AU: 8.9
+      FERRITINA: 80.1
+      TSH: 4.38
+      VITB12: 336
+      VITD: 18.9
+    '27/01/21':
+      HB: 11.9
+      LEUCO: 10200
+      PLAQ: 412000
+      CI: 167
+      HDL: 46
+      LDL: 91
+      TG: 154
+      UR: 56.8
+      CR: 1.48
+      TGO: 21.7
+      TGP: 15.5
+      HBA1C: 7.1%
+      GLIC: 117.7
+      CPK: 214
+      TSH: 3.74
+      K: 4.8
+      AU: 7.2
+      VITB12: 381
+      VITD: 29.3
+      MICROALB: 22.06
+    '14/01/22':
+      HB: 11.8
+      LEUCO: 9800
+      PLAQ: 366000
+      HBA1C: 7.2%
+      GLIC: 135.8
+      CT: 158
+      HDL: 43
+      LDL: 79
+      TG: 184
+      UR: 48.8
+      CR: 1.95
+      TGO: 23.5
+      TGP: 21.8
+      AU: 7.4
+      CPK: 216
+    '12/05/22':
+      CT: 185
+      HDL: 46
+      LDL: 106
+      TG: 166
+      HBA1C: 8.1%
+      GLIC: 165.6
+      CR: 1.49
+      TGO: 31.5
+      TGP: 29.0
+      CPK: 258
+      TSH: 5.5
+      T4L: 0.96
+      T3 TOTAL: 0.91
+    '01/09/22':
+      ÁCIDO ÚRICO: 6.46
+      SAÍ + TRANSFERRINA: 18%
+      FERRITINA: 33.2
+      MICROALBUMINÚRIA 24 HORAS: 338.05 mg/24 horas
+      PROTEINÚRIA 24 HORAS: 538 mg/24 H
+      EM: 1010 ML
+      TGO: 25
+      TGP: 28
+      CPK: 228
+      SÓDIO: 132
+      POTÁSSIO: 3.6
+      MG: 2.4
+      CÁLCIO TOTAL: 10.2
+      ALBUMINA: 4.4
+      FÓSFORO: 4.8
+      FA: 524
+      CREAT: 1.56
+      UREIA: 66
+      COLESTEROL TOTAL: 136
+      HDL: 47
+      LDL: 61.6
+      TRIGLICERIDEOS: 187
+      GLICOSE: 179
+      HBA1C: 8.7%
+      HB: 12.5
+      LEUCO: 12250
+      PLAQUETAS: 383000
+      ANTI-HBC TOTAL: NR
+      ANTI-HBS: '< 2'
+      HBSAG: NR
+      VRTDL: NR
+      HIV: NR
+      TSH: 6.68
+      PTH: 57.1
+      VIT D: 30.1
+      EAS:
+        DENSIDADE: 1014
+        PH: 6
+        LEUCÓCITOS: 2
+        HEMÁCIA: 1
+      GASO VENOSA PH: 7.357
+      HCO3: 28.8
+    '16/01/23':
+      CR: 1.6
+      UR: 56
+      NA: 137
+      K: 4.3
+      CAI: 9.7
+      P: 3.9
+      FA: 322
+      VIT D: 25.1
+      HBA1C: 7.9%
+      GLICOSE: 131
+      ÁCIDO ÚRICO: 6.5
+      HB: 12.3
+      HTC: 36.7
+      EAS ALB: 30
+    '14/04/23':
+      CR: 1.64
+      UR: 73
+      NA: 137
+      K: 4
+      CAI: 10.3
+      CL: 102
+      CT: 218
+      HDL: 57
+      LDL: 133
+      FERRIT: 46.6
+      IST: 25%
+      PTH: 22.7
+      FA: 232
+      VIT D: 22.9
+      P: 3.8
+      GLIC: 131
+      HBA1C: 8.4%
+      TSH: 3
+      T4: 1.08
+      HB: 11.7
+      HT: 34.2
+      LEUCO: 12360
+      PLAQ: 357000
+      P/C: 0.845
+    '01/09/23':
+      CR: 1.49
+      UR: 61
+      K: 4
+      NA: 134
+      CL: 97
+      MG: 1.71
+      AC ÚRICO: 4.8
+      ALB: 4.4
+      P: 4.5
+      CAT: 9.8
+      FA: 324
+      VIT D: 29
+      PTH: 42
+      GLIC: 280
+      HBA1C: 13.8%
+      TGL: 231
+      CT: 189
+      FERRITINA: 28.5
+      IST: 29%
+      FE: 104
+      HB: 13
+      HTC: 38.79
+      VCM: 96.4
+      LEUCO: 12750
+      PLAQ: 360.00
+      EAS:
+        DENSIDADE: 1015
+        PH: 5.0
+        ALB: 100
+        GLICO: 150
+        NITRITO: NEGATIVO
+        LEUCÓCITOS: 20/C
+        CILINDROS: GRANULOSOS FINOS E GROSSOS +
+      MICROALB: 576.3 MG/L
+    '05/04/24':
+      CAT: 10
+      CL: 100
+      CT: 155
+      HDL: 47
+      LDL: 75
+      TG: 165
+      CPK: 251
+      VIT B12: 486
+      CR: 1.9
+      UR: 76
+      K: 4.3
+      NA: 135
+      IST: 20
+      FERRITINA: 40
+      FERRO: 78
+      FA: 329
+      P: 4.4
+      PTH: 35.8
+      VIT D: 38.5
+      GLICOSE: 78
+      HBA1C: 6.78
+      TSH: 3.14
+      MG: 2.83
+      MICRO ALB: 102.6
+      TGO: 22
+      TGP: 18
+      PROT TOTAL: 7.5
+      ALB: 4.3
+      GLOB: 3.2
+      PH: 7.33
+      BIC: 24.2
+      LACT: 2.04
+      RNI: 1
+      HB: 12.2
+      HT: 36.9
+      GL: 10300
+      PQ: 259.000
+      EAS:
+        GLICOSE: 300
+        ALB: '< 30'
+        CILINDROS: HIALINO
+      ANTI-HBS: 6.23
+      HBSAG: NR
+      ANTI-HBC: NR
+      ANTI-HIV: NR
+      ANTI-HCV: NR
+    '16/07/24':
+      GLIC: 142
+      P: 4.4
+      CL: 101
+      K: 4.5
+      UR: 84
+      CR: 1.96
+      NA: 139
+      CA: 10.9
+      HB: 12.2
+      HCT: 37.2
+      GL: 9090
+      PL: 332000
+    '21/02/2025':
+      CT: 154
+      HDL: 40
+      LDL: 80.4
+      CA TOT: 9.7
+      PTN TOT: 7.4
+      ALB: 4.3
+      CREAT: 1.67
+      UR: 56
+      MG: 2.22
+      NA: 139
+      K: 3.9
+      CL: 104
+      P: 4.5
+      TRIG: 168
+      GLI: 178
+      AU: 7.3
+      HBA1C: 8.5%
+      PH: 7.35
+      BIC: 21.3
+      LACT: 1.8
+      HB: 12.2
+      Leuco: 10.440
+      PLAQ: 398.000
+      VIT D: 31.2
+      EAS:
+        GLICOSE: 1000
+        RESTANTE: SEM ALTERAÇÕES
+  conduta:
+    - Início Anlodipino 5mg à noite
+    - Anemia ausente
+    - Dislipidemia com LDL 80. Em uso de Sinvastatina, mantenho as medicações
+    - Encaminho ao nutricionista
+    - Reposição de BIC: 1 colher de chá por dia
+    - Mantenho demais medicações
+    - Sem outras complicações relacionadas à DRC
+    - Seguimento conjunto com Endócrino no HUCAM
+    - Seguimento conjunto com Oftalmologista no HEVV - Glaucoma/ e HUCAM (Proposta ED Cirurgia de Catarata)
+    - Retorno em 4 meses
+  impressao:
+    drc_classificacao: DRC G3B A
