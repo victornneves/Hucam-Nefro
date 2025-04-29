@@ -1,0 +1,103 @@
+relatorio_consulta_ambulatorial_nefrologia:
+  consulta_nefrologia_programa: PREVENIR
+  situacao_programa: ATIVO
+  hipoteses_diagnosticas:
+    estagio_drc:
+      grau: '3A'
+      albuminuria: Não disponível
+      funcao_rim_atual: Não disponível
+    etiologia_doença_de_base: Não disponível
+    admissao:
+      data: Não disponível
+      CLCR_admissao: ML/MIN (Valor não disponível)
+  complicacoes_drc:
+    anemia: AUSENTE
+    hiperfosfatemia: AUSENTE
+    pth_gt_300: AUSENTE
+    hiperuricemia: AUSENTE
+  historico_patologico_pregresso:
+    - HAS
+    - DM
+    - DISLIPIDEMIA
+    - NEGA IAM
+    - DAC - CATE COM STENT (2010)
+    - PRINCÍPIO DE AVC HÁ 02 ANO (INTERNAÇÃO DE UMA SEMANA) - SIC (?)
+  alergias:
+      - DIPIRONA
+      - SULFATO DE ALUMÍNIO
+  cirurgias_previas: NEGA CIRURGIAS
+  historico_social:
+    - EX-TABAGISTA (FUMOU POR 30 ANOS, CESSOU HÁ 30 ANOS)
+    - TRABALHOU em CARVOEIRO
+  medicamentos_em_uso:
+    - GLIBENCLAMIDA 5MG 12/12H
+    - METFORMINA 850MG 8/8H
+    - ROSUVASTATINA 10MG NOITE
+    - AAS 100MG APÓS ALMOÇO
+    - NATRILIX 1,5 MANHÃ
+    - LOSARTANA
+    - ANLODIPINO
+    - FORMOTEROL + BUDESONINA 12/400
+  preparo_para_terapia_substituicao_renal:
+    apresentacao_metodo_dialitico: DATA (Não disponível)
+    metodo_escolhido: Não disponível
+    acesso: NÃO SE APLICA
+    sorologias: Não disponível
+    tx_preemptivo_clcr_lt_10ml_min: NÃO SE APLICA
+  vacinacao: Não disponível
+  seguimento_multiprofissional:
+    data_ultima_avaliacao: Não disponível
+    nutricao: Não disponível
+    assistente_social: Não disponível
+    psicologia: Não disponível
+    enfermagem_nefrologia: Não disponível
+  exames_complementares:
+    - ECOTT (13/12/24): HIPERTROFIA CONCÊNTRICA DO VE DE GRAU DISCRETO, INSUFICIÊNCIA VALVAR MITRAL E TRICUSPIDE DE GRAU DISCRETO, DILATAÇÃO DISCRETA DO ÁTRIO ESQUERDO.
+    - CINTILOGRAFIA MIOCÁRDICA (21/01/25): NÃO HÁ SINAIS DE ALTERAÇÕES DA PERFUSÃO E FUNÇÃO VENTRICULAR ESQUERDA.
+    - DOPPLER CARÓTIDAS (08/12/22): SEM LESÕES.
+    - ANGIOTC PESCOÇO (09/12/22): ESTENOSE 31% NASCET E 48% ECST.
+    - ANGIOTC CERVICAL (16/12/24):
+        LADO DIREITO: SEM ALTERAÇÕES SIGNIFICATIVAS.
+        LADO ESQUERDO: PLACA MISTA EM BULBO COM ESTENOSE 50%.
+        VERTEBROBASILAR: ESTENOSE JUNTO AO ÓSTIO DE ORIGEM DE VERTEBRAL DIREITA
+        - ATEROMATOSE IMPORTANTE DE V4 ESQUERDA
+  exames_laboratoriais:
+    '31/03/25':
+      - UR 68
+      - CT 107
+      - LDL 47
+      - TGC 142
+      - AU 4,4
+      - CA I 1,34
+      - NA 142
+      - K 4,7
+      - GLIC 90
+      - HB 11,7
+      - HCT 35,8
+      - FER VI10
+      - VIT D 62
+      - TSH 1,09
+      - BIC 31
+      - T4L 1,37
+      - CR 1,2
+      - P 3,5
+      - ALB 3,9
+      - MG 1,71
+      - MICROALB 5,3MCG/MGEAS CETONA +
+      - HBG 7,6
+      - IST 15%
+      - PTH 29
+  exame_fisico:
+    peso: KG (Valor não disponível)
+    geral: HIDRATADO, SEM EDEMAS, NORMOCORADO
+    pa_msd: 138X84 MMHG - 130X84 MMHG
+    ritmo_cardiaco: REGULAR SEM SOPROS.
+    outros: SEM SINAIS CLÍNICOS DE CONGESTÃO/HIPERVOLEMIA. DIURESE RESIDUAL -(Valor não disponível)
+  conduta:
+    - PACIENTE COM DRC ESTAGIO 3A, SEM COMPLICAÇÕES RELACIONADA A DOENÇA RENAL CRONICA, COM POSSIBILIDADE DE CONTROLE E SEGUIMENTO NA UBS.
+    - ASSOCIO FORXIGA 10MG/DIA E ORIENTO NECESSIDADE DE MELHOR CONTROLE DO DM2.
+    - ASSOCIO SULFATO FERROSO 40MG 12/12
+    - MANTER SEGUIMETNO COM CIRURGIA VASCULAR
+    - SEM NECESSIDADE DE SEGUIMENTO COM NEFROLOGISTA NO MOMENTO
+    - ALTA DO AMBULATÓRIO PREVENIR.
+  impressao: Paciente com DRC Estágio 3A, sem complicações relacionada a doença renal crônica, com possibilidade de controle e seguimento na UBS.
