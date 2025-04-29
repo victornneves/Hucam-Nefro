@@ -103,7 +103,7 @@ relatorio_consulta_ambulatorial_nefrologia:
     geral: HIDRATADA, EDEMA MMII 2+/4+, NORMOCORADO
     pa: 120/60
     ritmo_cardiaco: REGULAR SEM SOPROS.
-    outros: SEM SINAIS CLÍNICOS DE CONGESTÃO/HIPERVOLEMIA. DIURESE RESIDUAL: (Valor não disponível)
+    outros: SEM SINAIS CLÍNICOS DE CONGESTÃO/HIPERVOLEMIA.
   impressao: Não disponível
   conduta:
     - ENCAMINHAMINHO PARA AVALIAÇÃO DA NUTRIÇÃO DRC
