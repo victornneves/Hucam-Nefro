@@ -1,0 +1,296 @@
+MÉDICO: Vamos sentar aí?
+ACOMPANHANTE: Senta, mulher!
+MÉDICO: Senta, muié! Senta, muié! Ô, muié!
+ACOMPANHANTE: Senta aí, ô rapaz!
+MÉDICO: Senta aí, muié! Vamos lá, meus amigos! Olha só, meu nome é Leandro, tá? Eu sou médico. Muito prazer, muito bem-vindos vocês ao programa Prevenir. Esse programa Prevenir, ele é um programa com várias especialidades pra gente poder cuidar dos pacientes que têm problemas renais, tudo bem? Que têm problemas de rim, tudo bem?
+PACIENTE: Sim.
+MÉDICO: Beleza! E a senhora passou por uma consulta, a senhora acho que faz acompanhamento com a vascular aqui. E aí, passou por uma consulta com a vascular que encaminhou a senhora pra cá, não foi isso? 
+ACOMPANHANTE: Sim, isso.
+MÉDICO: Show! E aí teve uma consulta pela internet, não foi?
+PACIENTE: Foi. Exame.
+MÉDICO: Pela telemedicina, né? Que é uma consulta de triagem, onde a doutora começou lá a falar algumas coisas com você. Foi?
+PACIENTE: Foi.
+ACOMPANHANTE: Sim, foi sim.
+MÉDICO: Tá! Eu preciso do telefone de contato da senhora. Quantos anos a senhora tem? Desculpa.
+ACOMPANHANTE: 73, vai fazer 74 agora em abril, né?
+MÉDICO: 73 anos.
+ACOMPANHANTE: 73 anos.
+MÉDICO: Tá. Mora em São Mateus, né?
+ACOMPANHANTE: São Mateus.
+MÉDICO: Trabalha na roça? Trabalhou na roça?
+ACOMPANHANTE: A gente tem um comerciozinho próprio.
+PACIENTE: Já trabalhamos muito.
+MÉDICO: Ah, tá!
+PACIENTE: Hoje sou aposentada. Trabalho mais não.
+MÉDICO: Beleza! Telefone de vocês?
+ACOMPANHANTE: É 999-39-7611.
+MÉDICO: 7611? 11?
+ACOMPANHANTE: É 11.
+MÉDICO: Tá! Esse é o telefone de quem?
+ACOMPANHANTE: É o telefone meu.
+MÉDICO: Seu?
+ACOMPANHANTE: É!
+MÉDICO: Como é o nome do senhor?
+ACOMPANHANTE: José Antônio Ferreira.
+MÉDICO: Ferreira. Vocês têm filhos?
+ACOMPANHANTE: Temos!
+MÉDICO: Quantos?
+ACOMPANHANTE: Somos cinco, mas em casa mesmo só tem um com a gente.
+MÉDICO: Aham, beleza!
+ACOMPANHANTE: Tudo é casado, né?
+MÉDICO: Show de bola! Sem problema nenhum, tranquilo! Vamos lá! A doutora chegou naquela consulta, ela já anotou várias coisas pra mim, falando que a senhora tem pressão alta, diabetes, colesterol alto, não é isso? Vamos lá! Falando um por um aqui, a senhora tem diabetes há quanto tempo?
+ACOMPANHANTE: Há mais de 10 anos.
+PACIENTE: Vixe.
+ACOMPANHANTE: Mais de 15 anos!
+PACIENTE: No exame descobriu isso.
+MÉDICO: E acompanha com alguém?
+ACOMPANHANTE: Sim.
+MÉDICO: Com quem?
+ACOMPANHANTE: É... Ela acompanha com a doutora... Doutora...
+PACIENTE: O nome dela está aí.
+MÉDICO: Mas ela é endocrinologista?
+ACOMPANHANTE: É, ela é... Ela é... É... É [ininteligível]
+PACIENTE: [ininteligível]
+ACOMPANHANTE: Nutricionista né.
+MÉDICO: Nutricionista.
+ACOMPANHANTE: Ela é nutricionista.
+MÉDICO: Ah, não, entendi! Mas endocrinologista, que é a médica do diabetes, não tem?
+PACIENTE: Não! [ininteligível]
+ACOMPANHANTE: É no posto! É.
+MÉDICO: É no posto.
+ACOMPANHANTE: É no posto!
+MÉDICO: Tá! Pressão alta, mesma coisa? Acompanha no posto?
+ACOMPANHANTE: Sim, acompanha! Pressão alta,
+PACIENTE: Não tem mais.
+ACOMPANHANTE: já tem muito tempo que já controlou...
+MÉDICO: Mas controlou, né? Com remédio.
+ACOMPANHANTE: É. 
+PACIENTE: Não. 
+ACOMPANHANTE: É, e toma remédio.
+PACIENTE: Mandou manipular o remédio, não deu mais.
+MÉDICO: Show.
+ACOMPANHANTE: Ela toma anlodipino e losartana que isso aí a gente nem tem certeza dele dão, que é manipulado, a gente não quer receita. Anlodipino e losartana ela já toma!
+MÉDICO: Tá!
+PACIENTE: Graças a Deus [ininteligível].
+ACOMPANHANTE: [ininteligível] tem receita tudo aqui.
+MÉDICO: Beleza! Eu quero as receitas dos remédios que ela usa, por favor! A senhora colocou um stent no coração em 2010, né? Do lado de cá, o coração!
+PACIENTE: É, eu botei desse lado aqui, tava doendo [ininteligível] queimava muito, não tem [ininteligível].
+MÉDICO: Isso! 
+PACIENTE: Botou aqui.
+MÉDICO: Isso! E esse stent foi aonde que a senhora colocou?
+PACIENTE: Em Linhares!
+ACOMPANHANTE: Em Linhares!
+MÉDICO: Linhares?
+ACOMPANHANTE: É! Na Unicor em Linhares!
+MÉDICO: Tá! E a senhora continua acompanhando com o cardiologista, não?
+ACOMPANHANTE: Sim!
+PACIENTE: Não.
+MÉDICO: Porque tem uma cintilografia que pediram aqui recentemente do senhor, né?
+PACIENTE: Foi. Foi daqui também!
+MÉDICO: Ah, foi daqui?
+PACIENTE: [ininteligível].
+MÉDICO: Ah, tá aí! Eu queria os exames de sangue que ela fez aqui!
+ACOMPANHANTE: Ah, tá aqui. Eu pedi pelo doutor!
+PACIENTE: Fiz [ininteligível].
+ACOMPANHANTE: Inclusive, é que essa consulta
+MÉDICO: Você fez lá?
+ACOMPANHANTE: Essa consulta era para dia 27 do 3, o que acontece? Eles desmarcaram!
+MÉDICO: Aham!
+ACOMPANHANTE: Aí esses exames eu já tinha feito! Como [ininteligível]
+MÉDICO: Não, tem problema não!
+ACOMPANHANTE: Aí eu falei. Aí essa semana e eu peguei e fiz no mesmo dia o de diabetes! Diabetes e colesterol, para eu ter uma noção! Até a menina que dá o trabalho [ininteligível].
+MÉDICO: Tá, mas não tem problema não! Fica tranquilo, tá?
+ACOMPANHANTE: Aí eu peguei e falei [ininteligível].
+MÉDICO: Fique tranquilo, meu amigo! Vamos ver aqui como é que tão esses exames aqui.
+ACOMPANHANTE: Não faz tratamento [ininteligível] um exame
+MÉDICO: Exames laboratoriais. Esse exame de 31 do 3 de 2025. [ininteligível]. E a senhora faz acompanhamento da nutricionista também então?
+ACOMPANHANTE: Faz. [ininteligível].
+MÉDICO: E a dieta? Como é que está?
+PACIENTE: A dieta tá normal, não fico, não sou uma mulher de comer muito não, né?
+MÉDICO: Ahn!
+PACIENTE: Eu sofri da [ininteligível] e tive uma anemia muito braba e a [ininteligível] veio assim [ininteligível]. Aí eu, tratou dela
+MÉDICO: H.Pylori?
+PACIENTE: É. Tratei dela mas ela e... eu como sim, eu como [ininteligível]. A minha comida mais é leite, que eu tomo com beiju.
+MÉDICO: Com o quê?
+PACIENTE: [ininteligível]com beiju.
+MÉDICO: O que é beiju, Jesus?
+PACIENTE: Oh meu Deus do céu, você não sabe o que é beiju.
+MÉDICO: Não, o que que é?
+PACIENTE: É tapioca.
+MÉDICO: Ah, é aquele biscoitinho de tapioca. Mas isso aí é coisa de baiano, mulher.
+PACIENTE: É feito com polvilho.
+MÉDICO: Você está perto da Bahia, mas você não é baiana não.
+PACIENTE: Não, eu sou mineira.
+MÉDICO: Hã?
+PACIENTE: Sou mineira.
+MÉDICO: Você é mineira?
+PACIENTE: Sou.
+MÉDICO: Anh.
+PACIENTE: Ah, eu molho no leite e vou e boto aquele no meio ali, faço aquela paçoca e como, é a minha janta e que ele não come uma carne, não come nada.
+MÉDICO: Entendi, entendi.
+PACIENTE:O leite que eu tomo é próprio pra, pro meu estômago, né, que tem, que tinha [ininteligível] é o [ininteligível], nós chama, é, Sustagen. Que chama o leite. Não sei se ele é forte ou se ele é fraco, não sei. Mas que ele me sustenta, sustenta.
+ACOMPANHANTE: Muitos anos, viu?
+PACIENTE: Ô, Jesus, não é isso não, pai. Oh Senhor.
+ACOMPANHANTE: Você vai mudar.
+PACIENTE: Não, Jesus, deixa eu sustentar não.
+MÉDICO: Ai gente.
+PACIENTE: Só agora. Não, pai, deixa não. Deus não. Deus é grande.
+MÉDICO: Deus é grande, né?
+PACIENTE: Ele é maravilhoso. 
+ACOMPANHANTE: Muito bom, né?
+MÉDICO: Deus é bom demais. Ah, Só no leite, tá? Que tem que acertar tudo aqui.
+ACOMPANHANTE: Não tem problema.
+MÉDICO: Deixa eu medir a pressão da senhora.
+ACOMPANHANTE: Não tem problema, meu filho, graças nós vamos chegar em casa cedo ainda. Hoje o trânsito está meio complicado, o pessoal está tudo saindo.
+MÉDICO: Hoje está tudo saindo.
+ACOMPANHANTE: Ah, mas estava tudo saindo, meu amor. [ininteligível]
+MÉDICO: Cara, continuar aqui, peraí. Vamos ver a pressão da senhora?
+PACIENTE: [ininteligível]
+MÉDICO: Como que fica a pressão da senhora em casa? Controladinha?
+PACIENTE: É. Toda a vida.
+ACOMPANHANTE: Mas ela muda o remédio direto, né? Esse [ininteligível] ela toma manipulado.
+MÉDICO: Uhum.
+ACOMPANHANTE: O remédio controlou na época a pressão dela.
+MÉDICO: Doze por oito a pressão.
+PACIENTE: [ininteligível]
+MÉDICO: Tá ótima, graças a Deus. Inchando as pernas, meu amor? Nada, né?
+ACOMPANHANTE: Quando ela fica com raiva, ela [ininteligível].
+PACIENTE: [ininteligível] isso aqui, essa mancha preta.
+MÉDICO: Essa mancha é por causa das veia.
+PACIENTE: Entupida, né? Eu sei. [ininteligível]
+MÉDICO: É.
+ACOMPANHANTE: Dr. Paulo Moura falou pra você isso.
+MÉDICO: Isso, sempre por causa das veias.
+PACIENTE: Eu já fiz [ininteligível] Eu já fiz uma vez aqui, mas não valeu nada, não.
+MÉDICO: Fez o que, meu amor? Varíze?
+ACOMPANHANTE: É, fez aplicação de espuma.
+PACIENTE: De espuma na varíze. 
+MÉDICO: De espuma, né?
+PACIENTE: É.
+ACOMPANHANTE: Resolveu alguma coisa, mas
+PACIENTE: A [ininteligível] botou outra vez. Sai uma mancha nas pernas, [ininteligível]. Me irrita tudo.
+ACOMPANHANTE: [ininteligível]
+MÉDICO: Peraí que eu vou ter que abrir tudo de novo.
+ACOMPANHANTE: Tudo de novo. Vai ficar o processo? A energia foi... 
+MÉDICO: Nossa! Eu tenho que escrever tudo de novo, também. Não dá pra acreditar. 
+PACIENTE: É muita coisa que pergunta. É muita coisa acumulada na [ininteligível].
+ACOMPANHANTE: A vida desse jeito, né?
+PACIENTE: Vamos agradecer a Deus pra não cair mais hoje. 
+MÉDICO: Cair o que, mulher?
+PACIENTE: A energia.
+MÉDICO: Ah, não! A senhora tá no hospital das crianças. Vai cair de novo.
+PACIENTE: Em nome de Jesus, vai não.
+MÉDICO: Não, vai cair. Pode ficar tranquila. A gente consegue.
+PACIENTE: Só Jesus pra ter misericórdia, meu filho.
+MÉDICO: Fica tranquila. Vai cair. Deixa eu abrir aqui as coisas de novo, meu amor, peraí. Vou ter que começar tudo de novo, mesmo. Não tem jeito, não. Ai, ai. Vamos lá. Vamos lá. De novo. Telefone da senhora.
+ACOMPANHANTE: 999-39-7611. Bom, tem um outro, um residencial, antigo, rural, né? [ininteligível]. É 998-33-1519.
+ACOMPANHANTE: Isso aí é [ininteligível]
+MÉDICO: Beleza. Sem problema.
+ACOMPANHANTE: Esse aí, fica lá, eu atendo, porque atende via Wi-Fi, né? E lá no normal é meio ruim de sinal.
+MÉDICO: Entendi. Certo. Então, a gente tava conversando a respeito dos medicamentos que a senhora usa, a respeito do diabetes, da pressão alta, tudo isso. Não foi isso?
+PACIENTE: Uhum.
+MÉDICO: É... A senhora usa de remédios. Glibenclamida, de 12 em 12. 
+PACIENTE: Sim.
+MÉDICO: Metformina, de 8 em 8.
+PACIENTE: Sim.
+MÉDICO: É... Rosuvastatina, à noite. E o manipulado é esse aqui, com AAS, natrilix, losatana e anlodipino?
+ACOMPANHANTE: Isso.
+MÉDICO: Esse é o manipulado? Você tem ele aí, pra eu ver as miligramas?
+PACIENTE: Tenho.
+MÉDICO: Posso ver? Por favor.
+ACOMPANHANTE: [ininteligível] tá tudo aqui.
+MÉDICO: Tá, pode deixar aí que eu vou ver, tá? Deixa eu anotando esses exames novamente aqui pra ela. Esse exame de 31 do 3 de 2025.
+ACOMPANHANTE: esse aí [ininteligível] remédio de estômago.
+MÉDICO: [ininteligível]. Muito exame, né?
+ACOMPANHANTE: É, doutor, eu gastei um dinheiro com exame esse mês.
+MÉDICO: [ininteligível]. Mas o bom é que tá tudo bem. [ininteligível]. Aqui, esse aqui, pode guardar. [ininteligível]. Esse aqui você fez por conta própria. 
+ACOMPANHANTE: Fiz, é. Fiz ontem.
+PACIENTE: Trazer porque a [ininteligível] não tinha, né?
+ACOMPANHANTE: [ininteligível] deu enjoo [ininteligível] dela, né?
+MÉDICO: Não precisava não, desse aqui.
+ACOMPANHANTE: [ininteligível]
+MÉDICO: De boa, não tem problema não. Vamos lá, vamos ver as receitas aqui. Esse aqui.
+ACOMPANHANTE: Remédio de estômago que ela toma ainda, até hoje ela ainda toma esse remédio.
+MÉDICO: Rosuvastatina, [ininteligível], Metformina, Aspirina e Natrilix. O Natrilix não está dentro do manipulado.
+ACOMPANHANTE: Não.
+PACIENTE: Tá, não. [ininteligível].
+ACOMPANHANTE: O manipulado é só o anlodipino e o losartana.
+MÉDICO: Entendi.
+ACOMPANHANTE: É manipulado.
+MÉDICO: E não está aqui.
+ACOMPANHANTE: Não, o anlodipino não está não. Porque ela é... [ininteligível].
+PACIENTE: É manipulado. É receita, né. [ininteligível] e eu não trouxe.
+MÉDICO: Não, tá bom. Beleza. Seguinte, olha só. Deixa eu falar uma coisa com vocês. Presta atenção. É, a gente tem aqui... A senhora foi encaminhada por uma alteração da função do rim, tá? Essa alteração do funcionamento do rim já era, antes do encaminhamento, uma alteração discreta. 
+ACOMPANHANTE: Sim, sim, é.
+MÉDICO: Uma alteração leve que, assim, não nos preocupa tanto. A gente tem que ter uma noção, a gente tem que ter cuidados, mas não tem que... Não é algo grave, eu quero dizer, tá? É... Mas... O que é importante a gente saber é que, sim, o diabetes e a pressão alta podem, sim, acometer os rins.
+ACOMPANHANTE: Os rins.
+MÉDICO: E a gente tem que cuidar, principalmente, do diabetes, para que a gente não piore essa função renal ao longo do tempo. Tudo bem? Mas, a boa notícia é que a senhora tem uma alteração muito discreta dessa função do rim, muito próxima do normal para a sua idade.
+PACIENTE: Há muito tempo que tenho isso.
+ACOMPANHANTE: Há muitos anos que ela tem isso.
+MÉDICO: Há muito tempo que a senhora já tem isso, né? 
+PACIENTE: É, muitos anos.
+MÉDICO: Então, o que eu acho que não tem ainda necessidade da senhora acompanhar com a gente aqui. A senhora pode acompanhar lá com o médico da unidade de saúde. Se piorar, ele vai mandar para a gente aqui novamente. Tá bem?
+PACIENTE: Tá bom.
+MÉDICO: Mas, a senhora está com os exames controlados, eu só acho que a senhora precisa melhorar um pouquinho a questão do diabetes. E eu também vou repor um sulfato ferroso que é uma, pra, pra, um remédio pra melhorar um pouquinho a anemia e isso, isso aí.
+PACIENTE: Eu tenho muito [ininteligível] no corpo.
+ACOMPANHANTE: Mas doutor, deu anemia nesses exames?
+MÉDICO: Não, uma anemia muito discreta. Nem é considerada uma anemia mesmo. 
+ACOMPANHANTE: Sim, sim.
+PACIENTE: Eu já [ininteligível]
+MÉDICO: Oi?
+PACIENTE: Já tive [ininteligível] de tomar a injeção para a anemia. Quatro caixas de injeção. Uma, uma por semana, nós tomava uma, como que fala, é, o nome da injeção, Noripurum, duas Noripurum [ininteligível] e o outro, o outro no braço.
+ACOMPANHANTE: É a receita do, do 
+PACIENTE: Um mês [ininteligível]
+ACOMPANHANTE: [ininteligível] é só pra anemia mesmo.
+PACIENTE: É pra anemia mesmo. Eu estava com uma [ininteligível] muito grave, nossa Deus.
+ACOMPANHANTE: [ininteligível] que você tomou também na época.. Mas ela passou. Mas agora [ininteligível] tornar a repetir os exames dela. Uma endoscopia dela que já tem mais de ano que fez.
+PACIENTE: Já tem mais de um ano pra acabar.
+ACOMPANHANTE: Eu vou repetir agora pra ver como é que tá. [ininteligível] problema do estômago dela. Tem até um medico conhecido da gente, doutor Evandro, de São Mateus. E, eu vou fazer o negócio mês que vem.
+MÉDICO: A senhora já foi no oftalmologista por conta do... do médico do olho?
+PACIENTE: Já.
+MÉDICO: Já?
+PACIENTE: Fiz raspagem.
+MÉDICO: É, já fez por causa do diabetes, né? 
+ACOMPANHANTE: É, já fez. [ininteligível] esse ano nós já fizemos o exame pra 
+PACIENTE: [ininteligível].
+ACOMPANHANTE: [ininteligível] especialista, ele falou. Ó, não tem necessidade, tá muito bom.
+PACIENTE: [ininteligível] faz se eu quiser fazer.
+ACOMPANHANTE: Ela faz se quiser fazer, porque não subiu lá [ininteligível] tá tudo bem. Agora tá eu, que tô com uma cataratazinha que ele já tá de olho, falou na época me procura que a gente [ininteligível].
+MÉDICO: Então tá. Eu vou até dar alta para a senhora então. Vou fazer essas medicações aqui, vou dar alta pra senhora que a senhora tá muito bem.
+ACOMPANHANTE: Graças a Deus.
+PACIENTE: Graças a Deus. Que Deus abençoe a todos.
+ACOMPANHANTE: Graças a Deus com isso.
+PACIENTE: Meteram medo vai, na veia, artéria que tenho, dizendo que não tenho condição de operar, então deixa pra lá.
+MÉDICO: Isso, isso aí é com ele lá, né?
+PACIENTE: Tem até dois anos, tem que voltar e se tiver aumentado alguma coisa.
+MÉDICO: Isso. Isso aí.
+PACIENTE: [ininteligível] remédio. Tem vezes que eu [ininteligível] de um jeito, parece que tem que fazer força [ininteligível] ou voltar para trás [ininteligível] para ajudar no pescoço. Eu acho que é o sangue querendo fazer, correr na veia, não acho que eu vá.
+MÉDICO: Ai meu Deus!
+PACIENTE: É meu filho.
+ACOMPANHANTE: A menina, moça lá conseguiu a [ininteligível] pra 2026, pra você repetir esses exames.
+PACIENTE: É.
+MÉDICO: Tá tudo bem com a senhora, a senhora vai voltar para São Mateus inteirinha.
+PACIENTE: Graças a Deus. 
+ACOMPANHANTE: Obrigado meu filho.
+PACIENTE: Vou voltar aqui ainda, tá vendo? Eu inteira ainda.
+MÉDICO: É isso aí.
+PACIENTE: Eu tenho fé, meu filho. Tem hora que eu fico com tonteira, na hora que eu vou abaixar eu sinto tonteira, eu acho que até o problema da anemia, [ininteligível] pra mim. 
+ACOMPANHANTE: Ele já vai passar remédio pra você.
+MÉDICO: Vou lá pegar a sua receita, tá?
+PACIENTE: Tá.
+ACOMPANHANTE: Tá bom. 
+MÉDICO: Deu errado lá. Deixa eu ver se eu mandei imprimir aqui. Ah, não foi, né? Lógico. Ah gente, não dá, cara.
+ACOMPANHANTE: [ininteligível].
+PACIENTE: É?
+ACOMPANHANTE: [ininteligível].
+MÉDICO: Aqui, meus amigos, olha. Aqui está a receitinha dela, tá? Ela vai tomar esse remédio, sulfato ferroso, que é uma vitamina para combater a anemia. E esse dapaglifozina aqui, pega na farmácia popular. Ele é um remédio para diabetes, tá? E ele é importante pro rim também. Tudo bem? E aí é só pegar na farmácia popular. Tudo bem? Combinado? Como eu disse, a senhora está muito bem. Opa!
+PACIENTE: [ininteligível] fico tonta. Eu fico tonta.
+MÉDICO: Senhora está muito bem. Está tudo tranquilo, tá? A ponto de que a senhora não precisa vir lá de São Mateus para acompanhar aqui com a gente.
+ACOMPANHANTE: E ela [ininteligível] tomar os outros remédios que ela toma.
+MÉDICO: Os outros que ela vai tomar, ela continua tomando normal, tá? Tá bom? 
+PACIENTE: Muito obrigada, meu filho
+MÉDICO: Tudo de bom, viu, minha querida? Fica com Deus, tá? Bom retorno, tá?
+ACOMPANHANTE: Obrigado.
+MÉDICO: Tudo de bom pra vocês.
+ACOMPANHANTE: Pra você também [ininteligível].
+MÉDICO: Tchau, tchau.
