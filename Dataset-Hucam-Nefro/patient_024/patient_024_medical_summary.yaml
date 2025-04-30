@@ -1,0 +1,138 @@
+relatorio_consulta_ambulatorial_nefrologia:
+  ambulatorio: PREVENIR
+  identificacao_paciente:
+    sexo: FEMININO
+    idade: 78 ANOS
+    localidade: CARIACICA
+    acompanhante: NORA CINTIA
+  situacao_programa: ATIVO
+  hipoteses_diagnosticas:
+    estagio_drc:
+      grau: '4'
+      albuminuria: Não disponível
+      funcao_rim_atual: Não disponível
+    etiologia_doenca_de_base: USO PRÉVIO DE AINE
+    admissao:
+      data: Não disponível
+      CLCR_admissao: ML/MIN (Valor não disponível)
+  historico_patologico_pregresso:
+    - PORTADORA DE MP DEFINITIVO POR BAVT SECUNDÁRIO A IAM EM 2017 - SEGUIMENTO NO HUCAM
+    - IC
+    - HAS DESDE OS 40 ANOS
+    - DM DESDE OS 25 ANOS - SEGUIMENTO COM ENDOCRINO NO CRE METROPOLITANO
+    - DISLIPIDEMIA
+    - HISTERECTOMIA POR MIOMATOSE UTERINA AOS 30 ANOS
+    - MÚLTIPLAS NEOPLASIAS DE PELE EM CABEÇA E PESCOÇO EM ACOMPANHAMENTO COM A DERMATOLOGIA
+    - ITU E PNEUMONIA EM MAIO DE 2022, TRATADOS COM AMOXICILINA + CLAVULANATO
+    - PNEUMONIA EM DEZEMBRO DE 2023, TRATADA COM AMOXICILINA + CLAVULANATO E AZITROMICINA
+  historico_familiar:
+    - MARIDO FALECIDO EM 2020 (COMPLICAÇÃO APÓS FAV), APRESENTAVA DRC EM HD (MEDRIM).
+  medicamentos_em_uso:
+    - FUROSEMIDA 40MG 2 COMP 2X/DIA
+    - HIDRALAZINA 50MG 12/12H
+    - MONONITRATO DE ISOSSORBIDA 20MG 8/8H
+    - METOPROLOL 100MG/DIA
+    - ATORVASTATINA 40MG/DIA
+    - AAS 100MG/DIA
+    - GLICLAZIDA 60MG 2X/DIA
+    - INSULINA NPH 24+0+4UI
+    - OMEPRAZOL 20MG 12/12
+  exames_laboratoriais:
+    '19/09/22':
+      - AU 7,6
+      - CL 100
+      - HDL 51
+      - LDL 129
+      - CT 201
+      - CPK 199
+      - CR 1,56
+      - FERRI 57,6
+      - GLI 68
+      - HBA1C 7,4%
+      - K 4,7
+      - PT 7,3
+      - ALBU 4,1
+      - GLOBU 3,2
+      - IPC 0,080
+      - IST 12%
+      - NA 142
+      - AST 18
+      - ALT 12
+      - TRI 102
+      - UR 105
+      - TSH 4,59
+      - T4 8,82
+      - EAS: DENSI 1012 / PH 8,0 / NUMEROSOS LEUCÓCITOS / HEMÁCIAS: 1 / CÉLULAS NUMEROSAS / MUCO ++++ / FLORA AUMENTADA / FOSFATO TRIPLO +++
+    '30/03/23':
+      - CR 2
+      - UR 122
+      - NA 143
+      - K 4,2
+      - MG 2,2
+      - CAT 9,5
+      - P 3,7
+      - CL 95
+      - CT 172
+      - HDL 45
+      - LDL 112,6
+      - TG 72
+      - AU 9,6
+      - 15530 E 606 PLAQ 307000
+      - EAS 1007 PH 5 ALB <30 LEUCO 75/NUMEROSO CEL EPI 10 P/C 0,03
+    '23/11/23':
+      - GPP 158
+      - CR 1,23
+      - TSH 1,9
+    '08/12/23':
+      - CA 9,7
+      - PT 6,7
+      - ALBU 4,0
+      - GLOBU 2,7
+      - CR 1,85
+      - UR 121
+      - IST 22
+      - MG 2,2
+      - NA 147
+      - K 4,3
+      - CL 99
+      - FA 205
+      - FERRI 89
+      - P 4,1
+      - TRI 129
+      - GLI 97
+      - CT 205
+      - HDL 47
+      - LDL 132
+      - AU 9,8
+      - HBA1C 7,3
+      - MICROALBUMINÚRIA 5,9MG/L
+      - HB 10,6
+      - LEUCO 13.000
+      - PLAQ 239.000
+      - BASTÕES 0%
+      - ANTI-HBC TOTAL NR
+      - ANTI-HBS < 2,0
+      - IGM ANTI-HBC NR
+      - HBSAG NR
+      - ANTI-HCV NR
+      - ANTI-HIV NR
+      - VITD 24,5
+      - PTH 139
+    '18/12/23':
+      - BIC 34
+  exames_complementares:
+    - TC ABDOME TOTAL (26/04/22): RINS NORMAIS. VESÍCULA BILIAR PREENCHIDA POR MATERIAL ESPONTANEAMENTE HIPERDENSO NA REGIÃO DECÚBITO DEPENDENTE, PROVAVELMENTE RELACIONADA A LÂMINA BILIAR OU MICROCÁLCULOS. CALCIFICAÇÕES PARIETAIS ATEROMATOSAS NA AORTA E ARTÉRIAS ILÍACAS.
+    - USG VU (Solicitado na conduta)
+  exame_fisico:
+    geral: HIPOCORADA +/4+, HIDRATADA, LÚCIDA, ORIENTADA, ACIANÓTICA, ANICTÉRICA, AFEBRIL
+    peso: 100KG (INFORMADO PELA PACIENTE)
+    lesoes_pele: EM TRONCO E FACE EM ACOMPANHAMENTO COM A DERMATOLOGIA.
+    acv: RCR, 2T, BULHAS HIPOFONÉTICAS, SEM SOPROS
+    pa: 114/62MMHG
+    ar: MVF, SEM RA.
+    mmss: EDEMA ++/4+ EM MMII.
+  impressao: PACIENTE SEM SEGUIMETNO COM NEFROLOGIA DESDE 2023, COMPARECE A CONSULTA SEM EXAMES
+  conduta:
+    - TRAZER SEU CARTÃO DE VACINAS.
+    - SOLICITO USG VU
+    - RETORNO COM EXAMES EM 2 MESES
