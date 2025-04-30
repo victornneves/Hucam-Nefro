@@ -1,0 +1,260 @@
+relatorio_consulta_ambulatorial_nefrologia:
+  ambulatório: AMBULATÓRIO DE COLAGENOSES
+  identificacao_paciente:
+    sexo: FEMININO
+    idade: 52 ANOS
+    residencia: EM CACHOEIRO DE ITAPEMIRIM
+    naturalidade: RIO NOVO
+    ocupacao: APOSENTADA (DOMÉSTICA)
+    estado_civil: CASADA
+    gestacoes: G3P0A3
+    acompanhante: VIZINHA
+  hipoteses_diagnosticas:
+    doenca_de_base:
+      nome: POLIANGIITE COM GRANULOMATOSE - WEGENER
+      data_diagnostico: 2015
+      inicio_sintomas: 2014
+    estagio_drc:
+      estagio: ESTÁGIO IV CONSERVADOR
+  historico_patologico_pregresso:
+    - HAS
+    - DM TIPO 2 INSULINO-DEPENDENTE
+    - NEFROLITÍASE CALICINAL À DIREITA
+    - FASCIITE PLANTAR
+    - MENOPAUSA 2016
+    - HEMODIÁLISE (2016) - TOTAL DE 4 MESES DE HEMODIÁLISE (INICIOU EM BH E MANTEVE EM CACHOEIRO DE ITAPEMIRIM)
+    - 2014-2015: ACOMPANHAVA EM CACHOEIRO - PROPTOSE OCULAR, TURVAÇÃO VISUAL, HIPOACUSIA CONGESTÃO NASAL - USOU CORTICOIDE DOSE MAX PRED 80MG - SUSPENSO SET/2015
+    - DEZ/2015: PIORA DA ACUIDADE VISUAL, PROTEINURIA (1.4G/24H), HEMATÚRIA, CREAT 1,5; NECESSIDADE DE HD (BX RENAL GLOMERULONEFRITE CRESCENTICA EM FASE ESCLEROSANTE PAUCI-IMUNE), PLASMAFÉRESE, PULSO COM CORTICOIDE E CFM -> INTERNAÇÃO EM BELO HORIZONTE (UFMG)
+    - ABRIL/16: ESPONDILODISCITE + ENDOCARDITE (FEZ 28 DIAS DE VANCO) + EM USO DE SCHILLEY (HUCAM) ECOTE 09/05/16: IMAGEM HIPERREFRIGENTE NA FACE INTERNA DO SEPTO QUE SEPARA O APÊNDICE ATRIAL ESQ E VEIA PULMONAR. EDA 04/2016: MONILÍASE ESOFAGEANA; GASTRITE EROSIVA
+    - IH EM JUNHO/2022: DEVIDO DIARREIA, DESIDRATAÇÃO E PIORA DA FR - REALIZADO ATB EV E METILPRED 1G 08 E 09/06/22
+    - NEGA TABAGISMO E ETILISMO
+    - pulsos:
+      - PLASMAFÉRESE, PULSO COM CORTICOIDE E CFM (UFMG)
+      - METILPREDNISOLONA 1G 3DIAS - 2015 (UFMG)
+      - CFM 3 SESSÕES - JAN A MARÇO/16 - ATIVIDADE RENAL (HUCAM)
+      - METILPRED 1G 08 E 09/06/22 (SANTA CASA DE CACHOEIRO - DEVIDO A HIPÓTESE DE ATIVIDADE DE DOENÇA, PORÉM DESCARTADO NO HUCAM, PIORA DA FR PROVAVELMENTE PRÉ RENAL.)
+    - manifestacoes:
+      - HIPOACUSIA DIREITA
+      - SINUSOPATIA MAXILAR
+      - PROPTOSE E BAIXA ACUIDADE VISUAL COM BOA RESPOSTA AO CORTICOIDE
+      - HEMATÚRIA
+      - PROTEINÚRIA 1.4 G/24H
+      - C-ANCA POSITIVO
+  preparo_para_tsr:
+    apresentacao_metodo: Não disponível
+    metodo_escolha: Não disponível
+    acesso: Não disponível
+    sorologias: Não disponível
+    tx_preemptivo_clcr_lt_10ml_min: Não disponível
+  vacinacao:
+    - 3 DOSES COVID-19 (NÃO RECORDA QUAIS)
+    - 1 DOSE DA INFLUENZA
+  medicamentos_em_uso:
+    - MICOFENOLATO DE MOFETIL 2MG/DIA (DI: NOV/2016)
+    - ANLODIPINO 5 MG 2X/DIA
+    - LOSARTANA 50MG 1 X DIA
+    - GABAPENTINA 300MG 8/8H
+    - INSULINA NPH 14 UI PELA MANHÃ + 8 UI A NOITE
+    - ATORVASTATINA 40MG 1XNOITE
+    - PREDNISONA 20 MG/DIA
+    - DIPIRONA SOS.
+  medicamentos_uso_previo_suspenso:
+    - AZATIOPRINA: ABRIL - NOV/16 (SUSPENSO POR LINFOPENIA E PLAQUETOPENIA - LINFO 392 / POT 57000)
+    - CAPTOPRIL 25MG/DIA 2X/DIA - SUSPENSO E TROCADO POR ANLODIPINO
+    - SINVASTATINA 40 MG/NOITE
+  subjetivo:
+    - Mantém dor em queimação em hálux esquerdo após longos períodos sentada;
+    - Refere notar pequeno nódulo móvel em região infrapatelar à direita;
+    - Nega demais queixas.
+  exame_fisico:
+    peso: 88,150KG (ANTERIOR 88 KG)
+    altura: 1,65 M
+    pa: 132X67 MMHG
+    temp: 36,2°C
+    fc: 55 BPM
+    geral: BEG, CORADA, HIDRATADA, ACIANÓTICA, ANICTERICA, AFEBRIL.
+    acv: RCR 2T, BNF, SEM SOPROS.
+    ar: MVF+, SEM RA, CONFORTÁVEL E EUPNEICA EM AA.
+    oa: SEM SINAIS DE ARTRITE. Nódulo subcentimétrico móvel indolor em tecido adiposo infrapatelar à direita.
+    patrick_lasegue: NEGATIVOS.
+  exames_laboratoriais:
+    '11/08/2020':
+      - P-ANCA REAGENTE (1/40)
+      - HB 9
+      - LEUCO 4330 (NEUTR 47,8% / LINF 37,4% / EOS 5,8%)
+      - PLAQ 261000
+      - HDL 57,7
+      - LDL 146,7
+      - COLES TOTAL 212,8
+      - VLDL 8,4
+      - TGL 41,8
+      - CREAT 1,8
+      - URÉIA 44,4
+      - CK 150
+      - FA 148
+      - GGT 27,8
+      - VHS 83
+      - PCR 16,2
+      - TGO 9,9
+      - TGP 7,5
+      - EAS: SEM ALTERAÇÕES.
+    '27/04/23':
+      - CPK 219**
+      - ELETROFORESE PTN SEM ALTERAÇÕES
+      - VHS 31**
+      - ANTI-DNA NR
+      - TG 81
+      - HBA1C 6,4
+      - CA 44,2
+      - TGO 12
+      - TGP 9
+      - C3 107
+      - GL 65
+      - CLT 213
+      - HDL 65
+      - LDL 131
+      - VLDL 16,2
+      - PCR 15,5**
+      - FA 130
+      - GGT 14
+      - CR 1,67*
+      - UR 77***
+      - PTNURIA 496MG/24H VOL 2400
+      - HB 10,4
+      - HTC 33,2
+      - LEUCO 5960, SEG 3928
+      - LINFO 1550
+      - PLAQ 226000
+      - VIT D 37
+      - VIT B12 312
+      - EAS ALB 15
+      - HB 50
+      - NITRITO POSITIVO
+      - LEUCO 500
+      - LEUCO NUMEROSOS
+      - FLORA AUMENTADA
+      - CILINDROS HIALINOS +
+    '07/11/23':
+      - CR 2,06
+      - FERRI 95,8
+      - P 4,2
+      - GLI 72
+      - MG 2,62
+      - K 4,5
+      - SAT TRANS 19
+      - NA 138
+      - HB GLIC 5,4
+      - AC URICO 6,5
+      - ALB 4,2
+      - BLI TOTAL 0,41
+      - BLI D 0,10
+      - BLI IND 0,31
+      - CALCIO TOTAL 9,2
+      - FA 166
+      - GGT 14
+      - AST 13
+      - ALT 9
+      - UR 75
+      - HB 11,1
+      - VCM 87,8
+      - HCM 28,9
+      - RDW 14,8
+      - LEUCO 4590
+      - PLAQ 232
+      - VHS 27
+      - TSH 2,11
+      - PTH 100
+      - T4 7,39
+      - VIT D 33,9
+      - UROCULTURA POSITIVA PARA E COLI MULTISSENSIVEL
+      - EAS: PH 5, ALB < 30, HEMOG 10 | LEUCOCITOS 75 | HEMACIAS 3 | CELULAS EPITELIAIS NUMEROSAS FLORA BACTERIANA AUMENTADA| CILINDROS GRANULOSOS GROSSO, HIALINO E LEUCOCITARIO
+    '21/12/23':
+      - VIT D 36,2
+      - HDL 58,8
+      - LDL 126**
+      - CR 2,0**
+      - GLICOSE 84
+      - HB 10,6*
+      - HT 34,5
+      - LEUCO 4580
+      - SEG 2500
+      - LINF 1500
+      - PLAQ 195000
+      - VHS 29
+      - PCR 9,9*
+      - TGO 11
+      - TGP 11
+      - TG 75
+      - EAS NORMAL
+      - RELAÇÃO PTN CR 0,188
+      - MICROALBUMINÚRIA 120 MG
+      - C-ANCA NR
+    '27/02/24':
+      - PTH 79
+      - ANTI -SSA/RO NR***
+      - ANTI -SSB/LA NR***
+      - HBA1C 4,8%
+      - VIT D 42,6
+      - FERRITINA 84,3
+      - IST 25%
+      - TSH 2,1
+      - T4L 1,09
+      - CREAT 2,4
+      - MG 2,3
+      - GLI 79
+      - TGO 18
+      - NA 145
+      - GGT 16
+      - CA 9,3
+      - PTNS TOTAIS 9,6
+      - ALB 4,2
+      - U 78
+      - P 4,7
+      - ÁCIDO ÚRICO 7,9
+      - K 4,7
+      - FA 55
+      - TGP 11
+      - PCR 11,9
+      - HCO3 25
+      - HB 10,5
+      - HT 32,9
+      - 4070 LEUC
+      - 218000 PLAQ
+      - VHS 29
+      - EAS NORMAL MICROALBUMINURIA 66,1 MG/G
+  exames_complementares:
+
+    - biopsia_renal:
+      local: UFMG
+      data: 2015
+      resultado: GLOMERULONEFRITE CRESCENTICA EM FASE ESCLEROSANTE PAUCI-IMUNE.
+    - TC TORAX (19/12/16): BANDAS ATELECTASICAS NOS LOBOS INFERIORES, PREDOMINANDO A ESQUERDA, COM PEQUENA CONSOLIDAÇÃO SUBPLEURAL NO SEGMENTO BASAL POSTERIOR.
+    - USG ABDOME TOTAL (20/06/17): ESTEATOSE HEPÁTICA DIFUSA MODERADA.
+    - TC DE SEIOS DA FACE (21/10/17): MINIMO ESPESSAMENTO MUCOSO NO SEIO MAXILAR ESQUERDO, DE ASPECTO INFLAMATORIO. DESVIO DE SEPTO ÓSSEO PARA DIREITA, COM ESPORÃO ÓSSEA ASSOCIADA.
+    - COLONOSCOPIA (2018): NORMAL / BX DA MUCOSA RETAL COM INFLAMAÇÃO CRÔNICA INESPECIFICA MODERADA / BX COLONICA COM REAÇÃO INFLAMATÓRIA CRÔNICA INESPECIFICA GRAU INTENSO / BX ILEO TERMINAL COM ILEITE NODULAR.
+    - USG APARELHO URINÁRIO (30/06/21): NEFROPATIA CRÔNICA. DIMINUTOS CISTOS SIMPLES NA CORTICAL DE AMBOS OS RINS. NEFROLITÍASE CALICINAL DIREITA, SEM SINAIS OBSTRUTIVOS.
+    - USG TORNOZELO ESQ (16/09/21): FASCIITE PLANTAR. ESPORÃO.
+    - USG TORNOZELO DIR (16/09/21): SEM ALTERAÇÕES.
+    - ECO TT (06/07/22): FEVE: 65%| PSAP 27| DISFUNÇÃO DIASTOLICA VE GRAU 1, REGURGITAÇÃO MITRAL DE PEQUENO VOLUME.
+    - ANGIOFLUORESCEINOGRAFIA DE RETINA (22/03/2023): DRUSAS MOLES AGRUPADAS TEMPORAL À MÁCULA EM AO. EXAME PREJUDICADO POR NÃO INJEÇÃO DE CONTRASTE POR PACIENTE NÃO COOPERAR E FALTA DE ACESSO PERIFÉRICO.
+    - RX DE QUADRIL E COLUNA DORSO-LOMBAR (04/04/23): SEM ALTERAÇÕES.
+    - DENSITOMETRIA (22/09/23): -1,1 COLOFEMORAL - OSTEOPENIA
+    - EDA (13/12/23): Gastrite erosiva plana leve de antro Bx Mucosa duodenal (bulbo): Cortes histológicos de mucosa duodenal. Alterações discretas e inespecíficas. Exsudato eosinofílico (até 31 eosinófilos / CGA)
+    - TC SEIOS DA FACE (13/12/23): MATERIAL COM SENSDADE DE PARTES MOLES OBLITERA QUASE QUE À TOTALIDADE DA CAVIDADE MAXILAR DIREITA COM ACÚMULO DE SECREÇÃO ASSOCIADO, E ESTENDE-SE AO COMPLEXO ÓSTEOMEATAL HOMOLATERAL SEM PROMOVER ALARGAMENTO MESMO, DETERMINANDO OBLITERAÇÃO DA RESPECTIVA UNIDADE ÓSTIOMEATAL, SUGERINDO PROCESSO INFLAMATORIO CRÔNICO/USUAL. ESPESSAMENTO MUCOSO, ALGO LOBULADO, NA PROJEÇÃO DO INFUNDIBULO ETMOIDAL ESQUERDO, SEM PROMOVER ALARGAMENTO DO MESMO, DETERMINANDO OBLITERAÇÃO DA RESPECTIVA UNIDADE ÓSTIOMEATAL. ESPESSAMENTO DO COMPONENTE MUCOSO DAS CONCHAS NASAIS INFERIORES COM LEVE REDUÇÃO DA COLUNA AÉREA DAS RESPECTIVAS FOSSAS NASAIS. PNEUMATIZAÇÃO E CURVATURA PARADOXAL PARCIAL DOS CORNETOS NASAIS MÉDIOS SEPTO NASAL DESVIADO PARA DIREITA, COM FORMAÇÃO DE ESPORÃO ÓSSEO QUE TOCA E DEFORMA A CONCHA NASAL INFERIOR HOMOLATERAL.
+    - TC TORAX (13/12/23): OPACIDADES SUBPLEURAIS NAS REGIÕES POSTERIORES DOS LOBOS INFERIORES, RELACIONADAS A HIPEVENTILAÇÃO. ESTRIAS FIBROATELECTASICAS PREDOMINANDO NOS LOBIS INFERIORES DE AMBOS PULMOES, DE ASPECTO RESIDUAL. HETEROGENICIDADE DO LOBO DIREITO DA TIREOIDE, A CUSTA DE TENUE NODULAÇÃO HIPODENSA. SUGERE-SE ESTUDO ESPECÍFICO.
+    - RNM ÓRBITAS - EXTERNO HICI IMAGENS (04/03/2024): NORMAL.
+    - schirmer:
+        '06/03/2024':
+          od: 8MM
+          oe: 5MM
+    - fluxo_salivar:
+      '06/03/2024': 7,907 ml/15min
+  analise: Paciente com Granulomatose com Poliangiite, sem sintomas ou sinais de atividade de doença, com queixas otológicas não compatíveis com exames objetivos. Em investigação de Síndrome de Sjogren associada, sem ainda preencher critérios classificatórios.
+  condutas:
+    - Solicito USG de Parótidas - investigação de Síndrome de Sjogren;
+    - Forneço encaminhamento para GO - Miomatose uterina, preventivo;
+    - Mantenho MMF 2g/dia - LME + Receita (CID M31.3);
+    - Mantenho Gabapentina 300mg 8/8h - LME + Receita (CID R52.1);
+    - Aguardo avaliação com a Neuroftalmologia;
+    - Oriento quanto ao uso de colírios e limpeza das pálpebras;
+    - Retorno na vaga com exames.
