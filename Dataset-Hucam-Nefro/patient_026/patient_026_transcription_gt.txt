@@ -1,0 +1,291 @@
+MÉDICA: Como é que você está, Deuzeli?
+PACIENTE: Muita dor.
+MÉDICA: Muita dor? Você não precisa ficar com vergonha. Você pode ser você mesma, tá?
+PACIENTE: Tá.
+MÉDICA: Você pode ser você mesma.
+PACIENTE: Tá, eu sei. Eu estou com muita dor.
+MÉDICA: Me conte, meu bem, como que está... Tá bom, então peraí. Você está com muita dor. Deixa eu só ver uma coisa aqui. Antes de você falar mais alguma coisa, só ler um negócio aqui rapidinho a seu respeito. Você tem essa história do Wagener, né? É... Que dor que você está sentindo?
+PACIENTE: Desse lado.
+MÉDICA: Começou?
+PACIENTE: Uns três meses atrás.
+MÉDICA: É, porque olha só, da última vez você não falou dessa dor, falou?
+PACIENTE: Não, não tava. Não tinha dor nenhuma da outra vez que eu vim. Essa dor começou há três meses atrás. Passei pela reumatologia. Já, [ininteligível] depois. Tem uns 15 dias, né, a gente veio, né? A semana passada já vim. Fiz dois exames.
+MÉDICA: Na reumatologia? Daqui?
+PACIENTE: É.
+MÉDICA: Ah, você foi na reumatologia.
+PACIENTE: Vim dia 28.
+MÉDICA: Ahn.
+PACIENTE: Isso, 28 esse mês. No mês passado, no caso.
+ACOMPANHANTE: Isso.
+PACIENTE: Aí falei que eu estava com muita dor aqui, que sentado, não aguento. Ah, alivia um pouco deitada, mas se eu pegar um pouco de peso...
+MÉDICA: A dor é onde? Levanta e me mostra.
+PACIENTE: Desse lado.
+MÉDICA: Peraí. Anh. Ela vai para baixo?
+PACIENTE: Não. Aqui, ó.
+MÉDICA: Entendi.
+PACIENTE: Não vai para baixo, não.
+MÉDICA: É muito forte? É só desse lado.
+PACIENTE: Desse lado.
+MÉDICA: É pior quando você anda? Pior quando você está...
+PACIENTE: Quando eu sento.
+MÉDICA: Pior quando senta?
+PACIENTE: Hum, sentada dói... Muito mais.
+MÉDICA: Melhor ao se deitar.
+PACIENTE: Uhum.
+MÉDICA: De forte intensidade? É?
+PACIENTE: Bastante.
+MÉDICA: Pior quando senta. Melhor ao deitar. Né? De forte intensidade. Início há quanto tempo?
+PACIENTE: Ah, já está de 3 meses. Antes de eu vir aqui já estava doendo.
+MÉDICA: Deixa eu ver o que que houve... Aí quando você foi na reumato, obviamente você falou dessa dor, né?
+PACIENTE: Falei.
+MÉDICA: Deixa eu ver aqui.
+PACIENTE: Ele olhou todos os exames que eu trouxe. Deu um remedinho para aliviar a dor. Mas que também não aliviou nada. Continuou a mesma coisa.
+MÉDICA: Pediu um raio-X da coluna.
+PACIENTE: Pediu um raio-X e outro lá de...
+MÉDICA: De densitometria.
+PACIENTE: Isso.
+MÉDICA: Passou...
+PACIENTE: Já fiz mas não tem resultado ainda.
+MÉDICA: Relaxante muscular e dipirona. Né?
+PACIENTE: Isso.
+MÉDICA: Está tomando a gapapentina.
+PACIENTE: Uhum. Passou outro também. [ininteligível] Que ele falou que o meu colesterol está muito alto.
+MÉDICA: Ezetimiba.
+PACIENTE: É uma, alguma coisa assim. Que eu não sei falar o nome.
+MÉDICA: Você está tomando?
+PACIENTE: Sim. Desde o dia que eu vim. Que ele passou e eu comecei a tomar [ininteligível].
+MÉDICA: Então teve melhora?
+PACIENTE: Com esse remédio não.
+MÉDICA: Não teve melhora nenhuma?
+PACIENTE: Não. Ontem até para andar estava ruim.
+MÉDICA: Tirando isso, está tudo bem?
+PACIENTE: Uhum.
+MÉDICA: Você bateu esse lugar? Você teve alguma... Bateu isso? Teve algum... Caiu? Aconteceu alguma coisa que você acha que foi a causa dessa dor?
+PACIENTE: Não, ela veio do nada.
+MÉDICA: Veio do nada?
+PACIENTE: Uhum.
+MÉDICA: Começou quando? Você lembra? Sabe me dizer assim? O momento que começou, você lembra?
+PACIENTE: Começou... Não sei. Eu sei que eu fui fazer meu exercício. Não consegui fazer. Aí ela mandou fazer alguns alongamentos. Não consegui fazer. Aí eu fui embora. Dali pra casa foi piorando.
+MÉDICA: Deixa eu ver os exames. Você tem exames? São os que você mostrou pro...
+PACIENTE: É. Tá ali?
+MÉDICA: Esses aqui já estão anotados.
+PACIENTE: Tenho, todos.
+MÉDICA: Tá, tá anotado.
+PACIENTE: Não sei se anotou todos, tem bastante.
+MÉDICA: Então hoje em dia, vamos lá, você está tomando, é, o Micofenolato. Está tomando quanto de Micofenolato?
+PESSOA_NÃO_RELACIONADA: paciente do... do antibiótico.
+PACIENTE: Estou tomando dois de manhã e um de noite.
+MÉDICA: Continua a mesma dose, né?
+PACIENTE: Não.
+MÉDICA: Dois de manhã.
+PACIENTE: E um de noite. De 12 em 12 horas.
+MÉDICA: Então.
+PACIENTE: Ele tirou um, eram 4 comprimidos.
+MÉDICA: Agora está tomando 3, é?
+PACIENTE: É.
+MÉDICA: Ah, então, é, você já tinha me falado isso. O Anlodipino está de manhã e de noite.
+PACIENTE: Sim.
+MÉDICA: Losartana de manhã, só.
+PACIENTE: Aham.
+MÉDICA: A gapapentina, um de manhã e um de noite.
+PACIENTE: Gabapentina?
+MÉDICA: A que você pega na farmácia cidadã.
+PACIENTE: Ah é! De 8 em 8 horas.
+MÉDICA: De 8 em 8? Tá. A insulina, você toma um, dez de dez?
+PACIENTE: Uhum.
+MÉDICA: Atorvastatina de 40. Ezetimiba agora você está tomando. Fluoxetina... é isso? E o própolis você está tomando ainda?
+PACIENTE: Ih, ah...
+ACOMPANHANTE: Não.
+PACIENTE: E a endocrinologista mandou eu tomar a furosemida.
+MÉDICA: Furosemida?
+PACIENTE: É. Eu nem falei [ininteligível] com ela.
+MÉDICA: Você está tomando a furosemida?
+PACIENTE: Sim.
+MÉDICA: Tá. Tirando essa dor, você está se sentindo bem?
+PACIENTE: Tô.
+MÉDICA: Tá. Deixa eu só ver seus exames aqui. [ininteligível].
+PESSOA_NÃO_RELACIONADA: Leandro, saiu aqui, meu senhor, o outro.
+PACIENTE: Tinha dois pedidos, né. Não sei se ela anotou o deles e o...
+MÉDICA: Deixa eu ver aí.
+PACIENTE: E o...
+MÉDICA: Ai, pelo que eu vi aqui, acho que ela anotou sim.
+PACIENTE: Esse daqui é a imagem do raio-X. O laudo eu não peguei não. Aí esse [ininteligível] aqui.
+MÉDICA: Quando que você vai na reumato de novo?
+PACIENTE: Ah. Quatro meses, eu acho. Acho que setembro, não é?
+ACOMPANHANTE: Setembro não tem nada.
+MÉDICA: Nossa, quanto exame, meu Deus. [ininteligível] glicose foi anotada. 26 [ininteligível]
+PESSOA_NÃO_RELACIONADA: [ininteligível]
+MÉDICA: Você fez tudo no mesmo dia, né?
+PACIENTE: Não.
+MÉDICA: Não?
+PACIENTE: No início do mês e no final do mês. Acho que um foi dia 12 e outro dia 27. Acho que é isso. [ininteligível]. Mesmo dia não.
+MÉDICA: É, esses raio-X aqui, aparentemente... Aparentemente não tem nada de mais. Assim, que eu esteja vendo, né? É bom ver o laudo porque se for uma coisa muito pequenininha, às vezes, só o pessoal lá que vai conseguir ver. Entendeu? Sua função renal, graça a Deus. [ininteligível]. Fazer uma continha aqui. Você fez a hepatite, a vacina de hepatite B, as 3 doses?
+PACIENTE: Uhum.
+MÉDICA: Fez?
+PACIENTE: Uhum. Quando foi pra eu fazer, eu fiz.
+MÉDICA: Anh?
+PACIENTE: Quando foi para eu fazer, eu fiz.
+MÉDICA: As 3 doses?
+PACIENTE: Aham.
+MÉDICA: Tá. Só estou avaliando aqui, tá? Ô, Deuzeli. Hoje então você está tomando Anlodipino, duas vezes ao dia, né? O Losartana, Gabapentina, a gente já falou sobre isso. [ininteligível]. Furosemida.
+PACIENTE: Tomando todos.
+MÉDICA: Você está tomando um sulfato ferroso?
+PACIENTE: Não. Eu tomei, mas parei.
+MÉDICA: Vamos voltar?
+PACIENTE: Pra quê?
+MÉDICA: Por causa da sua... Por causa da sua.. do colesterol.. da anemia. Está com o ferro um pouquinho baixo. Tá? Deixa eu te falar. A fluoxetina você está tomando dois, não está? Ou não?
+PACIENTE: A fluoxetina é o quê?
+MÉDICA: A fluoxetina.
+PACIENTE: Ah, aquele, aham.
+MÉDICA: Está tomando dois, não está?
+PACIENTE: Que ele era um, aí, depois agora está se sentido como? Aí passa para dois.
+MÉDICA: Isso, exatamente.
+PACIENTE: Aí não é pra tomar mais não?
+MÉDICA: Não, é pra tomar. Direto. Esse remédio te ajuda, né? Vamos começar o sulfato ferroso, tá bom? Recomeçar.
+PACIENTE: Eu tomei, eu tomei bastante.
+MÉDICA: Sim, mas ainda está precisando. É...
+PACIENTE: Bastante assim, depois da vez que eu vim aqui. Ah, sim, aí eu parei porque a minha receita vale só para três meses. Aí lá demora muito para marcar a doutora para pegar a receita. Eu vou agora nesse mês que vem para pegar [ininteligível]. Aí eu pego Anlodipino, pego esse. Entendeu? Pego tudo.
+MÉDICA: Entendi. Entendi.
+PACIENTE: Mas não muito tempo que eu parei não. Eu parei porque acabou e eu não consegui pegar. Mas não é porque eu parei de parar. Aham.
+MÉDICA: Tá, vamos lá. É. Sobre essa sua dor, não tem nada nos exames que justifiquem isso, tá?
+PACIENTE: É interessante, porque com a dipirona aliviava, passava bem. Agora, nem com a dipirona não tá passando, não tá aliviando nada. E a minha dor não é nada? é só uma dor?
+MÉDICA: Não sei, a gente vai pesquisar, tá? Vou te examinar. Tá bom? Pera aí só um pouquinho. Nada não é, né? Porque você tá com dor, não tá conseguindo... O laudo pro transporte tá tudo bem, não precisa de outro não, né?
+PACIENTE: Não sei.
+ACOMPANHANTE: Não, tá certo.
+PACIENTE: Tá como?
+MÉDICA: Tá certinho, né? Tá, você tá precisando da receita de atorvastatina?
+PACIENTE: Sim. É bom.
+MÉDICA: Mas do laudo também?
+PACIENTE: É, porque quando eu levo receita, eu levo o laudo lá na... Na cidadã. Aí quando eles pedem, não dá tempo de eu buscar.
+MÉDICA: Tá. Então, quer dizer que agora acrescentaram furosemida pra você?
+PACIENTE: É, a endocrinologista passou.
+MÉDICA: Um comprimido só, né?
+PACIENTE: Aham. Não. Eu vou não. Ela mandou eu tomar dois de manhã e de noite. É, pequenininha, não sei quantos miligramas, porque eu não trouxe ele não, mas... Eu tomei já de madrugadinha, quando eu saí. Aí eu não sei, quantos miligramas.
+MÉDICA: Quem foi que passou pra você?
+PACIENTE: A endocrino.
+MÉDICA: Endocrino de onde?
+PACIENTE: De lá.
+MÉDICA: Ah, tá.
+PACIENTE: Eu preciso também de um laudinho. Hehehe. Laudinho ou laudo?
+MÉDICA: Ahn.
+PACIENTE: Pra levar pra... Pra... Ela quer saber o nome da doença, que eu não sei. Quanto de água que eu posso tomar e o que que eu posso comer. Porque eu falei com ela que eu tava magra. Só que de outubro até janeiro eu engordei 5 quilos. Aí eu voltei nela e ela... em outra nutricionista, aí ela quer saber. Qual o nome da minha doença, porque que eu não posso tomar muita água, o que que eu posso comer, porque que eu voltei agora assim. Ah, mas eu falei, porque eu comi muito. Normal. Aí eu parei de ir na academia, fiquei de outubro, janeiro, fiquei... Outubro, novembro, dezembro, voltei em janeiro. Em 3 meses que eu fiquei sem ir na academia eu engordei 5 quilos.
+MÉDICA: É isso aí.
+PACIENTE: Não tem cabimento, não pode.
+MÉDICA: Mas é assim mesmo. Você está com 50 e poucos anos, minha filha. A gente não...
+PACIENTE: Rapaz, é uma facilidade pra eu engordar de... Só de olhar pra comida eu já engordo.
+MÉDICA: É, mas é você e todo mundo. Eu também sou assim. Não tem jeito não. Passou de uma certa idade.
+ACOMPANHANTE: Eu já engordei também e tá difícil.
+MÉDICA: É desse modelo. Tem que fechar a boca. Fechar a boca assim, né? Comer... De maneira...
+PACIENTE: Esse comer assim que é o difícil.
+MÉDICA: Você precisa levar... Ah não, você vem aqui.
+PACIENTE: Eu posso tomar remédio não, pra emagrecer?
+ACOMPANHANTE: Você toma.
+PACIENTE: Ela é doutora, ela sabe.
+MÉDICA: Não. Não mexe com isso não.
+PACIENTE: Um assim, pra tirar o apetite assim, tirar fome.
+MÉDICA: Não, não mexe com isso não.
+ACOMPANHANTE: Você já toma muita remédio, [ininteligível].
+PACIENTE: É, tomar mais de um não vai fazer diferença.
+MÉDICA: Você já sabe onde tá seu erro. Qual é o seu erro? Não fazer atividade física.
+PACIENTE: Fazer atividade física e fechar a boca.
+MÉDICA: Então, então. Você já sabe qual é o seu problema.
+PACIENTE: É esse daí. Daí eu sei. Daí está na mente que é isso.
+MÉDICA: Então. Você já sabe. Você já tomou codeína? Pra dor. Um remédio chamado codeína?
+PACIENTE: Não.
+MÉDICA: Tylex, alguma coisa assim?
+PACIENTE: Não. Não sei. Que eu lembre, não.
+MÉDICA: Eu vou te passar um remédio mais forte pra dor. Vou te pedir uma ressonância da coluna, tá? Beleza? Pra gente entender.
+ACOMPANHANTE: Se ela tomar esse remédio, ela não precisa tomar a dipirona, igual ela sem...
+MÉDICA: A dipirona está adiantando?
+PACIENTE: É, igual eu falei. Igual eu falei. Ela adiantava, mas nem ela tá aliviando a minha dor.
+MÉDICA: Então você vai tomar essa outra no lugar da dipirona.
+ACOMPANHANTE: [ininteligível]
+PACIENTE: E esse outrozinho?
+MÉDICA: Hum?
+PACIENTE: Esse outrozinho aqui, que fala que [ininteligível], que eu tô tomando. Continuar? Eu tomo umzinho de noite.
+MÉDICA: Essa dor vai pra baixo? Pra perna?
+PACIENTE: Não.
+MÉDICA: Não? 
+PACIENTE: Não vai. Não desce. Ela só fica aqui. E não é no buraquinho da coluna, é desse lado. Daqui pra cá.
+MÉDICA: Estou finalizando aqui já, tá?
+PACIENTE: E esse gabapentina era para dor, não é? Pra que é esse?
+MÉDICA: É para dor.
+PACIENTE: Mas por que [ininteligível] então?
+MÉDICA: Porque às vezes é uma dor. Não é que o gabapentina trata todas as dores, entendeu?
+PACIENTE: Ah, ela cata algumas.
+ACOMPANHANTE: Deixa uma sem [ininteligível]
+MÉDICA: É boa para algumas dores, né?
+PACIENTE: Ontem eu cheguei com tanta dor. Eu fui na rua, estava lá muito bem no banco, aí Beto me liga. Ah, vou almoçar em casa. Falei que tem nada lá, quando você cheguar lá, você se vira. Faz um arroz e o que tiver lá você come. Aquilo me irritou, iá. Aí cheguei em casa chorando. Mas eu não sei se foi por causa da dor, [ininteligível] muito nervoso que eu estava. Aí eu chorei. Falei você não faz nada para mim, e eu com uma dor danada. Estou na rua, [ininteligível] fica me ligando. Aí eu chorei.
+ACOMPANHANTE: Nossa Senhora. Tá vendo, quando você sente dor, você quando fica nervosa.
+PACIENTE: Hã?
+ACOMPANHANTE: Quando você fica com dor, fica nervosa. 
+PACIENTE: Nossa Senhora da Penha.
+MÉDICA: Olha, da parte renal você está estabilizada.
+PACIENTE: Eu choro de nervoso.
+MÉDICA: Você vai voltar quando aqui?
+PACIENTE: No reumato?
+MÉDICA: É.
+PACIENTE: Setembro. Não é setembro?
+ACOMPANHANTE: Aham.
+MÉDICA: Aqui você vai voltar em 4 meses aqui, tá bom? Voltar um mês antes. Peraí, deixa eu só pegar seus remédios.
+PACIENTE: Antes dele?
+MÉDICA: Você vai voltar em agosto pra mim, tá?
+ACOMPANHANTE: Não precisa voltar hoje não. Quando você vier, setembro não dá.
+PACIENTE: Vou tentar fazer aquele exame aqui também, a ressonância. Já pensou se eu tentar fazer lá? Vai sair daqui a 3 anos.
+ACOMPANHANTE: [ininteligível] mas pra ela não precisa marcar agora não. Não precisa sair daqui e marcar.
+PACIENTE: Precisa. Claro. E falar que é em agosto.
+MÉDICA: Levanta para eu ver sua dor. Deixa eu ver. Onde é?
+PACIENTE: Aqui, ó. Vai estar doendo, ó.
+MÉDICA: Com licença. Dói?
+PACIENTE: Não.
+MÉDICA: Aqui que tá doendo.
+PACIENTE: Isso.
+MÉDICA: Uma dor bem específica, né? Dói?
+PACIENTE: Não.
+MÉDICA: É bem no ponto, né?
+PACIENTE: É.
+MÉDICA: Eu vou te explicar já já. Ó, esses aqui são os exames pra próxima consulta que vai ser daqui a 4 meses. Então marca e marca no laboratório... e faz próximo. Tá?
+PACIENTE: Aham
+MÉDICA: Eu sei que você já fez vacinação de hepatite B, mas não pegou. Você vai ter que fazer de novo. Uma dose dobrada. Então você vai levar isso aqui no posto pra fazer de novo. Tá?
+PACIENTE: Sim.
+MÉDICA: É chato, mas não tem jeito. Aqui é a receita da fluoxetina. E tô começando pra você uma medicação chamada codeína, pra dor. Eu acho que tem no posto. Pelo menos aqui em Vitória tem. Não sei lá onde você mora. Essa aqui é a receita normal das medicações. Tá? Sendo que eu tô começando uma medicação nova pra você pegar na farmácia cidadã.
+PACIENTE: Na cidadã?
+MÉDICA: É, igual você pega a atorvastatina.
+PACIENTE: Ah.
+MÉDICA: Ah, esse aqui é um pedido de ressonância que eu quero que você tente marcar.
+PACIENTE: Mas e, essa daqui vai precisar de laudo. [ininteligível].
+MÉDICA: Não, calma, vou fazer. Tá aqui, ó.
+ACOMPANHANTE: Apressada.
+PACIENTE: [ininteligível] a pé. Chega lá depois e vou voltar aqui. [ininteligível] daqui a 4 meses [ininteligível].
+MÉDICA: Não, tá certo. Tem que falar mesmo, que eu poderia ter esquecido, né?
+PACIENTE: É.
+MÉDICA: Mas não esqueci não, tá aqui, ó. Tá?
+PACIENTE: Eu vou tentar marcar a ressonância ali também.
+MÉDICA: Isso, a ressonância você tenta marcar aqui.
+ACOMPANHANTE: Esse aqui é o prontuário. Esse aqui você vai levar?
+PACIENTE: Esse daqui é pra fazer os exames, na volta. Aí eu tenho que ir lá no postinho, com calma, tem que ver com calma.
+ACOMPANHANTE: Você ia lá? Nossa.
+PACIENTE: Aí eu tenho que trocar tudinho. Que se eu levar isso aqui pra carimbar, ele não carimba. Porque é daqui. Tem que ter o carimbo lá do postinho.
+ACOMPANHANTE: Uhum.
+PACIENTE: [ininteligível].
+MÉDICA: Esses exames todos que você fez, você vai levar na farmácia cidadã.
+PACIENTE: Esses velhos? Esses recentes? Uhum.
+MÉDICA: Esses recentes, você vai levar. Para você conseguir dar entrada, você vai precisar de uns exames que estão aí nesse meio. Mas aí é só você levar que eles olham e pegam, tá bom?
+PACIENTE: Uhum.
+MÉDICA: Só ficou faltando uma receita que eu acabei botando misturada, mas é da Atorvastatina. Tem que ser separado aqui.
+PACIENTE: Da ressonância está aqui.
+ACOMPANHANTE: [ininteligível].
+PACIENTE: Vê se é esse.
+ACOMPANHANTE: Vê esse aqui, Lombalgia e esse [ininteligível]. Lombalgia.
+PACIENTE: [ininteligível] Lombargia.
+MÉDICA: Lombalgia.
+PACIENTE: É, Lombalgia.
+MÉDICA: É dor.
+PACIENTE: [ininteligível].
+ACOMPANHANTE: Esse aqui é aqui, e esse aqui é lá na [ininteligível].
+MÉDICA: Pronto. Entendeu tudo certinho?
+PACIENTE: Uhum.
+MÉDICA: Só manda ali fora que eu já vou te dar. Ali de fora eu já te dou logo o... Da farmácia cidadã tá aqui. Vem cá.
+PACIENTE: A receita também, né?
+MÉDICA: A receita eu te dei.
+PACIENTE: Ah, depois você cola aí pra mim saber qual que é.
