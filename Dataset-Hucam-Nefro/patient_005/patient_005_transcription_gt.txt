@@ -126,7 +126,7 @@ MÉDICO: Depois eu vou ver. Trouxe o papel, mostrando porquê que foi negado?
 ACOMPANHANTE: Laudo médico ou exames suplementados por critérios de indicação conforme descrito acima, justificativa não...
 MÉDICO: Tá certo, eu mostro pro Dr. Leandro e ai...
 ACOMPANHANTE: Para não utilização da SINVASTATINA. Vai ter que ser desse jeito aqui pelo visto, por quê que eles ...[ininteligível]
-MÉDICO: O ùltimo exame aqui é um raio x, que eu estou vendo
+MÉDICO: O ùltimo exame aqui é um raio-X, que eu estou vendo
 ACOMPANHANTE: Também [??] ela passa em tudo qualquer cano [??] até pneumonia [??]
 MÉDICO: Pneumonia? Precisiu de internação? Precisou de internação?
 ACOMPANHANTE: Quase que precisou, tratou aqui. COmo é o nome daquela doutora que estava aqui? Antes do Doutro Leandro? Foi ela quem ajudou a passar um antibiótico. Esqueci o nome dela agora. Muito gente boa. Uma nefro. Esqueci o nome dela para falar a verdade.
@@ -264,7 +264,7 @@ ACOMPANHANTE: Quer ver? Eu tinha direitinho.
 MÉDICO: É aquela Alenia?
 ACOMPANHANTE: Beclometasona e Salbutamol, isso mesmo.
 MÉDICO: Tá certo. Mas ela usa esporadicamente?
-ACOMPANHANTE: Não, ela não usa direto, só que o que está acontecendo, ela dá... O doutor falou, ela deu asma no raio x, não sei sei se você viu ai. Aí, agora...
+ACOMPANHANTE: Não, ela não usa direto, só que o que está acontecendo, ela dá... O doutor falou, ela deu asma no raio-X, não sei sei se você viu ai. Aí, agora...
 MÉDICO: É difícil dar um diagnóstico de asma assim né?
 ACOMPANHANTE: Não, ela deu. Ela deu e falou assim...
 MÉDICO: Foi acompanhada por um pneumologista?

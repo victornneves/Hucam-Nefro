@@ -1,152 +1,155 @@
-DRC
-Creatinina
-CLCR
-TFGe
-Uréia
-Métodos Dialíticos
-Hemodiálise
-DP
-Diurese
-FG
-FAV
-MMSS
-DPOC
-Losartana
-Cozaar
-Hidralazina
-Apresolina
-Furosemida
-Lasix
-Sustrate
-Gabapentina
-Neurontin
 AAS
-Aspirina
-AS
-Dapagliflozina
-Forxiga
-Sinvastatina
-Zocor
-Sinva
-Insulina NPH
-Humulin N
-Novolin N
-Insulina Basaglar
-Basaglar KwikPen
-Sulfato
-Colecalciferol
-Vitamina D
-Metoprolol
-Lopressor
-Toprol-XL
-Metformina
-Glifage
-Glucophage
-Insulina Regular
-Humulin R
-Novolin R
-Risperidona
-Risperdal
-Diazepam
-Valium
-Amitriptilina
-Tryptanol
-Bupropiona
-Zyban
-Wellbutrin
-Levotiroxina
-Puran T4
-Euthyrox
-Atorvastatina
-Lipitor
-Atorva
-Tramadol
-Ultram
-Rosuvastatina
-Crestor
-Fenofibrato
-Lipanon
-Anlodipino
-Norvasc
-Vitamina
-Omeprazol
-Losec
-Alopurinol
-Zyloprim
-Atenolol
-Tenormin
 Acetazolamida
-Diamox
-Nesina
-Gliclazida
-Diamicron
-Doxazosina
-Cardura
-Finasterida
-Proscar
-Propecia
 Ácido Fólico
-Folacin
-Sulfato Ferroso
-Ferrograd
-Cilostazol
-Pletal
-Monocordil
-Rivaroxabana
-Xarelto
-Clopidogrel
-Plavix
-Espironolactona
 Aldactone
-Clonazepam
-Rivotril
-Citalopram
-Celexa
-Formoterol
-Oxis
-Formoterol + Budesonida
-Symbicort
-Carvedilol
-Coreg
-Ezetimiba
-Ezetrol
+Alfapoetina
+Alopurinol
+Amitriptilina
+Amitriptilina
+Anlodipino
+Apresolina
+AS
+Aspirina
+Atenolol
+Atensina
+Atorva
+Atorvastatina
+Basaglar KwikPen
+Bupropiona
 Caco3
 Carbonato de Cálcio
-Levotiroxina
-Puran
+Cardura
+Carvedilol
+Celexa
+CellCept
+Cilostazol
+Citalopram
+CLCR
+Clearance de Creatinina
+Clonazepam
+Clonidina
+Clopidogrel
+Cloridrato de clonidina
+Colecalciferol
+Coreg
+Cozaar
+Creatinina
+Crestor
+Cymbalta
+Dapagliflozina
+Diamicron
+Diamox
+Diazepam
+Dipirona
+Diurese
+Doppler de MMSS
+Doxazosina
+DP
+DPOC
+DRC
+Duloxetina
+Eritropoetina Alfa
+Espironolactona
 Euthyrox
-Vastarel
-Trimetazidina
-Sevelamer
+Euthyrox
+Ezetimiba
+Ezetrol
+FAV
+Fenofibrato
+Ferrograd
+FG
+Finasterida
+Fluoxetina
+Folacin
+Formoterol
+Formoterol + Budesonida
+Forxiga
+Furosemida
+Gabapentina
+Gliclazida
+Glifage
+Glucophage
+H.pylori
+HCQ
+Hemodiálise
+Hidralazina
+Hidroxicloroquina
+Hiperparatireoidismo Secundário
+Histerectomia
+Humulin N
+Humulin R
+Insuficiência Renal Crônica (IRC)
+Insulina Basaglar
+Insulina NPH
+Insulina Regular
+Lasix
+Levotiroxina
+Levotiroxina
+Lipanon
+Lipitor
+Lopressor
+Losartana
+Losec
+Lyrica
+Metformina
+Métodos Dialíticos
+Metoprolol
+MMF
+MMSS
+Mofetil micofenolato
+Monocordil
+Mononitrato de isossorbida
+Nesina
+Neurontin
+Norvasc
+Novalgina
+Novolin N
+Novolin R
+Omeprazol
+Oxis
+Plaquenil
+Plavix
+Pletal
+Pregabalina
+Propecia
+Proscar
+Proteinúria
+Prozac
+Puran
+Puran T4
+Quetiapina
 Renagel
 Renvela
-Dipirona
-Novalgina
-Alfapoetina
-Eritropoetina Alfa
-Duloxetina
-Cymbalta
-Fluoxetina
-Prozac
-Quetiapina
+Risperdal
+Risperidona
+Rivaroxabana
+Rivotril
+Rosuvastatina
 Seroquel
-Hidroxicloroquina
-Plaquenil
-HCQ
-Mofetil micofenolato
-CellCept
-MMF
-Cloridrato de clonidina
-Clonidina
-Atensina
-Pregabalina
-Lyrica
-Amitriptilina
-Tryptanol
-Doppler de MMSS
-Clearance de Creatinina
-Proteinúria
-Insuficiência Renal Crônica (IRC)
+Sevelamer
 Síndrome Nefrótica
-Hiperparatireoidismo Secundário
-
+Sinva
+Sinvastatina
+Sulfato
+Sulfato Ferroso
+Sustrate
+Symbicort
+Tenormin
+TFGe
+Toprol-XL
+Tramadol
+Trimetazidina
+Tryptanol
+Tryptanol
+Ultram
+Uréia
+Valium
+Varízes
+Vastarel
+Vitamina
+Vitamina D
+Wellbutrin
+Xarelto
+Zocor
+Zyban
+Zyloprim

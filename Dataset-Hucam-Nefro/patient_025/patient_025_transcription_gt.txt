@@ -1,0 +1,233 @@
+PACIENTE: De vinho, é uma confusão, quem pode trazer, quem não pode. Ah, é isso que eu fico nervosa.
+MÉDICO: Só não me chame lá na sua casa tomar um café.
+PACIENTE: Pois é, você vai lá me consultar?
+MÉDICO: Se eu fosse, se eu fosse convidado.
+PACIENTE: Ai, minha, você está ouvindo.
+ACOMPANHANTE: É, aó nós vamos convidar, né, dona Dalva?
+MÉDICO: Se eu fosse convidado, eu iria lá. Eu iria lá, tomava um café, te consultava. E ia sair melhor que a senhora, entendeu?
+PACIENTE: Falando nisso, você mora onde?
+MÉDICO: Se eu falar onde eu moro, você não acredita, você não vai acreditar. Eu moro em Aracruz, menina.
+PACIENTE: Menino!
+MÉDICO: Você vê que eu
+PACIENTE: Olha, menina, Aracruz. Está vendo?
+MÉDICO: Eu acordo cedo pra vim te ver.
+PACIENTE: Coitado.
+MÉDICO: Se você está reclamando de vir me ver, imagina eu, minha filha.
+PACIENTE: Não, eu não reclamo de vir te ver. Eu reclamo quando às vezes eu não consigo as pessoas pra me trazer.
+MÉDICO: Ah
+PACIENTE: Entendeu? É igual no dia de exame. Você está pedindo direto o gaso. É um, é um, é um tratamento, né? Tem que pedir. Aí se eu trago uma criança igual eu trouxe aquele meu neto, como é que ele vai entrar dentro do hospital?
+MÉDICO: Entendi.
+PACIENTE: Não é?
+MÉDICO: Entendi. Está certo. Vem cá, como é que você está, meu amor? Tudo bem?
+PACIENTE: Está tudo bem.
+MÉDICO: Tranquila?
+PACIENTE: O que que deu aí? Nos
+MÉDICO: Calma, mulher. Eu estou ainda vendo. Você nem espera molhar o bico, credo.
+PACIENTE: É, Louro José?
+MÉDICO: Ein, me conta uma coisa aqui. A senhora, está se sentindo bem? Como é que está?
+PACIENTE: Tô.
+MÉDICO: Tudo certo? Está, né?
+PACIENTE: Doutor, a única coisa que eu estou sentindo, que eu não sei se é dessa especialidade. Quando eu levanto, parece que eu tomei um goró.
+MÉDICO: Por quê? Está ficando tonta?
+PACIENTE: Estou. Só na hora de levantar.
+MÉDICO: Mediu a pressão nessas horas aí?
+PACIENTE: Aham. Está ok.
+MÉDICO: Está ok?
+PACIENTE: Está.
+MÉDICO: Aham. [ininteligível].
+PACIENTE: Está como se fosse uma crise de labirintite?
+MÉDICO: [ininteligível]. Aham. Entendi. Mas a pressão que você mede está normal?
+PACIENTE: Está normal.
+MÉDICO: Normal, né?
+PACIENTE: Uhum.
+MÉDICO: Certo. Beleza. Me conta uma coisa aqui. Os remédios que a senhora toma, mudou alguma coisa? Não.
+PACIENTE: Mudou o quê? Na...
+MÉDICO: Da última consulta para cá?
+PACIENTE: Não. Você só aumentou a dosagem, que era dois, passou para três.
+MÉDICO: O que, meu amor?
+PACIENTE: Aquele que toma no almoço, no café da manhã.
+MÉDICO: O carbonato de cálcio, provavelmente, né?
+PACIENTE: Isso. Isso.
+MÉDICO: Aumentei para três comprimidos três vezes por dia, não foi isso?
+PACIENTE: Isso, foi.
+MÉDICO: O restante está tudo normal?
+PACIENTE: No caso [ininteligível] deixou eu voltar aquele que é uma vez na semana, que a endócrino falou que eu não podia parar de tomar porque eu sou bariátrica.
+MÉDICO: Aham.
+PACIENTE: Aí eu voltei a tomar. E o Puran, que o Puran, graças a Deus, foi para cinquenta.
+MÉDICO: Aham. Tá, então, revendo os seus remédios aqui, a gente teve Puran, foi pra 50mg agora. Furosemida que você usa de manhã.
+PACIENTE: Com Anlodipino.
+MÉDICO: De manhã com a Anlodipino, isso.
+PACIENTE: Isso. E Anlodipino à tarde.
+MÉDICO: À tarde também. Fluoxetina, de manhã.
+PACIENTE: Fluoxetina.
+MÉDICO: Bicarbonato, está tomando?
+PACIENTE: Bicarbonato todo dia.
+MÉDICO: Uma colher por dia.
+PACIENTE: Isso.
+MÉDICO: Carbonato de cálcio 3,3,3 e a vitamina, e a Sinvastatina, um comprimido à noite.
+PACIENTE: Justo.
+MÉDICO: Justo. Gente, mas você está ótima, né? Pelo amor de Deus do céu,
+PACIENTE: Graças a Deus
+MÉDICO: Graças a Deus. Me conta aqui, como é que está?
+ACOMPANHANTE: E esse Tiamina?
+MÉDICO: Hã? Tiamina também.
+PACIENTE: Também.
+MÉDICO: Também usa, né? Tiamina e B12, não é isso?
+PACIENTE: Isso.
+MÉDICO: Tá. Me conta uma coisa. A senhora... É... [ininteligível] A senhora tem medido a pressão em casa?
+ACOMPANHANTE: Tenho.
+MÉDICO: Tem, né? Beleza. E me conta uma coisa. O fósforo, que é derivado daqueles alimentos ricos em fósforo: leite, queijo, derivados...
+PACIENTE: Você cortou?
+MÉDICO: Cortou?
+PACIENTE: Cortou.
+MÉDICO: Tá. O fósforo deu uma subidinha ainda, tá?
+PACIENTE: Deu ainda?
+MÉDICO: Deu. Vamos botar o braço aqui, por favor. Mais... E o carbonato de cálcio, está usando direitinho?
+PACIENTE: Estou.
+MÉDICO: Tá. Três comprimidos cada refeição.
+PACIENTE: Três comprimidos.
+MÉDICO: Ela faz tudo direitinho, né?
+PACIENTE: Eu faço, né? A minha menina fala assim... Mãe, pra que esses três comprimidos? Eu falo, ué, está na receita.
+MÉDICO: Isso aí. Isso aí, Dalvinha. Vamos medir a pressão agora. Você tem medida de pressão em casa?
+PACIENTE: Tenho.
+MÉDICO: Tem? Pressão 15 por 8 agora, tá? No caso ela está ficando como, Dalvinha?
+PACIENTE: Está 12 por 8.
+MÉDICO: É?
+ACOMPANHANTE: É. Ela está ansiosa.
+PACIENTE: É, deve ser.
+MÉDICO: Sem chá, sem nada, está tudo certo, né? Olha só, os exames da senhora, graças a Deus, eles estão super estáveis em relação à disfunção renal. A gente tem uma disfunção renal importante, uma DRC já estágio 5, mas que está sob controle, graças à Deus, junto com a dieta principalmente, tudo bem?
+PACIENTE: Uhum.
+MÉDICO: A única questão são algumas coisas que a gente vai precisar ajustar aqui. Por exemplo, a sinvastatina que a senhora usa um comprimido à noite, eu vou aumentar para dois, pra gente melhorar o controle do colesterol. A noite também, juntos.
+PACIENTE: Sinvastatina.
+MÉDICO: Você vai tomar os dois juntos. Tá? E o fósforo que deu também uma subidinha, mas essa subida do fósforo só me impede de fazer um outro tipo de tratamento para a senhora aqui. Esse é o principal questão do fósforo, tá? Então, tentar regular ainda mais essa parte da alimentação relacionada ao fósforo. Queijo, leite, derivados do leite, tudo isso, tá bom?
+PACIENTE: Tá bom.
+MÉDICO: Mas, não é que o fósforo está muito alto, mas é que talvez não está respondendo tanto a esse carbonato de cálcio, tá? O que que eu vou fazer? Eu vou pedir para a senhora um raio-x de mãos e quadril, para a gente poder ver se a gente vai ter que trocar esse carbonato de cálcio por um outro remédio. Tudo bem? Combinado? Beleza? Aí eu vou estar pedindo para a senhora. Tá bom?
+PACIENTE: Tá bom.
+MÉDICO: Dos restantes dos remédios, eu não vou mexer no remédio de pressão, tá? Porque o remédio de pressão, a senhora está falando que está ficando tonta em casa, e a pressão está ficando boa, eu vou acreditar mais na pressão em casa do que aqui no consultório,
+PACIENTE: Aham.
+MÉDICO: Que está de 15. E vitamina D, a senhora está usando?
+PACIENTE: Eu comprei aquele ABC.
+MÉDICO: O que que é ABC?
+PACIENTE: É uma vitamina.
+MÉDICO: Ih, tem que trazer para eu ver, hein?
+PACIENTE: É?
+MÉDICO: ABC? Que vitamina é essa?
+PACIENTE: É vitamina D. B, sei lá.
+MÉDICO: Mas não é só... Não é só...
+PACIENTE: No vidro está escrito ABC.
+MÉDICO: Ah, meu pai, lá vamos nós. ABC. Tem que saber qual que é a composição dele.
+PACIENTE: É.
+MÉDICO: 13 vitaminas, 9 minerais. Tem que ter a composição. Vitamina D, micrograma, 5 microgramas? Um tablete.
+PACIENTE: E tomei aquelas injeções que a doutora manda. Que é vitamina também.
+MÉDICO: Qual injeção?
+PACIENTE: É que é quem é bariátrico que toma, citro, não sei o que o nome.
+MÉDICO: Ah tá. Mas essa vitamina aqui, a doutora... A endócrina que passou?
+PACIENTE: Isso, a endócrina.
+MÉDICO: Essa ABC aqui?
+PACIENTE: Não, foi falar da vitamina e eu comprei.
+MÉDICO: Não, não, não, não. Não, não, não, não. Não quero que tome ela não, tá?
+PACIENTE: Então tá.
+MÉDICO: Quero que a senhora tome a vitamina D, que eu vou passar a receita para a senhora, tá bom? Beleza? [ininteligível].
+PACIENTE: Tá bom. E está quase acabando.
+MÉDICO: [ininteligível]. Mas a vitamina D que eu passei para a senhora, qual que, a senhora está tomando ou não?
+PACIENTE: Ué, eu chego lá na farmácia, e falo com o moço que quero a vitamina.
+MÉDICO: Anh, tá.
+PACIENTE: Porque tem remédio que não dá no posto, então tem que comprar. Igual eu compro essa de 3 comprimidos, que é o cálcio, né?
+MÉDICO: Aham.
+PACIENTE: Aí compro o que é uma vez na semana.
+MÉDICO: Vamos lá. Restante dos exames, uma anemia, anemia de 11.9 [ininteligível]. Beleza. Ó, restante dos exames, dona Dalva, tá tudo muito bem. Tá bom? Beleza, meu amor?
+PACIENTE: Tá.
+MÉDICO: A vitamina D tá normal, mas a gente vai manter reposição.
+PACIENTE: Aham
+MÉDICO: Eu vou refazer a receita da senhora. Tudo bem? Combinado?
+PACIENTE: Uhum.
+MÉDICO: Beleza? O retorno da senhora aqui vai ser em 45 dias, tá? Vou te dar uma mini folga pra mim aí, tá bom?
+PACIENTE: É, né. Maio, junho, julho, agosto.
+MÉDICO: Isso.
+PACIENTE: 45 dias.
+MÉDICO: 45 dias não, minha filha. Maio a agosto. Você está contando 3 meses, menina.
+ACOMPANHANTE: Não. [ininteligível]. Menos.
+MÉDICO: Um pouquinho menos. Metade de junho, aí.
+PACIENTE: Junho, é.
+MÉDICO: Tá? Você tá querendo ficar longe ficar de mim mesmo, né Dalva?
+PACIENTE: Eu não.
+MÉDICO: Pelo amor de Deus.
+PACIENTE: Contei, ó. 30, 60. É, metade de junho.
+MÉDICO: Receita a senhora vai precisar, né?
+PACIENTE: Vou.
+MÉDICO: A senhora, quanto mais longe ficar de mim, mais a senhora quer, né? E eu aqui morrendo de saudade da senhora e você, ó, nem lembra.
+ACOMPANHANTE: Dona Dalva [ininteligível] vale à pena.
+PACIENTE: Vale à pena.
+MÉDICO: Você nem lembra de mim.
+PACIENTE: Eu dependo do anjo da guarda. Já pensou, se não estivesse chovendo, ela não estava hoje comigo.
+MÉDICO: Ah, é?
+PACIENTE: Que ela ia viajar.
+MÉDICO: Hm.
+PACIENTE: Mas aí São Pedro falou não.
+MÉDICO: Eu vou ajudar a Dalva.
+PACIENTE: Vou ajudar a Dalva. Vai chover e ela vai.
+ACOMPANHANTE: É.
+MÉDICO: Ia para a praia?
+PACIENTE: Ia para a roça.
+ACOMPANHANTE: Não, eu ia para Minas mesmo.
+PACIENTE: Para Minas.
+MÉDICO: Ah tá.
+ACOMPANHANTE: Aí está chovendo, o pessoal desistiu. Dizem que está chovendo esse feriado.
+MÉDICO: Ah, é?
+ACOMPANHANTE: É, pelo menos na previsão do tempo, em Belo Horizonte está com 50 milímetros de água.
+MÉDICO: Sério?
+ACOMPANHANTE: É que choveu na serra, nossa. Voltei hoje seis horas, tarde. Oito achei pouco.
+PACIENTE: [ininteligível] deixou você lá em Praia Grande.
+MÉDICO: Rapaz, destruiu Praia Grande, tá?
+PACIENTE: Não é?
+MÉDICO: Eu passei lá.
+PACIENTE: Meu menino falou, mãe, acabou Praia Grande.
+MÉDICO: Eu passei lá.
+ACOMPANHANTE: Esteve hoje [ininteligível].
+MÉDICO: Vamos lá. Receitinha da Dalvinha. Vamos ver o que essa Dalvinha está usando. Pra gente fazer a receitinha dela.
+ACOMPANHANTE: Eu preciso arrumar um vidro de outra cor para poder botar o remédio dela.
+MÉDICO: Anlodipino de 12 em 12. Bicarbonato, a senhora está tomando...
+PACIENTE: Uma colherzinha.
+MÉDICO: Uma colherzinha de chá, uma vez por dia, certo?
+PACIENTE: Isso. Eu tomo junto, na hora que eu tomo comprimido, eu tenho que tomar água mesmo.
+MÉDICO: Furosemida de manhã, o Puran que agora é 50. Sinvastatina, que agora vão ser duas sinvastatinas à noite, ok?
+PACIENTE: Uhum.
+MÉDICO: Tiamina, B12 e o carbonato de cálcio que a gente vai manter, correto?
+PACIENTE: Correto.
+MÉDICO: Só ver aqui, espera lá. Aumenta a sinvastatina a 40. E o colecalciferol de 7 mil uma vez por semana. O colecalciferol de 7 mil.
+PACIENTE: Ainda bem que esse 700 aí que você falou, ele é pequenininho, que ele tem que tomar dois.
+MÉDICO: É.
+PACIENTE: Ele é tão pequenininho.
+ACOMPANHANTE: [ininteligível].
+PACIENTE: Não.
+MÉDICO: Vai vitamina D. Mas a senhora vai tomar uma vez por semana agora.
+PACIENTE: É, uma vez só.
+MÉDICO: Não, mas vai ser um comprimido uma vez por semana.
+PACIENTE: Ah, só um?
+ACOMPANHANTE: Graças a Deus.
+MÉDICO: Só um comprimido, tá?
+PACIENTE: Tá bom.
+MÉDICO: Beleza? Não vai precisar tomar dois não, tudo bem?
+PACIENTE: Tá bom.
+ACOMPANHANTE: Então abaixou a dosagem. 
+MÉDICO: Abaixei a dosagem, isso. Tá?
+PACIENTE: Era mil e pouco, né?
+MÉDICO: Era mil e pouco, era 7 mil por comprimido. Isso. Aí agora eu baixei para uma, 7 mil por semana, né? A senhora estava tomando 14 mil por semana.
+PACIENTE: É isso que eu queria falar, 14 eu falei mil e pouco, é 14.
+MÉDICO: Isso, isso.
+PACIENTE: 77 só é 14.
+MÉDICO: Isso, exatamente. Ó, o retorno da senhora vai ser em 45 dias, beleza? Eu vou lá pegar aqui os seus exames, eu vou lá pegar as receitas da senhora, tá bom?
+PACIENTE: Tá bom.
+MÉDICO: Só um minutinho. Vamos lá, Dalvina. Meu amor, olha só. Esse aqui é um pedido de raio-X que a gente vai fazer, tá bom? Marca lá nas casinhas lá. Mãos e bacia, tá? Aqui. Aqui são as suas receitas.
+PACIENTE: E cá, se demorar pode fazer particular?
+MÉDICO: Pode. Aqui são as receitas da senhora. Lembrando que da receita, o que mudou é que a senhora vai tomar agora a sinvastatina.
+PACIENTE: Dois comprimidos.
+MÉDICO: Dois comprimidos à noite. E a vitamina D é um comprimido por semana.
+PACIENTE: E no caso, amanhã é dia de eu tomar. Eu tomo um só.
+MÉDICO: Isso aí, isso aí. E aqui o retorno com os exames em 45 dias para marcar. Tudo bem? Combinado?
+PACIENTE: Saindo daqui, já vou no laboratório e marco.
+MÉDICO: Isso aí. Tudo certo, Dalvinha?
+PACIENTE: Tudo certo, meu amor.
+MÉDICO: Vai com Deus, meu anjo. Tudo de bom para a senhora.
+PACIENTE: Feliz Páscoa.
+MÉDICO: Foi um prazer ver a senhora novamente. Feliz Páscoa. Tudo de bom, viu?
