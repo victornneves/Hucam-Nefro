@@ -21,7 +21,7 @@ def preprocess_text(text):
 
 def get_speakers(patient_id):
     patient_id = f"{patient_id:03}"
-    gt_file = f"Dataset-Hucam-Nefro/patient_{patient_id}/patient_{patient_id}_transcription_gt.txt"
+    gt_file = f"/mnt/external8tb/datasets/Dataset-Hucam-Nefro/patient_{patient_id}/patient_{patient_id}_transcription_gt.txt"
     with open(gt_file) as fp:
         lines = fp.readlines()
     speakers = [x.split(':')[0] for x in lines]
@@ -30,12 +30,12 @@ def get_speakers(patient_id):
 
 results = []
 
-# for patient in range(1, 17):
-for patient in [17]:
+# for patient in [17]:
+for patient in range(17, 27):
     print(f"Processing paciente {patient}")
-    with open(f"Dataset-Hucam-Nefro/patient_{patient:03d}/patient_{patient:03d}_transcription_gt.txt", "r") as f:
+    with open(f"/mnt/external8tb/datasets/Dataset-Hucam-Nefro/patient_{patient:03d}/patient_{patient:03d}_transcription_gt.txt", "r") as f:
         ground_truth = f.read()
-    with open(f"Dataset-Hucam-Nefro/patient_{patient:03d}/patient_{patient:03d}_transcription_{PASS}_pass.txt", "r") as f:
+    with open(f"/mnt/external8tb/datasets/Dataset-Hucam-Nefro/patient_{patient:03d}/patient_{patient:03d}_transcription_{PASS}_pass.txt", "r") as f:
         prediction = f.read()
     
     # replace {'MÉDICA_AUXILIAR', 'MÉDICA_SUPERVISOR', 'MÉDICO_SUPERVISOR', 'ASSISTENTE', 'MÉDICO', 'MÉDICA'} by 'MEDIC_TEAM'
@@ -50,8 +50,16 @@ for patient in [17]:
         "patient": patient,
     }
     
+    for line in ground_truth.splitlines():
+        try:
+            line.split(": ", 1)[1]
+        except:
+            print(line)
+            exit()
+    
     ground_truth_clean = " ".join([line.split(": ", 1)[1] for line in ground_truth.splitlines()])
     ground_truth_clean = preprocess_text(ground_truth_clean)
+
     
     prediction_clean = " ".join([line.split(": ", 1)[1] for line in prediction.splitlines()])
     prediction_clean = preprocess_text(prediction_clean)
