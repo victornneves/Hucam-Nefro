@@ -1,13 +1,20 @@
+```yaml
 hipoteses_diagnosticas:
     estagio_drc:
         idade_paciente: 43 anos
         sexo_paciente: Feminino
-        creatinina: 1.47 mg/dL
-        grau: 3 
-        albuminuria: 3
-        funcao_rim_atual: 57.4417 ml/min/1.73m²
-    etiologia_doença_de_base: Diabetes tipo 2 com complicações micro e macrovasculares
-conduta:
-    - Ajuste da dose de insulina para 10 unidades pela manhã e 6 unidades à noite. Início do uso de inibidor de SGLT2 para melhor controle glicêmico e gestão da doença renal. Reintrodução de losartana para auxiliar na redução da perda de proteína urinária. Monitoramento da acidose e possível reposição de bicarbonato. Continuar acompanhamento com endocrinologista em abril e com especialista vascular. Solicitar exame de urina de 24 horas e outros exames laboratoriais para monitoramento. Próxima consulta em 3 meses para avaliação dos ajustes de medicamentos e resposta ao tratamento."
-impressão: 
-    - Diabetes mellitus tipo 2 com controle glicêmico inadequado e complicações vasculares periféricas e renais. Doença renal crônica estágio 3. Retinopatia diabética em acompanhamento."
+        creatinina: 1,47 mg/dL
+        grau: 3a
+        albuminuria: 
+        funcao_rim_atual: 53.94 ml/min/1.73m²
+    etiologia_doença_de_base: Doença renal diabética com complicações micro e macrovasculares, retinopatia e doença vascular periférica
+conduta: 
+    - Aumentar a dose de insulina para 10 unidades pela manhã e 6 unidades à noite.
+    - Iniciar o uso de medicação da classe SGLT2.
+    - Reiniciar o uso de Losartan 50 mg uma vez ao dia para uso diário.
+    - Realizar monitoramento do nível de bicarbonato e ajustar conforme necessário.
+    - Realizar novo exame de urina de 24 horas.
+    - Marcar consulta com endocrinologista para abril de 2025.
+    - Agendar nova consulta para acompanhamento em 3 meses, com necessidade de repetição dos exames laboratoriais antes da consulta.
+impressão: Paciente com doença renal crônica associada ao diabetes tipo 2, apresentando complicações vasculares e retinopatia diabética. Controle glicêmico inadequado evidenciado pela hemoglobina glicada elevada. Anemia leve e acidose metabólica presentes. Recomendação de ajustes na terapia medicamentosa e necessidade de acompanhamento multidisciplinar.
+```
