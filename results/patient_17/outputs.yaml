@@ -1,20 +1,11 @@
-```yaml
 hipoteses_diagnosticas:
     estagio_drc:
         idade_paciente: 43 anos
         sexo_paciente: Feminino
         creatinina: 1,47 mg/dL
         grau: 3a
-        albuminuria: 
-        funcao_rim_atual: 53.94 ml/min/1.73m²
-    etiologia_doença_de_base: Doença renal diabética com complicações micro e macrovasculares, retinopatia e doença vascular periférica
-conduta: 
-    - Aumentar a dose de insulina para 10 unidades pela manhã e 6 unidades à noite.
-    - Iniciar o uso de medicação da classe SGLT2.
-    - Reiniciar o uso de Losartan 50 mg uma vez ao dia para uso diário.
-    - Realizar monitoramento do nível de bicarbonato e ajustar conforme necessário.
-    - Realizar novo exame de urina de 24 horas.
-    - Marcar consulta com endocrinologista para abril de 2025.
-    - Agendar nova consulta para acompanhamento em 3 meses, com necessidade de repetição dos exames laboratoriais antes da consulta.
-impressão: Paciente com doença renal crônica associada ao diabetes tipo 2, apresentando complicações vasculares e retinopatia diabética. Controle glicêmico inadequado evidenciado pela hemoglobina glicada elevada. Anemia leve e acidose metabólica presentes. Recomendação de ajustes na terapia medicamentosa e necessidade de acompanhamento multidisciplinar.
-```
+        albuminuria: 1
+        funcao_rim_atual: 50.81 ml/min/1.73m²
+    etiologia_doença_de_base: Diabetes Mellitus Tipo 2 com complicações micro e macrovasculares
+conduta: Aumentar a dose de insulina: 10 unidades pela manhã e adicionar 6 unidades à noite. Iniciar terapêutica com SGLT2 e retomar o uso de Losartana para manejar a Doença Renal Diabética (DRD) e reduzir a proteinúria. Monitorar os níveis de potássio e reposição de bicarbonato. Programar retorno com endocrinologista para abril e solicitar novos exames, incluindo exame de urina de 24 horas. Próximo acompanhamento em 3 meses.
+impressão: Paciente com doença renal avançada devido ao diabetes mellitus, má-gestão glicêmica com risco de agravamento das complicações microvasculares, o que inclui retinopatia diabética e doença vascular periférica. A abordagem terapêutica se concentra em otimizar o controle glicêmico, preservar a função renal remanescente e tratar hipertensão e proteinúria.

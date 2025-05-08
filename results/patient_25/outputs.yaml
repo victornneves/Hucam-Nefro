@@ -1,0 +1,11 @@
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 68 anos
+        sexo_paciente: Feminino
+        creatinina: 4,87 mg/dL
+        grau: 5
+        albuminuria: 3
+        funcao_rim_atual: 10.81 ml/min/1.73m²
+    etiologia_doença_de_base: Doença Renal Policística
+conduta: A paciente deve continuar com os medicamentos prescritos, incluindo o aumento da dose de Sinvastatina para duas unidades à noite. É fundamental que mantenha a reposição de vitamina D conforme a nova receita. A dieta deve ser ajustada para redução do fósforo, possivelmente substituindo o carbonato de cálcio por outro medicamento após exame de raio-X. A pressão arterial e a tontura devem ser monitoradas; não há ajuste nos medicamentos para pressão no momento. Recomenda-se o retorno para consulta em 1,5 meses (45 dias) para avaliação da função renal, manutenção da dieta e revisão de sintomas. Novos exames de sangue e urina são necessários antes da próxima consulta.
+impressão: A paciente apresenta doença renal crônica estágio 5, com quadro de doença renal policística, o que justifica sua disfunção renal avançada. Os sintomas e exames laboratoriais evidenciam a necessidade de ajustes na medicação e controle rigoroso da dieta e do tratamento suplementar.

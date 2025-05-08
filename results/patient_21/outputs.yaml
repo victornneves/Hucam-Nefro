@@ -1,0 +1,15 @@
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 78 anos
+        sexo_paciente: Feminino
+        creatinina: 1.67 mg/dL
+        grau: 3b
+        albuminuria: 2
+        funcao_rim_atual: 36.21 ml/min/1.73m²
+    etiologia_doença_de_base: Doença renal crônica secundária ao diabetes
+conduta:
+  - Ajustar a medicação para a pressão arterial, considerando a pressão atual de 160x 80 mmHg.
+  - Continuar o acompanhamento trimestral.
+  - Reavaliar função renal em 3 meses com novos exames de creatinina e microalbuminúria.
+  - Consultar o nutricionista para reforço do plano alimentar.
+impressão: A paciente apresenta controle adequado das comorbidades associadas, como diabetes e hipertensão, porém mantém insuficiência renal crônica com função renal reduzida, necessitando ajustes medicamentosos e acompanhamento contínuo.

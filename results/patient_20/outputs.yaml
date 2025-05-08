@@ -1,0 +1,23 @@
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 66 anos
+        sexo_paciente: masculino
+        creatinina: 3,34 mg/dL
+        grau: 4
+        albuminuria: 
+        funcao_rim_atual: 27.76 ml/min/1.73m²
+    etiologia_doença_de_base: Nefropatia Diabética
+conduta:
+    Recomendações:
+        - Interromper o uso de carbonato de cálcio.
+        - Iniciar a administração de cloridina a cada 12 horas para melhor controle da pressão arterial.
+        - Continuar com as demais medicações conforme prescrição atual.
+        - Evitar consumo de leite devido à elevação dos níveis de fósforo.
+        - Consultar um nutricionista para ajustes na dieta.
+    Exames:
+        - Coleta de novos exames laboratoriais em dois meses.
+        - Realizar raio-X conforme solicitado.
+    Seguimento:
+        - Retorno em 2 meses para reavaliação da função renal e do controle da pressão arterial.
+impressão:
+    O paciente apresenta doença renal crônica estágio 4, provavelmente associada à nefropatia diabética. A função renal está comprometida, e o controle da pressão arterial requer ajuste medicamentoso. Necessário monitoramento rigoroso da função renal e dos eletrólitos, especialmente fósforo e cálcio.
