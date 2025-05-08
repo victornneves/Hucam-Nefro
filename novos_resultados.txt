@@ -1,12 +1,13 @@
+OpenBio Llama 70B: médico 1 = GT, médico 2 = PRED
+Deepseek: médico 1 = PRED, médico 2 = GT
+
 OpenBio Llama 70B
 paciente 17  
 
 Etiologia:
     17 1. The two opinions are quite different, but both are plausible. 2. The first opinion suggests 3b A?, which is an incomplete diagnosis and does not provide enough information to determine plausibility. 3. The second opinion states diabetes type 2 with micro and macrovascular complications, which is consistent with the patient's history of diabetes, kidney disease, and peripheral vascular disease.  Therefore, the score is Different_Both_Correct.
-
 Conduta:
-    I would score it as 'Different_Both_Correct'. Although the two opinions are distinct, both are plausible given the clinical context of the patient and the discussion during the consultation. The first opinion emphasizes the importance of managing blood glucose levels with insulin and dapagliflozin, while also addressing the need for losartan to reduce proteinuria. The second opinion suggests similar adjustments in insulin dosage, initiation of an SGLT2 inhibitor, and restarting losartan. Both opinions also mention the need for further investigation and monitoring. Therefore, while the opinions differ in some details, both are reasonable and reflect an understanding of the patient's complex medical condition
-    
+    17  As opiniões são muito diferentes, mas ambas são plausíveis.  Diana tem uma doença renal proveniente de diabetes e complicações micro e macrovasculares. A opinião 1 sugere aumentar a dose de insulina e iniciar o uso de dapagliflozina (um SGLT2) para gerenciar as complicações da doença renal diabética e reduzir a perda de proteína na urina. Além disso, a opinião 1 também menciona o início do uso de losartana para controlar a pressão arterial e reduzir a perda de proteína.  Já a opinião 2 concorda com a necessidade de aumentar a dose de insulina e iniciar o uso de SGLT2 (neste caso, sem especificar o nome do medicamento), mas não menciona a losartana. Em vez disso, a opinião 2 enfatiza a importância de monitorar a função renal e ajustar a terapia de acordo com os resultados dos exames.  Ambas as opiniões consideram a necessidade de melhorar o controle glicêmico    
 Impressão:
     The two medical opinions are sufficiently similar and both are plausible. The patient has diabetes mellitus type 2 with inadequate glycemic control and complications including peripheral vascular disease and chronic kidney disease stage 3. The patient is also being followed up for diabetic retinopathy. Therefore, the correct score is Aligned_Correct.
 
@@ -15,28 +16,140 @@ Deepseek
 paciente 17
 
 Etiologia:
-    Different_Both_Correct:
-        As opiniões divergem no estágio da DRC (3b vs. 3a), mas isso reflete variações temporais nos exames. Ambas são plausíveis.
-        Quanto à etiologia, a Opinião 1 é mais precisa ao especificar nefropatia diabética, enquanto a Opinião 2 é genérica, mas não incorreta.
+    Aligned_Correct
 Conduta:
-
-    Aligned_Correct: As opiniões são suficientemente semelhantes e ambas são plausíveis.
-	
+    Aligned_Correct
 Impressão:
-    Conclusão:
-    	Como apenas uma opinião foi fornecida, não há comparação possível. No entanto, a Opinião 2 é altamente plausível e precisa, refletindo as melhores práticas em nefrologia para DRC diabética. Se outra opinião fosse fornecida, poderíamos avaliar similaridade e coerência.
-    Score Aplicável: *N/A* (apenas uma opinião disponível).
+    Aligned_Correct
 
 
-Metrics
-All:
-	1 & 0.96 & 0.75 & 0.87 & 0.81 \\
-	Mean & 0.96 & 0.75 & 0.87 & 0.81 \\
-Patients:
-	1 & 0.90 & 0.61 & 0.80 & 0.69 \\
-	Mean & 0.90 & 0.61 & 0.80 & 0.69 \\
-Medics:
-	1 & 0.96 & 0.68 & 0.83 & 0.75 \\
-	Mean & 0.96 & 0.68 & 0.83 & 0.75 \\
-	
-	
+OpenBio Llama 70B
+paciente 18
+
+Etiologia:
+    18  As opiniões são muito diferentes e nenhuma delas é plausível.  O paciente tem doença renal crônica causada por diabetes e está em acompanhamento com um nefrologista. Ele tem anemia e houve uma interrupção no uso de alfapoetina. O medicamento será solicitado novamente, pois o anterior venceu após seis meses sem uso. Ele também tem hiperfosfatemia persistente, apesar de seguir uma dieta orientada. Será aberto um processo relativo ao quelante de fósforo, além de um processo para Sevelamer. O paciente apresenta dislipidemia, com LDL acima do alvo, e será aumentado a dose de rosuvastatina. Ele tem hiperpotassemia assintomática, que não exige tratamento. O paciente não tem acidose. Embora a função renal esteja estável, algumas complicações precisam ser controladas. Foi decidida a diálise peritoneal e o médico fará a documentação para o encaminhamento. Os medicamentos atuais serão mantidos.  Portanto, a resposta é: Different_Both_Incorrect.
+Conduta:
+    18  I would score it as Different_opinions_Both_Correct. Both opinions are feasible, and they both have valid points regarding the patient's conditions and treatments.
+Impressão:
+    18  The two medical opinions are mostly aligned and correct. Both physicians agree on the main points such as the need for a diet change, the use of Sevelamer for hyperphosphatemia, and the adjustment of Rosuvastatina dosage. They also mention the importance of monitoring and managing the patient's anemia and diabetes. The first physician emphasizes the need for a thorough evaluation of the patient's condition before starting dialysis, while the second physician focuses more on the management of specific lab values and medications. However, there is a slight difference in the dosage of Rosuvastatina mentioned by the two physicians.  Based on this analysis, the correct score is:  Aligned_Correct.
+
+
+Deepseek
+paciente 18
+
+Etiologia:
+    Aligned_Correct
+Conduta:
+    Aligned_Correct
+Impressão:
+    Aligned_Correct
+
+
+OpenBio Llama 70B
+paciente 19
+
+Etiologia:
+    19  As opiniões são suficientemente semelhantes e ambas são plausíveis.
+Conduta:
+    19 Different_first_Correct. The two opinions are quite different, but the first one is plausible given the clinical context of the patient and the consultation conversation.
+Impressão:
+    19  The two opinions are sufficiently similar and both are plausible. The first opinion mentions good blood pressure control, which is also mentioned in the second opinion as "manteer as medicações de uso contínuo". Both opinions agree on the absence of anemia and mention the need for new exams after six months. They also both mention the maintenance of current medications and the plan for the patient to travel. Therefore, the score is Aligned_Correct.
+
+
+Deepseek
+paciente 19
+
+Etiologia:
+    Different_Both_Correct
+Conduta:
+    Aligned_Correct
+Impressão:
+    Aligned_Correct
+
+
+OpenBio Llama 70B
+paciente 20
+
+Etiologia:
+    20  Different_Both_Incorrect
+Conduta:
+    20  (Different_opinions_Correct)
+Impressão:
+    20  The two medical opinions are sufficiently similar and both are plausible.
+
+
+Deepseek
+paciente 20
+
+Etiologia:
+    Aligned_Correct
+Conduta:
+    Different_Both_Correct
+Impressão:
+    Aligned_Correct
+
+
+OpenBio Llama 70B
+paciente 21
+
+Etiologia:
+    21  Different_Both_Correct.
+Conduta:
+    21  The two opinions are sufficiently similar and both are plausible. Therefore, the score is Aligned_Correct.
+Impressão:
+    21  A opinião médica 1 inclui o início do uso de Anlodipino 5mg à noite para a pressão arterial, enquanto a opinião médica 2 sugere ajustar a medicação para a pressão arterial atual. Ambas as opiniões mencionam a necessidade de acompanhamento nutricional e reavaliar a função renal.  Baseado nestas informações, meuscore para a similaridade entre as duas opiniões é: Different_Both_Correct.
+
+
+OpenBio Llama 70B
+paciente 22
+
+Etiologia:
+    22  As opiniões médicas são muito diferentes, mas ambas são plausíveis. A opinião 1 destaca a doença renal crônica do paciente e a necessidade de controle do diabetes. Já a opinião 2 menciona o tratamento com vários medicamentos e a importância da nutrição e monitoramento. Ambas as opiniões consideram a saúde renal do paciente, mas abordam diferentes aspectos. Portanto, o score mais apropriado é Different_Both_Correct.
+Conduta:
+    22  The two medical opinions are quite different in terms of their focus and recommendations.   In the first opinion, the doctor mentions that the patient has chronic kidney disease (CKD) stage 3A without complications related to renal pathology. The doctor suggests controlling and monitoring the patient's condition in an ambulatory setting (U
+Impressão:
+    22  Different_first_Correct. The two opinions are quite different, but the first one is more plausible given the clinical context of the patient and the conversation during the consultation.
+
+
+OpenBio Llama 70B
+paciente 23
+
+Etiologia:
+    23  (1) The two opinions are very different, but both are plausible.
+Conduta:
+    23  I would rate this consultation as 'Different_Both_Correct'. The two medical opinions are distinct but both are plausible given the patient's clinical context. The first opinion focuses on the need for nutritional evaluation and adjusting medication dosage, while the second opinion emphasizes the importance of drug treatment and control of glycaemia. Both opinions address valid concerns and suggest appropriate interventions for the patient's condition.
+Impressão:
+    23  Different_Both_Correct: As opiniões são muito diferentes, mas ambas são plausíveis.
+
+
+OpenBio Llama 70B
+paciente 24
+
+Etiologia:
+    24  The two medical opinions are sufficiently similar and both are plausible. Therefore, the score is Aligned_Correct. Both opinions emphasize the importance of regular monitoring and control of the patient's chronic kidney disease, considering her age, history of hypertension, diabetes, and dyslipidemia. The need for adherence to medication, vaccination, and periodic laboratory tests is also highlighted in both opinions. Although the second opinion provides more detailed information about the patient's current health status and treatment plan, the core messages regarding the management of her chronic kidney disease are consistent with the first opinion. Hence, both opinions are aligned and correct in their assessment and recommendations for the patient's condition.
+Conduta:
+    24  The two opinions are very different, but both are plausible. The first opinion focuses on the patient's vaccination record and requests the patient to return with examination results in two months. The second opinion mentions various medical conditions and procedures related to the patient's renal function and overall health, including monitoring blood pressure and glucose levels, regular medical check-ups, and the need for further examinations such as ultrasound and blood tests. Both opinions demonstrate a concern for the patient's health and provide reasonable recommendations based on the information provided. Therefore, the score is Different_Both_Correct.
+Impressão:
+    24  The two medical opinions are sufficiently similar and both are plausible. The first opinion mentions the need for the patient to bring their vaccination card, undergo some tests, and return in two months. The second opinion also emphasizes the importance of monitoring the patient's health regularly, mentions specific tests, and provides some general health advice. Both opinions prioritize the patient's ongoing health monitoring and emphasize the need for follow-up. Therefore, the score is Aligned_Correct.
+
+
+OpenBio Llama 70B
+paciente 25
+
+Etiologia:
+    25  Based on the information provided, it is difficult to evaluate the alignment and correctness of the two medical opinions without more specific details and context. The provided text appears to be a summary of a clinical consultation and includes various medical terms, but it lacks the necessary information to make a proper assessment.  In order to evaluate the alignment and correctness of the two medical opinions, it would be essential to have access to the complete clinical notes, laboratory results, and a thorough understanding of the patient's medical history and current condition.  Without these critical elements, it is not possible to determine whether the opinions are similar or different, or whether they are plausible given the context. Therefore, I cannot provide a score or justify a specific answer based solely on the information provided.
+Conduta:
+    25  The two medical opinions differ in some aspects but are mostly aligned. Both opinions agree on the need for further evaluation and possible changes in medication. However, there are discrepancies in the specific recommendations.  Based on the patient's clinical context, including the difficulties in finding transportation for hospital visits, tinnitus upon standing up, normal blood pressure, increased levels of phosphorus, and stable renal function, it is plausible that both opinions are correct in recommending further evaluation and potential changes in medication.  However, without more detailed information about the patient's current symptoms, recent test results, and previous treatment response, it is challenging to definitively align or differentiate the two opinions.  Therefore, the score for this alignment is Different_Both_Correct.
+Impressão:
+    25 
+
+
+OpenBio Llama 70B
+paciente 26
+
+Etiologia:
+    26  Based on the information provided, I will analyze and score the two medical opinions.  First, let's assess the similarity or difference between the two opinions:  - Opinião Médica 1 suggests investigations for Sjogren's syndrome and provides specific medications and referrals. - Opinião Médica 2 focuses on medication adjustments, including immunosuppressants and gabapentina, with an emphasis on monitoring renal function and glycemic control. It also suggests adjustments in furosemida dosage if needed, and recommends strict control of cholesterol levels.  The two opinions have different approaches, so they are not sufficiently similar.  Now, let's assess the plausibility of each opinion given the clinical context of the patient:  - Opinião Médica 1: The investigation for Sjogren's syndrome may be relevant considering the patient's symptoms and the need for further evaluation. However, it does not specifically address the patient's current issues with medication side effects and the need for adjustment.  - Opinião Médica 2: This opinion directly addresses the patient's concerns by suggesting medication adjustments and monitoring specific parameters such as renal function and glycemic control. It also offers a comprehensive approach to managing cholesterol levels.  Based on the analysis
+Conduta:
+    26  Different_first_Correct. The two opinions are very different, and only the first one is plausible.
+Impressão:
+    26  Based on the clinical context provided, the two medical opinions are sufficiently similar and both are plausible. The key points of agreement include the need to review current medications, especially immunosuppressants and gabapentina, with adjustments as necessary. Both opinions also emphasize the importance of monitoring renal function and glycemic control. Additionally, there is agreement on the need to control cholesterol levels with atorvastatina and consider adjustments or inclusion of ezetimiba. Finally, both opinions recommend scheduling a follow-up visit after conducting new laboratory tests to monitor proteinuria and renal function.  Therefore, the score is Aligned_Correct.
