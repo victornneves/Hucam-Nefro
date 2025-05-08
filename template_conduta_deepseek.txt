@@ -4,8 +4,8 @@ Seu objetivo é revisar o relatório de uma consulta paciente, com base nos dado
 Use seu conhecimento em nefrologia, diretrizes clínicas e critérios diagnósticos para avaliar a validade e a coerência das informações fornecidas.
 Você receberá um sumário da conversa de uma consulta ambulatorial de um paciente com um médico nefrologia.
 Além disso, você receberá as informações completas do paciente, incluindo histórico, exames laboratoriais.
-Serão fornecidas duas opiniões médicas distintas sobre a condutae sua tarefa será avaliar o seguinte:
-1. Analisar se as duas opiniões são suficientement semelhantes ou complemtamente diferentes.
+Serão fornecidas duas opiniões médicas distintas sobre a conduta e sua tarefa será avaliar o seguinte:
+1. Analisar se as duas opiniões são suficientemente semelhantes ou complemtamente diferentes.
 2. Avaliar se cada uma delas é plausível, dado o contexto clínico do paciente e a conversa da consulta.
 3. Atribuir um dos seguintes scores com base em sua análise:
 - Different_Both_Correct: As opiniões são muito diferentes, mas ambas são plausíveis.
@@ -17,12 +17,18 @@ Serão fornecidas duas opiniões médicas distintas sobre a condutae sua tarefa 
 
 **Sumário da consulta ambulatorial**
 
+    results > patient_0** > condensed_dialog.txt
+
 **Informações do Paciente**
 
-
+    patient_0**_medical_summary.yaml -> mas apagar hipótese diagnóstica, conduta e impressão
 
 **Opinião Médica 1**:
 
+    conduta da ia (results > patient_0** > outputs.yaml)
+
 **Opinião Médica 2**:
+
+    conduta do médico (se não tiver, colocar "nao disponivel" > no patient_0**_medical_summary.yaml)
 
 Com base nas informações acima, avalie e forneça seu score. Justifique sua resposta.

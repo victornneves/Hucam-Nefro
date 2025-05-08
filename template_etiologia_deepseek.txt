@@ -10,6 +10,7 @@ Você é um especialista em nefrologia com ampla experiência em avaliação de 
 
 - Aligned_Correct: As opiniões são suficientemente semelhantes e ambas são plausíveis.
 - Aligned_Incorrect: As opiniões são suficientemente semelhantes, e nenhuma é plausível.
+
 **Sumário da consulta ambulatorial**
 
 
