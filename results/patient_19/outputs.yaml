@@ -1,0 +1,11 @@
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 75 anos
+        sexo_paciente: Feminino
+        creatinina: 2,02 mg/dL
+        grau: 4
+        albuminuria: 3
+        funcao_rim_atual: 19,52 ml/min/1.73m²
+    etiologia_doença_de_base: Dano anterior devido ao uso de anti-inflamatórios e pneumonia por herpes zóster
+conduta: Manter as medicações atuais. Evitar exageros na dieta durante a viagem de 5 meses. Realizar novos exames após o retorno em seis meses. Retorno agendado para seis meses. Receita médica fornecida para levar na viagem.
+impressão: A paciente apresenta doença renal crônica estável, sem intercorrências recentes. A hipertensão está controlada. Consulta retorno em seis meses após viagem tranquila.

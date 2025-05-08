@@ -1,0 +1,13 @@
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 74 anos
+        sexo_paciente: feminino
+        creatinina: 1.2 mg/dL
+        grau: 3a
+        albuminuria: 1
+        funcao_rim_atual: 44.39 ml/min/1.73m²
+    etiologia_doença_de_base: Diabetes mellitus tipo 2 e hipertensão
+
+conduta: Continuar uso dos medicamentos atuais, incluindo Glibenclamida, Metformina, Rosuvastatina, Natrilix, Losartana e Amlodipino. Iniciar uso de sulfato ferroso para tratar anemia leve. Introduzir Apagliflozina, que pode ser benéfica para a saúde renal e controlar diabetes. Reforçar adesão às orientações nutricionais e monitorar pressão arterial em casa. Agendar retorno para novas avaliações em 3 meses. Solicitar novos exames de função renal, hemoglobina glicada, e perfil lipídico antes da próxima consulta.
+
+impressão: Paciente com diabetes mellitus tipo 2 e hipertensão, apresentando dano renal crônico, provavelmente devido ao mau controle de diabetes e hipertensão ao longo dos anos. Importante monitoramento contínuo dos níveis pressóricos e glicídicos para prevenção de progressão da doença renal.

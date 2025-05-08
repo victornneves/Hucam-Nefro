@@ -63,7 +63,7 @@ def get_field(summary, field):
 
 def get_summary(patient_id):
     with open(
-        f"Dataset-Hucam-Nefro/patient_{patient_id:03d}/patient_{patient_id:03d}_medical_summary.yaml"
+        f"/mnt/external8tb/datasets/Dataset-Hucam-Nefro/patient_{patient_id:03d}/patient_{patient_id:03d}_medical_summary.yaml"
     ) as fp:
         return yaml.safe_load(fp)
 
@@ -194,7 +194,7 @@ def derive_outputs(condensed_dialog, summary_fields):
 def load_dialog(patient_id):
     PASS = "first"
     with open(
-        f"Dataset-Hucam-Nefro/patient_{patient_id:03d}/patient_{patient_id:03d}_transcription_{PASS}_pass.txt",
+        f"/mnt/external8tb/datasets/Dataset-Hucam-Nefro/patient_{patient_id:03d}/patient_{patient_id:03d}_transcription_{PASS}_pass.txt",
         "r",
     ) as f:
         prediction = f.read()
@@ -259,8 +259,8 @@ def save_results(patient_id, condensed_dialog, outputs):
 
 
 def main():
-    for patient_id in [17]:
-    # for patient_id in range(1, 17):  # Process all patients
+    # for patient_id in [17]:
+    for patient_id in range(26, 27):  # Process all patients
         print(f"Processing patient {patient_id}...")
         process_patient(patient_id, load_condensed=True)
 

@@ -1,0 +1,13 @@
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 50 anos
+        sexo_paciente: masculino
+        creatinina: 3,01 mg/dL
+        grau: 4
+        albuminuria: 2
+        funcao_rim_atual: 21.40 ml/min/1.73m²
+    etiologia_doença_de_base: Diabetes Mellitus tipo 2 insulino-dependente e hipertensão arterial sistêmica
+conduta: >
+    Manter medicação atual, incluindo insulina lispro, insulina glargina, losartana, hidroclorotiazida, rosuvastatina, anlodipino, furosemida, colecalciferol. Reiniciar o uso de Eprex (eritropoetina) devido à anemia. Iniciar Sevelamer para controlar a hiperfosfatemia, tomar um comprimido durante as refeições principais. Monitorar níveis de potássio e fósforo. Acompanhar níveis de hemoglobina glicada, glicemia e pressão arterial periodicamente. Encaminhar para consulta de avaliação para diálise peritoneal e preparar documentação necessária. Acompanhamento em 2 meses com revisão de exames, incluindo creatinina, urina, hemoglobina, fósforo e glicada. Manter dieta com restrição de fósforo e potássio. Instruir o paciente a buscar apoio na Farmácia Cidadã para facilitar a obtenção dos medicamentos necessários.
+impressão: >
+    O paciente apresenta doença renal crônica estágio 4 secundária a diabetes mellitus e hipertensão. Apesar da função renal comprometida, o quadro está estabilizado. As complicações associadas como anemia e hiperfosfatemia estão sendo geridas adequadamente com medicação e dieta. A pressão arterial e os níveis glicêmicos estão relativamente controlados. 

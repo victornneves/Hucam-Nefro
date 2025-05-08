@@ -1,0 +1,11 @@
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 78 anos
+        sexo_paciente: feminino
+        creatinina: 1,23 mg/dL
+        grau: 3b
+        albuminuria: 
+        funcao_rim_atual: 42.94 ml/min/1.73m²
+    etiologia_doença_de_base: Hipertensão arterial sistêmica e diabetes mellitus
+conduta: Continuar o monitoramento regular da pressão arterial e controle glicêmico rigoroso. Revisar o uso dos medicamentos atuais, especialmente os que podem afetar a função renal, como a furosemida, e ajustar conforme necessário com atenção especial ao estágio atual da doença renal. Manter o acompanhamento cardiológico regular após marcapasso. Agendar ultrassom abdominal, exame de sangue, urina e de imagem como solicitado, e realizar novo fundo de olho para avaliação do estado atual. Retornar em 2 meses com os resultados dos exames solicitados para avaliação e ajustes no tratamento, se necessário.
+impressão: Doença renal crônica estágio 3b, secundária principalmente à hipertensão de longa data e controle subótimo do diabetes mellitus. Importância de cuidado multidisciplinar contínuo, incluindo cardiologia devido a marcapasso e necessitando de avaliação regular e ajustes terapêuticos.

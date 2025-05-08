@@ -1,0 +1,16 @@
+hipoteses_diagnosticas:
+    estagio_drc:
+        idade_paciente: 52 anos
+        sexo_paciente: FEMININO
+        creatinina: 2,4 mg/dL
+        grau: 4
+        albuminuria: 3
+        funcao_rim_atual: 19.434929687230946 ml/min/1.73m²
+    etiologia_doença_de_base: Glomerulonefrite crescêntica em fase esclerosante pauci-imune
+conduta: 
+    - Revisar medicações em uso, mantendo os imunossupressores e ajustando a dosagem da gabapentina conforme necessário, dando ênfase no acompanhamento da função renal e do controle glicêmico.
+    - Considerar ajuste da dose de prescrição de furosemida para controlar edema ou sintomas associados.
+    - Manter controle rigoroso dos níveis de colesterol com atorvastatina e avaliar a necessidade de incluir ou ajustar a ezetimiba.
+    - Agendar seguimento em 3 meses, após realização de novas análises laboratoriais incluindo função renal completa (ureia, creatinina, albumina), perfil lipídico e exame de urina com relação proteína/creatinina para monitorar a albuminúria.
+    - Recomendar fisioterapia se necessário para manejo da dor, focando em exercícios que não sobrecarreguem a coluna.
+impressão: Paciente com diagnóstico de glomerulonefrite crescêntica pauci-imune levando a progressão para doença renal crônica estágio 4. Sintomas de dor crônica e colesterol elevado estão sendo controlados, porém a estabilidade renal e o monitoramento contínuo são cruciais.
