@@ -5,7 +5,6 @@ import numpy as np
 from pydub import AudioSegment
 from pydub.utils import make_chunks
 from pydub.effects import compress_dynamic_range
-import queue
 
 # TO DO (quando/se necessário): configurar o ALSA para evitar underrun
 
@@ -18,6 +17,7 @@ def aplicar_preprocessamento(chunk):
                    .set_channels(1)       # Garante mono
                    .set_frame_rate(16000) # Taxa de amostragem ideal
                    )
+        
         # 2. Dynamic range compression
         processed = compress_dynamic_range(
             processed,
@@ -65,7 +65,6 @@ def transcrever_audio_stream(caminho_audio):
             
             for i, chunk in enumerate(chunks):
 
-                # Aplicar pré-processamento
                 chunk_processado = aplicar_preprocessamento(chunk)
 
                 # Converter para formato de reprodução correto
@@ -78,7 +77,7 @@ def transcrever_audio_stream(caminho_audio):
                 except Exception as e:
                     print(f"AVISO: Reprodução não disponível - {str(e)}")
 
-                # Processar com Whisper com configurações específicas para PT-BR médico
+                # Processar com Whisper
                 resultado = model.transcribe(
                     samples,
                     language='pt',
