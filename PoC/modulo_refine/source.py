@@ -1,6 +1,7 @@
 import os
 from openai import OpenAI
 import dotenv
+import glob
 
 dotenv.load_dotenv()
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
@@ -62,6 +63,14 @@ def save_processed_transcription(output_path, content):
         f.write(content)
 
 
+# Lista todos os arquivos de chunk em ordem numérica
+def get_chunk_files(patient_dir):
+    chunk_files = glob.glob(os.path.join(patient_dir, "patient_*_consult_audio_chunk_*.txt"))
+    # Ordena numericamente pelo número do chunk
+    chunk_files.sort(key=lambda x: int(x.split('_')[-1].split('.')[0]))
+    return chunk_files
+
+
 def process_all_files():
     # Cria o diretório base 'refined' se não existir
     os.makedirs("data/refined", exist_ok=True)
@@ -69,16 +78,17 @@ def process_all_files():
     # for i in range(19, 27):
     for i in [18]:
         patient_id = f"{i:03}"
+        patient_dir = os.path.join(DATASET_DIR, patient_id)
 
-        # Verifica se o arquivo de entrada existe
-        whisper_file = f"{DATASET_DIR}/{patient_id}/patient_{patient_id}_consult_audio_chunk_10.txt"
-        if not os.path.exists(whisper_file):
-            print(f"Arquivo de entrada não encontrado: {whisper_file}")
+        # Verifica se diretório do paciente existe
+        if not os.path.exists(patient_dir):
+            print(f"Patient {patient_dir} directory not found")
             continue
 
-        # Output files for each pass
-        output_file = f"data/refined/{patient_id}/patient_{patient_id}_refined_transcription.txt"
+        # # Output files for each pass
+        # output_file = f"data/refined/{patient_id}/patient_{patient_id}_refined_transcription.txt"
 
+        # Carrega primer e informações uma vez por paciente
         primer = load_primer(PRIMER_PATH)
         speakers = get_speaker(patient_id)
         primer = f"{primer}\n\nOs participantes da conversa são: {', '.join(speakers)}"
@@ -86,29 +96,35 @@ def process_all_files():
         if i in [4, 5, 21]:
             primer = f"{primer}\n\nEssa consulta é feita com um médico residente, por volta do meio da consulta entra em cena o MEDICO_SUPERVISOR que repassa o trabalho do médico residente."
 
-        with open(whisper_file, "r", encoding="utf-8") as fp:
-            transcription = fp.read()
+        # Obtém todos os chunks em ordem
+        chunk_files = get_chunk_files(patient_dir)
 
-            chunks = split_into_chunks(
-                transcription, max_length=MAX_TOKENS - len(primer) // 4
-            )
+        if not chunk_files:
+            print(f"Nenhum chunk encontrado para o paciente {patient_id}")
+            continue
 
-            results = []
-
-            for idx, chunk in enumerate(chunks):
-                print(f"Processing chunk {idx + 1}/{len(chunks)}...")
-                first_result = process_transcription(primer, chunk)
-                if first_result:
-                    results.append(first_result)
-                else:
-                    results.append("[ERROR PROCESSING CHUNK]")
-
-            # Save the results of each pass
-            save_processed_transcription(
-                output_file, "\n".join(results)
-            )
-
-            print(f"Saved first pass to {output_file}")
+        # Processa cada chunk em ordem
+        for chunk_file in chunk_files:
+            # Extrai número do chunk do nome do arquivo
+            chunk_num = os.path.basename(chunk_file).split('_')[-1].split('.')[0]
+            
+            # Define arquivo de saída
+            output_file = f"data/refined/{patient_id}/patient_{patient_id}_refined_transcription_chunk_{chunk_num}.txt"
+            
+            # Processa o chunk
+            with open(chunk_file, "r", encoding="utf-8") as fp:
+                transcription = fp.read()
+                chunks = split_into_chunks(transcription, MAX_TOKENS - len(primer)//4)
+                
+                results = []
+                for idx, chunk in enumerate(chunks):
+                    print(f"Parte {idx + 1}/{len(chunks)}: processando chunk {chunk_num}...")
+                    result = process_transcription(primer, chunk)
+                    results.append(result if result else "[ERRO NO PROCESSAMENTO]")
+                
+                # Salva resultado refinado
+                save_processed_transcription(output_file, "\n".join(results))
+                print(f"Transcrição refinada salva em: {output_file}")
 
 
 if __name__ == "__main__":
