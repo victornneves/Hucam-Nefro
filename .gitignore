@@ -173,3 +173,5 @@ dev.py
 dev.ipynb
 
 *.wav
+PoC/transcriptions/*
+PoC/*.txt
