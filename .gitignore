@@ -173,5 +173,7 @@ dev.py
 dev.ipynb
 
 *.wav
-PoC/transcriptions/*
+PoC/modulo_transcribe/data/transcriptions*
+PoC/modulo_refine/data/refined*
+PoC/modulo_condense/data/condensed*
 PoC/*.txt

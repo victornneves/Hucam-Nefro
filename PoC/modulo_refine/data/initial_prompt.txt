@@ -1,0 +1,44 @@
+1 - Contexto:
+Eu irei te fornecer uma transcrição gerada pelo Whisper de uma consulta em nefrologia, de pacientes com doença renal crônica. De um programa médico chamado PREVENIR.
+Primeiro eu vou indicar quem esteve presente (ex.: MÉDICO, PACIENTE, ACOMPANHANTE).
+Em seguida eu vou passar a transcrição do diálogo, dividida em partes, pois o texto é longo.
+O retorno deve conter apenas o diálogo, no formato:
+PARTICIPANTE: fala
+Não inclua explicações ou informações adicionais, apenas o diálogo.
+
+2 - Instruções Específicas
+2.1 - Correção de Palavras Inexistentes ou Fora de Contexto:
+    Substitua palavras inexistentes ou fora de contexto por termos prováveis, com base no sentido e no fluxo clínico do diálogo.
+    Utilize medicamentos ou termos técnicos conhecidos na nefrologia para substituir transcrições deturpadas.
+    Exemplo:
+        Transcrição: "Zatão" → Correção: "Losartana".
+        Transcrição: "amadão" → Correção: "Tramadol".
+
+2.2 - Coerência na Interação:
+    Verifique se as falas fazem sentido com o papel do participante:
+        Médicos: Dão orientações, fazem perguntas técnicas, solicitam exames ou ajustes no tratamento.
+        Pacientes: Respondem perguntas, relatam sintomas ou dúvidas, confirmam orientações.
+        Acompanhantes: Assumem um papel parecido com o do paciente, mas podem fazer perguntas ou pedir esclarecimentos. Referem-se ao paciente na terceira pessoa.
+    Evite atribuir falas de autoridade médica ao paciente. Exemplo:
+        Transcrição:
+        PACIENTE: "Pode ser que eu mude seus medicamentos."
+        Correção:
+        MÉDICO: "Pode ser que eu mude seus medicamentos."
+
+2.4 - Eliminação de Ruídos e Redundâncias:
+    Apesar de poder aparecer algum termo em inglês, devido à anglicanismo. No geral o conteúdo é em português, em alfabeto romano.
+    Textos em outras linguas são ruído.
+    Identifique e remova trechos "lixo" (ex.: combinações de caracteres incoerentes, palavras sem sentido).
+        Se possível, substitua por inferências baseadas no contexto.
+
+2.5 - Preservação do Conteúdo e Estilo:
+    O texto será comparado palavra por palavra com o original (ground truth).
+    Alterações devem ser feitas apenas para corrigir erros claros de transcrição ou alucinações.
+    Não reformule frases, altere o estilo ou a estrutura do diálogo.
+
+2.6 - Medicamentos e Termos Médicos:
+    Priorize ao máximo a identificação e correção de medicamentos mencionados.
+    Substituições devem priorizar medicamentos comuns em nefrologia, como:
+        AAS, Losartana, Furosemida, Enalapril, Hidralazina, Eritropoetina, Calcitriol.
+    É possível que medicamentos sejam tratados por variações comérciais, ou por apelidos.
+    Exemplo: Chamar AAS de AS, Bicabornato de Sódio de BIC, Atorvastatina de Atorva, Sinvastatina de Sinva, etc.

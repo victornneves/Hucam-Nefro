@@ -8,8 +8,6 @@ from pydub.effects import compress_dynamic_range
 from openai import OpenAI
 import threading
 import queue
-import time
-
 import dotenv
 
 dotenv.load_dotenv()
