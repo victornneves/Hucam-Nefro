@@ -1,5 +1,4 @@
 from flask import Flask, jsonify, request
-import requests
 import os
 
 app = Flask(__name__)
@@ -7,10 +6,7 @@ app = Flask(__name__)
 # Base directory where transcriptions are stored
 BASE_DIR = "data/refined"
 
-api_whisper_ip = "http://localhost:5000"
-
 @app.route('/getRefineChunk', methods=['GET'])
-
 def get_refined_chunk():
     # Get parameters from query string
     patient = request.args.get('patient')
@@ -27,25 +23,31 @@ def get_refined_chunk():
     except ValueError:
         return jsonify({"error": "chunkNumber must be an integer"}), 400
 
-    url = api_whisper_ip + f"/getWhisperChunk?patient={patient}&chunkNumber={chunk_number}"
+    # Format patient number with leading zeros
+    patient_str = f"{int(patient):03d}"
+    directory = os.path.join(BASE_DIR, patient_str)
 
-    with requests.Session() as s:
-        result = s.get(url)
-        result = result.json()
-        print(result["content"])
+    # Check if directory exists
+    if not os.path.exists(directory):
+        return jsonify({"error": f"Patient {patient} refined data not found"}), 404
+    
+    chunk_filename = f"patient_{patient_str}_refined_transcription_chunk_{chunk_number}.txt"
+    chunk_path = os.path.join(directory, chunk_filename)
 
-    refined_content = result["content"]
+    if not os.path.exists(chunk_path):
+        return jsonify({
+            "error": f"Refined chunk {chunk_number} not found for patient {patient}"
+        }), 404
 
-    # fazer- ao inves retoar result["content"]
-    # retornar o refined do gpt
-
+    with open(chunk_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+    
     return jsonify({
-        "content": refined_content
+        "patient": patient,
+        "chunks_number": chunk_number,
+        "content": content
     })
 
-    
 if __name__ == '__main__':
     app.run(host='localhost', port=5050, debug=True)
-
-
-
+    

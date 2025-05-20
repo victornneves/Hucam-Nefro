@@ -106,8 +106,14 @@ def process_all_files():
         # Processa cada chunk em ordem
         for chunk_file in chunk_files:
             # Extrai número do chunk do nome do arquivo
-            chunk_num = os.path.basename(chunk_file).split('_')[-1].split('.')[0]
+            chunk_num = int(os.path.basename(chunk_file).split('_')[-1].split('.')[0])
             
+            '''para processar a partir de determinado (ex.: chunk 14)'''
+            # # MODIFICAÇÃO TEMPORÁRIA: processa apenas chunks a partir do 14
+            # if chunk_num < 14:
+            #     print(f"Pulando chunk {chunk_num} (processando apenas a partir do chunk 14)")
+            #     continue
+
             # Define arquivo de saída
             output_file = f"data/refined/{patient_id}/patient_{patient_id}_refined_transcription_chunk_{chunk_num}.txt"
             
