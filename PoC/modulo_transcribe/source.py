@@ -55,7 +55,22 @@ def transcrever_audio_stream(paciente, chunksize=15):
         
         concatenated_text = ""
 
+        '''para processar a partir de determinado (ex.: chunk 37)'''
+        # # Carrega o texto já transcrito até o chunk 36 (se existir)
+        # try:
+        #     if os.path.exists(os.path.join(output_dir, f"patient_{paciente:03d}_consult_audio_chunk_36.txt")):
+        #         with open(os.path.join(output_dir, f"patient_{paciente:03d}_consult_audio_chunk_36.txt"), "r", encoding="utf-8") as f:
+        #             concatenated_text = f.read() + " "
+        # except:
+        #     pass
+
         for i, chunk in enumerate(chunks):
+
+            '''para processar a partir de determinado (ex.: chunk 37)'''
+            # # MODIFICAÇÃO TEMPORÁRIA - Pula chunks antes do 37
+            # if i < 37:
+            #     print(f"Pulando chunk {i} (processando apenas a partir do chunk 37)")
+            #     continue
             
             chunk_processado = aplicar_preprocessamento(chunk)
 
