@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Consulta Médica - Nefrologia</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #f5f7fa;
+      color: #333;
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 1.5rem;
+      margin-bottom: 20px;
+      color: #2c3e50;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    .audio-player {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      background: #fff;
+      padding: 15px;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      margin-bottom: 30px;
+    }
+
+    .timeline {
+      flex: 1;
+      height: 6px;
+      background: #ddd;
+      position: relative;
+      border-radius: 4px;
+    }
+
+    .progress {
+      position: absolute;
+      height: 100%;
+      background: #3498db;
+      width: 60%;
+      border-radius: 4px;
+    }
+
+    .main-content {
+      display: flex;
+      gap: 20px;
+    }
+
+    .section {
+      flex: 1;
+    }
+
+    .section-title {
+      font-size: 1.2rem;
+      margin-bottom: 10px;
+      font-weight: 600;
+      color: #2980b9;
+    }
+
+    .card {
+      background: white;
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+      margin-bottom: 20px;
+    }
+
+    .info-paciente p {
+      margin: 10px 0;
+      font-size: 1rem;
+    }
+
+    .chat-container {
+      height: 400px;
+      overflow-y: auto;
+      margin-bottom: 15px;
+      padding-right: 10px;
+    }
+
+    .message {
+      margin-bottom: 15px;
+      max-width: 80%;
+    }
+
+    .question {
+      background: #e3f2fd;
+      padding: 10px 15px;
+      border-radius: 18px 18px 18px 0;
+      margin-left: 0;
+      margin-right: auto;
+    }
+
+    .answer {
+      background: #f0f4f8;
+      padding: 10px 15px;
+      border-radius: 18px 18px 0 18px;
+      margin-left: auto;
+      margin-right: 0;
+      border: 1px solid #dfe6ec;
+    }
+
+    .input-area {
+      display: flex;
+      gap: 10px;
+    }
+
+    #question-input {
+      flex: 1;
+      padding: 10px 15px;
+      border: 1px solid #ddd;
+      border-radius: 20px;
+      font-family: 'Inter', sans-serif;
+    }
+
+    #send-button {
+      background: #3498db;
+      color: white;
+      border: none;
+      border-radius: 20px;
+      padding: 10px 20px;
+      cursor: pointer;
+      font-weight: 600;
+    }
+
+    #send-button:hover {
+      background: #2980b9;
+    }
+
+    .loading {
+      display: none;
+      text-align: center;
+      color: #7f8c8d;
+      margin: 10px 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Consulta Médica - Nefrologia</h1>
+
+    <div class="audio-player">
+      <button id="play-button">&#9654;</button>
+      <div class="timeline">
+        <div class="progress"></div>
+      </div>
+      <span id="time-display">00:00</span>
+    </div>
+
+    <div class="main-content">
+      <div class="section">
+        <div class="section-title">INFO PACIENTE</div>
+        <div class="card info-paciente">
+          <p><strong>Nome:</strong> <span id="patient-name">Carregando...</span></p>
+          <p><strong>Idade:</strong> <span id="patient-age">Carregando...</span></p>
+          <p><strong>ID:</strong> <span id="patient-id">018</span></p>
+        </div>
+      </div>
+
+      <div class="section">
+        <div class="section-title">CHAT MÉDICO</div>
+        <div class="card">
+          <div class="chat-container" id="chat-container">
+            <!-- Mensagens serão adicionadas aqui dinamicamente -->
+          </div>
+          <div class="loading" id="loading-indicator">
+            Processando sua pergunta...
+          </div>
+          <div class="input-area">
+            <input type="text" id="question-input" placeholder="Digite sua pergunta...">
+            <button id="send-button">Enviar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Variáveis globais
+    const patientId = document.getElementById('patient-id').textContent;
+    
+    // Elementos da UI
+    const chatContainer = document.getElementById('chat-container');
+    const questionInput = document.getElementById('question-input');
+    const sendButton = document.getElementById('send-button');
+    const loadingIndicator = document.getElementById('loading-indicator');
+    
+    // Carrega dados do paciente (simulado - substituir por chamada real à API)
+    function loadPatientData() {
+      // Simulação - na implementação real, chamar API para obter dados
+      document.getElementById('patient-name').textContent = 'João da Silva';
+      document.getElementById('patient-age').textContent = '45 anos';
+    }
+    
+    // Adiciona mensagem ao chat
+    function addMessage(text, isQuestion) {
+      const messageDiv = document.createElement('div');
+      messageDiv.className = `message ${isQuestion ? 'question' : 'answer'}`;
+      messageDiv.textContent = text;
+      chatContainer.appendChild(messageDiv);
+      chatContainer.scrollTop = chatContainer.scrollHeight;
+    }
+    
+    // Envia pergunta para a API
+    async function sendQuestion() {
+      const question = questionInput.value.trim();
+      if (!question) return;
+      
+      // Mostra a pergunta no chat
+      addMessage(question, true);
+      questionInput.value = '';
+      
+      // Mostra indicador de carregamento
+      loadingIndicator.style.display = 'block';
+      
+      try {
+        // Chamada à API Flask
+        const response = await fetch('http://localhost:5003/getMedicalResponse', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            patient: patientId,
+            question: question
+          })
+        });
+        
+        const data = await response.json();
+        
+        if (data.error) {
+          addMessage(`Erro: ${data.error}`, false);
+        } else {
+          addMessage(data.response, false);
+        }
+      } catch (error) {
+        addMessage(`Erro na comunicação com o servidor: ${error.message}`, false);
+      } finally {
+        loadingIndicator.style.display = 'none';
+      }
+    }
+    
+    // Event Listeners
+    sendButton.addEventListener('click', sendQuestion);
+    questionInput.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') sendQuestion();
+    });
+    
+    // Inicialização
+    loadPatientData();
+    addMessage("Bem-vindo ao sistema de assistência nefrológica. Como posso ajudar?", false);
+  </script>
+</body>
+</html>
