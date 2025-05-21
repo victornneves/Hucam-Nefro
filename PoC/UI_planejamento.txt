@@ -1,0 +1,73 @@
+Próximos Passos para a Implementação
+
+1. Estrutura de Diretórios:
+
+    modulo_chat/
+    ├── templates/
+    │   └── index.html
+    ├── static/
+    │   ├── css/
+    │   ├── js/
+    │   └── images/
+    ├── source.py
+    └── app.py
+
+2. Implementações Necessárias:
+
+    a. Integração com Player de Áudio Real:
+
+        Conectar com o módulo de áudio para controle de reprodução
+
+        Implementar barra de progresso funcional
+
+    b. Carregamento Real de Dados do Paciente:
+
+        Criar endpoint /getPatientData na API
+
+        Buscar informações reais do YAML do paciente
+
+    c. Histórico de Conversa:
+
+        Salvar e carregar histórico de perguntas/respostas
+
+        Adicionar paginação para conversas longas
+
+    d. Melhorias de UI:
+
+        Indicadores de status (conectado, processando)
+
+        Timestamps nas mensagens
+
+        Marcadores de mensagens lidas/não lidas
+
+    e. Segurança:
+
+        Adicionar CORS configuration na API
+
+        Implementar autenticação básica
+
+3. Fluxo Completo de Desenvolvimento:
+
+    1. Testar a interface estática localmente
+
+    2. Conectar com a API Flask (já funciona com o código atual)
+
+    3. Implementar o player de áudio real
+
+    4. Adicionar tratamento de erros robusto
+
+    5. mplementar sistema de histórico
+
+    6. Adicionar features avançadas (anexos, marcações)
+
+    7. Testes finais e ajustes
+
+Extensões Futuras:
+
+    Integração com módulo de agendamento
+
+    Sistema de alertas para valores anormais
+
+    Exportação de relatórios em PDF
+
+    Versão mobile responsiva

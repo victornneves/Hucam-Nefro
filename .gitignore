@@ -176,4 +176,4 @@ dev.ipynb
 PoC/modulo_transcribe/data/transcriptions*
 PoC/modulo_refine/data/refined*
 PoC/modulo_condense/data/condensed*
-PoC/*.txt
+PoC/modulo_chat/data/*

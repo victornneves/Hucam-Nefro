@@ -1,0 +1,91 @@
+na pasta:
+
+refine:
+flask run --port 5050 --with-threads
+transcribe:
+flask run --port 5000 --with-threads
+
+
+para ver os processos abertos: 
+sudo lsof -i :5050
+
+matar o processo (nro do processo em vez do PID)
+kill -9 PID
+
+--------------------
+
+Você é um especialista em nefrologia com ampla experiência em avaliação de casos clínicos e análises médicas. Você você irá fornecer avaliações detalhadas e contextualizadas de informações clínicas. Use seu conhecimento em nefrologia, diretrizes clínicas e critérios diagnósticos para avaliar a validade e a coerência das informações fornecidas para responder a um promp que será fornecido no final. Você receberá um sumário da conversa em andamento de uma consulta ambulatorial de um paciente com um médico nefrologia. Além disso, você receberá as informações completas do paciente, incluindo histórico, exames laboratoriais.
+
+**Sumário da consulta em andamento**
+
+
+**Histórico do paciente, medicamentos em uso, exames:** (yaml)
+
+
+--------------------
+
+def get_field(summary, field):
+    field = summary["relatorio_consulta_ambulatorial_nefrologia"][field]
+    if isinstance(field, list):
+        field = [readable_string(x) for x in field]
+        return "\n".join(field)
+    else:
+        return field
+
+
+def get_summary(patient_id):
+    with open(
+        f"/mnt/external8tb/datasets/Dataset-Hucam-Nefro/patient_{patient_id:03d}/patient_{patient_id:03d}_medical_summary.yaml"
+    ) as fp:
+        return yaml.safe_load(fp)
+    
+
+--------------------
+
+api python -> flask REST. método de post (request pedindo os chunks -> se peço o 3, manda do 1 ao 3.
+
+4 apis:
+1. whisper
+
+arquivos de texto guardado no pc local
+roda a api local
+getWhisperChunk(int: chunkNumber) -> retorna os chunks 1 ate number concatenados
+
+2. gpt 4o de refinamento
+
+chama getWhisperChunk, aplica o refinamento, e guarda no pc loc
+getRefinedChunk(int> chunkNumber) 
+
+
+--------------------
+
+Existe o áudio da consulta que alimentará continuamente o programa (alimentação de dados em stream). A ideia é que futuramente o programa receberá ao vivo o áudio da consulta (o programa será executado enquanto a consulta está acontecendo). Porém, por fins de praticidade (o desejado agora é criar uma PoC mais simples), por enquanto vamos apenas alimentar o programa com um áudio já gravado, e armazenado no computador. Porém, vamos simular uma consulta em tempo real, e por isso o áudio será dividido em chunks.
+
+Teremos o tempo transcorrido (representado agora por t) a partir do início da consulta (t=t0) , que após transcorrido 1 chunk de áudio, teremos t=t1; após transcorrido 2 chunks de áudio, t=t2; após 3 chunks de áudio, t=t3; ...; após i chunks de áudio, t=ti; ...; após n-1 chunks de áudio, t=tn-1, após n chunks de áudio, t=tn.
+
+--------------------
+
+O programa vai ser dividido em 4 etapas:
+	1 - Transcrição literal do áudio. -> para t=ti
+	2 - Refinamento da transcrição da etapa 1 a modo de ter "LOCUTOR: fala do locutor", onde se tem MÉDICO e PACIENTE como locutores primários (é possível ter também ACOMPANHANTE, PESSOA_NÃO_RELACIONADA, MÉDICO_MENTOR como locutores). -> para t=ti
+	3 - Resumo condensado da consulta com base no texto gerado na etapa 2.  -> para t=ti
+	4 - Pego resumo condensado (da etapa 3) + dados do paciente a modo de gerar conduta, diagnóstico, etiologia ou qualquer outra pergunta que pode ser feita pelo usuário desse programa.  -> para t=ti
+
+A cada tempo ti, teremos uma parte i do processo. Tem-se E1(ti), E2(ti), E3(ti) e E4(ti), em que E1(ti) é a etapa 1 do programa no tempo ti, e assim por diante.
+
+--------------------
+
+ETAPA 1:
+- pre processamento do audio (low pass + ...) descrito no paper
+- transcricao com llhama small
+- ir escrevendo em um arquivo de texto dentro de uma pasta (a pasta pode ser nomeada com o numero do paciente, por exemplo, "patient_018" -> como isso vai ser feito? o arquivo de audio vai ser nomeado começando por patient_018 -> será que faço assim?). E dentro dessa pasta podemos ter "transcricao.txt"
+
+
+ETAPA 2:
+- Porém, já quero o condensed dialog em vez de apenas a transcrição. Quero a qualquer momento t poder visualizar o que foi feito até aquele momento t (o que foi feito de condensed dialog). Por exemplo, se eu tiver em t = t1, quero ser apto a visualizar. Em t=t2, quero ser apto a visualizar
+
+ETAPA 3:
+
+ETAPA 4:
+
+
