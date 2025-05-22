@@ -9,6 +9,8 @@ from datetime import datetime
 dotenv.load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
+MESSAGES = []
+
 # Funções auxiliares
 def readable_string(text):
     """Formata strings para melhor legibilidade."""
@@ -53,31 +55,34 @@ def load_patient_data(patient_id):
     with open(data_path, "r", encoding='utf-8') as f:
         return yaml.safe_load(f)
 
-# def call_gpt_api(prompt, messages):
-def call_gpt_api(prompt):
+# def call_gpt_api(prompt):
+def call_gpt_api(prompt, old_messages):
     """Chama a API do GPT para gerar uma resposta."""
     primer = "Você é um nefrologista assistente especializado em análise de casos clínicos. Você está conversando com o médico no meio da consulta dele. De modo a ajudar durante o atendimento do médico, você vai dar respostas sucintas e diretas, mas com informações relevantes. Você não deve dar conselhos médicos, apenas responder perguntas e ajudar o médico a entender melhor o caso. O texto deve estar formatado de forma a ser mais amigável para leitura, com quebras de linha e espaçamento."
+    print("'Chamando a API do GPT com o seguinte prompt:")
     try:
         messages = [
             {"role": "system", "content": primer}
         ]
-        for message in messages:
+        for message in old_messages:
             messages.append(message)
         
         messages.append({"role": "user", "content": prompt})
-
+        print(messages)
         response = client.chat.completions.create(
             model="gpt-4",
-            messages=[ messages
-                # {"role": "system", "content": primer},
-                # {"role": "user", "content": prompt}
-            ],
+            messages=messages,
+            # [
+            #     # {"role": "system", "content": primer},
+            #     # {"role": "user", "content": prompt}
+            # ],
             # response_format="markdown",
-            temperature=0.1,
+            temperature=0.3,
             max_tokens=2000
         )
         resp = response.choices[0].message.content
-        return (resp, messages)
+        messages.append({"role": "assistant", "content": resp})
+        return (resp, messages[1:])
         # return response.choices[0].message.content
     except Exception as e:
         print(f"Erro ao chamar API do GPT: {e}")
@@ -94,30 +99,40 @@ diretrizes clínicas e critérios diagnósticos para avaliar a validade e a coer
 **Histórico do paciente, medicamentos em uso, exames:**
 {espaco_2}
 
----
-
-**Pergunta do médico:** 
-{user_prompt}
 """
+
+# **Pergunta do médico:** 
+# {user_prompt}
+
+is_first_time = True
 
 def generate_medical_response(patient_id, question):
     """Função principal que gera a resposta médica."""
+    global is_first_time
+    global MESSAGES
     try:
         # Carrega dados
         espaco_1 = load_condensed_dialog(patient_id)
         espaco_2 = load_patient_data(patient_id)
         
         # Formata o prompt final
-        prompt = BASE_PROMPT.format(
-            espaco_1=espaco_1,
-            espaco_2=yaml.dump(espaco_2, allow_unicode=True),
-            user_prompt=question
-        )
+        if is_first_time:
+            prompt = BASE_PROMPT.format(
+                espaco_1=espaco_1,
+                espaco_2=yaml.dump(espaco_2, allow_unicode=True),
+                # user_prompt=question
+            )
+            is_first_time = False
+        else:
+            prompt = ""
         
+        prompt = f"{prompt}\n\n**Pergunta do médico:**\n{question}"
+
         # Chama a API do GPT
-        response = call_gpt_api(prompt)
+        response, MESSAGES = call_gpt_api(prompt, MESSAGES)
         if not response:
             raise Exception("Não foi possível obter resposta do GPT")
+        print("MESSAGES:", MESSAGES)
         
         # Gera timestamp para os arquivos
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
