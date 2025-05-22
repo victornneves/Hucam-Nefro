@@ -1,0 +1,42 @@
+MÉDICO: Bom dia, Zé. Tudo bem? Vamos lá, meu amigo. Ó, chegamos na última consulta. Foi no dia 5 de dezembro, não foi? Show de bola. No dia 5 de dezembro a gente conversou com o senhor. a respeito de alguns ajustes que a gente precisava fazer, principalmente relacionados à dieta. Não foi? E aí eu vi você passou também pela consulta com a nutricionista, não foi?
+PACIENTE: Com certeza.
+MÉDICO: Como é que foi a consulta com a nutricionista? Você teve alguma? mudança real na parte da nutrição, mudou o cardápio, como ficou essa adaptação a essa... depois dessa consulta, me conte.
+ACOMPANHANTE: Sim, o jeito que ela passou estamos tentando conseguir a regra direitinho para que ela esteja sendo boa. É ainda sendo boa.
+MÉDICO: Está sendo boa? José, teve algo de intercorrência da última consulta para cá, não? Não teve problemas, não passou mal nada?
+PACIENTE: Não, apenas nos últimos cinco dias que estava sentindo uma tontura ao levantar cedo, não sei se eu estava levantando muito rápido, ou tinha deixado de comer, mas agora nos últimos cinco dias, sumiu.
+MÉDICO: Sumiu, não está sentindo nada. Aí só que agora, antes você comentou que estava sentindo fraqueza nas pernas. Você tem caminhado bastante? Você trabalha na roça?
+PACIENTE: Estou caminhando devagarzinho, mas estou. Eu trabalho com café.
+MÉDICO: Café, né? Entendi. Uma coisa, os remédios mudou alguma coisa não mudou nada está a mesma coisa né? Na última consulta eu tinha orientado a usar a furosemida e a hidroclorotiazida de manhã, não foi?
+PACIENTE: É isso mesmo.
+MÉDICO: E a insulina, eu também tinha recomendado usar à noite, antes de dormir. Não foi isso? Deu uma melhorada nos episódios de hipoglicemia? Algumas coisas melhorou?
+PACIENTE: É, deu.
+ACOMPANHANTE: Então, ele voltou a usar a insulina de novo. Como está a insulina dele hoje?
+MÉDICO: Tá como?
+PACIENTE: Tá do mesmo jeito. Nós só mudamos a DMPL para a Lantus. Levemir estava em falta para ele.
+MÉDICO: E quantas unidades de Lantus que está tomando?
+PACIENTE: 19 só de manhã.
+MÉDICO: 19 só de manhã? Show de bola, beleza. E as outras?
+PACIENTE: As outras é a lispro para o anexo das refeições. As outras ficou do mesmo jeito.
+MÉDICO: Tá bom, combinado. Eu tinha reduzido também. e também o Losartana do senhor para uma vez por dia, não foi isso?
+PACIENTE: Sim.
+MÉDICO: Olha, em vez de duas vezes por dia, uma vez por dia, né? E os episódios de pressão baixa, essas coisas melhoraram?
+PACIENTE: Tá melhor.
+MÉDICO: Melhor, né? Um, dois, três... Eu até tinha anotado, né? Em minha casa, anotei as funções nos últimos anos. Exames dele, tem aí? Você chegou a passar pela diálise peritoneal ainda não, né? Lá em cima. 
+ACOMPANHANTE: Não acho que não. 
+MÉDICO: Avaliação da diálise peritoneal ainda não, né? Esses aqui são os exames novos. 
+ACOMPANHANTE: É, os de sangue que eu digo é o de sangue. 16, de 225. Acho que 7,5. Hemácias de 204. 8, glicemia de 79, fosfa 4,79, creatinina de 711, fosfatase alcalina de 180. Sódio de 104, potássio de 5,7, cloro de 99. Magnésio de 2,5. 36,141, 3.01, 3.8 Cálcio total de 9,6. Colesterol total de 150, HDL de 44, LDL. Bicarbonato de 25,9. Hemoglobina de 9,9. 69, MCV 30.4, PTNG de 45, 1.240. Esse aqui sem alterações, hemoglobina glicada de 9.3. 
+MÉDICO: Show de volta, vamos lá. Isso aqui é o que esses outros?  
+ACOMPANHANTE: A ferritina estava subindo, então nem refazia, estava alta. 
+MÉDICO: Aqui o que o enfermeiro te pediu, aí é a hemoglobina dele. 
+ACOMPANHANTE: É a hemoglobina glicada, né? 
+MÉDICO: É, a ferritina está muito alta. A ferritina pode ser uma proteína de fase aguda. Mas a gente vai ficar acompanhando. A ferritina dele realmente estava alta que ele usava, então é que saiu de ser pouco, entendeu? Manteve a enalapril de 800, né? Esse é o dobro de atorvastatinais, né? E esse é o exame de imagem, certo? 
+ACOMPANHANTE: Sim. 
+MÉDICO: O eco é transtorácico e 5x2, 25. Ele tem uma fração de ação de 64%, de válvulas está bom. Não tem nada de calcificação vascular. Está tranquilo, dentro dos limites da normalidade. A gente vai de constatação de válvula ausente. E esse aqui... 
+ACOMPANHANTE: São lesões e sinais. 
+MÉDICO: Então, como foi que vocês pediram? Lesões e sinais? 
+ACOMPANHANTE: Oi! Foi a gente!  Calcificações vasculares! Mas não colocaram direito, então é para isso que a gente pediu. 
+MÉDICO: Se você ver aqui, a imagem aqui está muito ruim.
+MÉDICO: Não dá pra ver nada aqui. Só que se a gente abrir aqui... É Juscelino.
+PESSOA_NÃO_RELACIONADA: Cláudio da Silva muda.
+MÉDICO: A outra é com exame de mão. Eu consigo ver essa imagem aqui? Eu sei. Onde? Clico nos 3 pontos. No JPEG ou qual? 
+PESSOA_NÃO_RELACIONADA: Pode ser no... No aplicativo, por favor.

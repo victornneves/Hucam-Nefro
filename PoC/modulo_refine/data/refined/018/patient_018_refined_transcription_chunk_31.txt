@@ -1,0 +1,29 @@
+MÉDICO: Bom dia, Zé. Tudo bem? Vamos lá, meu amigo. Ó, chegamos na última consulta. Foi no dia 5 de dezembro, não foi? Show de bola. No dia 5 de dezembro a gente conversou com o senhor a respeito de alguns ajustes que a gente precisava fazer, principalmente relacionados à dieta. Não foi? E aí eu vi que você passou também pela consulta com a nutricionista, não foi? Como é que foi a consulta com a nutricionista? Você teve alguma mudança real na parte da nutrição, mudou o cardápio, como ficou essa adaptação a essa... depois dessa consulta, me conte.
+PACIENTE: Sim, o jeito que ela passou eu estou tentando seguir direitinho para que ela esteja sendo boa.
+MÉDICO: Está sendo boa? Teve algo de intercorrência da última consulta para cá, não? Nem muito enjoo, não passou mal nada?
+PACIENTE: Não, uns cinco dias pra cá, mas em geral estava dando uma azia de manhã cedo, não sei se eu estava levantando muito tarde ou deixei de comer, mas agora nesses cinco dias para cá, sumiu. Agora, antes do almoço, sentindo a fraqueza nas pernas. Minha caminhada está muito devagarzinha, mas está. 
+MÉDICO: Você planta aqui lá? Mexe com o café. Café, né? Entendi. Mudou alguma coisa nos remédios ou não mudou nada, está a mesma coisa, não é? Beleza. É na última consulta eu tinha orientado a usar a Furosemida e Hidroclorotiazida de manhã, não foi?
+PACIENTE: É isso mesmo.
+MÉDICO: E a insulin, eu também tinha recomendado tomar à noite, antes de dormir. Não foi isso? Deu uma melhorada nas episódios de Hipoglicemia? Algumas coisas melhoraram?
+PACIENTE: É, deu.
+ACOMPANHANTE: Então, ele voltou a tomar a insulina de novo. 
+MÉDICO: Como está a insulina dele hoje? 
+ACOMPANHANTE: Está do mesmo jeito. Nós só mudamos a DMFH para a Glargina. Tinha que faltar para ele. E quantas unidades de glargina que está tomando?
+PACIENTE: 19 só de manhã.
+MÉDICO: 19 só de manhã? Show de bola, beleza. E as outras? As outras é a Elis para o anexo das refeições. As outras ficou do mesmo jeito. Tá bom, combinado. Eu tinha reduzido também a Losartana do senhor para uma vez por dia, não foi isso?
+PACIENTE: Sim. 
+MÉDICO: Então, em vez de duas vezes por dia, uma vez por dia, né? E os episódios de pressão baixa, essas coisas melhoraram?
+PACIENTE: Tá, melhor. Tá melhor.
+PACIENTE: Melhor, né? Um, dois, três... Eu até tinha anotado, né? Em minha casa anotei.
+ACOMPANHANTE: Ele fez uns exames nos últimos anos. Tem aí? Ele chegou a passar pela análise. Espiritual ainda não, né?
+MÉDICO: Lá em cima. Não, acho que não. Avaliação daí ainda não, né? Esses aqui são os exames novos. É, os de sangue que eu digo é o de sangue.
+ACOMPANHANTE: Sim, de 16 do 225. Acho que 7,5. Hélice de 204. 8 Graus de 79, fosfato 4,79, creatinina de 711, fosfatase alcalina de 180. Sódio de 104, potássio de 5,7, cloro de 99. Magnésio de 2,5. Cálcio total de 9,6 Colheram o colesterol de 150 hdl de 44 LDL. Bicarbonato de 25,9. Hemoglobina de 9,9. Lactato de 69, mtok 30.4 ptng de 45 1.240 
+MÉDICO: Época que operou, a hemoglobina glicada de 9.3. Show. Volta, vamos lá. Isso aqui é o quê? Esses outros?
+ACOMPANHANTE: A ferretina estava subindo, então nem fazia, estava alta. 
+MÉDICO: Aqui o que é que você me pediu? Essa é a hemoglobina dele?
+ACOMPANHANTE: É, e a ferretina está muito... 
+MÉDICO: A ferritina pode ser uma proteína de fase aguda. Mas a gente vai ficar acompanhando. A ferritina dele realmente estava alta que ele usava, então é que vai sair de ser pouco, entendeu? Manteve ainda em 800, né? Esse é o de paratireoides, né?
+ACOMPANHANTE: Sim.
+MÉDICO: Qual o resultado do enzima de coco?
+ACOMPANHANTE: 100 de 64% das válvulas em normalidade. Não tem nada de calcificação vascular aqui. Está tranquilo, dentro dos limites da normalidade. A gente vai de constatação de válvula à ausente. E esse aqui?
+MÉDICO: Algo sobre ações vasculares!

@@ -1,0 +1,27 @@
+Os exames que apresentam resultados anormais são:
+
+1. Exames de sangue: 
+   - Creatinina (CR) está elevada em várias ocasiões, indicando possível disfunção renal.
+   - Ferritina está alta, o que pode indicar inflamação ou sobrecarga de ferro.
+   - Hemoglobina (HB) está baixa, indicando anemia.
+   - Glicose está elevada, indicando controle inadequado do diabetes.
+   - Fosfatase alcalina (FA) está elevada, o que pode indicar doença hepática ou óssea.
+   - Potássio (K) está elevado no exame de 25/10/2024, o que pode indicar hipercalemia.
+   - Paratormônio (PTH) está baixo no exame de 25/10/2024, o que pode indicar hiperparatireoidismo secundário.
+   - Vitamina D está baixa, indicando deficiência de vitamina D.
+   - Hemoglobina glicada (HBA1C) está elevada, indicando controle inadequado do diabetes.
+   - Ácido úrico está elevado, o que pode indicar gota ou doença renal.
+
+2. Exames de urina:
+   - Proteína está presente na urina, indicando possível doença renal.
+   - Hemoglobina está presente na urina, o que pode indicar sangramento no trato urinário.
+   - Leucócitos estão presentes na urina, o que pode indicar infecção urinária.
+   - Cilindros hialinos, granulosos finos e granulosos grossos estão presentes na urina, o que pode indicar doença renal.
+
+3. Exames de imagem:
+   - Ultrassom do aparelho urinário mostra um cisto renal à direita.
+   - Radiografia das mãos e punhos mostra calcificações vasculares bilateralmente.
+
+4. Sorologias:
+   - Anti-HBC total está reativo, indicando infecção passada ou atual pelo vírus da hepatite B.
+   - Esquistossomose IgG está reativo, indicando infecção por esquistossomose.

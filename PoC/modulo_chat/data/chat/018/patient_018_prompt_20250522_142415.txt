@@ -1,0 +1,105 @@
+
+Você é um especialista em nefrologia com ampla experiência em avaliação de casos clínicos e análises médicas. 
+Você irá fornecer avaliações detalhadas e contextualizadas de informações clínicas. Use seu conhecimento em nefrologia, 
+diretrizes clínicas e critérios diagnósticos para avaliar a validade e a coerência das informações fornecidas.
+
+**Sumário da consulta em andamento**
+O paciente Zé teve uma consulta médica de acompanhamento. Ele teve uma consulta com uma nutricionista e fez ajustes na dieta. Ele não teve problemas de saúde desde a última consulta, exceto por tonturas matinais que desapareceram nos últimos cinco dias. No entanto, ele relatou fraqueza nas pernas. Zé trabalha em uma plantação de café e tem mantido um ritmo de caminhada lento.
+
+Em relação à medicação, Zé está tomando furosemida e hidroclorotiazida pela manhã, conforme orientado na última consulta. A insulina foi ajustada para ser tomada à noite e isso melhorou os episódios de hipoglicemia. Ele está tomando 19 unidades de Lantus pela manhã e continua com a lispro para as refeições. A Losartana foi reduzida para uma vez por dia, o que melhorou os episódios de pressão baixa.
+
+Os exames de sangue mostraram que a ferritina de Zé estava alta. Seu eletrocardiograma transtorácico mostrou uma fração de ejeção de 64% e válvulas normais, sem calcificação vascular. A imagem de um exame de mão estava ruim e não pôde ser vista claramente.
+
+**Histórico do paciente, medicamentos em uso, exames:**
+relatorio_consulta_ambulatorial_nefrologia:
+  exame_fisico:
+  - PA: '100/70 mmHg | Peso: 65,65 kg'
+  - BEG, lote, acianótico, ictérico, hipocorado
+  - AR: MVF, sem ruídos adventícios .
+  - CV: BNF, RR em 2 tempos, sem sopros
+  - ABD: Atípico, RHA +, indolor
+  - MMII: Sem edema, panturrilhas livres
+  exames_complementares:
+  - 21/06/54: CR 1,9; AU 4,5; PT 5,2; ALB 2,8; GLOB 2,4; BT 0,54; DIRETA 0,12; IND
+      0,42; GGT 33; TGP 26; TGO 33; FERRITINA 1537; FIX FERRO 182; FERRO 54; P 5,2;
+      FA 250; CÁLCIO T 8,9; UR 92; GLICOSE 255; HB 7.3; HT 23; VCM 91; HCM 29,1; RDW
+      16,2; LEUCO 6900; PQT 231.000; ELETROFORESE DE PROTEINA SEM PICO MONOCLONAL;
+      PTH 70,5; VIT D 12,5; B12 491; IGG ESQUISTOSSOMOSE POSITIVO
+  - 01/07/24: 'URINA 24 h (1610 mL) PROT 3,33 g/24 h / CR 2,57 EAS: PH 6,5 DENS 1.020
+      PROTEINAS + HEMOGLOBINA + HB 6,7 LEUCO 7100 PLQ 223000. GLICOSE 100 UREIA 90
+      AC URICO 4,6 CT 309 HDL 85 LDL 211 TRIGLICERÍDEOS 64 TGO 37 TGP 30 GGT 29 HEMOGLOBINA
+      GLICADA 5,1 % GLICEMIA 99'
+  - 02/09/2024: 'NA 133 K 5 CL 96 BIC 31,3| HB 12,3 L 8990 PLQ 377.000 | URINA DE
+      24H: 4315 MG/24H (2920 ML)| CR 2,96 (TFGe 25 mL/min/1,73 m²) UR 94 CISTATINA
+      C 2,24 (TFGe 27,7 mL/min/1,73 m²)| FERRITINA 510 SAT TRANSFERRINA 23%. C3 116
+      C4 20 | ELETROFORESE DE PROTEÍNAS: PROTEÍNA MONOCLONAL AUSENTES | IMUNOFIXAÇÃO
+      SÉRICA: AUSÊNCIA DE PROTEÍNA MONOCLONAL | IMUOFIXAÇÃO URINÁRIA: AUSÊNCIA DE
+      PROTEÍNA MONOCLONAL. LAMBDA CADEIA LEVE: 160,0 mg/dL (VR: 90,0 a 210,0 nmg/gL)
+      | KAPPA - CADEIA LEVE: 298,0 mg/dL (VR: 170,0 a 370,0 nmg/gL) | RELAÇÃO KAPPA/LAMBDA:
+      1,86 (VR relação kappa/lambda: 1,35 a 2,65) | ESQUISTOSSOMOSE IGG REAGENTE.
+      EAS: DENS 1015 PH 5| EXAME QUÍMICO: PROTEÍNA 100 GLICOSE 500 HEMOGLOBINA 50
+      |SEDIMENTOSCOPIA: LEUCÓCITOS 10 HEMÁCIAS 5 FLORA BACTERIANA AUMENTADA. CILINDROS
+      HIALINO, GRANULOSO FINO, GRANULOSO GROSSO, PRESENÇA DE ESPERMATOZOIDES'
+  - SOROLOGIAS: 'HBSA: NR | ANTI-HBC IGM: NR | ANTI-HBC TOTAL: REATIVO | ANTI-HBS>
+      1000 | ANTI-HCV NR | ANTI-HIV NR'
+  - 25/10/2024: CA 9,7; AU 9,2; CL 96; HDL 40; LDL 98; CT 150; CR 4,25; FER 108; FA
+      228; P 6,2; GLIC 157; HBG 8,6%; MG 3,12; MICROALB 222 MG/G; K 6,1; ALB 3,8;
+      IST 18%; NA 135; TGC 59; UR 204; BIC 27,3; HB 16,6; HCT 52,2; PTH 44; VIT D
+      45; EAS PTN 15
+  - 29/11/2024: 'CR 2,92 UR 157 | NA 137 K 5,7 MG 2,57 | CAT 9,6 P 6,1 VIT D 46,5
+      | FERRITINA 262 IST 41% | GLICOSE 133 HBA1C 9,2 | ÁC ÚRICO 7,8 | HCO3 30,0 |
+      HB 15,7 LEUCO 8420 PLAQ 286000 | EAS: PH 5,0 PROT <30 CILINDROS HIALINOS | PROTEINÚRIA
+      URINA 262 MG/24 HORAS (2300 ML) >>> eGFR CKD-EPI: 25 mL/min/1.73 m²'
+  - 16/02/25: 'AU 7,5; GLIC 248; TGC 79; P 4,9; FER 711; FA 180; NA 134; K 5,7; CL
+      99; MG 2,56; UR 141; CR 3,01; ALB 3,8; CA 9,6; CT 150; HDL 44; LDL 90; B ; HB
+      9,69; HCT 30,4; PTH 45; VIT D 40; HBG 9,3:'
+  - 11/03/25: HBG 8,3%
+  exames_de_imagem:
+  - USG do Aparelho Urinário (30/08/2024): 'Rins tópicos de dimensões normais, medindo
+      107x50x41 mm á direita e 113x53x42 mm à esquerda, de contornos regulares e textura
+      do parênquima homogênea. Rim direito apresentando imagem anecoica medindo 10
+      mm (cisto). Bexiga semi-repleta, com paredes finas, contornos regulares e conteúdo
+      anecóico. Conclusão: cisto renal a direita. Bexiga sem alterações consideráveis.'
+  - Doppler de AR 11/12/24: Sem estenoses hemodinamicamente significativas.
+  - ECOTT 05/02/25: FEVE 64%; dentro dos limites da normalidade (calcificação valvar
+      ausente)
+  - RX maos e punhos 05/02/25: Calcificações vasculares nas mãos bilateralmente e
+      punho a dir
+  historia_da_doenca_atual:
+  - Paciente com diabetes insulinodependente (Glargina 20 e Humalog 6 + 6 + 6), diagnóstico
+    há 15 anos. Encaminhado ao hematologista devido alteração da função renal e queixa
+    de edema há 2 meses inicialmente em MMII. Além disso, com exame de esquistossomose
+    IgG positivo. Relata internação recente para amputação pododactilo.
+  historico_patologico_pregresso:
+  - HAS (início recente fevereiro 2024)
+  - Dislipidemia
+  - DM insulino dependente (há 15 anos diagnóstico aos 35 anos) – seguimento com endocrino
+    em Colatina
+  - Retinopatia diabética fundo de olho (06/09/2024)
+  - Amputação 2 pododáctilos do pé direito
+  - Gastrite > H. pylori tratada
+  - Anemia em investigação
+  - Internação em maio/24 por dor abdominal
+  - Esquistossomose IgG positivo
+  - Nega alergias
+  - Nega tabagismo
+  - Nega DAC
+  identificacao_paciente:
+  - masculino, 50 ANOS, natural de Colatina, reside em Itaguaçu, lavrador, acompanhado
+    da esposa
+  medicamentos_em_uso:
+  - Insulina Lispro 6 UI – 6 UI – 6 UI
+  - Insulina Glargina 19 UI
+  - Losartana 50 mg 1-0-0
+  - HCTZ 25 mg 1-0-0
+  - Rosuvastatina 20 mg 0-0-1
+  - Anlodipino 10 mg 0-0-1
+  - Furosemida 40 mg 1-0-0
+  - Colecalciferol 14.000 UI 2x/semana
+  - EPO 4.000 2x por semana SC – "suspenso nov/2024"
+
+
+---
+
+**Pergunta do médico:** 
+digo, quais exames de imagem*?

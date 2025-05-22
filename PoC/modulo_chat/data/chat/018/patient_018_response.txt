@@ -1,0 +1,23 @@
+Os exames laboratoriais do paciente Zé apresentam várias anormalidades:
+
+1. **Creatinina (CR)**: Os valores de creatinina estão elevados em várias ocasiões (1,9; 2,57; 2,96; 4,25; 2,92; 3,01) indicando disfunção renal. A taxa de filtração glomerular estimada (TFGe) também está baixa (25 mL/min/1,73 m² e 27,7 mL/min/1,73 m²), confirmando a disfunção renal.
+
+2. **Glicose**: A glicose está elevada em várias ocasiões (255; 157; 133; 248), indicando um controle inadequado do diabetes.
+
+3. **Hemoglobina (HB)**: A hemoglobina está baixa em várias ocasiões (7.3; 6.7; 12,3; 16,6; 15,7; 9,69), indicando anemia.
+
+4. **Ferritina**: A ferritina está elevada (1537; 510; 262; 711), o que pode ser um indicador de inflamação, infecção ou doença hepática.
+
+5. **Hemoglobina Glicada (HBG)**: A hemoglobina glicada está elevada (8,6%; 9,2; 9,3%), indicando um controle inadequado do diabetes a longo prazo.
+
+6. **Proteinúria**: A presença de proteína na urina (3,33 g/24 h; 4315 MG/24H; 262 MG/24 HORAS) indica dano renal.
+
+7. **Cálcio (CA)**: O cálcio está baixo em uma ocasião (8,9), o que pode indicar uma variedade de condições, incluindo deficiência de vitamina D, doença renal ou disfunção da glândula paratireoide.
+
+8. **Vitamina D**: A vitamina D está baixa em uma ocasião (12,5), o que pode indicar deficiência de vitamina D.
+
+9. **Ácido Úrico**: O ácido úrico está elevado em uma ocasião (7,8), o que pode indicar gota ou doença renal.
+
+10. **Potássio (K)**: O potássio está elevado em uma ocasião (6,1), o que pode indicar hipercalemia, uma condição que pode ser causada por doença renal, desequilíbrios eletrolíticos ou certos medicamentos.
+
+Esses resultados indicam que o paciente tem disfunção renal, anemia e controle inadequado do diabetes. Além disso, a ferritina elevada pode indicar inflamação, infecção ou doença hepática. A deficiência de vitamina D e o cálcio baixo também precisam ser investigados.

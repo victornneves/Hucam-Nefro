@@ -1,0 +1,23 @@
+Os exames laboratoriais críticos para este paciente, considerando seu histórico clínico e medicamentos em uso, incluem:
+
+1. **Função renal**: Creatinina (CR), Ureia (UR), Cistatina C, e a taxa de filtração glomerular estimada (TFGe). Estes exames são essenciais para monitorar a função renal do paciente, especialmente considerando o uso de medicamentos como Furosemida e Losartana, que podem afetar a função renal.
+
+2. **Eletrólitos**: Sódio (NA), Potássio (K), Cálcio (CA), Magnésio (MG), Fósforo (P), e Bicarbonato (BIC). Estes são importantes para avaliar o equilíbrio eletrolítico do paciente, que pode ser afetado pela doença renal e pelo uso de diuréticos.
+
+3. **Glicemia e Hemoglobina glicada (HBA1C)**: Estes exames são fundamentais para o monitoramento do controle glicêmico do paciente, que é diabético insulino-dependente.
+
+4. **Perfil lipídico**: Colesterol total (CT), HDL, LDL, e Triglicerídeos (TGC). Estes são importantes para avaliar o risco cardiovascular do paciente, que tem dislipidemia.
+
+5. **Hemograma**: Hemoglobina (HB), Hematócrito (HCT), Leucócitos (LEUCO), e Plaquetas (PLAQ). Estes são importantes para avaliar a anemia e o estado geral de saúde do paciente.
+
+6. **Ferritina e Saturação de Transferrina (IST)**: Estes exames são importantes para avaliar o estado de ferro do paciente, que apresentou ferritina elevada.
+
+7. **PTH e Vitamina D**: Estes são importantes para avaliar o metabolismo ósseo do paciente, que pode ser afetado pela doença renal.
+
+8. **Proteinúria**: Este exame é importante para avaliar a perda de proteínas na urina, um indicador de dano renal.
+
+9. **Marcadores de inflamação**: Como a Proteína C-Reativa (PCR), que pode ajudar a identificar processos inflamatórios no corpo.
+
+10. **Sorologias**: Para Hepatite B e C e HIV, que são importantes para avaliar possíveis infecções que podem afetar a função renal.
+
+Lembrando que a interpretação desses exames deve ser feita em conjunto com a avaliação clínica do paciente e outros exames complementares.

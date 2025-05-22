@@ -1,0 +1,30 @@
+MÉDICO: Bom dia, Zé. Tudo bem? Vamos lá, meu amigo. Ó, chegamos na última consulta. Foi no dia 5 de dezembro, não foi? Show de bola. No dia 5 de dezembro a gente conversou com o senhor. a respeito de alguns ajustes que a gente precisava fazer, principalmente relacionados à dieta. Não foi? E aí eu vi você passou também pela consulta com a nutricionista, não foi? Com certeza. Como é que foi a consulta com a nutricionista? Você teve alguma mudança real na parte da nutrição, mudou o cardápio, como ficou essa adaptação a essa... depois dessa consulta, me conte.
+PACIENTE: Sim, o jeito que ela passou eu estou tentando seguir direitinho para que ela esteja sendo boa. É ainda sendo boa.
+MÉDICO: Está sendo boa? Teve alguma intercorrência da última consulta para cá, não? Não passou mal nada?
+PACIENTE: Não, tive um incômodo uns cinco dias pra cá, mas em que estava dando umas tonturas pela manhã cedo, não sei se eu estava levantando muito tarde. deixou de comer, mas agora num cinco dias para cá, sumiu.
+MÉDICO: Sumiu, não está sentindo nada. Aí só que agora, antes de onde parecia, sentindo a fraqueza nas pernas. Eu estou percebendo que a sua caminhada está devagar. Você está com a sua caminhada trabalhando na roça?
+PACIENTE: Estou com a sua caminhada devagarzinha, mas está. Você planta aqui lá? 
+MÉDICO: Você mexe com café, né?
+PACIENTE: Café, né? Entendi.
+MÉDICO: Os remédios, mudou alguma coisa não mudou nada está a mesma coisa né? Na última consulta eu tinha orientado a usar a Furosemida e a Hidralazina de manhã, não foi?
+PACIENTE: É isso mesmo. 
+MÉDICO: E a insulina, eu também tinha colocado a insulina da noite, antes de dormir. Não foi isso? Deu uma melhorada nas episódios de hipoglicemia? Algumas coisas melhorou? 
+PACIENTE: É, deu.
+MÉDICO: Tá como a insulina dele hoje? 
+PACIENTE: Tá do mesmo jeito.
+MÉDICO: Nós só mudamos a DMPH para a Levemir. E quantas unidades de Levemir que está tomando? 
+PACIENTE: 19 só de manhã.
+MÉDICO: 19 só de manhã? Show de bola, beleza. E as outras? 
+PACIENTE: As outras é a Rápida para o anexo das refeições. As outras ficou do mesmo jeito. 
+MÉDICO: Tá bom, combinado. Eu tinha reduzido também. e também o Losartana do senhor para uma vez por dia, não foi isso? 
+PACIENTE: Sim.
+MÉDICO: Em vez de duas vezes por dia, uma vez por dia, né? E os episódios de pressão baixa, essas coisas melhoraram?
+PACIENTE: Tá, melhor. Tá.
+MÉDICO: Melhor, né? Um, dois, três... Eu até tinha anotado, né? Na minha casa anotei algumas coisas dos últimos anos. Os exames dele, tem aí? Você chegou a passar pela dialise peritoneal ainda não, né? Lá em cima. Não, acho que não.
+ACOMPANHANTE: Avaliação da dialise peritoneal ainda não, né? Esses aqui são os exames novos. 
+MÉDICO: É, os de sangue que eu digo é o de sangue. Hemoglobina 16, Creatinina 2,25. Acho que Ureia 7,5. Hematócrito 20,4. Hemoglobina A1C de 8, glicemia de 79, fosfatase alcalina 4,79, proteína C reativa 7,11, Fosfatase alcalina de 180. Sódio de 104, potássio de 5,7, cloro de 99. Magnésio de 2,5. Tgo 36, Tgp 14,1, Triglicérides 3.01, Colesterol total de 9,6. Colesterol HDL de 50, colesterol LDL de 44, LDL/VLDL. Bicarbonato de 25,9. Hemoglobina glicada de 9,9. TSH 69, T4 livre 30.4, PTH de 45, Vitamina D 1.240. Hemoglobina glicada de 9.3. Bom, vamos lá. Isso aqui é o que, esses outros? 
+ACOMPANHANTE: A ferretina estava subindo, então nem fazia, estava alta. Aí aqui o que o Doutor te pediu, aí é a hemoglobina dele. 
+MÉDICO: É a hemoglobina glicada, né? 
+ACOMPANHANTE: É, e a ferretina está muito... 
+MÉDICO: A ferritina pode ser uma proteína de fase aguda, mas a gente vai continuar acompanhando. A ferritina dele realmente estava alta quando ele usava. Então é que saiu de ser pouco, entendeu? Manteve a dose de 800mg, né? Esse é o valor da Azatioprina, né? 
+PESSOA_NÃO_RELACIONADA: 2, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 24, 100, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 23, 24, 25, 26, 27, 28, 29, 30, 31, 31, 32, 31, 32, 32, 33, 34, 35, 36, 37, 39, 40, 40, 41, 42, 43, 46, 47, 47, 47, 47, 47, 47, 49, 49, 50, 51, 51, 52, 51, 52, 51, 52, 52, 53, 51, 52, 52, 53, 52, 52, 53, 52, 53, 54, 54, 54, 54, 55, 55, 56, 56, 56, 56, 56, 56, 57, 57, 57, 58, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59 E esse do envelope é para o que?

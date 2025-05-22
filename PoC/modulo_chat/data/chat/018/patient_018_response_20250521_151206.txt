@@ -1,0 +1,25 @@
+Os exames laboratoriais do paciente Zé mostram uma série de alterações. 
+
+1. A creatinina (CR) está elevada em várias ocasiões, indicando uma função renal prejudicada. A taxa de filtração glomerular estimada (TFGe) também está baixa, sugerindo doença renal crônica.
+
+2. A glicose está elevada em vários momentos, o que é consistente com o diabetes do paciente. A hemoglobina glicada (HbA1c) também está elevada, indicando um controle inadequado do diabetes.
+
+3. A ferritina está muito elevada, o que pode ser um sinal de inflamação, infecção ou sobrecarga de ferro.
+
+4. O paciente tem anemia, como indicado pelos níveis baixos de hemoglobina (HB).
+
+5. O paciente tem hiperpotassemia, como indicado pelo potássio (K) elevado.
+
+6. O paciente tem hiperfosfatemia, como indicado pelo fósforo (P) elevado.
+
+7. O paciente tem hipocalcemia, como indicado pelo cálcio (CA) baixo.
+
+8. O paciente tem hiperuricemia, como indicado pelo ácido úrico elevado.
+
+9. O paciente tem dislipidemia, como indicado pelos níveis elevados de colesterol total (CT), LDL e triglicerídeos (TGC).
+
+10. O paciente tem proteinúria, como indicado pela presença de proteína na urina.
+
+11. O paciente tem uma infecção por esquistossomose, como indicado pelo IgG positivo para esquistossomose.
+
+Esses resultados sugerem que o paciente tem doença renal crônica, provavelmente como resultado do diabetes mal controlado. A anemia pode ser devida à doença renal ou à inflamação. A hiperpotassemia, hiperfosfatemia e hipocalcemia são consistentes com a doença renal. A hiperuricemia pode ser devida à doença renal ou à dieta. A dislipidemia pode ser devida ao diabetes, à dieta ou a ambos. A proteinúria é um sinal de dano renal. A infecção por esquistossomose precisa ser tratada.

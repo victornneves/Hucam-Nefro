@@ -173,7 +173,7 @@ dev.py
 dev.ipynb
 
 *.wav
-PoC/modulo_transcribe/data/transcriptions*
-PoC/modulo_refine/data/refined*
-PoC/modulo_condense/data/condensed*
-PoC/modulo_chat/data/*
+# PoC/modulo_transcribe/data/transcriptions*
+# PoC/modulo_refine/data/refined*
+# PoC/modulo_condense/data/condensed*
+# PoC/modulo_chat/data/*

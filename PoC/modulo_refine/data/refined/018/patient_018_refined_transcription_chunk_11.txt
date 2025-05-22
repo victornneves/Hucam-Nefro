@@ -1,0 +1,20 @@
+MÉDICO: Bom dia, Zé. Tudo bem? Vamos lá, meu amigo. Ó, chegamos na última consulta. Foi no dia 5 de dezembro, não foi? Show de bola. No dia 5 de dezembro a gente conversou com o senhor. a respeito de alguns ajustes que a gente precisava fazer, principalmente relacionados à dieta. Não foi? E aí eu vi você passou também pela consulta com a nutricionista, não foi? Com certeza. Como é que foi a consulta com a nutricionista? Você teve alguma? mudança real na parte da nutrição, mudou o cardápio, como ficou essa adaptação a essa... depois dessa consulta, me conte.
+PACIENTE: Sim, o jeito que ela passou eu estou tentando seguir a regra direitinho para que ela esteja sendo boa. É ainda sendo boa.
+MÉDICO: Está sendo boa? Teve algo de intercorrência da última consulta para cá, não? Nem mal estar, não passou mal nada?
+PACIENTE: Não, eram uns cinco dias pra cá, mas eu estava sentindo uma adormecência no começo do dia, não sei se eu estava levantando muito tarde. deixou de comer, mas agora nesses cinco dias para cá, sumiu.
+MÉDICO: Sumiu, não está sentindo nada. Aí só que agora, antes você sentia fraqueza nas pernas. Você está melhorando na sua caminhada?
+PACIENTE: Estou caminhando devagarzinho, mas estou.
+MÉDICO: Você planta aqui lá?
+PACIENTE: Mexo com o café.
+MÉDICO: Café, né? Entendi. Em relação aos remédios, mudou alguma coisa não mudou nada está a mesma coisa né? Na última consulta eu tinha orientado a usar a furosemida e a hidralazina de manhã, não foi?
+PACIENTE: É isso mesmo.
+MÉDICO: E a insulina, eu também tinha colocado a insulina da noite, antes de dormir. Não foi isso? Deu uma melhorada nos episódios de Hipoglicemia? Algumas coisas melhorou?
+PACIENTE: É, deu. 
+PESSOA_NÃO_RELACIONADA: Então, ele tornou a aplicar a insulina de novo. 
+MÉDICO: Como está a insulina dele hoje?
+PACIENTE: Tá do mesmo jeito.
+MÉDICO: Nós só mudamos a DMPI para Semaglutida. Lantus. Tinha que falar para ele. E quantas unidades de glargina que está tomando?
+PACIENTE: 19 só de manhã.
+MÉDICO: 19 só de manhã? Show de bola, beleza. E as outras? As outras é a lispro para o anexo das refeições. As outras ficou do mesmo jeito.
+PACIENTE: Tá bom, combinado.
+MÉDICO: Eu tinha reduzido também.

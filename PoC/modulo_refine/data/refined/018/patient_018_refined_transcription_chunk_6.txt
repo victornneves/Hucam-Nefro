@@ -1,0 +1,11 @@
+MÉDICO: Bom dia, Zé. Tudo bem? Vamos lá, meu amigo. Chegamos na última consulta. Foi no dia 5 de dezembro, não foi? No dia 5 de dezembro a gente conversou com o senhor a respeito de alguns ajustes que a gente precisava fazer, principalmente relacionados à dieta. Não foi? E aí eu vi que você passou também pela consulta com a nutricionista, não foi?
+PACIENTE: Com certeza. 
+MÉDICO: Como é que foi a consulta com a nutricionista? Você teve alguma mudança real na parte da nutrição, mudou a dieta, como ficou essa adaptação depois dessa consulta, me conte. 
+PACIENTE: Sim, o jeito que ela passou eu estou tentando seguir direitinho para que ela esteja sendo boa. 
+MÉDICO: Está sendo boa? Teve alguma intercorrência da última consulta para cá, não? Não passou mal nada?
+PACIENTE: Não, foram uns cinco dias pra cá, mas em um deles estava dando uma tontura no início do dia, não sei se eu estava levantando muito cedo. Deixei de comer, mas agora nos últimos cinco dias, sumiu. 
+MÉDICO: Sumiu, não está sentindo nada. Então até onde percebi, está sentindo fraqueza nas pernas. Está conseguindo caminhar muito?
+PACIENTE: Estou com a caminhada devagarzinha, mas estou. 
+MÉDICO: Você trabalha na roça? Planta alguma coisa?
+PACIENTE: Mexo com o café. 
+MÉDICO: Café, né? Entendi.
