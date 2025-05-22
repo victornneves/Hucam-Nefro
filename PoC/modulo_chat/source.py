@@ -53,19 +53,32 @@ def load_patient_data(patient_id):
     with open(data_path, "r", encoding='utf-8') as f:
         return yaml.safe_load(f)
 
+# def call_gpt_api(prompt, messages):
 def call_gpt_api(prompt):
     """Chama a API do GPT para gerar uma resposta."""
+    primer = "Você é um nefrologista assistente especializado em análise de casos clínicos. Você está conversando com o médico no meio da consulta dele. De modo a ajudar durante o atendimento do médico, você vai dar respostas sucintas e diretas, mas com informações relevantes. Você não deve dar conselhos médicos, apenas responder perguntas e ajudar o médico a entender melhor o caso. O texto deve estar formatado de forma a ser mais amigável para leitura, com quebras de linha e espaçamento."
     try:
+        messages = [
+            {"role": "system", "content": primer}
+        ]
+        for message in messages:
+            messages.append(message)
+        
+        messages.append({"role": "user", "content": prompt})
+
         response = client.chat.completions.create(
             model="gpt-4",
-            messages=[
-                {"role": "system", "content": "Você é um nefrologista assistente especializado em análise de casos clínicos."},
-                {"role": "user", "content": prompt}
+            messages=[ messages
+                # {"role": "system", "content": primer},
+                # {"role": "user", "content": prompt}
             ],
+            # response_format="markdown",
             temperature=0.1,
             max_tokens=2000
         )
-        return response.choices[0].message.content
+        resp = response.choices[0].message.content
+        return (resp, messages)
+        # return response.choices[0].message.content
     except Exception as e:
         print(f"Erro ao chamar API do GPT: {e}")
         return None
@@ -131,3 +144,17 @@ def generate_medical_response(patient_id, question):
     
     except Exception as e:
         return {"error": str(e)}
+
+
+# if __name__ == "__main__":
+#     messages = []
+#     while True:
+#         input_text = input("Digite a pergunta (ou 'sair' para encerrar): ")
+#         if input_text.lower() == "sair":
+#             break
+#         resposta, messages = call_gpt_api(input_text, messages)
+#         if resposta:
+#             print(resposta)
+#         else:
+#             print("Erro ao gerar resposta.")
+        

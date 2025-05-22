@@ -1,8 +1,10 @@
 from flask import Flask, request, jsonify, render_template
+from flask_cors import CORS
 import os
 from source import generate_medical_response
 
 app = Flask(__name__, template_folder='templates')
+CORS(app)
 
 @app.route('/')
 def index():
