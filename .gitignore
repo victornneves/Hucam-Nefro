@@ -177,3 +177,4 @@ dev.ipynb
 # PoC/modulo_refine/data/refined*
 # PoC/modulo_condense/data/condensed*
 # PoC/modulo_chat/data/*
+PoC/modulo_chat/data/chat/*
