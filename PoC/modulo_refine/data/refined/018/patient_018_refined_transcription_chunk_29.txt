@@ -1,0 +1,36 @@
+MÉDICO: Bom dia, Zé. Tudo bem? Vamos lá, meu amigo. Ó, chegamos na última consulta. Foi no dia 5 de dezembro, não foi? No dia 5 de dezembro a gente conversou com o senhor a respeito de alguns ajustes que a gente precisava fazer, principalmente relacionados à dieta. Não foi? E aí eu vi que você passou também pela consulta com a nutricionista, não foi? Como é que foi a consulta com a nutricionista? Você teve alguma mudança real na parte da nutrição, mudou o cardápio, como ficou essa adaptação a essa... depois dessa consulta, me conte.
+PACIENTE: Sim, o jeito que ela passou eu estou tentando seguir direitinho para que ela esteja sendo boa. Está sendo boa.
+MÉDICO: Teve algo de intercorrência da última consulta para cá, não? Não passou mal nada?
+PACIENTE: Não, uns cinco dias pra cá, mas em um deles estava dando uma indisposição logo cedo, não sei se eu estava levantando muito tarde, deixei de comer, mas agora nos últimos cinco dias para cá, sumiu.
+ACOMPANHANTE: Sumiu, não está sentindo nada. 
+PACIENTE: Só que agora, antes onde parecia, estou sentindo a fraqueza nas pernas. Eu estou com a caminhada muito devagar.
+MÉDICO: Você trabalha na roça? Como está a caminhada?
+PACIENTE: Estou devagarzinho, mas está. Eu trabalho com café.
+MÉDICO: Entendi. Sobre os remédios, mudou alguma coisa ou está a mesma coisa? 
+PACIENTE: Está a mesma coisa.
+MÉDICO: Na última consulta eu tinha orientado a usar a Furosemida e a Hidroclorotiazida de manhã, não foi? E a insulina, eu também tinha colocado a insulina da noite, antes de dormir. Não foi isso? Deu uma melhorada nos episódios de hipoglicemia? Algumas coisas melhorou?
+PACIENTE: É, deu.
+ACOMPANHANTE: Então, ele aumentou a insulina de novo. Tá como a insulina dele hoje? 
+PACIENTE: Tá do mesmo jeito.
+MÉDICO: Nós só mudamos a NPH para a Glargina. E quanto tá a dose de Glargina que está tomando?
+PACIENTE: 19 só de manhã.
+MÉDICO: 19 só de manhã? Beleza. E as outras?
+PACIENTE: As outras é a Lispro para a correção das refeições. As outras ficou do mesmo jeito.
+MÉDICO: Eu tinha reduzido também o Losartana do senhor para uma vez por dia, não foi isso?
+PACIENTE: Sim.
+MÉDICO: Em vez de duas vezes por dia, passamos para uma vez por dia, né? E os episódios de pressão baixa, essas coisas melhoraram?
+PACIENTE: Sim, melhorou.
+PACIENTE: Eu até tinha anotado, né? A minha casa anotei garfãs nos últimos anos. 
+MÉDICO: Exames dele, tem aí? Você chegou a passar pela avaliação da diálise peritoneal ainda não, né? 
+PACIENTE: Lá em cima? Não, acho que não. 
+MÉDICO: Avaliação da diálise peritoneal ainda não, né? Esses aqui são os exames novos.
+ACOMPANHANTE: É, os de sangue que eu digo é o de sangue. 
+MÉDICO: 16, do 225, acho que 7,5. Hemoglobina de 204, 8. Glicemia de 79, fosfatase 4,79. Proteína total de 711, fosfatase alcalina de 180. Sódio de 104, potássio de 5,7, cloro de 99. Magnésio de 2,5, cálcio de 3.8, cálcio total de 9,6, colesterol total de 150, HDL de 44, LDL de, bicarbonato de 25,9. Hemograma de 9,9, TGO 69, TGP 30.4, PTNG de 45, 1.240 TSH, sem alterações, triglicérides na glicada de 9.3. Isso aqui é o que? 
+ACOMPANHANTE: Esses outros? A ferretina estava subindo, então nem fazia, estava alta. Aí aqui o que o Dr. me pediu, aí é a hemoglobina dele. 
+MÉDICO: É a hemoglobina glicada, né? 
+ACOMPANHANTE: É, e a ferretina está muito... 
+MÉDICO: A ferritina pode ser uma proteína de fase aguda. mas a gente vai ficar acompanhando. A ferritina dele realmente estava alta, então é preciso usar um pouco menos. Manteve a indoxil-sulfato de 800, né?
+PESSOA_NÃO_RELACIONADA: Esse é o dobro de atenolol? 
+MÉDICO: Essa parte parece ser algum ruído. 
+PESSOA_NÃO_RELACIONADA: E esse do envelope, é do que? 
+MÉDICO: O eco é transtorácico e 5x2, 25. Ele tem uma fração de ejeção. de 64% de válvulas: Normais. Não tem nada de calcificação vascular aqui, nem na válvula. Então está tranquilo. Dentro dos limites da normalidade.

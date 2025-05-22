@@ -1,0 +1,38 @@
+MÉDICO: Bom dia, Zé. Tudo bem? Vamos lá, meu amigo. Ó, chegamos na última consulta. Foi no dia 5 de dezembro, não foi? Show de bola. No dia 5 de dezembro a gente conversou com o senhor. a respeito de alguns ajustes que a gente precisava fazer, principalmente relacionados à dieta. Não foi? E aí eu vi você passou também pela consulta com a nutricionista, não foi? Com certeza. Como é que foi a consulta com a nutricionista? Você teve alguma? mudança real na parte da nutrição, mudou o cardápio, como ficou essa adaptação a essa... depois dessa consulta, me conte.
+PACIENTE: Sim, o jeito que ela passou eu estou tentando conseguir acertar direitinho, para que ela esteja sendo boa.
+MÉDICO: Está sendo boa? Anotou algum problema da última consulta para cá, não? Não passou mal, nada?
+PACIENTE: Não, só uns cinco dias pra cá, que onde estava dando uma tontura, principalmente de manhã cedo, não sei se eu estava levantando muito cedo, deixei de comer, mas agora nesses cinco dias para cá, sumiu. Sumiu, não está sentindo nada. Só que agora, antes de onde estava, sentindo a fraqueza nas pernas. Eu estou com a minha caminhada um pouco devagar.
+MÉDICO: Você está com a sua caminhada trabalhando na roça?
+PACIENTE: Estou, com a sua caminhada devagarzinha, mas estou.
+MÉDICO: Você planta o quê lá?
+PACIENTE: Mexo com o café.
+MÉDICO: Café, né? Entendi. Alguma coisa nos remédios mudou? Alguma coisa não mudou? Está a mesma coisa, né? Beleza. Na última consulta eu tinha orientado a usar a furosemida e a hidroclorotiazida de manhã, não foi?
+PACIENTE: É isso mesmo. 
+MÉDICO: E a insulina, eu também tinha alterado a insulina da noite, antes de dormir. Não foi isso? Deu uma melhorada nos episódios de hipoglicemia? Algumas coisas melhorou?
+PACIENTE: É, deu. Então, ele tornou a ajustar a insulina de novo. 
+ACOMPANHANTE: Tá como a insulina dele hoje?
+MÉDICO: Tá como.
+PACIENTE: Tá do mesmo jeito. Nós só mudamos a NPH para a glargina. Tinha que aumentar para ele. 
+MÉDICO: E quantas unidades de glargina que está tomando?
+PACIENTE: 19 só de manhã. 
+MÉDICO: 19 só de manhã? Show de bola, beleza. E as outras?
+PACIENTE: As outras é a lispro para o anexo das refeições. As outras ficou do mesmo jeito.
+MÉDICO: Tá bom, combinado. Eu tinha reduzido também o losartan, do senhor para uma vez por dia, não foi isso?
+PACIENTE: Sim.
+MÉDICO: Olha, em vez de duas vezes por dia, uma vez por dia, né? E os episódios de pressão baixa, essas coisas melhoraram?
+PACIENTE: Tá, melhor. Tá.
+PACIENTE: Eu até tinha anotado, né? A minha casa anotei o grafan dos últimos anos.
+MÉDICO: Exames dele, tem aí? Você chegou a passar pela dialise peritoneal ainda não, né?
+PACIENTE: Não acho que não.
+MÉDICO: Avaliação da dialise peritoneal ainda não, né? Esses aqui são os exames novos. É, os de sangue que eu digo é o de sangue. 16, do 225. Acho que 7,5. Hemoglobina de 204. 8, creatinina de 79, fosfatase 4,79, proteínas totais de 711, albumina sérica de 180. Sódio de 104, potássio de 5,7, cloro de 99. Magnésio de 2,5. T3 36,141, T4 3.01, TSH 3.8. Cálcio total de 9,6. Colesterol total de 150, HDL de 44, LDL. Bicarbonato de 25,9. Hemoglobina glicada de 9,9. CK 69, AST 30.4. PT INR de 1.24. É a HbA1C, sem operação, um controle na glicada de 9.3. 
+PACIENTE: Isso é o que, esses outros?
+MÉDICO: A ferritina estava subindo, então nem tinha necessidade, estava alta. Aí aqui o que eu vou te pedir, aí é a hemoglobina dele. 
+PACIENTE: É a hemoglobina glicada, né? 
+MÉDICO: É, e a ferritina está muito alta.. A ferritina pode ser uma proteína de fase aguda. mas vamos acompanhar, a ferritina dele realmente estava alta, então é que sai de ser pouco, entendeu? Manteve a dosagem de 800, né? 
+PACIENTE: Esse é o tempo de hemodiálise, né? 
+MÉDICO: O eletrocardiograma transtorácico e 5x2, 25. Ele tem uma fração de ejeção. de 64% de válvulas normais. Não tem nada de calcificação vascular aqui ditado aqui no exame também. Então está tranquilo. Dentro dos limites da normalidade. Não há constatação de doença valvar à esquerda. E esse aqui... Salves do eco-cardiograma. Pediu salves do eco-cardiograma? 
+Acompanhante: Oi! Pediu sim! 
+MÉDICO: Cálculos renais mas não colocaram direito então é para isso que a gente pediu se você ver aqui a imagem aqui está muito ruim Não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não,…
+PESSOA_NÃO_RELACIONADA: Não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não, não.
+PESSOA_NÃO_RELACIONADA: Não dá pra ver nada aqui. Só que se a gente abrir aqui... 
+MÉDICO: É Juscelino. Cláudio da Silva muda.

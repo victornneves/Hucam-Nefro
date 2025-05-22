@@ -1,0 +1,25 @@
+Os exames laboratoriais que apresentam resultados anormais são:
+
+1. Creatinina (CR): Os valores normais de creatinina no sangue variam de 0,6 a 1,3 mg/dL em homens adultos. Os valores de Zé estão consistentemente acima do normal, indicando disfunção renal.
+
+2. Ureia (UR): O nível normal de ureia no sangue varia entre 15 e 45 mg/dL. Os valores de Zé estão consistentemente acima do normal, o que também indica disfunção renal.
+
+3. Ferritina: O nível normal de ferritina no sangue varia de 24 a 336 ng/mL em homens. Os valores de Zé estão muito acima do normal, o que pode indicar uma condição chamada hemocromatose.
+
+4. Hemoglobina (HB): O nível normal de hemoglobina varia de 13,5 a 17,5 g/dL em homens adultos. Os valores de Zé estão abaixo do normal, indicando anemia.
+
+5. Hematócrito (HCT): O nível normal de hematócrito varia de 38,8% a 50,0% em homens adultos. Os valores de Zé estão abaixo do normal, o que também indica anemia.
+
+6. Glicose: O nível normal de glicose no sangue varia de 70 a 100 mg/dL em jejum. Os valores de Zé estão acima do normal, indicando hiperglicemia, o que é consistente com seu diagnóstico de diabetes.
+
+7. Hemoglobina glicada (HBA1C): O nível normal de hemoglobina glicada varia de 4% a 5,6%. Valores acima de 6,5% são indicativos de diabetes. Os valores de Zé estão acima do normal, o que é consistente com seu diagnóstico de diabetes.
+
+8. Potássio (K): O nível normal de potássio no sangue varia de 3,6 a 5,2 mEq/L. O valor de Zé está acima do normal, indicando hipercalemia.
+
+9. Fósforo (P): O nível normal de fósforo no sangue varia de 2,5 a 4,5 mg/dL. Os valores de Zé estão acima do normal, indicando hiperfosfatemia.
+
+10. Cálcio (CA): O nível normal de cálcio no sangue varia de 8,6 a 10,2 mg/dL. O valor de Zé está abaixo do normal, indicando hipocalcemia.
+
+11. Proteína na urina: A quantidade normal de proteína na urina é de 0 a 20 mg/dL. Os valores de Zé estão acima do normal, indicando proteinúria.
+
+12. Esquistossomose IgG: O resultado positivo indica a presença de anticorpos contra a esquistossomose, sugerindo uma infecção passada ou atual por esse parasita.

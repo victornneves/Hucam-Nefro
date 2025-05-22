@@ -1,0 +1,30 @@
+MÉDICO: Bom dia, Zé. Tudo bem? Vamos lá, meu amigo. Ó, chegamos na última consulta. Foi no dia 5 de dezembro, não foi? Show de bola. No dia 5 de dezembro a gente conversou com o senhor. A respeito de alguns ajustes que a gente precisava fazer, principalmente relacionados à dieta. Não foi? E aí eu vi que você passou também pela consulta com a nutricionista, não foi? Como é que foi a consulta com a nutricionista? Você teve alguma mudança real na parte da nutrição, mudou o cardápio, como ficou essa adaptação a essa... depois dessa consulta, me conte.
+PACIENTE: Sim, o jeito que ela passou eu estou tentando seguir direitinho para que ela esteja sendo boa.
+MÉDICO: Está sendo boa? Houve algo de intercorrência da última consulta para cá, não? Não passou mal nada? 
+PACIENTE: Não, apenas uns cinco dias pra cá, mas tinha uns dias que estava havendo uma adaptação para o descanso cedo, não sei se eu estava acordando muito tarde. deixei de comer, mas agora em uns cinco dias para cá, sumiu. 
+MÉDICO: Sumiu, não está sentindo nada. Aí só que agora, antes estava sentindo a fraqueza nas pernas. Você está com a sua caminhada muito. Você está com a sua caminhada trabalhando na roça?
+PACIENTE: Estou com a sua caminhada devagarzinha, mas está. Você planta aqui né? 
+MÉDICO: Mexo com o café. Café, né? Entendi. Remédios mudou alguma coisa não mudou nada está a mesma coisa né beleza. É na última consulta eu tinha orientado a usar a furosemida e a hidroclorotiazida de manhã, não foi? 
+PACIENTE: É isso mesmo. 
+MÉDICO: E a insulina, eu também tinha orientado a usar a insulina à noite, antes de dormir. Não foi isso? Deu uma melhorada nos episódios de hipoglicemia? Algumas coisas melhorou? 
+PACIENTE: É, deu. 
+MÉDICO: Então, ele voltou a tomar a insulina de novo. Como está a insulina hoje? 
+PACIENTE: Tá do mesmo jeito. Nós só mudamos a DMHP para a senpaga.
+ACOMPANHANTE: Lantus. Tinha que faltar para ele. 
+MÉDICO: E quantas unidades de glargina que está tomando? 
+PACIENTE: 19 só de manhã. 
+MÉDICO: 19 só de manhã? Show de bola, beleza. E as outras?
+ACOMPANHANTE: As outras é a lisa para anexo das refeições. As outras ficou do mesmo jeito. 
+MÉDICO: Tá bom, combinado. Eu tinha reduzido também. e também o Losartana do senhor para uma vez por dia, não foi isso? 
+PACIENTE: Sim. 
+MÉDICO: Olha, em vez de duas vezes por dia, uma vez por dia, né? E os episódios de pressão baixa, essas coisas melhoraram? 
+PACIENTE: Tá, melhor.
+MÉDICO: Melhor, né? Um, dois, três... Eu até tinha anotado, né? 
+PACIENTE: A minha casa anotei garfãs nos últimos anos. 
+MÉDICO: Exames dele, tem aí? Você chegou a passar pela diala espiritual ainda não, né? 
+PACIENTE: Lá em cima. 
+MÉDICO: Não acho que não. Avaliação da diala espiritual ainda não, né? 
+ACOMPANHANTE: Esses aqui são os exames novos. 
+MÉDICO: É, os de sangue que eu digo é o de sangue. 16, do 225. Acho que 7,5. Helicose de 204. 
+ACOMPANHANTE: 8, degreceria de 79, fosta 4,79, pergutiva de 711, fosta quase apelina de 180. 
+MÉDICO: Sobre de 104, potássio de 5,7, cloro de 99. Magnésio de 2,5.

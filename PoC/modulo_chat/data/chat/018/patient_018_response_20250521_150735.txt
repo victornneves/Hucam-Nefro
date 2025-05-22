@@ -1,0 +1,21 @@
+Os exames que apresentam resultados anormais são:
+
+1. Exames de sangue: 
+   - Creatinina (CR) está elevada em várias ocasiões (1,9; 2,57; 2,96; 4,25; 2,92; 3,01), indicando possível disfunção renal.
+   - Ferritina está elevada (1537; 510; 262; 711), o que pode indicar inflamação ou sobrecarga de ferro.
+   - Hemoglobina (HB) está baixa em várias ocasiões (7.3; 6.7; 12,3; 16,6; 15,7; 9,69), indicando anemia.
+   - Glicose está elevada em várias ocasiões (255; 157; 133; 248), indicando controle inadequado do diabetes.
+   - Hemoglobina glicada (HBA1C) está elevada (9,2; 9,3; 8,3%), indicando controle inadequado do diabetes a longo prazo.
+   - Potássio (K) está elevado (6,1; 5,7), o que pode ser devido à disfunção renal.
+   - Ácido úrico está elevado (7,8), o que pode ser devido à disfunção renal.
+   - Proteína na urina está elevada (3,33 g/24 h; 4315 MG/24H; 262 MG/24 HORAS), indicando possível dano renal.
+
+2. Exames de imagem:
+   - Ultrassom do aparelho urinário mostra um cisto renal à direita.
+   - Raio-X das mãos e punhos mostra calcificações vasculares nas mãos bilateralmente e punho à direita.
+
+3. Sorologias:
+   - Anti-HBC total: reativo, indicando contato prévio com o vírus da hepatite B.
+   - Esquistossomose IgG: reativo, indicando infecção por esquistossomose.
+
+Esses resultados anormais sugerem que o paciente pode ter doença renal crônica, possivelmente devido ao controle inadequado do diabetes. A anemia pode ser devido à doença renal ou à sobrecarga de ferro. A presença de um cisto renal e calcificações vasculares também são preocupantes e podem necessitar de mais investigação.

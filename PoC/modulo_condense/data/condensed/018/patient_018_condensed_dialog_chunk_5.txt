@@ -1,0 +1,7 @@
+MÉDICO: Bom dia, Zé. Na nossa última consulta em 5 de dezembro, discutimos alguns ajustes na sua dieta. Você também teve uma consulta com a nutricionista. Como foi essa consulta? Você fez alguma mudança significativa na sua dieta?
+
+PACIENTE: Sim, estou tentando seguir as orientações da nutricionista o melhor possível.
+
+MÉDICO: Você teve algum problema desde a última consulta? Não passou mal ou algo assim?
+
+PACIENTE: Não, mas há cerca de cinco dias comecei a sentir tonturas pela manhã. Não sei se é porque estou acordando muito tarde ou se é porque não estou comendo o suficiente. No entanto, as tonturas desapareceram nos últimos cinco dias. Agora, estou começando a sentir fraqueza nas pernas.

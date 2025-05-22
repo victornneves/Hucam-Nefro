@@ -1,0 +1,33 @@
+MÉDICO: Bom dia, Zé. Tudo bem? Vamos lá, meu amigo. Ó, chegamos na última consulta. Foi no dia 5 de dezembro, não foi? Show de bola. No dia 5 de dezembro a gente conversou com o senhor a respeito de alguns ajustes que a gente precisava fazer, principalmente relacionados à dieta. Não foi? E aí eu vi que você passou também pela consulta com a nutricionista, não foi? Como é que foi a consulta com a nutricionista? Você teve alguma mudança real na parte da nutrição, mudou o cardápio, como ficou essa adaptação a essa... depois dessa consulta, me conte.
+PACIENTE: Sim, o jeito que ela passou eu estou tentando seguir direitinho para que ela esteja sendo boa. 
+MÉDICO: Está sendo boa? Você teve algo de intercorrência da última consulta para cá, não? Não passou mal nada?
+PACIENTE: Não, até uns cinco dias pra cá, mas em um dia estava dando uma tontura cedo, não sei se eu estava levantando muito tarde, ou deixei de comer, mas nos últimos cinco dias, sumiu. 
+MÉDICO: Sumiu, não está sentindo nada. Aí só que agora, antes de onde parecia, sentindo a fraqueza nas pernas. Você está com a sua caminhada muito reduzida?
+PACIENTE: Estou com a sua caminhada devagarzinha, mas está. 
+MÉDICO: Você planta aqui lá? 
+PACIENTE: Mexo com o café. 
+MÉDICO: Café, né? Entendi. Uma coisa, os remédios mudou alguma coisa ou não mudou nada, está a mesma coisa né? Na última consulta, eu tinha orientado a usar a furosemida e a hidroclorotiazida de manhã, não foi?
+PACIENTE: É isso mesmo.
+MÉDICO: E a insulina, eu também tinha colocado a insulina da noite, antes de dormir. Não foi isso? Deu uma melhorada nos episódios de hipoglicemia? Algumas coisas melhoraram?
+PACIENTE: É, deu. 
+ACOMPANHANTE: Então, ele retomou a insulina de novo. Está como a insulina dele hoje? 
+PACIENTE: Tá do mesmo jeito. Nós só mudamos a NPH para a glargina. Tinha que faltar para ele. 
+MÉDICO: E quantas unidades de glargina que está tomando? 
+PACIENTE: 19 só de manhã. 
+MÉDICO: 19 só de manhã? Show de bola, beleza. E as outras? 
+ACOMPANHANTE: As outras é a regular para o anexo das refeições. As outras ficou do mesmo jeito. 
+MÉDICO: Tá bom, combinado. Eu tinha reduzido também a Losartana do senhor para uma vez por dia, não foi isso? 
+PACIENTE: Sim. 
+MÉDICO: Olha, em vez de duas vezes por dia, uma vez por dia, né? E os episódios de pressão baixa, essas coisas melhoraram? 
+PACIENTE: Tá, melhor.
+PACIENTE: Melhor, né? Um, dois, três... Eu até tinha anotado, né? Anotei alguns dos últimos exames dele, tem aí? Ele chegou a passar pela avaliação da diálise peritoneal ainda não, né? 
+MÉDICO: Não acho que não, ele ainda não passou pela avaliação da diálise peritoneal, né? Esses aqui são os exames novos?
+PACIENTE: É, os de sangue que eu digo é o de sangue. 
+MÉDICO: Hemoglobina de 204. Oito e creatinina de 79, fosfatase 4,79, proteína total de 711, albumina de 180. Sódio de 104, potássio de 5,7, cloro de 99. Magnésio de 2,5. Colesterol total de 9,6. Triglicerídeos de 150, HDL de 44. LDL e VLDL, Bicarbonato de 25,9. Hemoglobina glicada de 9,9. Vitamina D de 69, TGO 30.4, TGP de 45. TSH de 1.240. E a esse sem proteinúria, o controle da glicada está de 9.3. Então, vamos lá. 
+ACOMPANHANTE: Esses outros exames são o que? A ferretina estava subindo, então nem estava coletando, ela estava alta. Aí aqui o que o Médico te pediu, aí é a hemoglobina dele? 
+MÉDICO: É a hemoglobina glicada, né? E a ferretina está muito alta... A ferritina pode ser uma proteína de fase aguda, mas a gente vai ficar de olho. A ferritina dele realmente estava alta que ele usava, então é que não precisa ser coletada com frequência, entendeu? Manteve a dose de 800mg, né? Esses números são dos resultados de creatinina, né? 
+PACIENTE: Sim, são os resultados de creatinina. 
+MÉDICO: E esse exame do envelope, é o que? O ecocardiograma? 
+PACIENTE: O eco é transtorácico e 5x2, 25. Ele tem uma fração de ejeção de 64%, as válvulas são normais. Não tem nada de calcificação vascular aqui descrito na válvulas também. Então está tranquilo. Dentro dos limites da normalidade. A constatação de calcificação vascular está ausente.. E esse aqui...
+MÉDICO: Salves High-X. Então, alguém pediu? Salves High-X? 
+ACOMPANHANTE: Oi! Alguém pediu? Cálcio nas ações vasculares! Mas não colocaram direito na descrição, então é para isso que a gente pediu se você ver aqui, a imagem aqui está muito ruim.

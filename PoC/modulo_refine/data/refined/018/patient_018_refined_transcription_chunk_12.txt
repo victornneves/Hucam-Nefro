@@ -1,0 +1,25 @@
+MÉDICO: Bom dia, Zé. Tudo bem? Vamos lá, meu amigo. Ó, chegamos na última consulta. Foi no dia 5 de dezembro, não foi? Show de bola. No dia 5 de dezembro a gente conversou com o senhor. a respeito de alguns ajustes que a gente precisava fazer, principalmente relacionados à dieta. Não foi? E aí eu vi você passou também pela consulta com a nutricionista, não foi?
+PACIENTE: Com certeza.
+MÉDICO: Como é que foi a consulta com a nutricionista? Você teve alguma? mudança real na parte da nutrição, mudou o cadápio, como ficou essa adaptação a essa... depois dessa consulta, me conte.
+ACOMPANHANTE: Sim, o jeito que ela passou eu estou tentando seguir direitinho para ver se estou indo bem.
+MÉDICO: Está sendo boa?
+PACIENTE: Está sendo boa.
+MÉDICO: Já houve alguma intercorrência da última consulta para cá, não? Você não passou mal nada?
+PACIENTE: Não, sempre uns cinco dias pra cá, mas eu estava dando uma aduna para o coração cedo, não sei se eu estava levantando muito tarde. deixou de comer, mas agora num cinco dias pra cá, sumiu.
+MÉDICO: Sumiu, não está sentindo nada. Aí só que agora, antes de quando parecia, sentindo a fraqueza nas pernas. Você tem caminhado muito?
+PACIENTE: Estou com a minha caminhada devagarzinha, mas está. 
+MÉDICO: Você planta aqui lá?
+PACIENTE: Mexo com o café.
+MÉDICO: Café, né? E os remédios, mudou alguma coisa não mudou nada está a mesma coisa né? Na última consulta eu tinha orientado a usar a furosemida e a hidroclorotiazida de manhã, não foi?
+PACIENTE: É isso mesmo.
+MÉDICO: E a insulina, eu também tinha colocado a insulina da noite, antes de dormir. Não foi isso? Deu uma melhorada nos episódios de hipoglicemia? Algumas coisas melhorou?
+PACIENTE: É, deu.
+MÉDICO: Então, ele voltou a tomar a insulina de novo. Tá com a insulina dele hoje?
+ACOMPANHANTE: Tá. Tá do mesmo jeito. Nós só mudamos a DM para a senpaga. Largina. Tinha que faltar para ele. E quantas unidades de glargina que está tomando?
+MÉDICO: 19 só de manhã.
+ACOMPANHANTE: 19 só de manhã? Show de bola, beleza. E as outras?
+MÉDICO: As outras é a regular para o almoço e jantar. As outras ficou do mesmo jeito. Tá bom, combinado. Eu tinha reduzido também. e também a Losartana do senhor para uma vez por dia, não foi isso?
+PACIENTE: Sim.
+MÉDICO: Ou seja, em vez de duas vezes por dia, uma vez por dia, né? E os episódios de pressão baixa, essas coisas melhoraram?
+PACIENTE: Tá, melhor.
+MÉDICO: Melhor, né? Um, dois, três...

@@ -1,0 +1,29 @@
+MÉDICO: Bom dia, Zé. Tudo bem? Vamos lá, meu amigo. Ó, chegamos na última consulta. Foi no dia 5 de dezembro, não foi? Show de bola. No dia 5 de dezembro a gente conversou com o senhor. a respeito de alguns ajustes que a gente precisava fazer, principalmente relacionados à dieta. Não foi? E aí eu vi você passou também pela consulta com a nutricionista, não foi? Como é que foi a consulta com a nutricionista? Você teve alguma? mudança real na parte da nutrição, mudou o cardápio, como ficou essa adaptação a essa... depois dessa consulta, me conte.
+PACIENTE: Sim, o jeito que ela passou eu estou tentando seguir direitinho para que ela esteja sendo boa. Está ainda sendo boa. 
+MÉDICO: Está sendo boa? Teve algo de intercorrência da última consulta para cá, não? Não passou mal nada? 
+PACIENTE: Não, só uns cinco dias pra cá, mas onde eu estava sentindo uma tontura ao acordar cedo, não sei se eu estava levantando muito tarde, ou se deixou de comer, mas agora nesses cinco dias para cá, sumiu. 
+MÉDICO: Sumiu, não está sentindo nada. Aí só que agora, antes de falar com você, sentindo a fraqueza nas pernas. Está conseguindo caminhar muito? Você está trabalhando na roça? 
+PACIENTE: Estou caminhando devagarzinho, mas estou. Você pergunta se eu trabalho na roça?
+MÉDICO: Plantando o quê lá? 
+PACIENTE: Mexo com o café. 
+MÉDICO: Café, né? Entendi. Uma coisa, remédios mudou alguma coisa? Não mudou nada, está a mesma coisa, né? Beleza. É, na última consulta eu tinha orientado a usar a Furosemida e o Hidroclorotiazida de manhã, não foi? 
+PACIENTE: É isso mesmo. 
+MÉDICO: E a insulina, eu também tinha colocado a insulina da noite, antes de dormir. Não foi isso? Deu uma melhorada nas episódios de hipoglicemia? Algumas coisas melhorou? 
+PACIENTE: É, deu. 
+MÉDICO: Então, ele aumentou a dose de insulina de novo. Como está a insulina dele hoje? 
+ACOMPANHANTE: Tá do mesmo jeito. Nós só mudamos a NPH para a Lantus. 
+MÉDICO: Tinha que falar para ele. E quantas unidades de Lantus que está tomando? 
+PACIENTE: 19, só de manhã. 
+MÉDICO: 19 só de manhã? Show de bola, beleza. E as outras? 
+ACOMPANHANTE: As outras é a Lispro para o almoço e jantar. As outras ficou do mesmo jeito. 
+MÉDICO: Tá bom, combinado. Eu tinha reduzido também o Losartana do senhor para uma vez por dia, não foi isso? 
+PACIENTE: Sim. 
+MÉDICO: Olha, em vez de duas vezes por dia, uma vez por dia, né? E os episódios de pressão baixa, essas coisas melhoraram? 
+PACIENTE: Tá, melhor.
+PACIENTE: Eu até tinha anotado, né? A minha casa anotei garfãs nos últimos anos. 
+ACOMPANHANTE: Exames dele, tem aí? Você chegou a passar pela diala espiritual ainda não, né? Lá em cima. 
+PACIENTE: Não, acho que não. Avaliação da diala espiritual ainda não, né?
+MÉDICO: Esses aqui são os exames novos. Os de sangue que eu digo é os de sangue. Hematócrito de 204. 8, Ureia de 79, fosta 4,79, creatinina de 711, fosfatase alcalina de 180. Sodio de 104, potássio de 5,7, cloro de 99. Magnésio de 2,5. 36,141, 3.01, 3.8 Cálcio total de 9,6 Colheceram o colesterol total de 150, HDL de 44 LDL 130. Bicarbonato de 25,9. Albumina de 9,9. 69, MCV de 30.4, PTNG de 45 1.240. A HbA1C de 9.3 Vamos lá, isso aqui é o que, esses outros? 
+ACOMPANHANTE: A ferretina estava subindo, então nem fizemos, estava alta. Aí aqui o que o Dr. pediu, aí é a hemoglobina dele. 
+MÉDICO: É, e a ferritina está muito... A ferritina pode ser uma proteína de fase aguda. Mas a gente vai ficar acompanhando, a ferritina dele realmente estava alta que ele usava. Manteve a dose de ácido fólico de 800, né?
+PESSOA_NÃO_RELACIONADA: Esse é o dobro de aterrazinais, né? 2, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 24, 100...

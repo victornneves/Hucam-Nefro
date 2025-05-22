@@ -1,0 +1,18 @@
+MÉDICO: Bom dia, Zé. Tudo bem? Vamos lá, meu amigo. Ó, chegamos na última consulta. Foi no dia 5 de dezembro, não foi? Show de bola. No dia 5 de dezembro a gente conversou com o senhor. a respeito de alguns ajustes que a gente precisava fazer, principalmente relacionados à dieta. Não foi? E aí eu vi que você passou também pela consulta com a nutricionista, não foi? Com certeza. Como foi essa consulta com a nutricionista? Você teve alguma mudança na parte da nutrição, mudou o cardápio, como ficou essa adaptação depois dessa consulta, me conte.
+PACIENTE: Sim, o jeito que ela passou eu estou tentando seguir direito para ver se está sendo bom. Está sendo bom. 
+MÉDICO: teve algo de intercorrência desde a última consulta para cá, não? Não passou mal nada?
+PACIENTE: Não, apenas uns cinco dias pra cá, eu estava sentindo uma tontura cedo, não sei se estava levantando muito rápido ou deixando de comer, mas nos últimos cinco dias, sumiu. Sumiu, não estou sentindo nada. Agora, antes dessa tontura, estava sentindo fraqueza nas pernas. Minha caminhada está devagar.
+MÉDICO: Você está trabalhando na roça? 
+PACIENTE: Estou trabalhando devagarzinho, mas estou. 
+MÉDICO: Você planta o quê lá? 
+PACIENTE: Mexo com o café. 
+MÉDICO: Entendi. Alguma coisa nos remédios mudou ou está a mesma coisa? 
+PACIENTE: Está a mesma coisa.
+MÉDICO: Na última consulta eu tinha orientado a usar a Furosemida e a Hidroclorotiazida pela manhã, não foi? 
+PACIENTE: É isso mesmo. 
+MÉDICO: E a insulina, eu também tinha colocado para tomar à noite, antes de dormir. Não foi isso? Isso melhorou os episódios de hipoglicemia? Alguma coisa melhorou?
+PACIENTE: É, deu. 
+ACOMPANHANTE: Então, ele voltou a tomar a insulina de novo. Como está a insulina dele hoje? 
+MÉDICO: Está como?
+ACOMPANHANTE: Está do mesmo jeito. Nós só mudamos a DMARD para a Sempaglutida. 
+MÉDICO: Lantus. Tinha que faltar para ele.
