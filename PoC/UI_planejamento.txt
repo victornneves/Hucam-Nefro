@@ -2,6 +2,8 @@ Melhorias:
 
 LÓGICA:
 
+--> LIMITAR NRO DE TOKENS -> MAS só apos a msg e primer...
+
 Atualmente o chat responde baseado apenas na pergunta do médico, como se ele não tivesse memória da conversa. O desejado é que essas perguntas e respostas anteriores não sejam perdidas, e as próximas respostas do chat gpt não desconsidere o que foi dito anteriormente
 -> COMO FAZER ISSO: com role management da API do OpenAI. system, user, assistant.
 --> ATENTAR AO MÁXIMO DE TOKENS: em vez de extrapolar o número de tokens, ir excluindo respostas anteriores (por ex.: tenho os roles system, user, assistant, user, assistant, user e o proximo - assistant - vai extrapolar. Então me vez de excluir system, tenho que exluir o primeiro user)
