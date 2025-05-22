@@ -224,6 +224,8 @@
       loadingIndicator.style.display = 'block';
       
       try {
+        console.log("Enviando pergunta:", question); // log para debug
+
         // Chamada à API Flask
         const response = await fetch('http://localhost:5003/getMedicalResponse', {
           method: 'POST',
@@ -235,8 +237,15 @@
             question: question
           })
         });
+
+        console.log("Resposta recebida, status:", response.status); // log para debug
         
+        if (!response.ok) {
+          throw new Error(`Erro HTTP: ${response.statusText}`);
+        }
+
         const data = await response.json();
+        console.log("Dados recebidos:", data); // log para debug
         
         if (data.error) {
           addMessage(`Erro: ${data.error}`, false);
@@ -244,7 +253,7 @@
           addMessage(data.response, false);
         }
       } catch (error) {
-        addMessage(`Erro na comunicação com o servidor: ${error.message}`, false);
+        addMessage(`Erro: ${error.message}`, false);
       } finally {
         loadingIndicator.style.display = 'none';
       }

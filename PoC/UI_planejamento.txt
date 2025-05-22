@@ -1,3 +1,28 @@
+Melhorias:
+
+LÓGICA:
+
+Atualmente o chat responde baseado apenas na pergunta do médico, como se ele não tivesse memória da conversa. O desejado é que essas perguntas e respostas anteriores não sejam perdidas, e as próximas respostas do chat gpt não desconsidere o que foi dito anteriormente
+-> COMO FAZER ISSO: com role management da API do OpenAI. system, user, assistant.
+--> ATENTAR AO MÁXIMO DE TOKENS: em vez de extrapolar o número de tokens, ir excluindo respostas anteriores (por ex.: tenho os roles system, user, assistant, user, assistant, user e o proximo - assistant - vai extrapolar. Então me vez de excluir system, tenho que exluir o primeiro user)
+--> o prompt deve ter todo o sumario só na primeria msg, e depois apenas as perguntas
+
+A resposta deve ter uma formatação amigável (o role do system recebe o token que são as diretrizes de como ele deve responder)
+-> resposta sucinta, formatada (negrito, espaço, tab), pode mostrar gráficos (por exemplo, da variação de determinado exame de sangue no tempo)
+-> API gpt suporta apenas saídas de texto (nao de imagem/ gráfico em forma d imagem)
+
+* Garantir baixa latência na API OpenAI: stream=True para Server-Sent Events (SSE) / Streaming ou usar API em Tempo Real (Realtime API). -> https://platform.openai.com/docs/quickstart?api-mode=chat -> https://platform.openai.com/docs/guides/realtime or https://platform.openai.com/docs/guides/streaming-responses?api-mode=chat 
+
+DESIGN:
+
+design da mensagem formatada -> está sendo exibida em txt (?) -> estarei formatando em markdown?
+-> response_format="markdown" em source.py
+-> ajeitar html para texto do chat ser formatado em markdown
+
+A mensagem que envio para o chat tem que estar à direita no card, e não na esquerda que nem está. E a mensagem do sistema tem que estar à esquerda (e não à direita que nem está).
+
+--------------------------
+
 Próximos Passos para a Implementação
 
 1. Estrutura de Diretórios:
