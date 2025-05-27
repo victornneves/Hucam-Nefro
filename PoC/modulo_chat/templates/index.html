@@ -42,84 +42,165 @@
 
     <!-- Conteúdo principal: informações + chat -->
     <div class="main-content">
-      
-      <!-- Seção de Informações do Paciente -->
-      <section class="section-info-paciente">
-        <div class="section-title">INFO PACIENTE</div>
-        <div class="card info-paciente">
-          <p><strong>Nome:</strong> <span id="patient-name">Carregando...</span></p>
-          <p><strong>Idade:</strong> <span id="patient-age">Carregando...</span></p>
-          <p><strong>ID:</strong> <span id="patient-id">018</span></p>
-        </div>
-      </section>
-
-      <!-- Seção de Exames -->
-      <section class="section-exames">
-        <div class="section-title">EXAMES</div>
-        <div class="card">
-          <div class="tabs">
-            <button class="tab active" data-tab="lab">Exames laboratoriais</button>
-            <button class="tab" data-tab="comp">Exames complementares</button>
-            <button class="tab" data-tab="fis">Exame físico</button>
-          </div>
-          <div class="tab-content">
-            <div class="tab-panel active" id="lab">
-              <p><strong>21/06/54:</strong> CR 1,9; AU 4,5; PT 5,2; ALB 2,8; GLOB 2,4; BT 0,54; DIRETA 0,12; IND 0,42; GGT 33; TGP 26; TGO 33; FERRITINA 1537; FIX FERRO 182; FERRO 54; P 5,2; FA 250; CÁLCIO T 8,9; UR 92; GLICOSE 255; HB 7.3; HT 23; VCM 91; HCM 29,1; RDW 16,2; LEUCO 6900; PQT 231.000; ELETROFORESE DE PROTEINA SEM PICO MONOCLONAL; PTH 70,5; VIT D 12,5; B12 491; IGG ESQUISTOSSOMOSE POSITIVO</p>
-
-              <p><strong>01/07/24:</strong> URINA 24 h (1610 mL) PROT 3,33 g/24 h / CR 2,57 EAS: PH 6,5 DENS 1.020 PROTEINAS + HEMOGLOBINA + HB 6,7 LEUCO 7100 PLQ 223000. GLICOSE 100 UREIA 90 AC URICO 4,6 CT 309 HDL 85 LDL 211 TRIGLICERÍDEOS 64 TGO 37 TGP 30 GGT 29 HEMOGLOBINA GLICADA 5,1 % GLICEMIA 99</p>
-              
-              <p><strong>02/09/2024:</strong> NA 133 K 5 CL 96 BIC 31,3 | HB 12,3 L 8990 PLQ 377.000 | URINA DE 24H: 4315 MG/24H (2920 ML) | CR 2,96 (TFGe 25 mL/min/1,73 m²) UR 94 CISTATINA C 2,24 (TFGe 27,7 mL/min/1,73 m²) | FERRITINA 510 SAT TRANSFERRINA 23%. C3 116 C4 20 | ELETROFORESE DE PROTEÍNAS: PROTEÍNA MONOCLONAL AUSENTES | IMUNOFIXAÇÃO SÉRICA: AUSÊNCIA DE PROTEÍNA MONOCLONAL | IMUOFIXAÇÃO URINÁRIA: AUSÊNCIA DE PROTEÍNA MONOCLONAL. LAMBDA CADEIA LEVE: 160,0 mg/dL (VR: 90,0 a 210,0 nmg/gL) | KAPPA - CADEIA LEVE: 298,0 mg/dL (VR: 170,0 a 370,0 nmg/gL) | RELAÇÃO KAPPA/LAMBDA: 1,86 (VR: 1,35 a 2,65) | ESQUISTOSSOMOSE IGG REAGENTE. EAS: DENS 1015 PH 5 | EXAME QUÍMICO: PROTEÍNA 100 GLICOSE 500 HEMOGLOBINA 50 | SEDIMENTOSCOPIA: LEUCÓCITOS 10 HEMÁCIAS 5 FLORA BACTERIANA AUMENTADA. CILINDROS HIALINO, GRANULOSO FINO, GRANULOSO GROSSO, PRESENÇA DE ESPERMATOZOIDES</p>
-              
-              <p><strong>SOROLOGIAS:</strong> HBSA: NR | ANTI-HBC IGM: NR | ANTI-HBC TOTAL: REATIVO | ANTI-HBS&gt; 1000 | ANTI-HCV NR | ANTI-HIV NR</p>
-              
-              <p><strong>25/10/2024:</strong> CA 9,7; AU 9,2; CL 96; HDL 40; LDL 98; CT 150; CR 4,25; FER 108; FA 228; P 6,2; GLIC 157; HBG 8,6%; MG 3,12; MICROALB 222 MG/G; K 6,1; ALB 3,8; IST 18%; NA 135; TGC 59; UR 204; BIC 27,3; HB 16,6; HCT 52,2; PTH 44; VIT D 45; EAS PTN 15</p>
-              
-              <p><strong>29/11/2024:</strong> CR 2,92 UR 157 | NA 137 K 5,7 MG 2,57 | CAT 9,6 P 6,1 VIT D 46,5 | FERRITINA 262 IST 41% | GLICOSE 133 HBA1C 9,2 | ÁC ÚRICO 7,8 | HCO3 30,0 | HB 15,7 LEUCO 8420 PLAQ 286000 | EAS: PH 5,0 PROT &lt;30 CILINDROS HIALINOS | PROTEINÚRIA URINA 262 MG/24 HORAS (2300 ML) &gt;&gt;&gt; eGFR CKD-EPI: 25 mL/min/1.73 m²</p>
-              
-              <p><strong>16/02/25:</strong> AU 7,5; GLIC 248; TGC 79; P 4,9; FER 711; FA 180; NA 134; K 5,7; CL 99; MG 2,56; UR 141; CR 3,01; ALB 3,8; CA 9,6; CT 150; HDL 44; LDL 90; B ; HB 9,69; HCT 30,4; PTH 45; VIT D 40; HBG 9,3</p>
-              
-              <p><strong>11/03/25:</strong> HBG 8,3%</p>
-              
+      <div class="grid-container">
+        <!-- Primeira Coluna -->
+        <div class="grid-column-1">
+          <section class="section-info-paciente">
+            <div class="section-title">INFO PACIENTE</div>
+            <div class="card info-paciente">
+              <p><strong>Nome:</strong> <span id="patient-name">Carregando...</span></p>
+              <p><strong>Idade:</strong> <span id="patient-age">Carregando...</span></p>
+              <p><strong>ID:</strong> <span id="patient-id">018</span></p>
             </div>
-            <div class="tab-panel" id="comp">
-              <p><strong>USG do Aparelho Urinário (30/08/2024):</strong> Rins tópicos de dimensões normais, medindo 107x50x41 mm à direita e 113x53x42 mm à esquerda, de contornos regulares e textura do parênquima homogênea. Rim direito apresentando imagem anecoica medindo 10 mm (cisto). Bexiga semi-repleta, com paredes finas, contornos regulares e conteúdo anecóico. <strong>Conclusão:</strong> cisto renal à direita. Bexiga sem alterações consideráveis.</p>
+          </section>
+          <section class="section-exames">
+            <div class="section-title">EXAMES</div>
+            <div class="card">
+              <div class="tabs">
+                <button class="tab active" data-tab="lab">Exames laboratoriais</button>
+                <button class="tab" data-tab="comp">Exames complementares</button>
+                <button class="tab" data-tab="fis">Exame físico</button>
+              </div>
+              <div class="tab-content">
+                <div class="tab-panel active" id="lab">
+                  <div class="lab-entry">
+                    <h4>21/06/54</h4>
+                    <ul>
+                      <li>CR 1,9</li><li>AU 4,5</li><li>PT 5,2</li><li>ALB 2,8</li><li>GLOB 2,4</li>
+                      <li>BT 0,54</li><li>DIRETA 0,12</li><li>IND 0,42</li><li>GGT 33</li><li>TGP 26</li>
+                      <li>TGO 33</li><li>FERRITINA 1537</li><li>FIX FERRO 182</li><li>FERRO 54</li>
+                      <li>P 5,2</li><li>FA 250</li><li>CÁLCIO T 8,9</li><li>UR 92</li><li>GLICOSE 255</li>
+                      <li>HB 7.3</li><li>HT 23</li><li>VCM 91</li><li>HCM 29,1</li><li>RDW 16,2</li>
+                      <li>LEUCO 6900</li><li>PQT 231.000</li><li>ELETROFORESE DE PROTEINA SEM PICO MONOCLONAL</li>
+                      <li>PTH 70,5</li><li>VIT D 12,5</li><li>B12 491</li><li>IGG ESQUISTOSSOMOSE POSITIVO</li>
+                    </ul>
+                  </div>
+                
+                  <div class="lab-entry">
+                    <h4>01/07/24</h4>
+                    <ul>
+                      <li>URINA 24 h (1610 mL)</li><li>PROT 3,33 g/24 h</li><li>CR 2,57</li>
+                      <li>EAS: PH 6,5</li><li>DENS 1.020</li><li>PROTEINAS +</li><li>HEMOGLOBINA +</li>
+                      <li>HB 6,7</li><li>LEUCO 7100</li><li>PLQ 223000</li><li>GLICOSE 100</li>
+                      <li>UREIA 90</li><li>AC URICO 4,6</li><li>CT 309</li><li>HDL 85</li><li>LDL 211</li>
+                      <li>TRIGLICERÍDEOS 64</li><li>TGO 37</li><li>TGP 30</li><li>GGT 29</li>
+                      <li>HEMOGLOBINA GLICADA 5,1 %</li><li>GLICEMIA 99</li>
+                    </ul>
+                  </div>
+                
+                  <div class="lab-entry">
+                    <h4>02/09/2024</h4>
+                    <ul>
+                      <li>NA 133</li><li>K 5</li><li>CL 96</li><li>BIC 31,3</li>
+                      <li>HB 12,3</li><li>L 8990</li><li>PLQ 377.000</li>
+                      <li>URINA DE 24H: 4315 MG/24H (2920 ML)</li>
+                      <li>CR 2,96 (TFGe 25 mL/min/1,73 m²)</li><li>UR 94</li><li>CISTATINA C 2,24 (TFGe 27,7 mL/min/1,73 m²)</li>
+                      <li>FERRITINA 510</li><li>SAT TRANSFERRINA 23%</li><li>C3 116</li><li>C4 20</li>
+                      <li>ELETROFORESE DE PROTEÍNAS: PROTEÍNA MONOCLONAL AUSENTES</li>
+                      <li>IMUNOFIXAÇÃO SÉRICA: AUSÊNCIA DE PROTEÍNA MONOCLONAL</li>
+                      <li>IMUOFIXAÇÃO URINÁRIA: AUSÊNCIA DE PROTEÍNA MONOCLONAL</li>
+                      <li>LAMBDA CADEIA LEVE: 160,0 mg/dL (VR: 90,0 a 210,0)</li>
+                      <li>KAPPA - CADEIA LEVE: 298,0 mg/dL (VR: 170,0 a 370,0)</li>
+                      <li>RELAÇÃO KAPPA/LAMBDA: 1,86 (VR: 1,35 a 2,65)</li>
+                      <li>ESQUISTOSSOMOSE IGG REAGENTE</li><li>EAS: DENS 1015</li><li>PH 5</li>
+                      <li>EXAME QUÍMICO: PROTEÍNA 100</li><li>GLICOSE 500</li><li>HEMOGLOBINA 50</li>
+                      <li>SEDIMENTOSCOPIA: LEUCÓCITOS 10</li><li>HEMÁCIAS 5</li><li>FLORA BACTERIANA AUMENTADA</li>
+                      <li>CILINDROS HIALINO, GRANULOSO FINO, GRANULOSO GROSSO</li><li>PRESENÇA DE ESPERMATOZOIDES</li>
+                    </ul>
+                  </div>
+                
+                  <div class="lab-entry">
+                    <h4>SOROLOGIAS</h4>
+                    <ul>
+                      <li>HBSA: NR</li><li>ANTI-HBC IGM: NR</li><li>ANTI-HBC TOTAL: REATIVO</li>
+                      <li>ANTI-HBS > 1000</li><li>ANTI-HCV NR</li><li>ANTI-HIV NR</li>
+                    </ul>
+                  </div>
+                
+                  <div class="lab-entry">
+                    <h4>25/10/2024</h4>
+                    <ul>
+                      <li>CA 9,7</li><li>AU 9,2</li><li>CL 96</li><li>HDL 40</li><li>LDL 98</li>
+                      <li>CT 150</li><li>CR 4,25</li><li>FER 108</li><li>FA 228</li><li>P 6,2</li>
+                      <li>GLIC 157</li><li>HBG 8,6%</li><li>MG 3,12</li><li>MICROALB 222 MG/G</li>
+                      <li>K 6,1</li><li>ALB 3,8</li><li>IST 18%</li><li>NA 135</li><li>TGC 59</li>
+                      <li>UR 204</li><li>BIC 27,3</li><li>HB 16,6</li><li>HCT 52,2</li><li>PTH 44</li><li>VIT D 45</li><li>EAS PTN 15</li>
+                    </ul>
+                  </div>
+                
+                  <div class="lab-entry">
+                    <h4>29/11/2024</h4>
+                    <ul>
+                      <li>CR 2,92</li><li>UR 157</li><li>NA 137</li><li>K 5,7</li><li>MG 2,57</li>
+                      <li>CAT 9,6</li><li>P 6,1</li><li>VIT D 46,5</li><li>FERRITINA 262</li><li>IST 41%</li>
+                      <li>GLICOSE 133</li><li>HBA1C 9,2</li><li>ÁC ÚRICO 7,8</li><li>HCO3 30,0</li>
+                      <li>HB 15,7</li><li>LEUCO 8420</li><li>PLAQ 286000</li><li>EAS: PH 5,0</li>
+                      <li>PROT &lt;30</li><li>CILINDROS HIALINOS</li>
+                      <li>PROTEINÚRIA URINA 262 MG/24 HORAS (2300 ML)</li>
+                      <li>eGFR CKD-EPI: 25 mL/min/1.73 m²</li>
+                    </ul>
+                  </div>
+                
+                  <div class="lab-entry">
+                    <h4>16/02/25</h4>
+                    <ul>
+                      <li>AU 7,5</li><li>GLIC 248</li><li>TGC 79</li><li>P 4,9</li><li>FER 711</li>
+                      <li>FA 180</li><li>NA 134</li><li>K 5,7</li><li>CL 99</li><li>MG 2,56</li>
+                      <li>UR 141</li><li>CR 3,01</li><li>ALB 3,8</li><li>CA 9,6</li><li>CT 150</li>
+                      <li>HDL 44</li><li>LDL 90</li><li>B</li><li>HB 9,69</li><li>HCT 30,4</li><li>PTH 45</li><li>VIT D 40</li><li>HBG 9,3</li>
+                    </ul>
+                  </div>
+                
+                  <div class="lab-entry">
+                    <h4>11/03/25</h4>
+                    <ul>
+                      <li>HBG 8,3%</li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="tab-panel" id="comp">
+                  <p><strong>USG do Aparelho Urinário (30/08/2024):</strong> Rins tópicos de dimensões normais, medindo 107x50x41 mm à direita e 113x53x42 mm à esquerda, de contornos regulares e textura do parênquima homogênea. Rim direito apresentando imagem anecoica medindo 10 mm (cisto). Bexiga semi-repleta, com paredes finas, contornos regulares e conteúdo anecóico. <strong>Conclusão:</strong> cisto renal à direita. Bexiga sem alterações consideráveis.</p>
 
-              <p><strong>Doppler de AR (11/12/2024):</strong> Sem estenoses hemodinamicamente significativas.</p>
+                  <p><strong>Doppler de AR (11/12/2024):</strong> Sem estenoses hemodinamicamente significativas.</p>
 
-              <p><strong>ECOTT (05/02/2025):</strong> FEVE 64%; dentro dos limites da normalidade (calcificação valvar ausente).</p>
+                  <p><strong>ECOTT (05/02/2025):</strong> FEVE 64%; dentro dos limites da normalidade (calcificação valvar ausente).</p>
 
-              <p><strong>RX mãos e punhos (05/02/2025):</strong> Calcificações vasculares nas mãos bilateralmente e punho à direita.</p>
+                  <p><strong>RX mãos e punhos (05/02/2025):</strong> Calcificações vasculares nas mãos bilateralmente e punho à direita.</p>
+                </div>
+                <div class="tab-panel" id="fis">
+                  <p><strong>PA:</strong> 100/70 mmHg | <strong>Peso:</strong> 65,65 kg</p>
+                  <p><strong>BEG:</strong> Lúcido, orientado, acianótico, ictérico, hipocorado</p>
+                  <p><strong>AR:</strong> MVF, sem ruídos adventícios.</p>
+                  <p><strong>CV:</strong> BNF, ritmo regular em dois tempos, sem sopros.</p>
+                  <p><strong>ABD:</strong> Atípico, RHA positivo, indolor.</p>
+                  <p><strong>MMII:</strong> Sem edema, panturrilhas livres.</p>
+                </div>
+              </div>
             </div>
-            <div class="tab-panel" id="fis">
-              <p><strong>PA:</strong> 100/70 mmHg | <strong>Peso:</strong> 65,65 kg</p>
-              <p><strong>BEG:</strong> Lúcido, orientado, acianótico, ictérico, hipocorado</p>
-              <p><strong>AR:</strong> MVF, sem ruídos adventícios.</p>
-              <p><strong>CV:</strong> BNF, ritmo regular em dois tempos, sem sopros.</p>
-              <p><strong>ABD:</strong> Atípico, RHA positivo, indolor.</p>
-              <p><strong>MMII:</strong> Sem edema, panturrilhas livres.</p>
-            </div>
-          </div>
+          </section>
         </div>
-      </section>
 
-      <!-- Seção do Chat -->
-      <section class="section-chat">
-        <div class="section-title">CHAT MÉDICO</div>
-        <div class="card">
-          
-          <!-- Mensagens -->
-          <div class="chat-container" id="chat-container"></div>
-          
-          <!-- Indicador de Carregamento -->
-          <div class="loading" id="loading-indicator">Processando sua pergunta...</div>
-          
-          <!-- Input e Botão de Enviar -->
-          <div class="input-area">
-            <input type="text" id="question-input" placeholder="Digite sua pergunta..."/>
-            <button id="send-button">Enviar</button>
-          </div>
+        <!-- Segunda Coluna -->
+        <div class="grid-column-2">
+          <section class="section-chat">
+            <div class="section-title">CHAT MÉDICO</div>
+            <div class="card">
+              
+              <!-- Mensagens -->
+              <div class="chat-container" id="chat-container"></div>
+              
+              <!-- Indicador de Carregamento -->
+              <div class="loading" id="loading-indicator">Processando sua pergunta...</div>
+              
+              <!-- Input e Botão de Enviar -->
+              <div class="input-area">
+                <input type="text" id="question-input" placeholder="Digite sua pergunta..."/>
+                <button id="send-button">Enviar</button>
+              </div>
+            </div>
+          </section>
         </div>
-      </section>
+      </div>
     </div>
   </div>
 

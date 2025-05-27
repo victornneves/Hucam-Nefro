@@ -17,6 +17,18 @@ const muteButton = document.getElementById('mute-button');
 const volumeControl = document.getElementById('volume-control');
 const muteIcon = document.getElementById('mute-icon');
 
+
+// MOCK
+// const dados = {
+//   exames: [
+//     {
+//       data: '2023-10-01',
+//       tipo: 'Ultrassonografia',
+      
+//     }
+//   ]
+// }
+
 // =================== FUNÇÕES UTILITÁRIAS ===================
 
 // Formata tempo em mm:ss

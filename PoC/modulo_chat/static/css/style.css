@@ -16,32 +16,45 @@ h1 {
 .container {
   max-width: 1400px; /* Increased from 1100px to 1400px */
   margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
 
 /* === Layout Principal === */
 .main-content {
   display: flex;
   gap: 20px;
+  max-width: 100%; /* Ensure it does not exceed the page width */
+  overflow: hidden; /* Remove qualquer rolagem */
+  margin: 0 auto; /* Center the content */
 }
 
 .section {
-  flex: 1;
+  /* flex: 1; */
 }
 
 /* === SECTIONS === */
 
 .section-info-paciente {
-  flex: 1;
+   /* flex: 1; */ 
   /* max-width: 400px; Limitando a largura da seção de informações do paciente */
+  height: auto; /* Ajusta automaticamente à altura definida pelo grid */
+  overflow: hidden; /* Evita que o conteúdo ultrapasse */
 }
 
 .section-exames{
-  flex: 1;
-  /* max-width: 400px; */
+  flex: 2; /* Ocupa 2/3 da altura */
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
 }
 
 .section-chat {
-  flex: 1;
+  /* flex: 1; */
+  display: flex;
+  flex-direction: column;
+  /* max-height: 600px; */
   /* max-width: 400px; Limitando a largura da seção de informações do paciente */
 }
 
@@ -57,7 +70,7 @@ h1 {
   border-radius: 12px;
   padding: 20px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
 }
 
 /* === Informações do Paciente === */
@@ -68,10 +81,11 @@ h1 {
 
 /* === Chat === */
 .chat-container {
-  height: 500px;
+  /* flex: 1; */
   overflow-y: auto;
   margin-bottom: 15px;
   padding-right: 10px;
+  height: 590px;
 }
 
 .message {
@@ -276,4 +290,88 @@ h1 {
 
 .tab-panel.active {
   display: block;
+}
+
+/* Adiciona scroll interno na div.tab-content */
+.tab-content {
+  /* flex: 1; */ /* Permite que a div ocupe o espaço restante */
+  overflow-y: auto; /* Scroll vertical interno */
+  padding-right: 10px; /* Espaço para o slide lateral */
+  box-sizing: border-box; /* Inclui padding no cálculo do tamanho */
+  max-height: 400px;
+}
+
+/* Estiliza a barra de rolagem (opcional) */
+.tab-content::-webkit-scrollbar {
+  width: 8px; /* Largura da barra de rolagem */
+}
+
+.tab-content::-webkit-scrollbar-thumb {
+  background-color: #ccc; /* Cor do "polegar" da barra */
+  border-radius: 4px; /* Bordas arredondadas */
+}
+
+.tab-content::-webkit-scrollbar-thumb:hover {
+  background-color: #aaa; /* Cor ao passar o mouse */
+}
+
+/* === exames laboratoriais - conteúdo === */
+#lab {
+  font-family: Arial, sans-serif;
+  color: #333;
+  padding: 1rem;
+}
+
+.lab-entry {
+  margin-bottom: 2rem;
+  background: #f9f9f9;
+  border-left: 4px solid #0077cc;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.lab-entry h4 {
+  margin-top: 0;
+  color: #0077cc;
+  font-size: 1.1rem;
+}
+
+.lab-entry ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.lab-entry li {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 6px 10px;
+  font-size: 0.95rem;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+/* === Grid Layout === */
+.grid-container {
+  display: flex;
+  gap: 20px; /* Espaço entre os itens */
+  width: 100vw;
+}
+
+.grid-column-1 {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px; /* Space between sections in the same column */
+}
+
+.grid-column-2 {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px; /* Space between sections in the same column */
 }
