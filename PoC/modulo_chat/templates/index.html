@@ -1,273 +1,129 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Consulta Médica - Nefrologia</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Inter', sans-serif;
-      background-color: #f5f7fa;
-      color: #333;
-      padding: 20px;
-    }
-
-    h1 {
-      font-size: 1.5rem;
-      margin-bottom: 20px;
-      color: #2c3e50;
-    }
-
-    .container {
-      max-width: 1100px;
-      margin: 0 auto;
-    }
-
-    .audio-player {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      background: #fff;
-      padding: 15px;
-      border-radius: 10px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-      margin-bottom: 30px;
-    }
-
-    .timeline {
-      flex: 1;
-      height: 6px;
-      background: #ddd;
-      position: relative;
-      border-radius: 4px;
-    }
-
-    .progress {
-      position: absolute;
-      height: 100%;
-      background: #3498db;
-      width: 60%;
-      border-radius: 4px;
-    }
-
-    .main-content {
-      display: flex;
-      gap: 20px;
-    }
-
-    .section {
-      flex: 1;
-    }
-
-    .section-title {
-      font-size: 1.2rem;
-      margin-bottom: 10px;
-      font-weight: 600;
-      color: #2980b9;
-    }
-
-    .card {
-      background: white;
-      border-radius: 12px;
-      padding: 20px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-      margin-bottom: 20px;
-    }
-
-    .info-paciente p {
-      margin: 10px 0;
-      font-size: 1rem;
-    }
-
-    .chat-container {
-      height: 400px;
-      overflow-y: auto;
-      margin-bottom: 15px;
-      padding-right: 10px;
-    }
-
-    .message {
-      margin-bottom: 15px;
-      max-width: 80%;
-    }
-
-    .question {
-      background: #e3f2fd;
-      padding: 10px 15px;
-      border-radius: 18px 18px 18px 0;
-      margin-left: 0;
-      margin-right: auto;
-    }
-
-    .answer {
-      background: #f0f4f8;
-      padding: 10px 15px;
-      border-radius: 18px 18px 0 18px;
-      margin-left: auto;
-      margin-right: 0;
-      border: 1px solid #dfe6ec;
-    }
-
-    .input-area {
-      display: flex;
-      gap: 10px;
-    }
-
-    #question-input {
-      flex: 1;
-      padding: 10px 15px;
-      border: 1px solid #ddd;
-      border-radius: 20px;
-      font-family: 'Inter', sans-serif;
-    }
-
-    #send-button {
-      background: #3498db;
-      color: white;
-      border: none;
-      border-radius: 20px;
-      padding: 10px 20px;
-      cursor: pointer;
-      font-weight: 600;
-    }
-
-    #send-button:hover {
-      background: #2980b9;
-    }
-
-    .loading {
-      display: none;
-      text-align: center;
-      color: #7f8c8d;
-      margin: 10px 0;
-    }
-  </style>
+  
+  <!-- Fontes e Estilos -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"/>
 </head>
 <body>
   <div class="container">
+    
+    <!-- Título da Página -->
     <h1>Consulta Médica - Nefrologia</h1>
 
+    <!-- Player de Áudio -->
     <div class="audio-player">
+      <audio id="audio-player" src="{{ url_for('static', filename='audio/patient_018_consult_audio.wav') }}"></audio>
+
+      <!-- Botão Play/Pause -->
       <button id="play-button">&#9654;</button>
-      <div class="timeline">
-        <div class="progress"></div>
+
+      <!-- Timeline: barra de progresso e tempo -->
+      <div class="timeline-group">
+        <input type="range" id="progress-bar" min="0" max="100" value="0" class="progress"/>
+        <div class="time-display">
+          <span id="time-display">00:00</span>
+          <span id="duration-display">/ 00:00</span>
+        </div>
       </div>
-      <span id="time-display">00:00</span>
+
+      <!-- Volume -->
+      <div class="volume-group">
+        <button id="mute-button">
+          <img id="mute-icon" src="{{ url_for('static', filename='images/volume.png') }}" alt="Volume"/>
+        </button>
+        <input type="range" id="volume-control" min="0" max="1" step="0.1" value="1"/>
+      </div>
     </div>
 
+    <!-- Conteúdo principal: informações + chat -->
     <div class="main-content">
-      <div class="section">
+      
+      <!-- Seção de Informações do Paciente -->
+      <section class="section-info-paciente">
         <div class="section-title">INFO PACIENTE</div>
         <div class="card info-paciente">
           <p><strong>Nome:</strong> <span id="patient-name">Carregando...</span></p>
           <p><strong>Idade:</strong> <span id="patient-age">Carregando...</span></p>
           <p><strong>ID:</strong> <span id="patient-id">018</span></p>
         </div>
-      </div>
+      </section>
 
-      <div class="section">
+      <!-- Seção de Exames -->
+      <section class="section-exames">
+        <div class="section-title">EXAMES</div>
+        <div class="card">
+          <div class="tabs">
+            <button class="tab active" data-tab="lab">Exames laboratoriais</button>
+            <button class="tab" data-tab="comp">Exames complementares</button>
+            <button class="tab" data-tab="fis">Exame físico</button>
+          </div>
+          <div class="tab-content">
+            <div class="tab-panel active" id="lab">
+              <p><strong>21/06/54:</strong> CR 1,9; AU 4,5; PT 5,2; ALB 2,8; GLOB 2,4; BT 0,54; DIRETA 0,12; IND 0,42; GGT 33; TGP 26; TGO 33; FERRITINA 1537; FIX FERRO 182; FERRO 54; P 5,2; FA 250; CÁLCIO T 8,9; UR 92; GLICOSE 255; HB 7.3; HT 23; VCM 91; HCM 29,1; RDW 16,2; LEUCO 6900; PQT 231.000; ELETROFORESE DE PROTEINA SEM PICO MONOCLONAL; PTH 70,5; VIT D 12,5; B12 491; IGG ESQUISTOSSOMOSE POSITIVO</p>
+
+              <p><strong>01/07/24:</strong> URINA 24 h (1610 mL) PROT 3,33 g/24 h / CR 2,57 EAS: PH 6,5 DENS 1.020 PROTEINAS + HEMOGLOBINA + HB 6,7 LEUCO 7100 PLQ 223000. GLICOSE 100 UREIA 90 AC URICO 4,6 CT 309 HDL 85 LDL 211 TRIGLICERÍDEOS 64 TGO 37 TGP 30 GGT 29 HEMOGLOBINA GLICADA 5,1 % GLICEMIA 99</p>
+              
+              <p><strong>02/09/2024:</strong> NA 133 K 5 CL 96 BIC 31,3 | HB 12,3 L 8990 PLQ 377.000 | URINA DE 24H: 4315 MG/24H (2920 ML) | CR 2,96 (TFGe 25 mL/min/1,73 m²) UR 94 CISTATINA C 2,24 (TFGe 27,7 mL/min/1,73 m²) | FERRITINA 510 SAT TRANSFERRINA 23%. C3 116 C4 20 | ELETROFORESE DE PROTEÍNAS: PROTEÍNA MONOCLONAL AUSENTES | IMUNOFIXAÇÃO SÉRICA: AUSÊNCIA DE PROTEÍNA MONOCLONAL | IMUOFIXAÇÃO URINÁRIA: AUSÊNCIA DE PROTEÍNA MONOCLONAL. LAMBDA CADEIA LEVE: 160,0 mg/dL (VR: 90,0 a 210,0 nmg/gL) | KAPPA - CADEIA LEVE: 298,0 mg/dL (VR: 170,0 a 370,0 nmg/gL) | RELAÇÃO KAPPA/LAMBDA: 1,86 (VR: 1,35 a 2,65) | ESQUISTOSSOMOSE IGG REAGENTE. EAS: DENS 1015 PH 5 | EXAME QUÍMICO: PROTEÍNA 100 GLICOSE 500 HEMOGLOBINA 50 | SEDIMENTOSCOPIA: LEUCÓCITOS 10 HEMÁCIAS 5 FLORA BACTERIANA AUMENTADA. CILINDROS HIALINO, GRANULOSO FINO, GRANULOSO GROSSO, PRESENÇA DE ESPERMATOZOIDES</p>
+              
+              <p><strong>SOROLOGIAS:</strong> HBSA: NR | ANTI-HBC IGM: NR | ANTI-HBC TOTAL: REATIVO | ANTI-HBS&gt; 1000 | ANTI-HCV NR | ANTI-HIV NR</p>
+              
+              <p><strong>25/10/2024:</strong> CA 9,7; AU 9,2; CL 96; HDL 40; LDL 98; CT 150; CR 4,25; FER 108; FA 228; P 6,2; GLIC 157; HBG 8,6%; MG 3,12; MICROALB 222 MG/G; K 6,1; ALB 3,8; IST 18%; NA 135; TGC 59; UR 204; BIC 27,3; HB 16,6; HCT 52,2; PTH 44; VIT D 45; EAS PTN 15</p>
+              
+              <p><strong>29/11/2024:</strong> CR 2,92 UR 157 | NA 137 K 5,7 MG 2,57 | CAT 9,6 P 6,1 VIT D 46,5 | FERRITINA 262 IST 41% | GLICOSE 133 HBA1C 9,2 | ÁC ÚRICO 7,8 | HCO3 30,0 | HB 15,7 LEUCO 8420 PLAQ 286000 | EAS: PH 5,0 PROT &lt;30 CILINDROS HIALINOS | PROTEINÚRIA URINA 262 MG/24 HORAS (2300 ML) &gt;&gt;&gt; eGFR CKD-EPI: 25 mL/min/1.73 m²</p>
+              
+              <p><strong>16/02/25:</strong> AU 7,5; GLIC 248; TGC 79; P 4,9; FER 711; FA 180; NA 134; K 5,7; CL 99; MG 2,56; UR 141; CR 3,01; ALB 3,8; CA 9,6; CT 150; HDL 44; LDL 90; B ; HB 9,69; HCT 30,4; PTH 45; VIT D 40; HBG 9,3</p>
+              
+              <p><strong>11/03/25:</strong> HBG 8,3%</p>
+              
+            </div>
+            <div class="tab-panel" id="comp">
+              <p><strong>USG do Aparelho Urinário (30/08/2024):</strong> Rins tópicos de dimensões normais, medindo 107x50x41 mm à direita e 113x53x42 mm à esquerda, de contornos regulares e textura do parênquima homogênea. Rim direito apresentando imagem anecoica medindo 10 mm (cisto). Bexiga semi-repleta, com paredes finas, contornos regulares e conteúdo anecóico. <strong>Conclusão:</strong> cisto renal à direita. Bexiga sem alterações consideráveis.</p>
+
+              <p><strong>Doppler de AR (11/12/2024):</strong> Sem estenoses hemodinamicamente significativas.</p>
+
+              <p><strong>ECOTT (05/02/2025):</strong> FEVE 64%; dentro dos limites da normalidade (calcificação valvar ausente).</p>
+
+              <p><strong>RX mãos e punhos (05/02/2025):</strong> Calcificações vasculares nas mãos bilateralmente e punho à direita.</p>
+            </div>
+            <div class="tab-panel" id="fis">
+              <p><strong>PA:</strong> 100/70 mmHg | <strong>Peso:</strong> 65,65 kg</p>
+              <p><strong>BEG:</strong> Lúcido, orientado, acianótico, ictérico, hipocorado</p>
+              <p><strong>AR:</strong> MVF, sem ruídos adventícios.</p>
+              <p><strong>CV:</strong> BNF, ritmo regular em dois tempos, sem sopros.</p>
+              <p><strong>ABD:</strong> Atípico, RHA positivo, indolor.</p>
+              <p><strong>MMII:</strong> Sem edema, panturrilhas livres.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Seção do Chat -->
+      <section class="section-chat">
         <div class="section-title">CHAT MÉDICO</div>
         <div class="card">
-          <div class="chat-container" id="chat-container">
-            <!-- Mensagens serão adicionadas aqui dinamicamente -->
-          </div>
-          <div class="loading" id="loading-indicator">
-            Processando sua pergunta...
-          </div>
+          
+          <!-- Mensagens -->
+          <div class="chat-container" id="chat-container"></div>
+          
+          <!-- Indicador de Carregamento -->
+          <div class="loading" id="loading-indicator">Processando sua pergunta...</div>
+          
+          <!-- Input e Botão de Enviar -->
           <div class="input-area">
-            <input type="text" id="question-input" placeholder="Digite sua pergunta...">
+            <input type="text" id="question-input" placeholder="Digite sua pergunta..."/>
             <button id="send-button">Enviar</button>
           </div>
         </div>
-      </div>
+      </section>
     </div>
   </div>
 
-  <script>
-    // Variáveis globais
-    const patientId = document.getElementById('patient-id').textContent;
-    
-    // Elementos da UI
-    const chatContainer = document.getElementById('chat-container');
-    const questionInput = document.getElementById('question-input');
-    const sendButton = document.getElementById('send-button');
-    const loadingIndicator = document.getElementById('loading-indicator');
-    
-    // Carrega dados do paciente (simulado - substituir por chamada real à API)
-    function loadPatientData() {
-      // Simulação - na implementação real, chamar API para obter dados
-      document.getElementById('patient-name').textContent = 'João da Silva';
-      document.getElementById('patient-age').textContent = '45 anos';
-    }
-    
-    // Adiciona mensagem ao chat
-    function addMessage(text, isQuestion) {
-      const messageDiv = document.createElement('div');
-      messageDiv.className = `message ${isQuestion ? 'question' : 'answer'}`;
-      messageDiv.textContent = text;
-      chatContainer.appendChild(messageDiv);
-      chatContainer.scrollTop = chatContainer.scrollHeight;
-    }
-    
-    // Envia pergunta para a API
-    async function sendQuestion() {
-      const question = questionInput.value.trim();
-      if (!question) return;
-      
-      // Mostra a pergunta no chat
-      addMessage(question, true);
-      questionInput.value = '';
-      
-      // Mostra indicador de carregamento
-      loadingIndicator.style.display = 'block';
-      
-      try {
-        console.log("Enviando pergunta:", question); // log para debug
-
-        // Chamada à API Flask
-        const response = await fetch('http://localhost:5003/getMedicalResponse', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify({
-            patient: patientId,
-            question: question
-          })
-        });
-
-        console.log("Resposta recebida, status:", response.status); // log para debug
-        
-        if (!response.ok) {
-          throw new Error(`Erro HTTP: ${response.statusText}`);
-        }
-
-        const data = await response.json();
-        console.log("Dados recebidos:", data); // log para debug
-        
-        if (data.error) {
-          addMessage(`Erro: ${data.error}`, false);
-        } else {
-          addMessage(data.response, false);
-        }
-      } catch (error) {
-        addMessage(`Erro: ${error.message}`, false);
-      } finally {
-        loadingIndicator.style.display = 'none';
-      }
-    }
-    
-    // Event Listeners
-    sendButton.addEventListener('click', sendQuestion);
-    questionInput.addEventListener('keypress', (e) => {
-      if (e.key === 'Enter') sendQuestion();
-    });
-    
-    // Inicialização
-    loadPatientData();
-    addMessage("Bem-vindo ao sistema de assistência nefrológica. Como posso ajudar?", false);
-  </script>
+  <!-- Script principal -->
+  <script src="{{ url_for('static', filename='js/app.js') }}"></script>
 </body>
 </html>

@@ -1,15 +1,22 @@
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, jsonify, render_template, send_from_directory
 from flask_cors import CORS
 import os
 from source import generate_medical_response
 
-app = Flask(__name__, template_folder='templates')
+app = Flask(__name__, template_folder='templates', static_folder='static')
+app.config['TEMPLATES_AUTO_RELOAD'] = True  # Recarrega templates (HTML)
+app.run(debug=True)  # Ativa o modo debug (reinicia o servidor após mudanças)
 CORS(app)
 
 @app.route('/')
 def index():
     # Renderiza o template HTML
     return render_template('index.html')
+
+# Rota para servir arquivos de áudio diretamente (opcional)
+@app.route('/audio/<path:filename>')
+def serve_audio(filename):
+    return send_from_directory('static/audio', filename)
 
 @app.route('/getMedicalResponse', methods=['POST'])
 def get_medical_response():

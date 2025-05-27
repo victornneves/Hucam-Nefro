@@ -1,0 +1,279 @@
+/* === Base === */
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #f5f7fa;
+  color: #333;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  color: #2c3e50;
+}
+
+.container {
+  max-width: 1400px; /* Increased from 1100px to 1400px */
+  margin: 0 auto;
+}
+
+/* === Layout Principal === */
+.main-content {
+  display: flex;
+  gap: 20px;
+}
+
+.section {
+  flex: 1;
+}
+
+/* === SECTIONS === */
+
+.section-info-paciente {
+  flex: 1;
+  /* max-width: 400px; Limitando a largura da seção de informações do paciente */
+}
+
+.section-exames{
+  flex: 1;
+  /* max-width: 400px; */
+}
+
+.section-chat {
+  flex: 1;
+  /* max-width: 400px; Limitando a largura da seção de informações do paciente */
+}
+
+.section-title {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  font-weight: 600;
+  color: #2980b9;
+}
+
+.card {
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  margin-bottom: 20px;
+}
+
+/* === Informações do Paciente === */
+.info-paciente p {
+  margin: 10px 0;
+  font-size: 1rem;
+}
+
+/* === Chat === */
+.chat-container {
+  height: 500px;
+  overflow-y: auto;
+  margin-bottom: 15px;
+  padding-right: 10px;
+}
+
+.message {
+  margin-bottom: 15px;
+  max-width: 80%;
+}
+
+.question {
+  background: #e3f2fd;
+  padding: 10px 15px;
+  border-radius: 18px 18px 0 18px;
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.answer {
+  background: #f0f4f8;
+  padding: 10px 15px;
+  border-radius: 18px 18px 18px 0;
+  margin-left: 0;
+  margin-right: auto;
+  border: 1px solid #dfe6ec;
+}
+
+.input-area {
+  display: flex;
+  gap: 10px;
+}
+
+#question-input {
+  flex: 1;
+  padding: 10px 15px;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  font-family: 'Inter', sans-serif;
+}
+
+#send-button {
+  background: #3498db;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+#send-button:hover {
+  background: #2980b9;
+}
+
+.loading {
+  display: none;
+  text-align: center;
+  color: #7f8c8d;
+  margin: 10px 0;
+}
+
+/* === Player de Áudio === */
+.audio-player {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: #fff;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+}
+
+.audio-player audio {
+  display: none; /* Esconde o player nativo */
+}
+
+.audio-player button {
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+  padding: 5px 10px;
+}
+
+#play-button img,
+#mute-button img {
+  width: 20px;
+  height: 20px;
+}
+
+#play-button,
+#mute-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 5px;
+}
+
+/* === Timeline === */
+.timeline-group {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0 10px;
+}
+
+#progress-bar {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 6px;
+  width: 100%;
+  background: #ddd;
+  border-radius: 3px;
+  outline: none;
+  margin: 10px 0;
+}
+
+#progress-bar::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 15px;
+  height: 15px;
+  background: #3498db;
+  border-radius: 50%;
+  cursor: pointer;
+  margin-top: -4px;
+}
+
+#progress-bar::-webkit-slider-runnable-track {
+  height: 6px;
+  background: linear-gradient(to right, #3498db var(--progress, 0%), #ddd var(--progress, 0%));
+  border-radius: 3px;
+}
+
+#time-display,
+#duration-display {
+  font-size: 0.9rem;
+  color: #555;
+  min-width: 50px;
+  text-align: center;
+}
+
+/* === Volume === */
+.volume-group {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  width: 120px;
+}
+
+#volume-control {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 6px;
+  width: 100%;
+  background: #ddd;
+  border-radius: 3px;
+  outline: none;
+}
+
+#volume-control::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 15px;
+  height: 15px;
+  background: #3498db;
+  border-radius: 50%;
+  cursor: pointer;
+  margin-top: -4px;
+}
+
+#volume-control::-webkit-slider-runnable-track {
+  height: 6px;
+  background: linear-gradient(to right, #3498db var(--volume, 100%), #ddd var(--volume, 100%));
+  border-radius: 3px;
+}
+
+/* === Estilo Abas de Exames === */
+.tabs {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.tab {
+  background-color: #ecf0f1;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.tab.active {
+  background-color: #3498db;
+  color: white;
+}
+
+.tab-panel {
+  display: none;
+}
+
+.tab-panel.active {
+  display: block;
+}

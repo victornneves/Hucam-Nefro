@@ -1,4 +1,6 @@
-na pasta:
+sudo systemctl stop ollama
+sudo systemctl start ollama
+
 
 refine:
 flask run --port 5050 --with-threads
@@ -11,6 +13,9 @@ sudo lsof -i :5050
 
 matar o processo (nro do processo em vez do PID)
 kill -9 PID
+
+python3 -m venv .venv
+source .venv/bin/activate
 
 --------------------
 

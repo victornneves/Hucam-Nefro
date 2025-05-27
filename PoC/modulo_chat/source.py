@@ -4,6 +4,7 @@ from pathlib import Path
 from openai import OpenAI
 import dotenv
 from datetime import datetime
+import requests
 
 # Configuração do OpenAI
 dotenv.load_dotenv()
@@ -55,7 +56,46 @@ def load_patient_data(patient_id):
     with open(data_path, "r", encoding='utf-8') as f:
         return yaml.safe_load(f)
 
-# def call_gpt_api(prompt):
+def call_ollama_local(prompt, old_messages):
+    
+    primer = "Você é um nefrologista assistente especializado em análise de casos clínicos. Você está conversando com o médico no meio da consulta dele. De modo a ajudar durante o atendimento do médico, você vai dar respostas sucintas e diretas, mas com informações relevantes. Você não deve dar conselhos médicos, apenas responder perguntas e ajudar o médico a entender melhor o caso. O texto deve estar formatado de forma a ser mais amigável para leitura, com quebras de linha e espaçamento, e ter no máximo 5 linhas."
+    print("'Chamando o Ollama com o seguinte prompt:")
+
+    try:
+        messages = [{"role": "system", "content": primer}]
+        messages.extend(old_messages)
+        # for message in old_messages:
+        #     messages.append(message)
+        messages.append({"role": "user", "content": prompt})
+
+
+        ollama_url = "http://localhost:11434/v1/chat/completions"
+
+        payload = {
+            "model": "gemma3:1b",
+            "messages": messages,
+            "stream": False,
+            "options": {
+                "temperature": 0.1,
+                "max_tokens": 2000
+            }
+        }
+
+        print(payload)
+
+        response = requests.post(ollama_url, json=payload)
+        response.raise_for_status()
+
+        ollama_response = response.json()
+        resp = ollama_response["choices"][0]["message"]["content"]
+
+        messages.append({"role": "assistant", "content": resp})
+        return (resp, messages[1:])
+
+    except Exception as e:
+        print(f"Erro ao chamar API do Gemma: {e}")
+        return None
+
 def call_gpt_api(prompt, old_messages):
     """Chama a API do GPT para gerar uma resposta."""
     primer = "Você é um nefrologista assistente especializado em análise de casos clínicos. Você está conversando com o médico no meio da consulta dele. De modo a ajudar durante o atendimento do médico, você vai dar respostas sucintas e diretas, mas com informações relevantes. Você não deve dar conselhos médicos, apenas responder perguntas e ajudar o médico a entender melhor o caso. O texto deve estar formatado de forma a ser mais amigável para leitura, com quebras de linha e espaçamento."
@@ -129,7 +169,11 @@ def generate_medical_response(patient_id, question):
         prompt = f"{prompt}\n\n**Pergunta do médico:**\n{question}"
 
         # Chama a API do GPT
-        response, MESSAGES = call_gpt_api(prompt, MESSAGES)
+        # response, MESSAGES = call_gpt_api(prompt, MESSAGES)
+        # Chama a API do Ollama
+        response, MESSAGES = call_ollama_local(prompt, MESSAGES)
+
+
         if not response:
             raise Exception("Não foi possível obter resposta do GPT")
         print("MESSAGES:", MESSAGES)

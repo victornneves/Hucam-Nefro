@@ -34,7 +34,9 @@ Próximos Passos para a Implementação
     │   └── index.html
     ├── static/
     │   ├── css/
+    │   |   └── style.css
     │   ├── js/
+    │   |   └── app.js
     │   └── images/
     ├── source.py
     └── app.py
