@@ -64,6 +64,7 @@ h1 {
   margin-bottom: 10px;
   font-weight: 600;
   color: #2980b9;
+  margin-left: 10px;
 }
 
 .section-title i {
@@ -90,6 +91,9 @@ h1 i {
   padding: 20px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
   /* margin-bottom: 20px; */
+  padding-top: 5px;
+  padding-bottom: 0;
+  height: 130px;
 }
 
 .card-exames {
@@ -189,7 +193,8 @@ h1 i {
   padding: 15px;
   border-radius: 10px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  margin-bottom: 30px;
+  margin-bottom: 0px;
+  margin-top: 15px;
 }
 
 .audio-player audio {
@@ -922,6 +927,8 @@ h1 i {
   grid-template-columns: repeat(3, 1fr);
   gap: 1.5rem;
   padding: 0.75rem;
+  padding-bottom: 5px;
+  padding-top: 5px;
 }
 
 .info-column {
@@ -933,9 +940,10 @@ h1 i {
 .info-column h3 {
   color: #2c3e50;
   font-size: 1rem;
-  margin-bottom: 0.5rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 2px solid #3498db;
+  margin-bottom: 0px;
+  padding-bottom: 5px;
+  /* border-bottom: 2px solid #3498db; */
+  margin-top: 0;
 }
 
 .info-grid {
