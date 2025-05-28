@@ -106,7 +106,9 @@ function initializeAudioPlayer() {
     const progress = (audioPlayer.currentTime / audioPlayer.duration) * 100;
     progressBar.value = progress;
     timeDisplay.textContent = formatTime(audioPlayer.currentTime);
-    document.documentElement.style.setProperty('--progress', `${progress}%`);
+
+    // Atualiza a cor da barra de progresso
+    progressBar.style.background = `linear-gradient(to right, #3498db ${progress}%, #ddd ${progress}%)`;
   });
 
   // Controle play/pause
@@ -114,18 +116,18 @@ function initializeAudioPlayer() {
     if (!audioContext) {
       initAudioContext();
     }
-    
+
     if (audioContext.state === 'suspended') {
       audioContext.resume();
     }
-    
+
     if (audioPlayer.paused) {
       audioPlayer.play();
-      playButton.textContent = '⏸';
+      playButton.innerHTML = `<img src="/static/images/pausa.png" alt="Pause">`; // Altera para imagem de pausa
       updateDBMeter();
     } else {
       audioPlayer.pause();
-      playButton.textContent = '▶';
+      playButton.innerHTML = `<img src="/static/images/botao-play.png" alt="Play">`; // Altera para imagem de play
     }
   });
 
@@ -141,6 +143,9 @@ function initializeAudioPlayer() {
     const volumePercent = volumeControl.value * 100;
     document.documentElement.style.setProperty('--volume', `${volumePercent}%`);
     muteIcon.src = audioPlayer.volume === 0 ? "/static/images/mudo.png" : "/static/images/volume.png";
+
+    // Atualiza a cor da barra de volume
+    volumeControl.style.background = `linear-gradient(to right, #3498db ${volumePercent}%, #ddd ${volumePercent}%)`;
   });
 
   // Botão de mudo
@@ -160,7 +165,7 @@ function initializeAudioPlayer() {
   audioPlayer.load();
   audioPlayer.volume = 1;
   volumeControl.value = 1;
-  playButton.textContent = '▶';
+  playButton.innerHTML = `<img src="/static/images/botao-play.png" alt="Play">`;
   document.documentElement.style.setProperty('--volume', '100%');
 }
 

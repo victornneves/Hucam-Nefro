@@ -231,7 +231,7 @@ h1 i {
   appearance: none;
   height: 6px;
   width: 100%;
-  background: #ddd;
+  background: linear-gradient(to right, #3498db var(--progress, 0%), #ddd var(--progress, 0%));
   border-radius: 3px;
   outline: none;
   margin: 10px 0;
@@ -252,6 +252,14 @@ h1 i {
   height: 6px;
   background: linear-gradient(to right, #3498db var(--progress, 0%), #ddd var(--progress, 0%));
   border-radius: 3px;
+}
+
+#progress-bar::-moz-range-thumb {
+  width: 15px;
+  height: 15px;
+  background: #3498db;
+  border-radius: 50%;
+  cursor: pointer;
 }
 
 #time-display,
@@ -275,9 +283,10 @@ h1 i {
   appearance: none;
   height: 6px;
   width: 100%;
-  background: #ddd;
+  background: linear-gradient(to right, #3498db var(--volume, 100%), #ddd var(--volume, 100%));
   border-radius: 3px;
   outline: none;
+  cursor: pointer;
 }
 
 #volume-control::-webkit-slider-thumb {
@@ -291,10 +300,12 @@ h1 i {
   margin-top: -4px;
 }
 
-#volume-control::-webkit-slider-runnable-track {
-  height: 6px;
-  background: linear-gradient(to right, #3498db var(--volume, 100%), #ddd var(--volume, 100%));
-  border-radius: 3px;
+#volume-control::-moz-range-thumb {
+  width: 15px;
+  height: 15px;
+  background: #3498db;
+  border-radius: 50%;
+  cursor: pointer;
 }
 
 /* === Estilo Abas de Exames === */
