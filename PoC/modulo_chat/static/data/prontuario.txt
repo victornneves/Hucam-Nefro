@@ -1,0 +1,181 @@
+Relatório de Consulta Ambulatorial - Nefrologia
+Identificação do Paciente
+    Masculino, 50 anos, natural de Colatina, reside em Itaguaçu.
+    Profissão: Lavrador.
+    Acompanhado da esposa.
+
+Subjetivo
+    Paciente relata ter ajustado a dieta conforme orientação da nutrição.
+    Apresenta queixas inespecíficas de “fraqueza nas pernas”.
+    Queixa-se de prurido difuso e intermitente. Nega náuseas e vômitos.
+    Refere episódios frequentes de hipoglicemia domiciliar, principalmente pela manhã.
+    Menciona que foi orientado por endocrinologista a usar insulina Lispro sempre antes das refeições, independente da dosagem glicêmica.
+    Informa episódios de tontura e hipotensão postural.
+
+Hipóteses Diagnósticas
+
+Estágio da Doença Renal Crônica (DRC):
+    Grau: 4
+    Albuminúria: (Não especificado o grau exato, mas a proteinúria é significativa conforme exames)
+    Função Renal Atual: Reduzida, consistente com DRC Estágio 4.
+
+Etiologia da Doença de Base:
+    Nome: Doença Renal do Diabetes
+    Data do Diagnóstico: 07/11/2024
+
+História da Doença Atual
+    Paciente com diabetes insulinodependente (Glargina 20 e Humalog 6 + 6 + 6), diagnosticado há 15 anos.
+    Encaminhado ao hematologista devido a alteração da função renal e queixa de edema nos membros inferiores (MMII) há 2 meses.
+    Possui exame de Esquistossomose IgG positivo.
+    Relata internação recente para amputação de pododáctilo.
+
+Histórico Patológico Pregresso
+    Hipertensão Arterial Sistêmica (HAS): Início recente em fevereiro de 2024.
+    Dislipidemia.
+    Diabetes Mellitus Insulino-dependente: Diagnóstico há 15 anos (aos 35 anos). Faz seguimento com endocrinologista em Colatina.
+    Retinopatia Diabética: Observada em exame de fundo de olho (06/09/2024).
+    Amputação: 2 pododáctilos do pé direito.
+    Gastrite: H. pylori tratada.
+    Anemia: Em investigação.
+    Internação: Em maio de 2024 por dor abdominal.
+    Esquistossomose IgG Positivo.
+    Nega: Alergias, tabagismo, Doença Arterial Coronariana (DAC).
+
+Medicamentos em Uso
+    Insulina Lispro: 6 UI – 6 UI – 6 UI
+    Insulina Glargina: 19 UI
+    Losartana: 50 mg (1-0-0)
+    Hidroclorotiazida (HCTZ): 25 mg (1-0-0)
+    Rosuvastatina: 20 mg (0-0-1)
+    Anlodipino: 10 mg (0-0-1)
+    Furosemida: 40 mg (1-0-0)
+    Colecalciferol: 14.000 UI (2x/semana)
+    Eritropoetina (EPO): 4.000 (2x/semana SC) – Suspenso em novembro de 2024.
+
+Preparo para Terapia de Substituição Renal
+    Apresentação de Método Dialítico: 29/10/2024
+    Método Escolhido: Diálise Peritoneal (DP) – Encaminhado para avaliação em novembro de 2024.
+    Acesso: Não se aplica (para diálise peritoneal).
+    Sorologias (02/09/2024):
+        HBSA: Não Reagente (NR)
+        Anti-HBC IgM: Não Reagente (NR)
+        Anti-HBC Total: Reativo
+        Anti-HBS: > 1000
+        Anti-HCV: Não Reagente (NR)
+        Anti-HIV: Não Reagente (NR)
+    Transplante Preemptivo (ClCr < 10ml/min): Não se aplica.
+
+Exame Físico
+    Pressão Arterial (PA): 100/70 mmHg
+    Peso: 65,65 kg
+    Estado Geral: Bom estado geral (BEG), lúcido e orientado no tempo e espaço (lote), acianótico, ictérico, hipocorado.
+    Aparelho Respiratório (AR): Murmúrio vesicular fisiológico (MVF), sem ruídos adventícios.
+    Aparelho Cardiovascular (CV): Bulhas normofonéticas (BNF), ritmo regular em 2 tempos (RR em 2 tempos), sem sopros.
+    Abdome (ABD): Atípico, ruídos hidroaéreos presentes (RHA +), indolor à palpação.
+    Membros Inferiores (MMII): Sem edema, panturrilhas livres.
+
+Exames Complementares
+21/06/2054:
+
+    Função Renal: Creatinina (CR) 1,9; Ureia (UR) 92.
+    Função Hepática: Alanina Aminotransferase (ALT/TGP) 26; Aspartato Aminotransferase (AST/TGO) 33; Bilirrubina Total (BT) 0,54; Direta 0,12; Indireta 0,42; Gama-Glutamil Transferase (GGT) 33.
+    Metabolismo Ósseo e Mineral: Fósforo (P) 5,2; Fosfatase Alcalina (FA) 250; Cálcio Total (CÁLCIO T) 8,9; Paratormônio (PTH) 70,5; Vitamina D (VIT D) 12,5.
+    Glicose: 255.
+    Hemograma: Hemoglobina (HB) 7,3; Hematócrito (HT) 23; Volume Corpuscular Médio (VCM) 91; Hemoglobina Corpuscular Média (HCM) 29,1; Red Cell Distribution Width (RDW) 16,2; Leucócitos (LEUCO) 6900; Plaquetas (PQT) 231.000.
+    Proteínas: Proteínas Totais (PT) 5,2; Albumina (ALB) 2,8; Globulinas (GLOB) 2,4; Eletroforese de Proteínas sem pico monoclonal.
+    Ferro: Ferritina 1537; Saturação de Transferrina (FIX FERRO) 182; Ferro 54.
+    Outros: B12 491; IgG Esquistossomose Positivo.
+
+01/07/2024:
+
+    Urina de 24h: Volume 1610 mL; Proteína 3,33 g/24h; Creatinina (CR) 2,57.
+    Exame de Urina Simples (EAS): pH 6,5; Densidade 1.020; Proteínas +; Hemoglobina +.
+    Hemograma: Hemoglobina (HB) 6,7; Leucócitos (LEUCO) 7100; Plaquetas (PLQ) 223000.
+    Metabolismo: Glicose 100; Ureia 90; Ácido Úrico 4,6; Colesterol Total (CT) 309; HDL 85; LDL 211; Triglicerídeos 64.
+    Função Hepática: TGO 37; TGP 30; GGT 29.
+    Glicose: Hemoglobina Glicada (Hemoglobina Glicada) 5,1%; Glicemia 99.
+
+02/09/2024:
+
+    Eletrólitos: Sódio (NA) 133; Potássio (K) 5; Cloro (CL) 96; Bicarbonato (BIC) 31,3.
+    Hemograma: Hemoglobina (HB) 12,3; Leucócitos (L) 8990; Plaquetas (PLQ) 377.000.
+    Urina de 24h: 4315 MG/24H (volume 2920 ML); Creatinina (CR) 2,96 (TFGe 25 mL/min/1,73 m²); Ureia (UR) 94; Cistatina C 2,24 (TFGe 27,7 mL/min/1,73 m²).
+    Ferro: Ferritina 510; Saturação de Transferrina (SAT TRANSFERRINA) 23%.
+    Imunologia: C3 116; C4 20; Eletroforese de Proteínas: Proteína Monoclonal Ausentes; Imunofixação Sérica: Ausência de Proteína Monoclonal; Imunofixação Urinária: Ausência de Proteína Monoclonal.
+    Cadeias Leves Livres: Lambda Cadeia Leve: 160,0 mg/dL (VR: 90,0 a 210,0 nmg/gL); Kappa - Cadeia Leve: 298,0 mg/dL (VR: 170,0 a 370,0 nmg/gL); Relação Kappa/Lambda: 1,86 (VR relação kappa/lambda: 1,35 a 2,65).
+    Sorologia: Esquistossomose IgG Reagente.
+    Exame de Urina Simples (EAS): Densidade 1015; pH 5; Exame Químico: Proteína 100; Glicose 500; Hemoglobina 50; Sedimentoscopia: Leucócitos 10; Hemácias 5; Flora Bacteriana Aumentada; Cilindros Hialino, Granuloso Fino, Granuloso Grosso; Presença de Espermatozoides.
+
+Sorologias (Gerais):
+
+    HBSA: NR
+    Anti-HBC IgM: NR
+    Anti-HBC Total: Reativo
+    Anti-HBS: > 1000
+    Anti-HCV: NR
+    Anti-HIV: NR
+
+25/10/2024:
+
+    Metabolismo Ósseo e Mineral: Cálcio (CA) 9,7; Fósforo (P) 6,2; Fosfatase Alcalina (FA) 228; Paratormônio (PTH) 44; Vitamina D (VIT D) 45.
+    Metabolismo: Ácido Úrico (AU) 9,2; Colesterol Total (CT) 150; HDL 40; LDL 98; Triglicerídeos (TGC) 59; Glicose (GLIC) 157; Hemoglobina Glicada (HBG) 8,6%.
+    Função Renal: Creatinina (CR) 4,25; Ureia (UR) 204.
+    Eletrólitos: Cloro (CL) 96; Magnésio (MG) 3,12; Potássio (K) 6,1; Sódio (NA) 135; Bicarbonato (BIC) 27,3.
+    Ferro: Ferro (FER) 108; Saturação de Transferrina (IST) 18%.
+    Proteínas: Albumina (ALB) 3,8.
+    Hemograma: Hemoglobina (HB) 16,6; Hematócrito (HCT) 52,2.
+    Urina: Microalbumina (MICROALB) 222 MG/G; EAS Proteína (EAS PTN) 15.
+
+29/11/2024:
+
+    Função Renal: Creatinina (CR) 2,92; Ureia (UR) 157; TFGe CKD-EPI: 25 mL/min/1.73 m².
+    Eletrólitos: Sódio (NA) 137; Potássio (K) 5,7; Magnésio (MG) 2,57; Bicarbonato (HCO3) 30,0.
+    Metabolismo Ósseo e Mineral: Cálcio (CAT) 9,6; Fósforo (P) 6,1; Vitamina D (VIT D) 46,5.
+    Ferro: Ferritina 262; Saturação de Transferrina (IST) 41%.
+    Glicose: Glicose 133; Hemoglobina Glicada (HBA1C) 9,2.
+    Outros: Ácido Úrico 7,8.
+    Hemograma: Hemoglobina (HB) 15,7; Leucócitos (LEUCO) 8420; Plaquetas (PLAQ) 286000.
+    EAS: pH 5,0; Proteína <30; Cilindros Hialinos.
+    Proteinúria de 24h: 262 MG/24 Horas (volume 2300 ML).
+
+16/02/2025:
+
+    Metabolismo: Ácido Úrico (AU) 7,5; Glicose (GLIC) 248; Triglicerídeos (TGC) 79; Colesterol Total (CT) 150; HDL 44; LDL 90; Hemoglobina Glicada (HBG) 9,3.
+    Metabolismo Ósseo e Mineral: Fósforo (P) 4,9; Fosfatase Alcalina (FA) 180; Cálcio (CA) 9,6; Paratormônio (PTH) 45; Vitamina D (VIT D) 40.
+    Eletrólitos: Sódio (NA) 134; Potássio (K) 5,7; Cloro (CL) 99; Magnésio (MG) 2,56; Bicarbonato (B) (Valor não especificado).
+    Função Renal: Ureia (UR) 141; Creatinina (CR) 3,01.
+    Proteínas: Albumina (ALB) 3,8.
+    Ferro: Ferro (FER) 711.
+    Hemograma: Hemoglobina (HB) 9,69; Hematócrito (HCT) 30,4.
+
+11/03/2025:
+
+    Glicose: Hemoglobina Glicada (HBG) 8,3%.
+
+Exames de Imagem
+
+Ultrassonografia (USG) do Aparelho Urinário (30/08/2024):
+
+    Rins: Tópicos, dimensões normais (107x50x41 mm à direita e 113x53x42 mm à esquerda), contornos regulares e textura do parênquima homogênea.
+    Rim Direito: Apresenta imagem anecoica medindo 10 mm (cisto).
+    Bexiga: Semi-repleta, paredes finas, contornos regulares e conteúdo anecóico.
+    Conclusão: Cisto renal à direita. Bexiga sem alterações consideráveis.
+
+Doppler de Artérias Renais (AR) (11/12/2024):
+
+    Sem estenoses hemodinamicamente significativas.
+
+Ecocardiograma Transesofágico (ECOTT) (05/02/2025):
+
+    Fração de Ejeção do Ventrículo Esquerdo (FEVE): 64%, dentro dos limites da normalidade.
+    Calcificação valvar ausente.
+
+Radiografia (RX) de Mãos e Punhos (05/02/2025):
+
+    Calcificações vasculares nas mãos bilateralmente e no punho à direita.
+
+Conduta
+    Manter medicação atual, incluindo insulina lispro, insulina glargina, losartana, hidroclorotiazida, rosuvastatina, anlodipino, furosemida, colecalciferol. Reiniciar o uso de Eprex (eritropoetina) devido à anemia. Iniciar Sevelamer para controlar a hiperfosfatemia, tomar um comprimido durante as refeições principais. Monitorar níveis de potássio e fósforo. Acompanhar níveis de hemoglobina glicada, glicemia e pressão arterial periodicamente. Encaminhar para consulta de avaliação para diálise peritoneal e preparar documentação necessária. Acompanhamento em 2 meses com revisão de exames, incluindo creatinina, urina, hemoglobina, fósforo e glicada. Manter dieta com restrição de fósforo e potássio. Instruir o paciente a buscar apoio na Farmácia Cidadã para facilitar a obtenção dos medicamentos necessários.
+
+Impressão
+    O paciente apresenta doença renal crônica estágio 4 secundária a diabetes mellitus e hipertensão. Apesar da função renal comprometida, o quadro está estabilizado. As complicações associadas como anemia e hiperfosfatemia estão sendo geridas adequadamente com medicação e dieta. A pressão arterial e os níveis glicêmicos estão relativamente controlados. 

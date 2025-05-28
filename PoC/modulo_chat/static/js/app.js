@@ -1,5 +1,5 @@
 // =================== VARIÁVEIS E ELEMENTOS ===================
-const patientId = document.getElementById('patient-id').textContent;
+const patientId = 18;
 
 // Elementos do Chat
 const chatContainer = document.getElementById('chat-container');
@@ -51,16 +51,16 @@ function loadPatientData() {
   document.getElementById('patient-name').textContent = 'João da Silva';
   document.getElementById('patient-gender').textContent = 'Masculino';
   document.getElementById('patient-age').textContent = '45 anos';
-  document.getElementById('patient-id').textContent = '018';
+  // document.getElementById('patient-id').textContent = '018';
   
   // Contatos
   document.getElementById('patient-phone').textContent = '(27) 99999-9999';
   document.getElementById('patient-email').textContent = 'joao.silva@email.com';
-  document.getElementById('patient-address').textContent = 'Rua das Flores, 123 - Centro - Vitória/ES';
+  // document.getElementById('patient-address').textContent = 'Rua das Flores, 123 - Centro - Vitória/ES';
   
   // Contato de emergência
   document.getElementById('emergency-name').textContent = 'Maria da Silva';
-  document.getElementById('emergency-relation').textContent = 'Esposa';
+  // document.getElementById('emergency-relation').textContent = 'Esposa';
   document.getElementById('emergency-phone').textContent = '(27) 98888-8888';
 }
 
@@ -399,4 +399,38 @@ window.addEventListener('click', (e) => {
             examChart = null;
         }
     }
+});
+
+// Prontuário Modal
+const prontuarioModal = document.getElementById('prontuarioModal');
+const downloadProntuarioBtn = document.getElementById('download-prontuario');
+const prontuarioText = document.getElementById('prontuario-text');
+const prontuarioCloseBtn = prontuarioModal.querySelector('.close-button');
+
+// Load prontuario content
+fetch('/static/data/prontuario.txt')
+  .then(response => response.text())
+  .then(text => {
+    prontuarioText.textContent = text;
+  })
+  .catch(error => {
+    console.error('Error loading prontuario:', error);
+    prontuarioText.textContent = 'Erro ao carregar o prontuário.';
+  });
+
+// Open modal
+downloadProntuarioBtn.addEventListener('click', () => {
+  prontuarioModal.style.display = 'block';
+});
+
+// Close modal
+prontuarioCloseBtn.addEventListener('click', () => {
+  prontuarioModal.style.display = 'none';
+});
+
+// Close modal when clicking outside
+window.addEventListener('click', (event) => {
+  if (event.target === prontuarioModal) {
+    prontuarioModal.style.display = 'none';
+  }
 });

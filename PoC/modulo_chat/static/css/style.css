@@ -319,6 +319,7 @@ h1 i {
   display: flex;
   gap: 10px;
   margin-bottom: 15px;
+  align-items: center;
 }
 
 .tab {
@@ -757,7 +758,7 @@ h1 i {
 }
 
 .modal-body {
-  padding: 20px;
+  padding: 0px;
 }
 
 .exam-info {
@@ -988,4 +989,48 @@ h1 i {
   .info-column {
     padding-bottom: 0.5rem;
   }
+}
+
+.download-button {
+  margin-left: auto;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s;
+}
+
+.download-button:hover {
+  transform: scale(1.1);
+}
+
+.download-button img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
+.prontuario-modal {
+  max-width: 800px;
+  max-height: 80vh;
+}
+
+.prontuario-content {
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  overflow-y: auto;
+  max-height: calc(80vh - 120px);
+}
+
+.prontuario-content pre {
+  white-space: pre-wrap;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #2c3e50;
+  margin: 0;
 }

@@ -90,10 +90,10 @@
                       <i class="fas fa-birthday-cake"></i>
                       <span id="patient-age">45 anos</span>
                     </div>
-                    <div class="info-item">
+                    <!-- <div class="info-item">
                       <i class="fas fa-id-card"></i>
                       <span id="patient-id">018</span>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
 
@@ -109,10 +109,10 @@
                       <i class="fas fa-envelope"></i>
                       <span id="patient-email">paciente@email.com</span>
                     </div>
-                    <div class="info-item">
+                    <!-- <div class="info-item">
                       <i class="fas fa-map-marker-alt"></i>
                       <span id="patient-address">Rua Exemplo, 123</span>
-                    </div>
+                    </div> -->
                   </div>
                 </div>
 
@@ -124,10 +124,10 @@
                       <i class="fas fa-user-circle"></i>
                       <span id="emergency-name">Maria da Silva</span>
                     </div>
-                    <div class="info-item">
+                    <!-- <div class="info-item">
                       <i class="fas fa-users"></i>
                       <span id="emergency-relation">Esposa</span>
-                    </div>
+                    </div> -->
                     <div class="info-item">
                       <i class="fas fa-phone-alt"></i>
                       <span id="emergency-phone">(27) 98888-8888</span>
@@ -145,6 +145,9 @@
                 <button class="tab" data-tab="comp">Exames complementares</button>
                 <button class="tab" data-tab="fis">Exame físico</button>
                 <button class="tab" data-tab="hist">HPP</button>
+                <button class="download-button" id="download-prontuario">
+                  <img src="{{ url_for('static', filename='images/download-direto.png') }}" alt="Download Prontuário"/>
+                </button>
               </div>
               <div class="tab-content">
                 <div class="tab-panel active" id="lab">
@@ -746,6 +749,21 @@
           <div id="literature-list" class="literature-list">
             <!-- Literature items will be added here dynamically -->
           </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal de Prontuário -->
+  <div id="prontuarioModal" class="modal">
+    <div class="modal-content prontuario-modal">
+      <div class="modal-header">
+        <h2>Prontuário Clínico</h2>
+        <button class="close-button">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div class="prontuario-content">
+          <pre id="prontuario-text"></pre>
         </div>
       </div>
     </div>
