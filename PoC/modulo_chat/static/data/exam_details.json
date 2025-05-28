@@ -1,0 +1,54 @@
+{
+  "FER": {
+    "name": "Ferritina",
+    "unit": "ng/mL",
+    "reference_range": "30-400",
+    "description": "A ferritina é uma proteína que armazena ferro no organismo. Níveis elevados podem indicar inflamação, infecção ou sobrecarga de ferro.",
+    "history": [
+      {"date": "21/06/24", "value": 1537},
+      {"date": "02/09/24", "value": 510},
+      {"date": "25/10/24", "value": 108},
+      {"date": "29/11/24", "value": 262},
+      {"date": "16/02/25", "value": 711}
+    ],
+    "literature": [
+      {
+        "title": "Ferritin as a marker of inflammation in chronic kidney disease",
+        "authors": "Smith et al.",
+        "journal": "Nephrology Dialysis Transplantation",
+        "year": 2020,
+        "url": "https://doi.org/10.1093/ndt/gfz123"
+      },
+      {
+        "title": "Iron metabolism in chronic kidney disease",
+        "authors": "Johnson et al.",
+        "journal": "Kidney International",
+        "year": 2019,
+        "url": "https://doi.org/10.1016/j.kint.2019.01.032"
+      }
+    ]
+  },
+  "CR": {
+    "name": "Creatinina",
+    "unit": "mg/dL",
+    "reference_range": "0.6-1.2",
+    "description": "A creatinina é um produto do metabolismo muscular. Níveis elevados podem indicar comprometimento da função renal.",
+    "history": [
+      {"date": "21/06/24", "value": 1.9},
+      {"date": "01/07/24", "value": 2.57},
+      {"date": "02/09/24", "value": 2.96},
+      {"date": "25/10/24", "value": 4.25},
+      {"date": "29/11/24", "value": 2.92},
+      {"date": "16/02/25", "value": 3.01}
+    ],
+    "literature": [
+      {
+        "title": "Creatinine-based estimation of GFR in chronic kidney disease",
+        "authors": "Levey et al.",
+        "journal": "American Journal of Kidney Diseases",
+        "year": 2021,
+        "url": "https://doi.org/10.1053/j.ajkd.2020.12.001"
+      }
+    ]
+  }
+} 

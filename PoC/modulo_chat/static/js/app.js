@@ -49,7 +49,19 @@ function formatTime(seconds) {
 // Simula carregamento de dados do paciente
 function loadPatientData() {
   document.getElementById('patient-name').textContent = 'João da Silva';
+  document.getElementById('patient-gender').textContent = 'Masculino';
   document.getElementById('patient-age').textContent = '45 anos';
+  document.getElementById('patient-id').textContent = '018';
+  
+  // Contatos
+  document.getElementById('patient-phone').textContent = '(27) 99999-9999';
+  document.getElementById('patient-email').textContent = 'joao.silva@email.com';
+  document.getElementById('patient-address').textContent = 'Rua das Flores, 123 - Centro - Vitória/ES';
+  
+  // Contato de emergência
+  document.getElementById('emergency-name').textContent = 'Maria da Silva';
+  document.getElementById('emergency-relation').textContent = 'Esposa';
+  document.getElementById('emergency-phone').textContent = '(27) 98888-8888';
 }
 
 // Adiciona mensagem ao chat
@@ -183,6 +195,22 @@ document.querySelectorAll('.tab').forEach(tab => {
   });
 });
 
+// Abas de informações do paciente
+// Alterna o conteúdo das abas de informações do paciente
+
+document.querySelectorAll('.info-tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    // Remove estado ativo de todas as abas
+    document.querySelectorAll('.info-tab').forEach(t => t.classList.remove('active'));
+    document.querySelectorAll('.info-panel').forEach(p => p.classList.remove('active'));
+
+    // Adiciona estado ativo à aba clicada e ao painel correspondente
+    tab.classList.add('active');
+    const panelId = tab.dataset.infoTab;
+    document.getElementById(panelId).classList.add('active');
+  });
+});
+
 // =================== EVENTOS E INICIALIZAÇÃO ===================
 
 window.addEventListener('load', () => {
@@ -244,3 +272,131 @@ document.removeEventListener('click', () => {
     initAudioContext();
   }
 }, { once: true });
+
+// Variável global para armazenar a instância do gráfico
+let examChart = null;
+
+// Função para carregar os detalhes do exame
+async function loadExamDetails(examCode) {
+    try {
+        const response = await fetch(`/static/data/exam_details.json`);
+        const data = await response.json();
+        const examData = data[examCode];
+        
+        if (!examData) {
+            console.error('Exame não encontrado:', examCode);
+            return;
+        }
+
+        // Atualizar o título do modal
+        document.querySelector('.modal-header h2').textContent = examData.name;
+
+        // Atualizar a descrição
+        document.querySelector('.exam-description p').textContent = examData.description;
+
+        // Atualizar os valores
+        const valuesContainer = document.querySelector('.exam-values');
+        valuesContainer.innerHTML = `
+            <div class="value-item">
+                <span class="label">Valor Atual:</span>
+                <span class="value">${examData.history[0].value} ${examData.unit}</span>
+            </div>
+            <div class="value-item">
+                <span class="label">Valor de Referência:</span>
+                <span class="value">${examData.reference_range} ${examData.unit}</span>
+            </div>
+        `;
+
+        // Destruir o gráfico anterior se existir
+        if (examChart) {
+            examChart.destroy();
+        }
+
+        // Criar o novo gráfico
+        const ctx = document.getElementById('examChart').getContext('2d');
+        examChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: examData.history.map(v => v.date),
+                datasets: [{
+                    label: examData.name,
+                    data: examData.history.map(v => v.value),
+                    borderColor: '#3498db',
+                    backgroundColor: 'rgba(52, 152, 219, 0.1)',
+                    tension: 0.4,
+                    fill: true
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: false,
+                        grid: {
+                            color: 'rgba(0, 0, 0, 0.1)'
+                        }
+                    },
+                    x: {
+                        grid: {
+                            display: false
+                        }
+                    }
+                }
+            }
+        });
+
+        // Atualizar as referências
+        const literatureList = document.querySelector('.literature-list');
+        literatureList.innerHTML = examData.literature.map(ref => `
+            <div class="literature-item">
+                <h4>${ref.title}</h4>
+                <div class="authors">${ref.authors}</div>
+                <div class="journal">${ref.journal}</div>
+                <a href="${ref.url}" target="_blank">Ver artigo</a>
+            </div>
+        `).join('');
+
+        // Mostrar o modal
+        document.getElementById('examModal').style.display = 'block';
+    } catch (error) {
+        console.error('Erro ao carregar detalhes do exame:', error);
+    }
+}
+
+// Adicionar event listeners para os elementos com valores anormais
+document.querySelectorAll('.abnormal-value').forEach(element => {
+    element.addEventListener('click', (e) => {
+        const examCode = e.target.getAttribute('data-exam-code');
+        if (examCode) {
+            loadExamDetails(examCode);
+        }
+    });
+});
+
+// Fechar o modal
+document.querySelector('.close-button').addEventListener('click', () => {
+    document.getElementById('examModal').style.display = 'none';
+    // Destruir o gráfico ao fechar o modal
+    if (examChart) {
+        examChart.destroy();
+        examChart = null;
+    }
+});
+
+// Fechar o modal ao clicar fora dele
+window.addEventListener('click', (e) => {
+    const modal = document.getElementById('examModal');
+    if (e.target === modal) {
+        modal.style.display = 'none';
+        // Destruir o gráfico ao fechar o modal
+        if (examChart) {
+            examChart.destroy();
+            examChart = null;
+        }
+    }
+});

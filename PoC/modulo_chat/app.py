@@ -1,11 +1,11 @@
 from flask import Flask, request, jsonify, render_template, send_from_directory
 from flask_cors import CORS
 import os
+import socket
 from source import generate_medical_response
 
 app = Flask(__name__, template_folder='templates', static_folder='static')
 app.config['TEMPLATES_AUTO_RELOAD'] = True  # Recarrega templates (HTML)
-app.run(debug=True)  # Ativa o modo debug (reinicia o servidor após mudanças)
 CORS(app)
 
 @app.route('/')
@@ -41,7 +41,13 @@ def get_medical_response():
     
     return jsonify(result)
 
+def is_port_in_use(port):
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+        return s.connect_ex(('localhost', port)) == 0
+
 if __name__ == '__main__':
-    # Configuração para evitar problemas de porta ocupada
-    os.system("fuser -k 5003/tcp")  # Linux/Mac
-    app.run(host='localhost', port=5003, debug=True)
+    port = 5003
+    if is_port_in_use(port):
+        print(f"Port {port} is already in use. Please close the application using this port and try again.")
+    else:
+        app.run(host='localhost', port=port, debug=True)
