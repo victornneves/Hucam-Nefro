@@ -73,6 +73,31 @@ h1 {
   /* margin-bottom: 20px; */
 }
 
+.card-info {
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  /* margin-bottom: 20px; */
+}
+
+.card-exames {
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  height: 450px;
+  /* margin-bottom: 20px; */
+}
+
+.card-chat {
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  /* margin-bottom: 20px; */
+}
+
 /* === Informações do Paciente === */
 .info-paciente p {
   margin: 10px 0;

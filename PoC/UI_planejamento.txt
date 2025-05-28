@@ -1,4 +1,4 @@
-Melhorias: 
+accordion / chevron/ mock de dados (dados em JSON) do js pro html. Filtros pro gráfico
 
 LÓGICA:
 
