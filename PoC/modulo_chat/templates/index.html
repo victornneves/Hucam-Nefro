@@ -3,17 +3,18 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Consulta Médica - Nefrologia</title>
+  <title>Portal de Consulta Médica</title>
   
   <!-- Fontes e Estilos -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
   <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"/>
 </head>
 <body>
   <div class="container">
     
     <!-- Título da Página -->
-    <h1>Consulta Médica - Nefrologia</h1>
+    <h1><i class="fas fa-stethoscope"></i> Portal de Consulta Médica</h1>
 
     <!-- Player de Áudio -->
     <div class="audio-player">
@@ -38,6 +39,22 @@
         </button>
         <input type="range" id="volume-control" min="0" max="1" step="0.1" value="1"/>
       </div>
+
+      <!-- Decibel Meter -->
+      <div class="db-meter">
+        <div class="db-meter-label">dB</div>
+        <div class="db-meter-container">
+          <div class="db-meter-bar">
+            <div class="db-meter-level"></div>
+          </div>
+          <div class="db-meter-scale">
+            <span>-60</span>
+            <span>-40</span>
+            <span>-20</span>
+            <span>0</span>
+          </div>
+        </div>
+      </div>
     </div>
 
     <!-- Conteúdo principal: informações + chat -->
@@ -46,7 +63,7 @@
         <!-- Primeira Coluna -->
         <div class="grid-column-1">
           <section class="section-info-paciente">
-            <div class="section-title">INFO PACIENTE</div>
+            <div class="section-title"><i class="fas fa-user"></i> Informações do Paciente</div>
             <div class="card info-paciente">
               <p><strong>Nome:</strong> <span id="patient-name">Carregando...</span></p>
               <p><strong>Idade:</strong> <span id="patient-age">Carregando...</span></p>
@@ -54,7 +71,7 @@
             </div>
           </section>
           <section class="section-exames">
-            <div class="section-title">EXAMES</div>
+            <div class="section-title"><i class="fas fa-file-medical"></i> Exames</div>
             <div class="card">
               <div class="tabs">
                 <button class="tab active" data-tab="lab">Exames laboratoriais</button>
@@ -183,7 +200,7 @@
         <!-- Segunda Coluna -->
         <div class="grid-column-2">
           <section class="section-chat">
-            <div class="section-title">CHAT MÉDICO</div>
+            <div class="section-title"><i class="fas fa-robot"></i> Assistente Médico</div>
             <div class="card">
               
               <!-- Mensagens -->
