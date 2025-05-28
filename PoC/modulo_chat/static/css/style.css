@@ -65,6 +65,16 @@ h1 {
   color: #2980b9;
 }
 
+.section-title i {
+  margin-right: 10px;
+  color: #2c3e50;
+}
+
+h1 i {
+  margin-right: 15px;
+  color: #2c3e50;
+}
+
 .card {
   background: white;
   border-radius: 12px;
@@ -399,4 +409,53 @@ h1 {
   display: flex;
   flex-direction: column;
   gap: 20px; /* Space between sections in the same column */
+}
+
+/* === Decibel Meter === */
+.db-meter {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-left: 20px;
+  padding-left: 20px;
+  border-left: 1px solid #ddd;
+}
+
+.db-meter-label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #666;
+}
+
+.db-meter-container {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.db-meter-bar {
+  width: 100px;
+  height: 20px;
+  background: #f0f0f0;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+}
+
+.db-meter-level {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 0%;
+  background: linear-gradient(to right, #2ecc71, #f1c40f, #e74c3c);
+  transition: width 0.1s ease;
+}
+
+.db-meter-scale {
+  display: flex;
+  justify-content: space-between;
+  width: 100px;
+  font-size: 0.7rem;
+  color: #666;
 }

@@ -16,7 +16,13 @@ const durationDisplay = document.getElementById('duration-display');
 const muteButton = document.getElementById('mute-button');
 const volumeControl = document.getElementById('volume-control');
 const muteIcon = document.getElementById('mute-icon');
+const dbMeterLevel = document.querySelector('.db-meter-level');
 
+// Audio context for analyzing audio levels
+let audioContext;
+let analyser;
+let dataArray;
+let source;
 
 // MOCK
 // const dados = {
@@ -105,12 +111,21 @@ function initializeAudioPlayer() {
 
   // Controle play/pause
   playButton.addEventListener('click', () => {
+    if (!audioContext) {
+      initAudioContext();
+    }
+    
+    if (audioContext.state === 'suspended') {
+      audioContext.resume();
+    }
+    
     if (audioPlayer.paused) {
       audioPlayer.play();
-      playButton.innerHTML = '<img src="/static/images/pausa.png" alt="Pause" style="height: 20px;">';
+      playButton.textContent = '⏸';
+      updateDBMeter();
     } else {
       audioPlayer.pause();
-      playButton.innerHTML = '<img src="/static/images/botao-play.png" alt="Play" style="height: 20px;">';
+      playButton.textContent = '▶';
     }
   });
 
@@ -145,7 +160,7 @@ function initializeAudioPlayer() {
   audioPlayer.load();
   audioPlayer.volume = 1;
   volumeControl.value = 1;
-  playButton.innerHTML = '<img src="/static/images/botao-play.png" alt="Play" style="height: 20px;">';
+  playButton.textContent = '▶';
   document.documentElement.style.setProperty('--volume', '100%');
 }
 
@@ -175,3 +190,52 @@ sendButton.addEventListener('click', sendQuestion);
 questionInput.addEventListener('keypress', (e) => {
   if (e.key === 'Enter') sendQuestion();
 });
+
+// Initialize audio context and analyzer
+function initAudioContext() {
+  try {
+    audioContext = new (window.AudioContext || window.webkitAudioContext)();
+    analyser = audioContext.createAnalyser();
+    analyser.fftSize = 256;
+    analyser.smoothingTimeConstant = 0.8;
+    dataArray = new Uint8Array(analyser.frequencyBinCount);
+    
+    source = audioContext.createMediaElementSource(audioPlayer);
+    source.connect(analyser);
+    analyser.connect(audioContext.destination);
+    
+    console.log('Audio context initialized successfully');
+  } catch (error) {
+    console.error('Error initializing audio context:', error);
+  }
+}
+
+// Update decibel meter
+function updateDBMeter() {
+  if (!analyser) return;
+  
+  function update() {
+    analyser.getByteFrequencyData(dataArray);
+    const average = dataArray.reduce((a, b) => a + b) / dataArray.length;
+    
+    // Convert to decibels (0-255 to -60-0 dB)
+    const db = 20 * Math.log10(average / 255);
+    const normalizedDb = Math.max(-60, Math.min(0, db));
+    const percentage = ((normalizedDb + 60) / 60) * 100;
+    
+    dbMeterLevel.style.width = `${percentage}%`;
+    
+    if (!audioPlayer.paused) {
+      requestAnimationFrame(update);
+    }
+  }
+  
+  update();
+}
+
+// Remove the one-time click event listener since we'll initialize on play
+document.removeEventListener('click', () => {
+  if (!audioContext) {
+    initAudioContext();
+  }
+}, { once: true });
