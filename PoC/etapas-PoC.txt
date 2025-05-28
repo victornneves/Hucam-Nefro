@@ -26,25 +26,6 @@ Você é um especialista em nefrologia com ampla experiência em avaliação de 
 
 **Histórico do paciente, medicamentos em uso, exames:** (yaml)
 
-
---------------------
-
-def get_field(summary, field):
-    field = summary["relatorio_consulta_ambulatorial_nefrologia"][field]
-    if isinstance(field, list):
-        field = [readable_string(x) for x in field]
-        return "\n".join(field)
-    else:
-        return field
-
-
-def get_summary(patient_id):
-    with open(
-        f"/mnt/external8tb/datasets/Dataset-Hucam-Nefro/patient_{patient_id:03d}/patient_{patient_id:03d}_medical_summary.yaml"
-    ) as fp:
-        return yaml.safe_load(fp)
-    
-
 --------------------
 
 api python -> flask REST. método de post (request pedindo os chunks -> se peço o 3, manda do 1 ao 3.

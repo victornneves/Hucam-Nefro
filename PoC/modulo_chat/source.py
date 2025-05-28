@@ -169,9 +169,9 @@ def generate_medical_response(patient_id, question):
         prompt = f"{prompt}\n\n**Pergunta do médico:**\n{question}"
 
         # Chama a API do GPT
-        # response, MESSAGES = call_gpt_api(prompt, MESSAGES)
+        response, MESSAGES = call_gpt_api(prompt, MESSAGES)
         # Chama a API do Ollama
-        response, MESSAGES = call_ollama_local(prompt, MESSAGES)
+        # response, MESSAGES = call_ollama_local(prompt, MESSAGES)
 
 
         if not response:
