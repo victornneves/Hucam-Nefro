@@ -1,0 +1,221 @@
+REVISAR****************
+
+**# ID:**
+- 61 ANOS, SEM ATIVIDADE LABORAL, MORADOR DE VILA VELHA, NATURAL DE SÃO MATEUS
+
+**# SUBJETIVO:**
+- PACIENTE COMPARECE À CONSULTA DE RETORNO (ÚLTIMA CONSULTA NOV/24), NEGA INTERCORRÊNCIAS DESDE ÚLTIMA CONSULTA.
+- RELATA MANTER BOA DIURESE (<1000ML/DIA), MAS QUEIXA-SE DE EDEMA NOS MEMBROS INFERIORES.
+- QUEIXA-SE AINDA DE ADINAMIA E INDISPOSIÇÃO.
+- RELATA ESTAR COM DIFICULDADE DE ADERIR A ATIVIDADE FÍSICA.
+- RELATA TER APRESENTADO QUEDA DA CAMA ONTEM, SEM SINTOMAS PRODRÔMICOS, NÃO AFERIU HGT.
+- REFERE HIPOGLICEMIAS DE REPETIÇÃO.
+
+**# SITUAÇÃO NO PROGRAMA:** ATIVO
+
+**# DIAGNÓSTICOS:**
+- **DRC ESTÁGIO 4 - A3**
+- **ETIOLOGIA/DOENÇA DE BASE:** NTANIA - NEFROTÓXICA POR TARV/TENOFOVIR?
+- **ADMISSÃO PREVENIR EM:** 22/12/2022
+- **CLCr ADMISSÃO:** 28 ML/MIN - ESTÁGIO IV
+- **INTERNAÇÃO MAIO/2021:** AGUDIZAÇÃO DRC - NEFROTÓXICA POR TARV/TENOFOVIR?
+
+**# CURVA DE CREATININA:**
+- CR: 1,4 (NOVEMBRO/2020) > 2,41 (21/02/2021) > 3,04 (09/04/21) > 5,28 (08/05/21) > 5,08 (07/05/21) > 2,59 (11/10/2022) > 2,4 (07/01/25)
+
+**# COMPLICAÇÕES DRC:**
+- ANEMIA: AUSENTE
+- HIPERFOSFATEMIA: AUSENTE
+- PTH > 300: AUSENTE
+- HIPERURICEMIA: PRESENTE
+- HIPOVITAMINOSE D: PRESENTE
+
+**# PREPARO PARA TSR:**
+- APRESENTAÇÃO DE MÉTODO DIALÍTICO: NÃO SE APLICA
+- ACESSO: NÃO SE APLICA
+- SOROLOGIAS (JAN/23):
+  - HBSAG NR
+  - ANTI-HBC REAGENTE
+  - ANTI-HBS >1000
+  - ANTI-HCV NR
+  - ANTI-HIV REATIVO
+
+**# VACINAÇÃO:**
+- COVID-19: 4 DOSES | OK
+
+**# ANTECEDENTES:**
+- **HIV POSITIVO** - DIAGNÓSTICO EM 2002 - FEZ USO DE TDF+3TC+ TARUNAVIR (ATÉ 08/05/2021).
+- **DM INSULINO-DEPENDENTE COM LOA:** RETINOPATIA E DOENÇA RENAL DIABÉTICA - SEGUIMENTO COM ENDOCRINO EM VV.
+- **DISLIPIDEMIA.**
+
+---
+**Observações:**
+- História de **deterioração renal rápida** (2020-2021), possivelmente associada à nefrotoxicidade por TARV (Tenofovir).
+- **Estabilidade renal recente** (Creatinina ~2,4-2,6 mg/dL desde 2022).
+- **Sorologia HIV positiva**, com esquema TARV prévio modificado.
+- **Hepatite B:** Anti-HBS >1000 (proteção vacinal adequada), Anti-HBC reagente (infecção prévia ou vacinal).
+- **Queixas atuais:** Edema, adinamia, hipoglicemias e quedas (requer avaliação de controle glicêmico e neurológica).
+
+**# ANTECEDENTES COMPLEMENTARES:**
+- **HAS** (Hipertensão Arterial Sistêmica)
+- **GLAUCOMA | CATARATA** (Pré-operatório de FACO + LIO OE)
+- **NEGA ALERGIAS MEDICAMENTOSAS**
+
+**# MEDICAÇÕES EM USO:**
+1. **TARV:**
+   - RITONAVIR 100 MG + DARUNAVIR 800 MG + LAMIVUDINA 300 MG
+2. **FUROSEMIDA 40 MG** (2+0+2)
+3. **INSULINA:**
+   - GLARGINA (50 UI + 0 + 30 UI)
+   - REGULAR (20 UI + 16 UI + 14 UI)
+4. **ATORVASTATINA 40MG** (0+0+2)
+5. **BENZAFIBRATO 200MG** (1+0+0)
+6. **EZETIMIBA 10 MG** (0+0+1)
+7. **HIDRALAZINA 50 MG** (2+2+2)
+8. **ALOPURINOL 100MG/DIA**
+   - **Observação:** Edema em membros inferiores relacionados ao uso de anlodipina (suspenso).
+
+**# HISTÓRICO DE MEDICAÇÃO:**
+- **PENICILINA CRISTALINA 4.000.000 UI** - Dose ajustada para função renal (12/12h).
+
+---
+
+### **EXAMES LABORATORIAIS:**
+
+#### **Evolução da Função Renal (Creatinina - CR):**
+- **2020-2022:**
+  - CR 1,4 (NOV/2020) → 2,41 (FEV/2021) → 3,04 (ABR/2021) → 5,28 (MAI/2021) → 2,59 (OUT/2022).
+- **2023-2025:**
+  - CR 2,2 (JAN/23) → 2,6 (MAI/23) → 2,92 (OUT/23) → 3,37 (NOV/23) → 2,4 (JAN/25).
+
+#### **Destaques por Período:**
+- **04/01/2022:**
+  - CL 105 | CR 2 | CT 146 | GLIC 93 | **Microalbuminúria 83,5 mg** | K 3,7 | NA 139 | UR 60 | Ca 8,9 | P 3,7 | Hb 11,4 | Leuco 5440 | PTH 97,3 | Vit D 37,6.
+  - **Proteinúria 24h:** 384 mg (Volume: 3200 mL).
+
+- **10/05/2022:**
+  - Hb 10,9 | HBA1C 9,8% | Ferritina 786,2 | HCO3 21,9 (acidose metabólica).
+
+- **11/10/2022:**
+  - PCR 5,1 (inflamação) | PTH 19,8 | Vit D 26,4.
+
+- **24/01/2023:**
+  - **Proteinúria 24h:** 400 mg | EAS: Alb 30 mg/dL | Glicosúria presente.
+
+- **27/05/2023:**
+  - **Dislipidemia grave:** LDL 148 | TGC 541.
+
+- **09/10/2023:**
+  - **Hiperglicemia:** Glic 222 mg/dL | HBA1C 9,4%.
+
+- **05/02/2024:**
+  - **Proteinúria 24h:** 1070 mg (Volume: 4800 mL).
+
+- **14/03/2024:**
+  - TSH 3,63 | PSA 1,42 | Vit D 34.
+
+- **04/04/2024:**
+  - **Hiperuricemia:** AU 10,4 mg/dL | PTH 59.
+
+- **01/07/2024:**
+  - **Hipoglicemia:** Glic 56 mg/dL | HBA1C 8,8%.
+
+- **17/09/2024:**
+  - TSH 5,94 (hipotireoidismo subclínico).
+
+- **07/01/2025:**
+  - **Dislipidemia:** LDL 62 | TGC 347 | HBA1C 10,8%.
+
+---
+
+### **OBSERVAÇÕES:**
+1. **Progressão da DRC:**
+   - Pico de CR em 2021 (5,28 mg/dL), com melhora posterior, mas mantendo estágio 4 (CR ~2,4-3,4 mg/dL).
+   - **Proteinúria nefrótica** (1070 mg/24h em 02/24), sugerindo doença renal diabética avançada.
+
+2. **Complicações Metabólicas:**
+   - **DM descompensado:** HBA1C >9% em múltiplos exames, com hipoglicemias frequentes.
+   - **Dislipidemia mista:** TGC elevados (até 541 mg/dL) e LDL variável.
+   - **Hiperuricemia persistente** (AU até 10,4 mg/dL).
+
+3. **Outros:**
+   - **Hipotireoidismo subclínico** (TSH 5,94).
+   - **Vitamina D adequada** (níveis entre 26-41 ng/mL).
+   - **Edema** associado a anlodipina (substituída por hidralazina).
+
+---
+
+**# CONDUTA (IMPLÍCITA):**
+- **Monitoramento rigoroso** da função renal e proteinúria.
+- **Ajuste de TARV** (evitar nefrotóxicos).
+- **Controle glicêmico** (revisão de esquema de insulina).
+- **Manutenção de:**
+  - Alopurinol (hiperuricemia).
+  - Estatinas + ezetimiba (dislipidemia).
+  - Reposição de vitamina D.
+- **Avaliação oftalmológica** (catarata + glaucoma).
+
+**Próximos passos:** Retorno com exames de imagem (avaliar edema) e reavaliação endócrina.
+
+**# EXAMES LABORATORIAIS (continuação):**
+- **14/05/25:**
+  - AU 6,9 | CA 9,0 | CL 103 | CT 195 | CR **3,86** (↑) | FER 342 | FA 176 | P 4,0 | GLIC 138 | MG 2,41 | MICROALB 305MG/L | K 4,0 | ALB 3,8 | IST 22% | NA 142 | TGC 425 | UR 91 | BIC 29 | EAS: PTN 30 / GLIC 50.
+
+**# EXAMES DE IMAGEM:**
+- **US (10/05/21):** Rins diminuídos (D: 12,5 cm; E: 13 cm) - Aumento de ecogenicidade bilateral.
+- **USG VU (31/10/23):** Rins normais (D: 10,7 cm; E: 11,2 cm) - Contornos regulares, volume e ecotextura preservados.
+- **Doppler de Carótidas (31/03/25):**
+  - Estenose 20-30% bifurcação carótida direita.
+  - Estenose 10-20% ACI direita.
+  - Estenose 30-40% bifurcação carótida esquerda.
+
+---
+
+**# EXAME FÍSICO:**
+- **Peso:** 88 kg (2021) → **105,1 kg (02/25)** (ganho progressivo).
+- **Geral:** BEG, eupneico, acianótico, anictérico, afebril, normocorado, hidratado.
+- **ACV:** RCR 2T, BHF em focos aórtico e pulmonar, BNF em focos mitral e tricúspide, sem sopros. **PA: 140/80 mmHg**, FC: 71 bpm.
+- **AR:** Murmúrio vesicular presente bilateralmente, eupneico em AA.
+- **Abdome:** Globoso, RHA +, flácido, timpânico, indolor.
+- **MMII:** Edema 1+/4.
+
+---
+
+**# IMPRESSÃO:**
+- **DRC G4A3** (Doença Renal Diabética) **agudizada em 05/21** por nefrotoxicidade provável (TARV/Tenofovir).
+  - Esquema modificado para **Lamivudina + Darunavir**.
+  - Progressão rápida da função renal (CR: 2,2 → 3,3) até 09/23, com suspensão de Losartana e Forxiga.
+- **Atualmente:**
+  - Estabilidade renal recente, mas **CR elevado (3,86)** sem causa clara.
+  - **Mau controle glicêmico** (dificuldade em cirurgia oftalmológica).
+  - **Obesidade progressiva** (IMC ~35).
+
+---
+
+**# CONDUTAS:**
+1. **Investigação da piora renal:**
+   - Solicitar **USG VU** e **proteinúria de 24h**.
+2. **Controle metabólico:**
+   - **Endocrinologia (HUCAM):** Reavaliar esquema insulínico (HBA1C elevada).
+   - **Nutrição:** Retorno urgente para plano dietético.
+3. **Manejo cardiovascular:**
+   - Manter tratamento conservador para estenoses carotídeas.
+   - **Clonidina 0,1mg 12/12h** para controle pressórico (evitando IECA/BRA).
+4. **Oftalmologia:**
+   - Seguimento no HUCAM para glaucoma e catarata (cirurgia adiada por descontrole glicêmico).
+5. **Monitoramento:**
+   - **Retorno em 1 mês.**
+   - Se persistir deterioração renal → **avaliar método dialítico**.
+
+---
+**Observações críticas:**
+- **Risco cardiovascular alto:** Estenoses carotídeas + DM descompensado + HAS.
+- **Prioridades:** Controle glicêmico estrito e perda de peso.
+- **Alerta:** Proteinúria persistente (305 mg/L) sugere progressão de nefropatia diabética.
+
+**# CONDUTA FINAL:**
+- **Retorno em 2 meses** para reavaliação da função renal, controle glicêmico e progressão das estenoses carotídeas.
+
+---
+**Observação:**
+- Manter acompanhamento multidisciplinar (nefrologia, endocrinologia, oftalmologia e nutrição) durante este período.

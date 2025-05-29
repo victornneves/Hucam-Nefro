@@ -1,0 +1,197 @@
+REVISAR****************
+
+**# IDENTIFICAÇÃO:**
+Paciente com:
+- **DRC Estágio 3A**
+- **HAS**
+- **Dores crônicas e úlceras venosas em MMII**
+- **Uso crônico de AINEs há 11 anos** (para dor em MMII)
+- **Tumor de SNC** (relacionado à hipófise, diagnosticado há 30 anos - 6 cirurgias prévias, derivação ventricular não funcionante)
+- **Hepatopatia crônica** (ascite, varizes de esôfago - diagnóstico em 01/23, não viral/não alcoólica, etiologia indeterminada)
+- **Sorologias (14/03/23):** Anti-HIV NR / Anti-HCV NR / HBSAG NR / Anti-HBS NR / Anti-HBC Total NR
+
+---
+
+**# MEDICAÇÕES EM USO:**
+- **Furosemida 40 mg** (1-0-0 em dias alternados)
+- **Codeína 30 mg** (SOS)
+- **Dipirona 500 mg** (2 comprimidos 1x/dia)
+- **Medicações suspensas:**
+  - Colecalciferol 50.000 UI/mês
+  - Escitalopram 10 mg
+  - Domperidona 10 mg
+  - Espironolactona 25 mg
+  - Propranolol 40 mg
+
+---
+
+**# SUBJETIVO:**
+- Parou de usar chás que consumia anteriormente.
+- **Dor abdominal em hipogástrio** há 1 mês:
+  - Intermitente, piora com mudança de posição (especialmente ao deitar).
+  - Dor matinal intensa.
+  - Dor vesical ("como se a bexiga estivesse cheia"), mas com **pouca diurese**.
+  - Polaciúria e urina avermelhada.
+- **Sonolência intensa**.
+- Melhora progressiva das úlceras venosas.
+- Uso diário de dipirona para controle da dor.
+
+---
+
+**# EXAME FÍSICO:**
+- **Geral:** Lúcido, orientado, hidratado, corado, anictérico.
+- **Cardiovascular:** FC 56 bpm | PA 120x80 mmHg | RCR 2T.
+- **Respiratório:** MVUA sem RA.
+- **Abdome:** Globoso, **sem ascite**.
+- **MMII:**
+  - Sinais de **insuficiência venosa crônica grave**.
+  - Úlceras venosas **sem sinais de infecção ativa**.
+
+---
+
+**# OBSERVAÇÕES:**
+1. **Risco renal:** Uso prolongado de AINEs + DRC estágio 3A.
+2. **Hepatopatia:** Monitorar função hepática e complicações (varizes, ascite).
+3. **Dor abdominal/vesical:** Investigar causas (ex.: infecção urinária, litíase, disfunção vesical).
+4. **Hipotensão relativa** (PA 120x80 mmHg com FC 56 bpm) - Avaliar necessidade de ajuste de anti-hipertensivos.
+
+**Próximos passos:**
+- Solicitar **EAS, urocultura, USG abdominal** e **avaliação urológica**.
+- Reavaliar suspensão de espironolactona (risco x benefício para ascite).
+- Controle rigoroso da dor **sem AINEs**.
+
+---
+**Conduta implícita:** Retorno para reavaliação multimodal (nefro-hepato-urológica).
+
+**# EXAMES COMPLEMENTARES:**
+
+### **Exames de Imagem:**
+- **EDA (31/01/23):**
+  - Varizes de esôfago (fino/médio calibre).
+  - Pangastropatia congestiva moderada por hipertensão portal.
+  - Teste da urease negativo.
+- **EDA (20/03/23):**
+  - Varizes de esôfago (médio/fino calibre).
+  - Gastrite enantematosa de antro.
+- **TC de Abdome Total (28/12/22):**
+  - Hepatopatia crônica (sem redução importante do fígado).
+  - Leve esplenomegalia homogênea.
+  - Discreto espessamento peritoneal nos flancos.
+  - Circulação colateral gástrica direita.
+  - Doença diverticular exuberante dos cólons.
+  - Linfonodomegalias nas cadeias ilíaca externa e inguinal direita.
+
+---
+
+### **Exames Laboratoriais:**
+
+#### **Destaques por Data:**
+- **21/01/23:**
+  - **Anemia:** HB 8,8 | HCT 28% | Plaq 114.000.
+  - **Função renal/hepática:** Ureia 178 | Creat 3,53 | BT 1,89 (BD 1,79).
+  - Sorologias: HBSAG NR | Anti-HCV NR.
+
+- **26-29/01/23:**
+  - Melhora da anemia (HB 12,2) e plaquetas (235.000).
+  - **Coagulopatia:** INR 1,45.
+  - **Hipoproteinemia:** Alb 2,32.
+
+- **21/03/23:**
+  - **Hipoproteinemia grave:** Alb 2,9****.
+  - **Colestase:** FA 834 | GGT 119.
+  - **EAS:** 15 hemácias, codócitos presentes.
+  - Sorologias: Anti-HVA IgG positivo (infecção prévia).
+
+- **10/07/23:**
+  - **Hipovitaminose D:** Vit D 11,5.
+  - **EAS:** Hematúria (300 HB) + 25 hemácias (morfologia normal).
+
+- **06/11/23:**
+  - **Função renal estável:** Creat 0,86 | U 42.
+  - **EAS:** Hematúria persistente (50 HB + 20 hemácias).
+
+- **07/03/24:**
+  - **Citopenias:** Leuco 3000 | Plaq 63.000.
+  - **FA elevada:** 655 U/L.
+
+- **13/06/24:**
+  - **Estabilidade renal:** Creat 1,41.
+  - **FA:** 555 U/L | Vit D 24,1.
+
+- **27/08/24:**
+  - **Perfil hormonal:**
+    - Prolactina 24,4 ng/mL | LH 9,83 mUI/mL | FSH 12,7 mUI/mL | Testosterona total 5,33 ng/mL.
+  - **Hematúria:** Persistente em EAS.
+
+---
+
+### **Observações:**
+1. **Hepatopatia crônica:**
+   - Hipertensão portal (varizes de esôfago, circulação colateral).
+   - **Colestase persistente** (FA >500 U/L).
+2. **Anemia e citopenias:** Associadas à doença hepática avançada.
+3. **Hematúria:** Investigar causa (nefropatia por hipertensão portal? Litíase?).
+4. **Hipovitaminose D:** Corrigida parcialmente (Vit D ~25 ng/mL).
+
+**Conduta implícita:**
+- Monitorar varizes de esôfago (risco de sangramento).
+- Investigar hematúria (urocultura, USG renal).
+- Reposição de vitamina D.
+- Acompanhamento hepatológico e nefrológico integrado.
+
+---
+**Próximos passos:** Retorno com exames de imagem (eco abdominal) e avaliação especializada.
+
+**# EXAMES LABORATORIAIS RECENTES:**
+
+- **29/11/24:**
+  - **Função renal:** Creat 1,45 | CKD-EPI 57 → 53 → 56 → **44 mL/min/1,73m²** (piora).
+  - **Hepatopatia:** FA 475 | Ferritina 119,9 | TGO/TGP normais.
+  - **Hematúria:** EAS com hemácias numerosas (acantócitos e codócitos).
+  - **Outros:** Vit D 45,6 | HBA1C 5,6% | TSH 1,56.
+
+- **06/05/25:**
+  - **Piora renal:** Creat **1,75** | CKD-EPI **44 mL/min/1,73m²**.
+  - **Hematúria persistente:** Microalbuminúria 104,8 mg/L + acantócitos/codócitos.
+  - **Hepatopatia:** FA 497 | TGO 65 | TGP 37 | INR 1,02.
+  - **Sorologias:** Anti-HCV/HIV/HBS NR.
+
+---
+
+**# IMPRESSÃO:**
+1. **Hepatopatia crônica não viral/não alcoólica** (etiologia indeterminada) com:
+   - Hipertensão portal (varizes de esôfago, ascite).
+   - **Risco de sangramento** (derivação ventricular não funcionante + coagulopatia).
+2. **DRC Estágio 3B em progressão** (CKD-EPI 44 mL/min):
+   - Associada ao uso crônico de AINEs + diabetes + hepatopatia.
+   - **Hematúria glomerular** (acantócitos/codócitos).
+3. **ITU?** Nictúria (4x/noite) + dor hipogástrica + urina avermelhada.
+
+---
+
+**# CONDUTA:**
+1. **Investigação da hematúria/piora renal:**
+   - **Solicitar:**
+     - **USG rins/vias urinárias + próstata.**
+     - **Urocultura + PSA.**
+   - **Prescrever:** Norfloxacina 400 mg 12/12h (suspeita de ITU).
+2. **Controle de comorbidades:**
+   - **Hepatologia:** Avaliar elegibilidade para transplante hepático.
+   - **Endocrinologia:** Ajuste de DM (HBA1C 4,5-5,6%).
+3. **Orientações:**
+   - **Evitar AINEs** (risco de nefrotoxicidade).
+   - **Monitorar sangramento digestivo** (varizes de esôfago).
+
+---
+
+**# OBSERVAÇÕES GERAIS:**
+- **Paciente de 80 anos**, multissistêmico:
+  - **Tumor de SNC hipofisário** (6 cirurgias prévias).
+  - **Úlceras venosas crônicas** em MMII + dor crônica.
+  - **Fragilidade clínica:** Sonolência, fraqueza, incapacidade laboral.
+- **CIDs:** K74 (Fibrose hepática) | I10 (HAS) | E11 (DM) | N18.8 (DRC).
+
+**Retorno em 2 meses** para reavaliação da função renal e hepática.
+
+---
+**Nota:** Documento elaborado para fins de acompanhamento multidisciplinar (hepatologia/nefrologia/endocrinologia).
