@@ -34,7 +34,7 @@ def transcrever_audio_stream(paciente, chunksize=15):
     caminho_audio = f"/home/marianasegato/Documentos/audios-Hucam/patient_{paciente:03d}_consult_audio.wav"
     try:
         # Carregar modelo (escolha entre 'tiny', 'base', 'small', 'medium', 'large')
-        model = whisper.load_model("small")
+        model = whisper.load_model("large")
 
         # Configuração do sistema de áudio
         sd.default.samplerate = 16000
@@ -113,9 +113,60 @@ def transcrever_audio_stream(paciente, chunksize=15):
         print(f"Erro: {str(e)}")
         return False
 
+def transcrever_audio_completo_para_pacientes(pacientes):
+    for paciente in pacientes:
+        caminho_audio = f"/home/lauro/Documents/audios-Hucam/patient_{paciente:03d}_consult_audio.m4a"
+        try:
+            # Carregar modelo Whisper (local)
+            model = whisper.load_model("large")
+
+            # Configuração do sistema de áudio
+            sd.default.samplerate = 16000
+            sd.default.channels = 1
+            sd.default.dtype = 'float32'
+            sd.default.latency = 'high'
+
+            # Carregar áudio e converter para formato adequado
+            audio = AudioSegment.from_file(caminho_audio)
+            audio = audio.set_frame_rate(16000).set_channels(1)  # Whisper prefere 16kHz mono
+
+            # Converter áudio para array de amostras
+            samples = np.array(audio.get_array_of_samples(), dtype=np.float32)
+            samples /= 32768.0  # Normalizar para float32 [-1.0, 1.0]
+
+            # Processar com Whisper
+            resultado = model.transcribe(
+                samples,
+                language='pt',
+                task='transcribe',
+                fp16=False,
+                compression_ratio_threshold=2.0,
+                temperature=0.1  # Reduz variações para maior consistência
+            )
+
+            # Texto transcrito
+            transcricao = resultado["text"].replace("  ", " ").strip()
+
+            # Configuração de saída
+            output_dir = os.path.join("../../Dataset-Hucam-Nefro", f"patient_{paciente:03d}")
+            os.makedirs(output_dir, exist_ok=True)
+            output_path = os.path.join(output_dir, f"patient_{paciente:03d}_transcription_whisper.txt")
+
+            # Salvar transcrição em arquivo
+            with open(output_path, "w", encoding="utf-8") as f:
+                f.write(transcricao)
+
+            print(f"Transcrição completa salva em: {output_path}")
+
+        except Exception as e:
+            print(f"Erro ao processar paciente {paciente}: {str(e)}")
+
+        print(f"Processamento do paciente {paciente} concluído!\n")
+
 # Uso
 if __name__ == "__main__":
-    paciente = 18
-    transcricao_completa = transcrever_audio_stream(paciente)
-    if transcricao_completa:
-        print("\nTranscrição final consolidada:")
+    pacientes = range(27, 28)  # Pacientes 27 a 34
+    transcrever_audio_completo_para_pacientes(pacientes)
+    # transcricao_completa = transcrever_audio_stream(paciente)
+    # if transcricao_completa:
+    #     print("\nTranscrição final consolidada!")

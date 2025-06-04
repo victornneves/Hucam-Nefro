@@ -1,0 +1,208 @@
+MÉDICO: Show, beleza. Bom dia.
+PACIENTE: Bom dia.
+MÉDICO: E aí, pessoal, tudo bem?
+ACOMPANHANTE: Graças a Deus.
+MÉDICO: Você está sendo entrevistado hoje? Você? Está famoso?
+ACOMPANHANTE: É. Vai ficar, vai ficar.
+MÉDICO: Você está ficando famoso? É isso aí?
+PACIENTE: Mais ou menos.
+MÉDICO: Fecha a porta pra mim, por favor. Tudo bem, velho?
+PACIENTE: Véi, isso aí, meu filho.
+MÉDICO: Como é que está? Estão querendo cortar seu pescoço, velho?
+PACIENTE: Estão querendo me enforcar.
+MÉDICO: É? Estão querendo cortar seu pescoço, então?
+PACIENTE: É, olha.
+MÉDICO: Ah. Você vê? Eu faço só bem para o senhor. E o senhor...
+PACIENTE: [ininteligível]
+MÉDICO: É. Vê só. Um o senhor faz carinho, o outro quer meter a faca.
+PACIENTE: Quem decide é você.
+MÉDICO: Eu, quiser meter a faca, eu falei, não mete a faca no meu rim, não.
+ACOMPANHANTE: Não, no rim não, mas dessa vez [ininteligível] foi o senhor que encaminhou.
+PACIENTE: [ininteligível]
+ACOMPANHANTE: Ah tá. [ininteligível]. Não, porque ela teimou que não é
+MÉDICO: Não, eu encaminhei. Por conta da estenose, né? E aí, por conta da estenose, a gente viu que tem uma estenose e vai ter que operar, né?
+PACIENTE: Eu vi.
+MÉDICO: É assim, vamos lá. No rim, a conduta é totalmente diferente da carótida. A carótida, a gente tem o risco de um AVC, por exemplo, né? Então, é por isso que tem necessidade da cirurgia. O rim, a gente consegue, não vai ser uma coisa que vai, do dia para a noite, causar também uma coisa que vai oferecer risco de vida, tipo um AVC, entendeu? Então, por isso que está indicada a cirurgia, entendeu? Marcou já a cirurgia, não, né?
+PACIENTE: Não. O exame está aqui também.
+MÉDICO: Aham, o exame dele, né?
+ACOMPANHANTE: Só se for os exames, chegar com [ininteligível] e marcar.
+MÉDICO: Beleza. Vamos lá. Nossa última consulta aqui foi há dois meses atrás. Nesses dois meses, nós estamos aqui acompanhando o senhor relacionado àquela doença renal isquêmica, né? Que a gente sempre conversa. Como é que o senhor passou nesses últimos dois meses? Como é que o senhor tem passado? Tudo bem? Tranquilo?
+PACIENTE: Tranquilo. Não sinto nada e graças a Deus. Alimentando bem.
+MÉDICO: Aham. Está muito bem. Alimentando bem. Tem tempo que foi na Cida, na nutricionista?
+PACIENTE: Dia vinte e seis agora, tem ela de novo.
+MÉDICO: Dia vinte e seis tem ela de novo, para ela puxar sua orelha de novo?
+ACOMPANHANTE: Para puxar a orelha de novo.
+MÉDICO: Ah, entendi. E está se alimentando bem? Tá, conseguindo comer, tendo apetite, tudo certinho?
+PACIENTE: Até demais.
+MÉDICO: Até demais, né? Tinha que tirar um pouquinho do apetite do senhor, né?
+ACOMPANHANTE: [ininteligível]
+PACIENTE: Agora essa vitamina eu não peguei lá ainda, porque está...
+MÉDICO: Não pegou ainda, por quê? Não liberaram ainda não?
+ACOMPANHANTE: Ainda não.
+PACIENTE: Daqui a uns sessenta dias.
+ACOMPANHANTE: Não, é vinte e dias.
+MÉDICO: Não, vinte e dias. Exagerou. Exagerou só um pouquinho, ele. Só um pouquinho, só um pouquinho.
+ACOMPANHANTE: Só um pouquinho. [ininteligível].
+MÉDICO: Mas eles vão liberar, tá?
+ACOMPANHANTE: Vai.
+PACIENTE: Já está tudo feito, vai, já está tudo.
+MÉDICO: Uhum.
+ACOMPANHANTE: Então, tá, quando eu falo que tem que liberar, como é que é?
+MÉDICO: A liberação, mesmo.
+ACOMPANHANTE: Isso, é.
+MÉDICO: Creatinina de 3.1. Pressão, como é que está ficando em casa?
+PACIENTE: Pressão?
+MÉDICO: Isso.
+PACIENTE: Doze por sete, doze por seis.
+ACOMPANHANTE: Treze.
+PACIENTE: Treze.
+MÉDICO: Beleza, xixi, como é que está?
+PACIENTE: Muito bem, boa pressão.
+MÉDICO: Muito bem, boa pressão. Cocô normal também.
+PACIENTE: Cocô normal.
+MÉDICO: Cocô normal também, beleza. E não está enchendo as pernas também, não?
+PACIENTE: Não, somente [ininteligível] que foi arrancado pedaço nela aqui.
+MÉDICO: Ah, é rapaz, você daqui uns poucos, você não vai ficar sem pedaço nenhum, hein? Arrancaram pedaço da perna, arrancaram pedaço do pescoço, arrancaram pedaço de tudo, moço.
+ACOMPANHANTE: O peito já estava [ininteligível].
+MÉDICO: O peito já está amarrado no arame.
+PACIENTE: Se cair uma ponta de arame aqui, eu estou até com medo de furar.
+ACOMPANHANTE: Dá até para fazer um varal.
+MÉDICO: É, pois é, está doido homem. Deixa eu te perguntar uma coisa, vamos lá. Medicações que o senhor está tomando, anlodipino duas vezes por dia, hidralazina de cinquenta, dois comprimidos.
+PACIENTE: Seis comprimidos por dia.
+MÉDICO: Seis por dia, muito bem. Metildopa.
+PACIENTE: Um por dia.
+MÉDICO: Metildopa? Acho que o senhor confundiu.
+PACIENTE: Não, não. Metildopa.
+MÉDICO: Metoprolol. Isso.
+PACIENTE: Quatro por dia.
+MÉDICO: Quatro por dia. Metoprolol um por dia.
+PACIENTE: É isso aí.
+MÉDICO: Furosemida um por dia, AAS um por dia, atorvastatina, um comprimido à noite.
+PACIENTE: É isso aí.
+MÉDICO: Omeprazol e sulfato ferroso, certo?
+PACIENTE: É, o senhor falou Omeprazol, o senhor esqueceu de botar na receita, vou ter que comprar hoje.
+MÉDICO: Tá, beleza. Culpa é minha, né?
+PACIENTE: É.
+ACOMPANHANTE: É, a culpa é do senhor mesmo.
+MÉDICO: É mesmo, né? É, então tá, Omeprazol, beleza.
+PACIENTE: AAS estou tomando.
+MÉDICO: Show de bola. [ininteligível]. Meu amigo, deixa eu te falar uma coisa. O senhor não der uma exagerada aí nos queijos, leite, a Cida vai te pegar, tá?
+ACOMPANHANTE: Eu falei, você viu [ininteligível]. É.
+MÉDICO: É, abre aqui, por favor, o casaco. Ei, queijo, meu filho. O senhor foi para a rota dos queijos lá em João Neiva? Para aumentar esse Fósforo desse jeito?
+ACOMPANHANTE: [ininteligível]
+MÉDICO: Você está doido, moço? Tira o casaco.
+ACOMPANHANTE: A Cida vai pegar.
+MÉDICO: E aí cara, por que você veio bonito desse jeito para consulta também? Precisava se arrumar tanto? Que véio arrumado! Você também, véia. Vocês vieram passear?
+PACIENTE: É o inverno.
+MÉDICO: Vocês vão passear. Vocês não vieram [ininteligível].
+PACIENTE: Tirar a camisa também?
+MÉDICO: Não. Aí eu vou me apaixonar por você.
+PACIENTE: Mas aí fica ruim.
+MÉDICO: Não, se tirar a camisa, vai que eu me apaixono.
+ACOMPANHANTE: Não, ele tem um caroço aqui, que eu acho esse caroço muito esquisito. Ele fala que é porque ele [ininteligível]
+MÉDICO: [ininteligível] meu filho.
+PACIENTE: Eu não sei se [ininteligível], ela envoca com isso, que é ó.
+MÉDICO: Não, mas isso é lipoma.
+PACIENTE: É, ué, que eu falei com ela.
+MÉDICO: Isso é gordura.
+ACOMPANHANTE: Assim como eu tenho aqui, que fica pulando, eu acho que é uma veiazinha.
+MÉDICO: Não, o seu é veia.
+ACOMPANHANTE: O seu é diferente do dele.
+MÉDICO: O dele é lipoma, o dele é lipoma. Mas que manchaiada é essa?
+PACIENTE: Eu não sei.
+ACOMPANHANTE: Nossa, Roberto, eu não tinha visto isso, não.
+PACIENTE: Olha.
+MÉDICO: Tem nas costas também?
+PACIENTE: Nas costas tem não.
+ACOMPANHANTE: Eu não tinha visto isso não. Ele só andar de blusa de frio, como é que vê? É da ponta [ininteligível]
+MÉDICO: Isso parece fungo.
+ACOMPANHANTE: Então, é isso que eu estou falando. Ele anda muito de blusa de frio.
+PACIENTE: É só aqui dentro.
+MÉDICO: É? Isso parece fungo.
+ACOMPANHANTE: Olha esse roxão aí.
+PACIENTE: Isso aqui, qualquer coisa para apertar aqui fica roxo. [ininteligível].
+MÉDICO: Você não aperta ele não, ein.
+PACIENTE: É.
+ACOMPANHANTE: Qualquer coisa você atende [ininteligível].
+MÉDICO: [ininteligível] o pescoço dela [ininteligível].
+ACOMPANHANTE: Só se for para chamar atenção. Não pode isso, [ininteligível] isso.
+MÉDICO: É.
+ACOMPANHANTE: Eu vou te entregar para a Cida.
+PACIENTE: Não [ininteligível]
+MÉDICO: Deixa eu te falar, meu filho. Seu fósforo veio muito alto. Muito. Seu fósforo sempre foi controladinho. Ele estava 4, 4.2, veio de 7,5. O máximo que a gente pode chegar é 4,5, entendeu?
+PACIENTE: Uhum. E é o que aí? Está subindo o quê?
+ACOMPANHANTE: Está fugindo da régua.
+MÉDICO: Isso é sinal de que a dieta deu uma rateada, pelo menos em relação ao fósforo. Entendeu? Então a gente tem que tomar cuidado com isso, porque senão o fósforo, ele é o grande vilão da doença dos ossos, que está relacionada à doença renal crônica, entendeu? A perna está sequinha, né?
+ACOMPANHANTE: Está roçando aqui não.
+MÉDICO: Oi?
+ACOMPANHANTE: Está roçando aqui não.
+PACIENTE: Não passei banha hoje não.
+MÉDICO: Respira fundo. Solta. Vai. Show, beleza. Então, assim, não é para a gente começar remédio ainda. Agora a questão é voltar com a nutricionista e aproveitar que ela vai te atender logo no dia 26, já está até marcado. Só que os alimentos, leite, queijos e derivados, a gente tem que reduzir bastante, porque esse fósforo deu uma saltada bem impressionante, assim, tá? O restante dos exames do senhor estão todos dentro do esperado, tá? A creatinina, ela continua estável, está tudo bem. E o senhor continua com uma anemia, que já é esperado também já que a gente fez a solicitação lá da alfapoetina e ainda não foi liberada, tá? Assim que a gente começar a tomar, aí provavelmente essa anemia vai resolver rapidamente, inclusive, tá? Mas os estoques de ferro estão ok, bicarbonato, o restante está tudo tudo tudo certinho, tá bom?
+PACIENTE: Graças a Deus.
+MÉDICO: Sua pressão, ela está ali, entre 120 e por ali, é o que a gente quer que ela fique mesmo, tá? Então não vou mexer nos remédios de pressão dessa vez agora, tudo bem?
+PACIENTE: Tudo bem.
+MÉDICO: Fica aí a atenção a esse fósforo, porque senão esse fósforo, ele, além da gente ter que começar mais um remédio para controlar um fósforo, a gente também tem outras consequências relacionadas a esse fósforo, por isso que a gente tem que tentar reduzir. O senhor tem que pensar o seguinte, todo fósforo que o senhor come, ele vai ser eliminado pelo rim, praticamente todo, tá? Então, quando ele vai ser, se o seu rim não funciona bem, o senhor não pode comer tanto fósforo assim, entendeu? Senão o rim não vai dar conta, deu para entender? Show de bola?
+PACIENTE: Show de bola!
+MÉDICO: Beleza? Então está bom.
+ACOMPANHANTE: [ininteligível]
+MÉDICO: Pergunta!
+ACOMPANHANTE: O Prevenir. Prevenir, que aí ele ficou no telefone, não sei o que...
+MÉDICO: O quê?
+ACOMPANHANTE: Porque a médica lá no Prevenir, ela tinha passado uma ultrassom abdominal, eu acho, e falou, entregou uma carta de retorno.
+MÉDICO: Isso, não, não, é só para fazer o ultrassom, ele chegou a fazer?
+ACOMPANHANTE: Fez!
+MÉDICO: Cadê o ultrassom?
+ACOMPANHANTE: Está aí na porta.
+MÉDICO: Ah, me dá aí. Não, mas o retorno lá não precisa não, retorno só quando eu indicar [ininteligível] para ele, entendeu?
+PACIENTE: Qual é o ultrassom que faz?
+ACOMPANHANTE: Tá, eu acho que está nesse envelope aí.
+MÉDICO: Esse ultrassom aqui tem que mostrar pro vascular, tá? Beleza? Tá bom? Show?
+ACOMPANHANTE: [ininteligível]
+MÉDICO: O senhor está om quantos anos?
+PACIENTE: Sete três, fiz agora em maio.
+MÉDICO: Sete três, né?
+PACIENTE: Uhum.
+MÉDICO: Não esquecer então, de mostrar para o vascular, tá? Esse ultrassom, beleza?
+PACIENTE: Uhum.
+MÉDICO: Seguinte, os exames, como eu disse então, os exames estão de acordo com o que a gente espera aqui, tá? A gente vai manter a nossa conduta em relação aos remédios que o senhor está tomando, tá? Não vamos mudar nada por enquanto, tá bom? A parte desse ultrassom mostrou ali um pequeno nódulo no rim. Esse nódulo no rim a gente vai acompanhar ele ao longo do tempo, tá? Porque ele não parece, não bate martelo ali pra dizer se esse nódulo, que tipo de nódulo é esse, sim. E os exames que a gente tem melhores pra gente poder avaliar isso, que é, por exemplo, ressonância, tomografia, essas coisas, todos eles teriam que ter contraste. E o senhor não pode usar esses contrastes, porque pode piorar o funcionamento do rim, entendeu? Então, eu não vou pedir esses exames agora, tá? A gente vai acompanhar se esse nódulo crescer, alguma coisa assim. Aí a gente vai... E pede essa ressonância, essa tomografia, o que for necessário, tá bom? Beleza?
+ACOMPANHANTE: O vascular é o mesmo que o endologista?
+MÉDICO: Isso, mesma coisa. Aí quando você for falar com ele, voltar lá pro pré-operatório, lá você fala, ó, doutor Leandro pediu para te mostrar esse ultrassom aqui. Entendeu? Então, vamos lá. Beleza.
+ACOMPANHANTE: [ininteligível]
+MÉDICO: Olha só. Deixa eu... Receita vai precisar?
+ACOMPANHANTE: Precisa, pai, de receita?
+PACIENTE: Não, acho que peguei uma vez só remédio com ela.
+MÉDICO: É?
+ACOMPANHANTE: Só o Omeprazol que mantém.
+PACIENTE: Só o Omeprazol. Vê se é isso. Na hora ele falou comigo, esqueceu?
+MÉDICO: Vou fazer tudo, Omeprazol para você. Retorno dele aqui, vai ser em 2 meses, tá? Tá?
+ACOMPANHANTE: O senhor faz uma declaração para mim também?
+MÉDICO: Qual o seu nome?
+PACIENTE: Rafaela Matos.
+MÉDICO: Rafaela Matos. Matos normal?
+ACOMPANHANTE: 2 vezes. A outra, né? É igual um papagaio. [ininteligível]
+MÉDICO: Exame do senhor, pode guardar. Retorno, 2 meses. Fechou?
+ACOMPANHANTE: Leandro, a pergunta é, será que essas manchas dele não é porque, não, a pele não respira porque ele só fica de blusa de frio?
+MÉDICO: Ele só fica de blusa de frio?
+ACOMPANHANTE: A maioria do tempo fica.
+MÉDICO: Mentira, sério? Com certeza. Pegar sol, dar uma arejada, com certeza. Mentira que ele [ininteligível]. Mas, ali no calor, quando tá calor, ninguém [ininteligível].
+PACIENTE: Liberado?
+MÉDICO: Pera aí. [ininteligível] esse couro para fora, rapaz.
+ACOMPANHANTE: Está mofando.
+MÉDICO: Está doido, está mofando.
+PACIENTE: [ininteligível]
+ACOMPANHANTE: Tem que carregar ele todo dia pro parque para fazer ginástica comigo.
+MÉDICO: Pelo amor de Deus. Carrega esse véio, sem camisa ainda. Exame daqui a dois meses.
+ACOMPANHANTE: Sem camisa.
+MÉDICO: Receita do Omeprazol. Sua declaração. Fechou galera?
+ACOMPANHANTE: Certinho.
+MÉDICO: Nos vemos em dois meses, está tudo bem com o senhor, graças a Deus. Vida que segue.
+ACOMPANHANTE: Muita coisa que tentei nele foi um...
+PACIENTE: Foi a gema de ovo que ela falou [ininteligível]
+ACOMPANHANTE: [ininteligível]
+MÉDICO: Tem um queijo aí. Tem um queijo aí que estou ligado.
+PACIENTE: Tem não.
+MÉDICO: Tem, queijo [ininteligível]
+ACOMPANHANTE: Tirar a blusa de frio.
+MÉDICO: Tchau querido, até mais.
+PACIENTE: Falou, daqui a dois meses a gente se encontra aí.
+MÉDICO: Um abraço.

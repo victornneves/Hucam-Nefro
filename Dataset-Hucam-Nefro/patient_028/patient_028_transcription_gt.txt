@@ -1,0 +1,175 @@
+PACIENTE: Esse negócio de canseira pra mim...
+MÉDICA: O seu último exame foi em abril? Dona Tereza.
+PACIENTE: Foi em abril.
+PESSOA_NÃO_RELACIONADA: [ininteligível].
+MÉDICA: A senhora tá boa?
+PACIENTE: Eu não tô boa, não.
+MÉDICA: Por quê?
+PACIENTE: Eu não tô boa, meus exames não estão bom, tá tudo meio mesmo. Tá tudo... Tá tudo pelo avesso.
+MÉDICA: Mas aí, pega a senhora não tá boa, me conta. Eu tô meio assim porque eu tô cansada, tá? Tô meio... Aí eu tô mais desanimadinha hoje, mas pode falar, meu bem.
+PACIENTE: Não, sei lá. Meus exames deu tudo mais alto do que não sei o quê. Mais alto que as nuvens. Meu Deus, não sei por quê. Não sei se é estresse, se é nervoso. Muita fisgada na cabeça. Deu cefaleia, deu uns pequenos vasos na cabeça. Tô procurando neurologista, sei lá, vai fazer dois meses que eu tô com um encaminhamento num posto médico que eu não fui chamada. E eu quase nem dormi [ininteligível]. Tudo me estressa. Tudo que me tira fora do sério.
+MÉDICA: Tá muito estressada? Tá muito ... ?
+PACIENTE: Dá vontade de se sumir.
+MÉDICA: Isso começou recente, né? A senhora tá muito agitada?
+PACIENTE: Vai fazer dois meses. Ó.
+MÉDICA: Tá muito agitada, né?
+PACIENTE: Ih, muito. Não é pouco, não. Ah se eu pegasse um, eu esgoelava.
+MÉDICA: Tá tomando a dose.. A senhora emagreceu?
+PACIENTE: Não, estou com o mesmo peso. Cinquenta e oito e pouco. A última vez. Quantos quilos eu estava? Acho que eu estava... Isso mesmo.
+MÉDICA: E a dor de cabeça que tá incomodando a senhora?
+PACIENTE: É, um fisgado na cabeça. E.. Nossa, sem dormir, sem nada. Tudo me faz nervoso.
+MÉDICA: Tem dois meses que a senhora está assim.
+PACIENTE: Até porque a minha médica, a doutora Mirna, me deu aqui. Eu fui ali. Eles não falaram que não tinha vaga, né? Pra poder botar no posto. Esses dias eu tô com dor vai fazer dois meses e botar mais um lá.
+MÉDICA: Não tinha vaga com a doutora Mirna?
+PACIENTE: Não. Pra neurologia. A doutora Mirna me deu o encaminhamento. Mas já tenho dois meses que eu tô com um no posto. E quem me deu foi o doutor Victor.
+MÉDICA: Quem é o doutor Victor?
+PACIENTE: Doutor Victor é daqui, ué. O cardiologista.
+MÉDICA: Não conheço não.
+PACIENTE: Menina, ele trabalha aqui. No seu, no seu setor aqui.
+MÉDICA: Aham. Mas é que se for outro dia que eu não tô aqui, né? A senhora tomou algum remédio diferente nesse tempo? Algum chá diferente?
+PACIENTE: Tomo xarope.
+MÉDICA: Só xarope.
+PACIENTE: Dipirona também, quando minha cabeça está doendo. Mais os remédios normal que tomo. Pressão.
+MÉDICA: Acabou que eu olhei aqui no papel.
+PACIENTE: Deu que consultei aqui dia 16 de abril. Fui marcar consulta com a doutora Mirna e não tem vaga. Só no final do mês.
+MÉDICA: Não tem vaga para o que?
+PACIENTE: Para doutora Mirna.
+MÉDICA: É porque ela mandou a senhora voltar antes?
+PACIENTE: É, está marcado. Eu falei. [ininteligível].
+MÉDICA: Aquela pressão alta, aquela pressão muito baixa, continuou? A diarreia?
+PACIENTE: Não, continua não. Aí eu vim nela dia 18 do 11. Não, foi dia 16 do 4 que eu vim nela.
+MÉDICA: Então a senhora está se sentindo muito irritada, não é isso? Mais o que?
+PACIENTE: Ah, um estresse muito grande, nervoso.
+MÉDICA: Mais o que?
+PACIENTE: E a dor de cabeça que eu disse.
+MÉDICA: Nunca tinha tido dor de cabeça?
+PACIENTE: Não, já tinha tido, mas assim não.
+MÉDICA: Todo dia?
+PACIENTE: Aí eu fiz a tomografia. Deixei em cima da cama para mim trazer para você ver.
+MÉDICA: Mas estava normal?
+PACIENTE: Que era para mim trazer para mim mostrar para a neurologia. Mas acontece que eu esqueci. Aí eu fiz a tomografia. Aí deu cefaleia e uns pequenos vasos na cabeça. Aí o Dr. Lourenço passou. Marcou para mim, levar para a neurologia. A senhora vai ser para algum hospital. Vai ser para o Doutor Silva, para algum lugar vai sair. Mas até hoje, tem dois meses, não saiu pra lugar nenhum. E eu estou sofrendo.
+MÉDICA: Como é que é essa dor de cabeça?
+PACIENTE: Ah, é umas pontadas. Umas fisgadas assim.
+MÉDICA: Mas aonde na cabeça?
+PACIENTE: Parece ter um tumor, aqui assim. Parece ter um tumor na sua cabeça.
+MÉDICA: Mas é o tempo todo?
+PACIENTE: Não. O tempo todo não. Aí quando dá aquelas fisgadas, eu tenho que fechar meu olho assim. Parece que eu vejo estrelas na minha frente.
+MÉDICA: E a tomografia alguém já viu?
+PACIENTE: Tomografia viu, o Dr. Lourenzo viu.
+MÉDICA: Falou que estava normal?
+PACIENTE: Não, não estava normal não. Porque deu cefaleia e pequenos vasos. É por isso que ele marcou, botou no posto para a neurologia. Para eu vir fazer acompanhamento. Mas até hoje não fui chamada. Vai fazer dois meses.
+MÉDICA: A doutora Mirna mudou a sua dose da... Da levotiroxina?
+PACIENTE: Mudou, foi até 75.
+MÉDICA: Ela baixou a dose?
+PACIENTE: De 100 foi para 75.
+MÉDICA: Ela baixou a dose, né?
+PACIENTE: Uhum.
+MÉDICA: Que eu acho que a sua irritabilidade vem disso. Sua tireoide estava toda descompensada.
+PACIENTE: Pra que que a gente tem isso, hein? Você pode me explicar?
+MÉDICA: Hum?
+PACIENTE: Você pode me explicar por que a gente tem essa tal de tireoide?
+MÉDICA: É, isso aí é um anticorpo, né? Que vem... É uma... É como se o corpo entendesse a tireoide como um inimigo. E começa a mandar anticorpo para lá. Como se fosse uma defesa. E aí a tireoide vai parar de funcionar. É isso.
+PACIENTE: E eu vou ter que ficar fazendo, tomar remédio toda a minha vida?
+MÉDICA: Sim.
+PACIENTE: Todos os dias?
+MÉDICA: Sim. Mas é um comprimidinho. Não mata ninguém tomar isso.
+PACIENTE: Eu já estou cansada. É... Dá vontade de jogar tudo para o alto assim...
+MÉDICA: É, mas se não fosse por esse remédio, a senhora estava muito pior. Estava nem viva mais, né? Então, agradeça a Deus pelos remédios. A senhora está angustiada por causa da tireoide. Tem quantos dias que a senhora foi lá?
+PACIENTE: Aonde?
+MÉDICA: Na doutora Mirna.
+PACIENTE: Eu fui lá no dia 16 de abril. Que eu consultei, vou fazer um mês amanhã.
+MÉDICA: Como é que não tem nenhum? Que dia que a senhora falou que vai lá?
+PACIENTE: Minha filha, agora eu só vou ali para marcar a consulta com ela, o retorno. Mas não tem vaga. Não está agendando. Só no final do mês. Aí dia 29 tem que vir no doutor Fernando lá em cima. Aí vou ver se consigo marcar.
+MÉDICA: Como é que a senhora está tomando o anlodipino?
+PACIENTE: Eu estou tomando de manhã?
+MÉDICA: A senhora está tomando um só, né? Por dia.
+PACIENTE: Não, eu tomo dois agora.
+MÉDICA: Tá. Um de manhã e um de noite.
+PACIENTE: Isso.
+MÉDICA: Está tomando a rosuvastatina ainda?
+PACIENTE: Não. Eu estou tomando, é... é isso.
+MÉDICA: Ezetimiba, a senhora está tomando?
+PACIENTE: Aham.
+MÉDICA: Começou a tomar?
+PACIENTE: Comecei a tomar. Esse [ininteligível] tudo é comprado. Não tem nada lá no posto porque não tem, porque é caro.
+MÉDICA: Entendi. Em relação a sua creatinina está tudo bem, está estável, está bom? Seu colesterol, a senhora começou a usar ezetimiba, então tem que esperar para achar. Esse exame é de abril, a gente já está... Esse exame da senhora é de 1º de abril, então já tem 45 dias. Vai melhorar. Essa irritabilidade aguenta um pouquinho porque isso é da tireoide. Agora ajustando vai melhorar, está bom? O resto está tudo bem. Não tem nada aqui para a senhora ficar, ah, meu Deus, piorou tudo. É tudo o que já estava mesmo. É porque o seu outro exame de creatinina que estava errado, porque esse aqui está igual todos são. A senhora já estava com creatina de 2 há muito tempo, entendeu? O último veio 1, mas estava errado. Eu até questionei, falei, esse exame aqui está errado. Então está tudo dentro do padrão, fica tranquila.
+PACIENTE: É porque a doutora Mirna viu e falou que parece que estava um pouco alto.
+MÉDICA: É porque ela não está acompanhando os outros, entendeu? É porque ela comparou só com o do mês passado, por isso que ela falou isso, entendeu? Comparando com o do mês passado, não, com o que a senhora fez em dezembro, janeiro, não tenho certeza.
+PACIENTE: Não, eu fiz dia 1º de abril esse aí.
+MÉDICA: Não, sim, mas comparando o de abril com o último que a senhora tinha feito antes de abril, que deve ter sido em janeiro ou dezembro, se você olhar só esse, parece que piorou muito, mas foi o de janeiro que estava errado. Se a gente olhar todos os do ano passado, está tudo mais ou menos nessa média, entendeu? Em suma, está tudo bem com a sua creatinina. Tudo bem assim, a senhora sabe que a senhora tem uma doença renal, né? Mas não teve nenhuma piora importante, tá? Pode ficar tranquila.
+PACIENTE: Ela pegou os resultados, dizia que monte de exame é esse, eu falei assim, não tem só o seu aí não. Tem da doutora Olívia também, aí ela falou é mesmo, tem dela também, aí ela olhou os seus também.
+MÉDICA: É, pois é, a gente olha, né? Olha só, está tudo bem, tá? Deixa eu falar, vamos pensar nessa dor de cabeça. É... Na minha parte está tudo estável. Não precisa se preocupar, tá? Só que assim, ó, seria interessante a senhora refazer, só como a senhora está com dificuldade de voltar na doutora Mirna, o que eu vou fazer? Vou marcar aqui a senhora para três meses. Mas a senhora conseguiria vir uma segunda-feira lá em cima na hemodiálise para conversar comigo? Para trazer um exame mais recente, só para eu ver se essa parte da tireoide já está boa?
+PACIENTE: E eles deixam eu subir lá em cima?
+MÉDICA: Eu dou um papelzinho para a senhora.
+PACIENTE: Mas tem que passar pela portaria central, né?
+MÉDICA: É, tem que passar pela portaria central, é lá no setor de hemodiálise.
+PACIENTE: Que dia é que você está falando?
+MÉDICA: Só um minutinho, meu bem. Vou ver o dia aqui para a senhora e já falo. Aí a senhora traz a... O que que a senhora está tomando para essa dor de cabeça?
+PACIENTE: Eu estou tomando dipirona. Que diz que parece que está mal, está fazendo mal, né?
+MÉDICA: Quem falou isso?
+PACIENTE: Ah, sei lá, eles estão falando. Eles estão falando.
+MÉDICA: Suas receitas estão em dia, doutora Tereza?
+PACIENTE: Tá, graças a Deus. O tempo é remédio. Peguei...
+MÉDICA: Não precisa nada não?
+PACIENTE: Não, graças a Deus não. A doutora Mirna passou quando eu estive aqui.
+MÉDICA: Ótimo, então olha só. Da minha parte, o que a gente vai fazer? Com a dipirona, sua dor melhora?
+PACIENTE: Melhora.
+MÉDICA: A senhora está dormindo bem?
+PACIENTE: Não. [ininteligível] Tá falando pra você? Nem dormi direito, doutor.
+MÉDICA: É por isso.
+PACIENTE: Tá vendo? Ela fica com tanta coisa que às vezes eu vou fazer xixi, o xixi nem quase sai. Porque eu estou preso. Eu falo assim, meu Deus, o que está acontecendo? Olha, você me dá seu telefone. Eu podia ligar para a doutora Olívia, que carrego você lá, mas eu nem seu telefone eu tenho...
+MÉDICA: Mas a senhora vai fazer... Eu vou te dar o telefone do Prevenir. Porque a senhora tem o telefone da gente, que aí a senhora pode mandar mensagem para lá. A gente faz dessa forma, tá?
+PACIENTE: Aí minha filha, ô mãe, pede seu telefone dela, quando você for nela.
+MÉDICA: Eu vou te dar o telefone.
+PACIENTE: Se você precisar, agora você liga.
+MÉDICA: Não, então, mas aqui o nosso sistema é dar o telefone daqui, mas é um celular. Então é fácil a gente conseguir falar. Pode deixar, eu vou te dar, a senhora vai ter fácil acesso. Vamos só, vamos botar isso aqui.
+PACIENTE: Olha, isso aqui me tira tudo, me tira o sono, me tira a fome. Eu fiquei três dias sem comer.
+MÉDICA: É, mas isso mesmo, vai melhorar. A senhora vai melhorar, pode ficar tranquila. Tenho certeza que a senhora vai melhorar, tá? É só a gente ajustar aqui o da tireoide. Fica... Só o da tireoide. Tá com remédio demais. Mas isso acontece, tá? Foi necessário subir, agora o seu corpo... Tá precisando baixar. Aqui, ó.A senhora, esse papel aqui, eu vou anotar o número pra senhora, pode ser?
+PACIENTE: Pode. Esse aí é o resultado do exame que eu trouxe para você.
+MÉDICA: Aqui, ó. Ó, o WhatsApp, vou anotar bem aqui na frente, ó. Quando a senhora tiver alguma dúvida, precisar, é só mandar mensagem pra esse número aqui, tá bom?
+PACIENTE: Aham. Ai, meu Deus.
+MÉDICA: Ó, o WhatsApp do Prevenir, que é o ambulatório aqui. É um whatsapp, tá?
+PACIENTE: Uhum.
+MÉDICA: Pronto. Só a senhora botar, com esse canal a senhora consegue falar aqui. Tá bom?
+PACIENTE: Tá bom.
+MÉDICA: Vou lá buscar os papéis, tá? Ah, faltou só uma coisa aqui.
+PACIENTE: O meu prontuário veio para a sua mesa não?
+MÉDICA: Tá na outra sala. Tá na outra sala. Ó, a senhora vai fazer... São dois exames que eu vou querer que a senhora faça. Um pequeno para a senhora levar pra mim. Daqui a duas semanas.
+PACIENTE: Lá em cima.
+MÉDICA: Isso, mas eu vou dar um papel pra senhora.
+PACIENTE: Aham.
+MÉDICA: Tá? Uma segunda-feira eu vou lá na hemodiálise. Dia... 19... Dia 26 de maio. Não, dia 26 de maio não. Dia... 2 de junho. Tá? 2 de junho. 9 horas da manhã. No setor hemodiálise. Com esse papelzinho aqui a senhora consegue subir, tá? Eu vou explicar direitinho para a senhora. Olha só, dona Tereza, vamos lá. Eu não fiz a receita pra senhora porque está em dia. Tá?
+PACIENTE: Uhum.
+MÉDICA: O que que eu fiz? São dois exames que a senhora vai fazer. A senhora vai melhorar, vai tomando a dipirona para dor, tá bom? Esse exame que está pequenininho, a senhora já vai, eu vou botar aqui como urgente. A senhora vai fazer não agora. Como a senhora vai voltar no dia 2 de junho, marcar para semana dos dias 24, 25, 26, 26 a 30 de maio. Do dia 26 ao dia 30 de maio, a senhora tem que fazer esse exame aqui. E aí com esse papel aqui, a senhora vai... Não precisa pegar não, eu olho aqui no sistema, tá? A senhora só vem aqui, ó, procurar a doutora Olivia na segunda-feira, dia 2, no setor de hemodiálise.
+PACIENTE: Aham
+MÉDICA: Tá bom?
+PACIENTE: Tá bom.
+MÉDICA: Aqui, a senhora vai voltar daqui a 3 meses. Já vou dar aqui o papel pra senhora. Normal. E aí pra essa consulta, é esse papel grandão aqui. Esse exame grandão. Entendeu? Eu não vou marcar a senhora aqui antes, porque aqui tá muito lotado. Então a senhora vai vir aqui. Esse aqui a senhora troca ali. Esse aqui a senhora marca. Se a senhora puder já deixar marcado, os dois.
+PACIENTE: Eu vou passar lá agora.
+MÉDICA: Vê se deixa marcado.
+PACIENTE: Esse aqui pra vir procurar você.
+MÉDICA: Isso. E trazer esse exame aqui. Entendeu?
+PACIENTE: Esse aqui pra vir procurar você.
+MÉDICA: Isso.
+PACIENTE: Esse aqui é pra mim marcar, pra trazer no dia 2 de junho.
+MÉDICA: Isso.
+PACIENTE: Aqui dia 2 de junho. E esse aqui pra mim marcar ali. Esse aqui pra me marcar lá. Esse aqui pra me marcar lá. Então eu vou levar tudo. Aí eu vou perguntar, [ininteligível] é maio?
+MÉDICA: Aquele pra marcar pra última semana de maio.
+PACIENTE: Não, é para agosto.
+MÉDICA: Esse aqui é pra marcar...
+PACIENTE: Pra agosto.
+MÉDICA: Agosto, mais ou menos. É isso aí.
+PACIENTE: Tá vendo? [ininteligível].
+MÉDICA: Anm?
+PACIENTE: [ininteligível] acabou.
+MÉDICA: A senhora é esperta. A senhora é inteligente. Nunca achei nada diferente disso, meu bem.
+PACIENTE: Aí deixa eu marcar esse aqui dentro daqui. [ininteligível], eu chego lá e pergunto pra eles pra que dia que eles estão marcando.
+MÉDICA: É.
+PACIENTE: Esse exame.
+MÉDICA: A senhora troca aqui e já pede marcado.
+PACIENTE: Aí eles falam. Aí eu pego esse aqui e eu marco ali. Tomara que me peça documento não. Está tão bagunçada minha bolsa, [ininteligível].
+MÉDICA: Ah, meu amor, pode ir.
+PACIENTE: Você me libera?
+MÉDICA: Anm?
+PACIENTE: Você me libera?
+MÉDICA: Libero, meu amor. Vai com Deus, tá? Olha só, vai dar tudo certo.

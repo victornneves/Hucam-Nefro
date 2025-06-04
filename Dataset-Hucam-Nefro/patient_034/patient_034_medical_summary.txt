@@ -1,197 +1,98 @@
-REVISAR****************
+AMBULATÓRIO PREVENIR
 
-**# IDENTIFICAÇÃO:**
-Paciente com:
-- **DRC Estágio 3A**
-- **HAS**
-- **Dores crônicas e úlceras venosas em MMII**
-- **Uso crônico de AINEs há 11 anos** (para dor em MMII)
-- **Tumor de SNC** (relacionado à hipófise, diagnosticado há 30 anos - 6 cirurgias prévias, derivação ventricular não funcionante)
-- **Hepatopatia crônica** (ascite, varizes de esôfago - diagnóstico em 01/23, não viral/não alcoólica, etiologia indeterminada)
-- **Sorologias (14/03/23):** Anti-HIV NR / Anti-HCV NR / HBSAG NR / Anti-HBS NR / Anti-HBC Total NR
+DRC 3 A
+HAS
+DORES CRÔNICAS E ÚLCERAS VENOSAS EM MMII
+USO CRÔNICO DE AINES HÁ 11 ANOS, DEVIDO ÀS DORES NOS MMII
+TUMOR SNC (RELACIONADO À HIPÓFISE, DIAGNÓSTICO HÁ 30 ANOS - 6 CIRURGIAS PRÉVIAS - NÃO SABE RELATAR QUAL - DIZ QUE A DERVIAÇÃO VENTRICULAR NÃO É FUNCIONANTE - SIC)
+HEPATOPATIA CRÔNICA (ASCITE, VARIZES DE ESÔFAGO) - DIAGNÓSTICO EM JANEIRO/23 - HEPATOPATIA NÃO VIRAL E NÃO ALCOÓLICA DE ORIGEM INDETERMINADA
+14/03/23: ANTI HIV NR / ANTI HCV NR / HBSAG NR / ANTI HBS NR / ANTIHBC TOTAL NR
 
----
+# MEDICAÇÕES EM USO:
+FUROSEMIDA 40 MG 1-0-0 DIAS ALTERNADOS
+CODEÍNA 30 MG SOS
+DIPIRONA 500 MG 2 CPS 1X/DIA
+COLECALCIFEROL 50000 UI 1X/MÊS - SUSPENSO
+ESCITALOPRAM 10 MG 0-0-1 - SUSPENSO
+DOMPERIDONA 10 MG 1-1-1 - SUSPENSO
+ESPIRONOLACTONA 25 MG 2-0-2 - SUSPENSO
+PROPRANOLOL 40 MG 1/2-0-1/2 - SUSPENSO
 
-**# MEDICAÇÕES EM USO:**
-- **Furosemida 40 mg** (1-0-0 em dias alternados)
-- **Codeína 30 mg** (SOS)
-- **Dipirona 500 mg** (2 comprimidos 1x/dia)
-- **Medicações suspensas:**
-  - Colecalciferol 50.000 UI/mês
-  - Escitalopram 10 mg
-  - Domperidona 10 mg
-  - Espironolactona 25 mg
-  - Propranolol 40 mg
+# SUBJETIVO:
+PAROU DE USAR OS CHÁS QUE ESTAVA TOMANDO.
+RELATA DOR ABDOMINAL EM HIPOGÁSTRIO, INICIADA HÁ CERCA DE 1 MÊS, INTERMITENTE AO LONGO DO DIA, QUE PIORA COM A MUDANÇA DE POSIÇÃO, PRINCIPALMENTE QUANDO DEITADO. ACORDA PELA MANHÃ COM BASTANTE DOR. RELATA DOR NA BEXIGA, COMO SE ESTIVESSE CHEIA. MAS SAI POUCA URINA. RELATA POLACIÚRIA E URINA AVERMELHADA. ESTÁ FAZENDO USO DIÁRIO DE DIPIRONA.
+QUEIXA-SE DE SONOLÊNCIA INTENSA.
+VEM EM MELHORA DA ÚLCERA VENOSA.
 
----
+# EXAME FÍSICO
+PACIENTE LÚCIDO, ORIENTADO, HIDRATADO, CORADO, ANICTÉRICO
+FC 56 BPM
+PA 120 X 80 MMHG
+RCR 2T
+MVUA SEM RA
+ABDOME GLOBOSO, MAS SEM ASCITE
+MMII COM SINAIS DE INSUFICIÊNCIA VENOSA CRÔNICA GRAVE, ÚLCERAS VENOSAS SEM SINAIS DE INFECÇÃO
 
-**# SUBJETIVO:**
-- Parou de usar chás que consumia anteriormente.
-- **Dor abdominal em hipogástrio** há 1 mês:
-  - Intermitente, piora com mudança de posição (especialmente ao deitar).
-  - Dor matinal intensa.
-  - Dor vesical ("como se a bexiga estivesse cheia"), mas com **pouca diurese**.
-  - Polaciúria e urina avermelhada.
-- **Sonolência intensa**.
-- Melhora progressiva das úlceras venosas.
-- Uso diário de dipirona para controle da dor.
+# EXAMES COMPLEMENTARES EXTERNOS:
+- EDA (31/01/23) DR. CELSO: VARIZES DE ESOFAGO DE FINO E MEDIO CALIBRE, PANGASTROPATIA CONGESTIVA MOPDERADA DE H. PORTAL. TESTE DA UREASE (NEGATIVO)
+- EDA 20/03/2023 VARIZES DE ESOFAGO DE MEDIO E FINO CALIBRE, GASTRITE ENDOSCOICA ENANTEMATOSA DE ANTRO
 
----
+- TC DE ABDOME TOTAL (28/12/22): SINAIS DE HAPATOPATIA CRONICA, SEM IMPORTANTE REDUCAO DO FIGADO, LEVE ESPLENOMEGALIA HOMOGENEA, DISCRETO ESPESSAMENTO PERITONEAL NOS FLANCOS, DISCRETA CIRCULACAO COLATERAL GASTRICA DIREITA, EXUBERANTE DOENÇA DIVERTICULAR DOS COLONS, LINFONODOMEGALIAS NAS CADEIAS ILIACA EXTERNA E INGUINAL DIREITA
 
-**# EXAME FÍSICO:**
-- **Geral:** Lúcido, orientado, hidratado, corado, anictérico.
-- **Cardiovascular:** FC 56 bpm | PA 120x80 mmHg | RCR 2T.
-- **Respiratório:** MVUA sem RA.
-- **Abdome:** Globoso, **sem ascite**.
-- **MMII:**
-  - Sinais de **insuficiência venosa crônica grave**.
-  - Úlceras venosas **sem sinais de infecção ativa**.
+# EXAMES LABORATORIAIS:
+- 21/01/23: HB 9,8 | HTC 28,0% | VCM 97,5 | RDW 13,3% | LEUCO 6270 | PLAQ 114.000 | MG 2,47 | HBSAG NR | ANTI-HCV NR | UREIA 178 | CREAT 3,53 | NA 140 | CÁLCIO 8,4 | K 4,7 | PT 5,8 | BT 1,89 (BD 1,79 E BI 0,1)
+- 26/01/23: HB 11,9, BT 2, BD 0,5, BI 1,5, FA 213, GGT 135, PCR 96,
+- 29/01/23: HB 12,2, LEUCO 12.020, PLAQ 235.000, CR 1,94, ALB 2,32, TGP 18, NA 135, K 5,1, CA 8, INR 1,45
 
----
+- LAB 21/03/2023 PCE: 42 HCT: 27 PH: 7,42 LACTATO: 2,3
+- LAB 21/03/2023 ALBUMINA: 2,9***** NA: 134 K: 4,7 TTGO: 36 TGP: 13 FA: 834 GGT: 119 U: 4 C: 1,63***** TAP: 70% HB: 9,69 ***** HB;T 28,7 LEU: 5720 PLAQ: 192000 HBSAG NEGATIVO ANTI-HBCT TOTAL NEGATIVO ANTI-HIV 1 E 2 NEGATIVO VDRL NEGATIVO ALFAFETO: 1,21 ANTI-HBS NEGATIVO
+EAS - 15 HEMACIAS, PRESENCA DE CODOCITOS, HB: 50 PH; 5,0
+ANTI-HVA IGG POSITIVO ANTI-HVA IGM NEGATIVO
 
-**# OBSERVAÇÕES:**
-1. **Risco renal:** Uso prolongado de AINEs + DRC estágio 3A.
-2. **Hepatopatia:** Monitorar função hepática e complicações (varizes, ascite).
-3. **Dor abdominal/vesical:** Investigar causas (ex.: infecção urinária, litíase, disfunção vesical).
-4. **Hipotensão relativa** (PA 120x80 mmHg com FC 56 bpm) - Avaliar necessidade de ajuste de anti-hipertensivos.
+- 10/07/23: TGL 67 COL TOTAL 106 HDL 31 LDL 61 ALB 3,4 U 32 CREAT 1,34 AMILASE 62 LIPASE 34 CPK 32 BB TOTAL 1,18 BBD 0,44 BBI 0,74 INR 1,18 HB 10,1 HT 29,3 3780 LEUC 108000 PLAQ AFP NORMAL CA 8,9 IST 32% MG 1,95 NA 136 K 4,4 FA 496 FERRITINA 201 P 3,0 GLI 86 ÁCIDO ÚRICO 8,5 HBA1C 4,6% VIT D 11,5 PTH 54,5
+EAS HB 300 / 25 HEMÁCIAS (MORFOLOGIA NORMAL)
 
-**Próximos passos:**
-- Solicitar **EAS, urocultura, USG abdominal** e **avaliação urológica**.
-- Reavaliar suspensão de espironolactona (risco x benefício para ascite).
-- Controle rigoroso da dor **sem AINEs**.
+- 03/08/23: HCO3 29,6
+- 06/11/23: CA 9,6 PTN TOTAL 7,8 ALB 3,7 CREAT 0,86 U 42 IST 29% MG 2,57 NA 134 K 5,0 FA 625 FERRITINA 193,9 P 3,6 TGL 59 GLI 83 COL TOTAL 132 ÁCIDO ÚRICO 7,1 HBA1C 4,9% HB 11,3 HT 34,5 3940 LEUC 106000 PLAQ VIT 21,8 PTH 58,4
+MICROALBUMINURIA 6,5 MG/L
+EAS HB 50 HEM 20 PRESENÇA DE CODÓCITOS
+- 09/11/23: HCO3 27,1
 
----
-**Conduta implícita:** Retorno para reavaliação multimodal (nefro-hepato-urológica).
+- 07/03/2024: CREAT 1,53 FERRITINA 116,5 FA 655 P 3,9 GLI 85 MG 2,25 PTH 61,5 K 4,8 NA 134 U 59 VIT B12 454 PTN TOTAIS 7,8 ALB 3,8 HB 10,6 HT 33,2 3000 LEUC 63000 PLAQ VIT D 29,3
 
-**# EXAMES COMPLEMENTARES:**
+- 20/03/24 CREAT 1,35
 
-### **Exames de Imagem:**
-- **EDA (31/01/23):**
-  - Varizes de esôfago (fino/médio calibre).
-  - Pangastropatia congestiva moderada por hipertensão portal.
-  - Teste da urease negativo.
-- **EDA (20/03/23):**
-  - Varizes de esôfago (médio/fino calibre).
-  - Gastrite enantematosa de antro.
-- **TC de Abdome Total (28/12/22):**
-  - Hepatopatia crônica (sem redução importante do fígado).
-  - Leve esplenomegalia homogênea.
-  - Discreto espessamento peritoneal nos flancos.
-  - Circulação colateral gástrica direita.
-  - Doença diverticular exuberante dos cólons.
-  - Linfonodomegalias nas cadeias ilíaca externa e inguinal direita.
+- 13/06/24: CAT 8,8 PTN TOTAL 7,2 ALB 3,5 CREAT 1,41 U 48 IST 25% MG 2,25 NA 136 K 4,9 FA 555 FERRITINA 83,7 P 3,7 GLI 76 HCO3 30,7 PSA 0,4 VIT D 24,1 PTH 66 HBA1C 4,6%
 
----
+- 27/08/24: ÁCIDO ÚRICO 8,0 PSA 0,37 CA 9,1 COL TOTAL 165 TGL 63 CREAT 1,51 U 49 FERRITINA 98 FA 563 P 3,7 GLI 105 HBA1C 5,5% MG 1,98 PTH 72,6 K 4,7 IST 23% NA 139 TSH 2,14 T4L 1,08 PTNS TOTAIS 7,1 ALB 3,7 HCO3 29,5 HB 13 HT 39,9 5040 LEUC 85000 PLAQ VIT D 25,3 PROLACTINA 24,4
+LH 9,83 FSH 12,7 TESTOSTERONA TOTAL 5,33
 
-### **Exames Laboratoriais:**
+- 29/11/24: ÁCIDO ÚRICO 7,4 CA 8,7 CREAT 1,45 FERRITINA 119,9 FA 475 P 3,5 GLI 90 HBA1C 5,6% TSH 1,56 FSH 13,6 LH 18,39 MG 2,18 PTH 49,1 K 4,3 PROLACTINA 18,39 IST 28% NA 135 T4L 1,03 TGL 47 U 58 HCO3 29,6 CAI 4,7 HB 12,6 HT 39,1 3540 LEUC 60000 PLAQ VIT D 45,6
 
-#### **Destaques por Data:**
-- **21/01/23:**
-  - **Anemia:** HB 8,8 | HCT 28% | Plaq 114.000.
-  - **Função renal/hepática:** Ureia 178 | Creat 3,53 | BT 1,89 (BD 1,79).
-  - Sorologias: HBSAG NR | Anti-HCV NR.
+- 06/05/25: ÁCIDO ÚRICO 7,3 ALB 3,6 CA 8,5 COL TOTAL 125 HDL 33 LDL 75 TGL 85 CREAT 1,75 U 62 FERRITINA 177 FA 497 P 3,0 GLI 84 HBA1C 4,5% TSH 2,04 MG 3,34 PTH 85,2 K 5,5 IST 49% NA 145 TGO 65 TGP 37 BBT 1,06 BBD 0,47 BBI 0,59 HCO3 28 CAI 4,4 INR 1,02 HB 11,9 HT 37,5 3970 LEUC 92000 PLAQ VIT D 30,5 ANTI HCV NR ANTI HIV NR ANTI HBC TOTAL NR ANTI HBS NR
+EAS ALBUMINURIA LEVE / HEMÁCIAS NUMEROSAS (PRESENÇA DE ACANTOCITOS E CODOCITOS)
+MICROALBUMINURIA 104,8 MG/L
 
-- **26-29/01/23:**
-  - Melhora da anemia (HB 12,2) e plaquetas (235.000).
-  - **Coagulopatia:** INR 1,45.
-  - **Hipoproteinemia:** Alb 2,32.
+# IMPRESSÃO:
+PACIENTE COM HEPATOPATIA NÃO VIRAL E NÃO ALCÓOLICA DE ORIGEM INDETERMINADA.
 
-- **21/03/23:**
-  - **Hipoproteinemia grave:** Alb 2,9****.
-  - **Colestase:** FA 834 | GGT 119.
-  - **EAS:** 15 hemácias, codócitos presentes.
-  - Sorologias: Anti-HVA IgG positivo (infecção prévia).
+PACIENTE APRESENTOU PIORA DA FUNÇÃO RENAL NESSE EXAME, COMPATÍVEL COM O INÍCIO DOS SINTOMAS URINÁRIOS.
+NICTÚRIA 4X (MANTIDA)
+SINTOMAS URINÁRIOS + DOR EM HIPOGÁSTRIO + URINA AVERMELHADA> ITU?
+HEMATÚRIA COM CODOCÍTOS E ACANTÓCITOS
+CKD-EPI 44 ML/MIN/1,73 M2 (ESTAVA 57>53>56>44)
 
-- **10/07/23:**
-  - **Hipovitaminose D:** Vit D 11,5.
-  - **EAS:** Hematúria (300 HB) + 25 hemácias (morfologia normal).
 
-- **06/11/23:**
-  - **Função renal estável:** Creat 0,86 | U 42.
-  - **EAS:** Hematúria persistente (50 HB + 20 hemácias).
+# CD.
+SEGUIR EM ACOMPANHAMENTO NA HEPATOLOGIA E ENDOCRINOLOGISTA
+SOLICITO PSA
+SOLICITO USG DE RINS E VIAS URINÁRIAS + PRÓSTATA
+PRESCREVO NORFLOXACIN - SOLICITO UROCULTURA PARA FAZER ANTES
+CASO MANTENHA HEMATÚRIA, CONSIDERAR INVESTIGAÇÃO
+ORIENTO EVITAR AINES
+RETORNO EM 2 MESES
+FAÇO LAUDO A PEDIDO
 
-- **07/03/24:**
-  - **Citopenias:** Leuco 3000 | Plaq 63.000.
-  - **FA elevada:** 655 U/L.
-
-- **13/06/24:**
-  - **Estabilidade renal:** Creat 1,41.
-  - **FA:** 555 U/L | Vit D 24,1.
-
-- **27/08/24:**
-  - **Perfil hormonal:**
-    - Prolactina 24,4 ng/mL | LH 9,83 mUI/mL | FSH 12,7 mUI/mL | Testosterona total 5,33 ng/mL.
-  - **Hematúria:** Persistente em EAS.
-
----
-
-### **Observações:**
-1. **Hepatopatia crônica:**
-   - Hipertensão portal (varizes de esôfago, circulação colateral).
-   - **Colestase persistente** (FA >500 U/L).
-2. **Anemia e citopenias:** Associadas à doença hepática avançada.
-3. **Hematúria:** Investigar causa (nefropatia por hipertensão portal? Litíase?).
-4. **Hipovitaminose D:** Corrigida parcialmente (Vit D ~25 ng/mL).
-
-**Conduta implícita:**
-- Monitorar varizes de esôfago (risco de sangramento).
-- Investigar hematúria (urocultura, USG renal).
-- Reposição de vitamina D.
-- Acompanhamento hepatológico e nefrológico integrado.
-
----
-**Próximos passos:** Retorno com exames de imagem (eco abdominal) e avaliação especializada.
-
-**# EXAMES LABORATORIAIS RECENTES:**
-
-- **29/11/24:**
-  - **Função renal:** Creat 1,45 | CKD-EPI 57 → 53 → 56 → **44 mL/min/1,73m²** (piora).
-  - **Hepatopatia:** FA 475 | Ferritina 119,9 | TGO/TGP normais.
-  - **Hematúria:** EAS com hemácias numerosas (acantócitos e codócitos).
-  - **Outros:** Vit D 45,6 | HBA1C 5,6% | TSH 1,56.
-
-- **06/05/25:**
-  - **Piora renal:** Creat **1,75** | CKD-EPI **44 mL/min/1,73m²**.
-  - **Hematúria persistente:** Microalbuminúria 104,8 mg/L + acantócitos/codócitos.
-  - **Hepatopatia:** FA 497 | TGO 65 | TGP 37 | INR 1,02.
-  - **Sorologias:** Anti-HCV/HIV/HBS NR.
-
----
-
-**# IMPRESSÃO:**
-1. **Hepatopatia crônica não viral/não alcoólica** (etiologia indeterminada) com:
-   - Hipertensão portal (varizes de esôfago, ascite).
-   - **Risco de sangramento** (derivação ventricular não funcionante + coagulopatia).
-2. **DRC Estágio 3B em progressão** (CKD-EPI 44 mL/min):
-   - Associada ao uso crônico de AINEs + diabetes + hepatopatia.
-   - **Hematúria glomerular** (acantócitos/codócitos).
-3. **ITU?** Nictúria (4x/noite) + dor hipogástrica + urina avermelhada.
-
----
-
-**# CONDUTA:**
-1. **Investigação da hematúria/piora renal:**
-   - **Solicitar:**
-     - **USG rins/vias urinárias + próstata.**
-     - **Urocultura + PSA.**
-   - **Prescrever:** Norfloxacina 400 mg 12/12h (suspeita de ITU).
-2. **Controle de comorbidades:**
-   - **Hepatologia:** Avaliar elegibilidade para transplante hepático.
-   - **Endocrinologia:** Ajuste de DM (HBA1C 4,5-5,6%).
-3. **Orientações:**
-   - **Evitar AINEs** (risco de nefrotoxicidade).
-   - **Monitorar sangramento digestivo** (varizes de esôfago).
-
----
-
-**# OBSERVAÇÕES GERAIS:**
-- **Paciente de 80 anos**, multissistêmico:
-  - **Tumor de SNC hipofisário** (6 cirurgias prévias).
-  - **Úlceras venosas crônicas** em MMII + dor crônica.
-  - **Fragilidade clínica:** Sonolência, fraqueza, incapacidade laboral.
-- **CIDs:** K74 (Fibrose hepática) | I10 (HAS) | E11 (DM) | N18.8 (DRC).
-
-**Retorno em 2 meses** para reavaliação da função renal e hepática.
-
----
-**Nota:** Documento elaborado para fins de acompanhamento multidisciplinar (hepatologia/nefrologia/endocrinologia).
+PACIENTE 60 ANOS, COM HISTÓRIA DE TUMOR DE SISTEMA NERVOSO CENTRAL RELACIONADO À HIPÓFISE (DIAGNÓSTICO HÁ 30 ANOS, 6 CIRURGIAS PRÉVIAS, PORTADOR DE DERIVAÇÃO VENTRICULAR NÃO FUNCIONANTE), HIPERTENSO E DIABÉTICO, COM DORES CRÔNICAS E ÚLCERAS VENOSAS CRÔNICAS EM MMII, USUÁRIO CRÔNICO DE ANTIINFLAMATÓRIOS POR MUITOS ANOS. EM JANEIRO/23 FOI DIAGNOSTICADO COM HEPATOPATIA NÃO VIRAL E NÃO ALCÓOLICA DE ORIGEM INDETERMINADA, LEVANDO A UM QUADRO DE HEPATOPATIA CRÔNICA (ASCITE, VARIZES DE ESÔFAGO). ESTEVE RECENTEMENTE EM AVALIAÇÃO PARA A POSSIBILIDADE DE TRANSPLANTE HEPÁTICO. ALÉM DISSO, EVOLUIU COM DOENÇA RENAL CRÔNICA ESTÁGIO 3B, AINDA EM TRATAMENTO CONSERVADOR, MAS COM RISCO DE EVOLUÇÃO PARA DIÁLISE EM MOMENTO FUTURO. O PACIENTE APRESENTA FRAQUEZA E SONOLÊNCIA POR CONTA DAS MÚLTIPLAS COMORBIDADES, NÃO ESTANDO APTO PARA TRABALHAR POR TEMPO INDETERMINADO.
+CID: K74 / I10 / E11 / N18.8
+ATENCIOSAMENTE
