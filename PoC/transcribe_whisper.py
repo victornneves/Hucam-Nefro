@@ -220,8 +220,8 @@ sd.default.latency = 'high'
 
 print(f"Transcrevendo o áudio...")
 
-audio_file = f"/home/lauro/Documents/audios-Hucam/Análise de Mercado_ Solução de Áudio para Médicos no Brasil.wav"
-transcription_file = f"/home/lauro/Documents/audios-Hucam/Análise de Mercado_ Solução de Áudio para Médicos no Brasil.txt"
+audio_file = f"/home/lauro/Documents/audios-Hucam/patient_034_consult_audio.m4a"
+transcription_file = f"/home/lauro/Documents/audios-Hucam/patient_034_consult_audio.txt"
 
 # # Carregar áudio e converter para formato adequado
 # audio = AudioSegment.from_file(audio_file)
@@ -233,7 +233,7 @@ transcription_file = f"/home/lauro/Documents/audios-Hucam/Análise de Mercado_ S
 # audio /= 32768.0  # Normalizar para float32 [-1.0, 1.0]
 
 
-result = model.transcribe(audio_file, language='en')
+result = model.transcribe(audio_file, language='pt')
 
 text = result["text"]
 
