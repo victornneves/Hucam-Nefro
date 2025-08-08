@@ -63,7 +63,7 @@ def get_field(summary, field):
 
 def get_summary(patient_id):
     with open(
-        f"/mnt/external8tb/datasets/Dataset-Hucam-Nefro/patient_{patient_id:03d}/patient_{patient_id:03d}_medical_summary.yaml"
+        f"/home/victorneves/Hucam-Nefro/Dataset-Hucam-Nefro/patient_{patient_id:03d}/patient_{patient_id:03d}_medical_summary.yaml"
     ) as fp:
         return yaml.safe_load(fp)
 
@@ -194,7 +194,7 @@ def derive_outputs(condensed_dialog, summary_fields):
 def load_dialog(patient_id):
     PASS = "first"
     with open(
-        f"/mnt/external8tb/datasets/Dataset-Hucam-Nefro/patient_{patient_id:03d}/patient_{patient_id:03d}_transcription_{PASS}_pass.txt",
+        f"/home/victorneves/Hucam-Nefro/Dataset-Hucam-Nefro/patient_{patient_id:03d}/patient_{patient_id:03d}_transcription_{PASS}_pass.txt",
         "r",
     ) as f:
         prediction = f.read()

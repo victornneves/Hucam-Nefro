@@ -249,8 +249,8 @@ relatorio_consulta_ambulatorial_nefrologia:
           oe: 5MM
     - fluxo_salivar:
       '06/03/2024': 7,907 ml/15min
-  analise: Paciente com Granulomatose com Poliangiite, sem sintomas ou sinais de atividade de doença, com queixas otológicas não compatíveis com exames objetivos. Em investigação de Síndrome de Sjogren associada, sem ainda preencher critérios classificatórios.
-  condutas:
+  impressao: Paciente com Granulomatose com Poliangiite, sem sintomas ou sinais de atividade de doença, com queixas otológicas não compatíveis com exames objetivos. Em investigação de Síndrome de Sjogren associada, sem ainda preencher critérios classificatórios.
+  conduta:
     - Solicito USG de Parótidas - investigação de Síndrome de Sjogren;
     - Forneço encaminhamento para GO - Miomatose uterina, preventivo;
     - Mantenho MMF 2g/dia - LME + Receita (CID M31.3);
