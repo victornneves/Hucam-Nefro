@@ -1,0 +1,57 @@
+MÉDICO: Uma consulta que foi em fevereiro, né? Onde a gente pediu pra senhora fazer uso de algumas medicações, não foi? Simvastatina pro colesterol, losartana pra pressão... E aí, a senhora começou a usar essas medicações? 
+PACIENTE: Sim. 
+MÉDICO: Quais medicações a senhora tá usando hoje? 
+PACIENTE: Só o losartana e o bicarbonato.
+MÉDICO: O losartana e o bicarbonato. A simvastatina não tá usando, não? 
+PACIENTE: Não. 
+MÉDICO: Por quê? "É porque a sua célula tá muito com raiva". Tá, mas a simvastatina não é pra pressão. Fecha a porta pra mim, por favor. A simvastatina não é pra pressão. O que você tá olhando pra sua filha? É sua filha? Ah, me diga. Será que eu tomei o colesterol? O que que é? Simvastatina. 
+ACOMPANHANTE: Eu acho que é o colesterol que eu tomei toda a noite. 
+MÉDICO: A simvastatina é pro colesterol? É isso aí. 
+PACIENTE: Tá.
+MÉDICO: E o losartana a senhora tá usando? 
+PACIENTE: Não. 
+MÉDICO: Tá pressando. Por quê? Porque eu vou pressar a sua célula muito mais. É, mas... ela é rosa só, você sabe? A gente tem outros motivos pra usar esse losartana, entendeu? O losartana tem efeito protetor no rim, né? Mais uma vez a senhora não usa o que a gente pede. O bicarbonato a senhora tá usando? 
+PACIENTE: Tá usando.
+MÉDICO: Tá usando, né? Me conta uma coisa aqui. A ginecologia, ela indicou cirurgia pra senhora? 
+PACIENTE: Não, já foi operada.
+MÉDICO: Então, você já foi operada, mas não indicou nova cirurgia não? 
+PACIENTE: Não.
+MÉDICO: A senhora trouxe os exames? 
+PACIENTE: Não, disse que vai vir direto pra cá.
+MÉDICO: Vai vir direto. A doutora pediu uma tomografia da senhora, certo? 
+PACIENTE: Pediu.
+MÉDICO: A senhora fez? 
+PACIENTE: Não, ainda não saiu.
+MÉDICO: Vou imprimir os exames da senhora aqui, tá? A senhora vai pegar os exames dessa senhora? Deixa eu só passar aqui. Vamos lá, deixa eu ver os exames da senhora. Esses exames da senhora são do dia 3 do 5. A senhora mora onde? Vila Velha? A senhora trabalha? 
+PACIENTE: Não.
+MÉDICO: A senhora tirou o duplo J em janeiro, não foi isso? E aí, esse duplo J, você lembra, estava na esquerda, na direita, a senhora lembra? 
+PACIENTE: Não sabe onde que estava, não.
+MÉDICO: A senhora parou de tomar os anti-inflamatórios que a senhora tomava? Adipofenaco? 
+PACIENTE: Parou?
+PESSOA_NÃO_RELACIONADA: Docilaques? O que é isso? 
+PACIENTE: Vitamina D, a senhora está tomando? Alguma formulação de vitamina D? Não, né? 
+PESSOA_NÃO_RELACIONADA: E o xixi, está normal? 
+PACIENTE: Está normal, né? Aqui, esses aqui são os exames da senhora, tá? 
+MÉDICO: Seguinte, olha só. Vamos tirar o casaco para a gente medir a pressão, por favor? Está enchendo a perna? 
+PACIENTE: Não. 
+MÉDICO: Também não, né? A pressão está ficando boa em casa? 
+ACOMPANHANTE: Então, como é que você sabe que ela só sofre quando você fica com raiva? 
+PACIENTE: Porque quando o meu quinto estava alto, ele não dormia no posto. Todas as vezes foi ela que estava com raiva. 
+MÉDICO: Entendi. Entendi. Dezesseis. Dezesseis por oito. Belousa! Ó, vamos lá. Por renda, senhora... Por renda, senhora... A gente percebe pelo exame aqui que a creatinina da senhora está aumentando. O que isso significa? Significa que o exame de rim está piorando e aí a gente tem que ficar preocupado. Porque o rim direito da senhora já não funciona tão bem por conta da obstrução que teve. A gente tem que olhar esse rim esquerdo para ver como que está, para ver se não tem nada obstruindo a saída desse rim esquerdo. Entendeu? Para isso a gente precisa de um exame de imagem, que é a tomografia que já foi pedida pela ginecologia. Entendeu? Tá bom? Mas eu preciso também corrigir essa pressão da senhora. Não adianta. Essa pressão eu vou fazer um outro remédio para a senhora, não vai ser a Losartana. Mas eu vou começar um outro remédio para a senhora tomar à noite, para a senhora tomar junto com a simvastatina. Tudo bem? Beleza? Tem que tomar todo dia para essa pressão não ser mais um fadulhinho ou que piore a função do rim da senhora.Tudo bem? Em relação ao restante dos exames a gente tem aqui só para alertar a senhora em relação ao fósforo. O fósforo ele é uma medicação que está causando que vem. Desculpa, voltando, o fósforo ele é uma consequência da alimentação, principalmente queijos, leite e derivados do leite. Tudo bem? Então? A gente tem que tentar reduzir esses itens da nossa alimentação para a gente corrigir o fósforo. A senhora já teve consulta com a nutricionista aqui? 
+PACIENTE: Não?
+MÉDICO: Eu vou encaminhar a senhora para a nutricionista também. Tudo bem? Combinado? E o retorno da senhora aqui vai ser em 3 meses, tá? Beleza? Tinha um ultrassom pendente da senhora também. A senhora chegou a fazer? 
+PACIENTE: Não, todos os termos que eu fiz não foi liberado ainda não.
+PESSOA_NÃO_RELACIONADA: Não foi liberado ainda não?
+PACIENTE: Não foi liberado ainda não.
+MÉDICO: Tá, beleza. O bicarbonato, você está tomando todo dia?
+PACIENTE: Todo dia.
+MÉDICO: Você vai tomar dia sim, dia não, tá?
+PACIENTE: Tá.
+ACOMPANHANTE: Vou lá pegar as coisas.
+MÉDICO: Deixa eu ver se foi.
+ACOMPANHANTE: Foi.
+MÉDICO: Beleza. O retorno da senhora aqui será em 3 meses, ok? Junto com esses exames que a gente vai coletar aqui. E o que a gente vai fazer? Vamos lá. Esses exames aqui também em 3 meses, ok? Aqui são as medicações que a senhora vai tomar: O bicarbonato dia sim, dia não. A anlodipina à noite. E a simvastatina. Tudo bem? Combinado?
+PACIENTE: E só.
+MÉDICO: Só o esto. Fechou?
+PACIENTE: Fechou.
+MÉDICO: Tudo de bom? Um abraço, Brasil! Até mais, viu?

@@ -1,0 +1,105 @@
+MÉDICO: Olá, tudo bem? Bom dia. Como é que está a senhora? Tranquila? Tudo bem? 
+PACIENTE: Tudo.
+MÉDICO: Vamos lá, minha querida Ana. Vamos lá, Dona Sandra, a gente esteve aqui em dois meses atrás, foi? 
+PACIENTE: Foi. 
+MÉDICO: Quando a gente adotou aqui algumas condutas, né, pra gente poder fazer o acompanhamento e o tratamento da senhora aqui em relação às doenças renais, não é isso? 
+PACIENTE: Sim. 
+MÉDICO: Pelo que eu vi, da última consulta pra cá, eu vi que a senhora foi na Reumato.
+PACIENTE: Foi.
+MÉDICO: E a Reumato me informou pra gente que você não preencheu os critérios pra síndrome de Joules. 
+PACIENTE: É, já me liberaram. 
+MÉDICO: Já te liberaram da Reumatologia, não é isso? 
+PACIENTE: Isso. 
+MÉDICO: Beleza.
+PACIENTE: É da Reumato, não é? 
+MÉDICO: Não, eu tenho que ir. 
+PACIENTE: Os exames da senhora, os exames da senhora, dão aí, senhora, pega pra mim, por favor.
+MÉDICO: Deixa eu te falar. Na semana... Na semana... Na consulta passada, a gente iniciou o processo pro Cervilamer, que é aquela medicação que pega na farmácia cidadã. Então, não tinha chegado ainda, então pega pra mim hoje.
+PACIENTE: Tá, beleza. 
+MÉDICO: Tá bom? 
+PACIENTE: Beleza. 
+MÉDICO: Então pega hoje pra mim. Deixa eu ver os exames. Vem cá, e da última consulta pra cá, como é que a senhora tá? Tudo bem?
+PACIENTE: Tudo, não tô sentindo nada não.
+MÉDICO: Não sentindo nada, tudo certo. Tudo bem. Beleza. Não teve nenhuma intercorrência da última consulta pra cá?
+PACIENTE: Não. 
+MÉDICO: Tudo tranquilo? 
+PACIENTE: Tudo tranquilo. 
+MÉDICO: Então tá bom. O maridão tá bem? 
+PACIENTE: Tá bem. 
+MÉDICO: Os filhos tão bem?
+PACIENTE: Tão bem, graças a Deus. 
+MÉDICO: Ah, tudo bem, graças a Deus. Vamos lá. Esses exames aqui são do dia... Não. 30 do 4. 30 do 4. Vitamina D, 33.9. E a gente vai ver o que é isso. Vamos lá. Vamos lá. Vamos lá. A pressão está ficando como?
+PACIENTE: Está boa, doutor. Toda vez que eu olho, está 10 por 8, 12 por 8, 13 por 8.
+[Nota: O restante das falas continha várias palavras incoerentes, sendo considerado ruído.]
+PESSOA_NÃO_RELACIONADA: Subiu, mas não, graças a Deus. 
+MÉDICO: Está ótimo a pressão. A alimentação, como é que está? 
+PACIENTE: Está bem, né? Porque a nutricionista está me acompanhando. Eu até vim nela segunda-feira. Eu vim nela segunda-feira. 
+MÉDICO: E a eritropoetina, que é aquela injeção que a gente toma para anemia, a senhora está tomando uma vez por mês, é isso? 
+PACIENTE: É, por favor. 
+MÉDICO: A anemia melhorou, melhorou. 
+PACIENTE: Então, mas ela voltou a cair de novo. É, eu senti quando eu ia... É, só sem enfraqueza nas pernas. Eu não estava sentindo isso mais, agora eu estou sentindo de novo. 
+MÉDICO: Sem injeção de policosanol. 
+PACIENTE: Não, não, não, não. 
+MÉDICO: Não, não, não. Chulo, deixa eu só dar uma olhadinha aqui. Vou embora para o meu lojista aqui só, mas a gente não está. Sim. 
+PACIENTE: Vou ter. Eu morei, mas eu voltei. Eu morei, mas voltei. 
+MÉDICO: Seguinte, olha só. Vamos tirar o casaco só para medir a pressão da senhora? A pressão da senhora está ficando boa em casa, né? 
+PACIENTE: Tá, graças a Deus. 
+MÉDICO: O que que acontece? A senhora tem um... Estava conversando com o endócrino ali, a respeito do caso da senhora. A senhora tem uma aldosterona elevada, né? A senhora acho que já ouviu falar isso aí, não já? 
+PACIENTE: Aham. Isso. 
+MÉDICO: A senhora vem investigando. A senhora começou a ter pressão alta por quantos anos? 
+PACIENTE: 27 anos. 
+MÉDICO: 27. 27 anos, né? Só que meio que agora, essa pressão alta, ela era muito alta a sua pressão, apesar de tomar remédio, ela continuava alta a sua pressão? 
+PACIENTE: Não, né? Não. Sempre foi controlada. 
+MÉDICO: Sempre foi controlada, né? 
+PACIENTE: Sim. 
+MÉDICO: São para 12 por 7, tá?
+PACIENTE: Sim.  
+MÉDICO: Aí o que que acontece? Essa aldosterona que aumenta, ela faz aumentar a pressão. 
+PACIENTE: Aham.
+MÉDICO: E aí a gente usa um remédio para bloquear essa aldosterona. 
+PACIENTE: Sim. 
+MÉDICO: Que remédio é esse? É a espironolactona. 
+PACIENTE: É a que eu estou tomando. 
+MÉDICO: Isso, que você está tomando. Só que a espironolactona, a senhora também já sabe, faz aumentar o potássio. E o potássio da senhora está muito alto. Então... O que que acontece? O potássio está muito alto. Então... O potássio, ele pode dar arritmia, o potássio pode dar alterações muito graves. E por isso, eu já tinha reduzido a sua aldosterona na última consulta, de 75 para 50 miligramas. Só que agora, essa... com o potássio de 7,4, eu não posso continuar essa aldosterona. E aí o meu medo... Essa aldosterona não, essa espironolactona. Só que o meu medo, junto com o potássio, é que eu não.
+MÉDICO: Posso continuar essa aldosterona. Só que o meu medo, junto com o potássio, é que eu não posso continuar essa aldosterona. Então, o que que eu vou fazer? Eu vou tirar a espironolactona. A aldosterona, ela não vai subir muito não, entendeu? Então qual vai ser o nosso plano aqui? Eu vou tirar essa espironolactona. E aí nós vamos ver a pressão, como vai ficar. Se a pressão subir demais, aí nós vamos ter que ver o que que a gente vai fazer.
+MÉDICO: Por que? A tomografia não mostrou nada. Mas a tomografia foi sem contraste. E a ressonância com contraste. Então, a tomografia não mostrou nada. Mas a tomografia foi sem contraste. A ressonância com contraste. E a tomografia com contraste são exames que a senhora não pode fazer. Porque a senhora tem insuficiência renal.
+MÉDICO: Então, meio que nós estamos num, sabe, no famoso mato sem cachorro? Não tem para onde correr. Entende? Então, o que é que nós vamos fazer? Nós vamos bancar isso aí. E aí, eu vou tirar a espironolactona, né?
+PACIENTE: Deve ter ver? Deu. Ou não? Deu. Deu, né?
+MÉDICO: Tá. Os exames de hoje da senhora, eles mostram que a creatinina da senhora, ela vem aumentando. A creatinina, ela subiu. Ela passou de 4, ela era 4.2, agora está 4.4. Na verdade, ela está ali na mesma linha, porque ela era 4.2, foi 3,6, agora 4.4 de novo, né? Essa creatinina, ela é sim uma creatinina elevada, né?
+PESSOA_NÃO_RELACIONADA: motivo pelo qual a gente acompanha aqui. E a gente tem uma... E a gente tem também uma... Associada a essa creatinina elevada, é essa questão do aldosterona que eu te falei, certo?
+PACIENTE: Certo. 
+PESSOA_NÃO_RELACIONADA: O que mais? A gente tem aqui o fósforo da senhora, que está elevado também, né? E aí nós estamos aguardando aquela medicação que é o C-Vilamé, que a senhora deu entrada na farmácia cidadã. E uma anemia que a gente reduziu a afropretina, aí voltou a ter anemia, a gente vai aumentar novamente agora. Tudo bem? Combinado? Beleza? Vou fazer a papelada aqui para a senhora, sabe?
+PACIENTE: Sim. É... Faz... A gente... É... Eu não sei se é nada. Graças a Deus. Tudo bem. Alimento bem. Faz tudo bem, graças a Deus. Porque esse C-Vilamé, você serve para o fósforo, né, doutor?
+MÉDICO: Sim. Não abaixa outra coisa?
+PACIENTE: Não. O C-Vilamé só serve para o fósforo? Só serve para o fósforo. É por isso, né? É ruim... Não, eu falei, eu pedi servir para mais alguma coisa aqui. Mas ele pedia servir para mais alguma coisa. 
+MÉDICO: Só um minutinho, que eu tenho que escrever isso tudo aqui, tá? 
+PACIENTE: Não, não estou com pressa não, doutor. Estou com pressa, não. Não. Não posso escrever a nossa... Não. Não posso. Não estou com pressa. 
+MÉDICO: O bicarbonato da senhora, a senhora está tomando duas vezes por dia?
+PACIENTE: Duas vezes por dia. 
+MÉDICO: Tá. Duas vezes por dia. Amanhã é dia 9. Amanhã é dia 9. Dois dias de dia. Dois dias de dia. A senhora aplicou a alfapoetina uma vez só?
+PACIENTE: É, foi.
+MÉDICO: Aí a receita da alfapoetina A senhora não vai precisar agora Ou vai? 
+PACIENTE: Não, tem que ir porque só tem duas.
+MÉDICO: Só tem duas lá? Tá E a do C.B.L.A.M. não vai precisar Não, mas vão pegar hoje, né? Então tá, beleza Acho que dá tempo de eu voltar aqui, né? Pra pegar outra aqui
+PACIENTE: É, se precisar de receita a senhora pega aqui
+MÉDICO: Deixa eu te falar, aquele colecalciferol que é aquele de uma vez por mês da vitamina D Ah, se eu tinha mandado eu parar Se eu tinha mandado você parar Deixa eu ver aqui então Ok Ok Ok E ninguém te ligou da diálise territorial não, né? 
+PACIENTE: Tá
+MÉDICO: Eu tô com gripe
+PACIENTE: Tá com febre também?
+MÉDICO: Não, febre não, só tosse mesmo
+PESSOA_NÃO_RELACIONADA: Receita da senhora Receita da senhora 
+MÉDICO: Não, precisa não Precisa não, né? Precisa não Só da alfapoetina então Só Que a gente vai ter que acertar, tá? 
+PACIENTE: Ah, alfapoetina eu tenho ainda Eu tenho receita, eu
+MÉDICO: O resto dos remédios vão continuar os mesmos. Menos a espironolactona que a gente vai suspender, ok?
+PACIENTE: Tá. E aí a senhora vai observar a pressão pra gente poder ver, tá bom?
+MÉDICO: Sim.
+PACIENTE: O potássio não tem também, né doutor? Pra baixar o potássio não existe, né? Remédio rococêutico, né?
+MÉDICO: Não existe, não.
+PACIENTE: Mas eu estou fazendo dieta, certo?
+MÉDICO: Sim, mas às vezes é a espironolactona que está fazendo isso, entendeu? E aí agora com a espironolactona você vai conseguir, entendeu?
+PACIENTE: Tá. Deixa eu ir lá pegar.
+MÉDICO: Seus exames aqui, é o da alfapoetina que vai, que eu vou botar agora duas vezes pra vocês.
+PACIENTE: Tá.
+MÉDICO: Que é, a alfapoetina que eu vou colocar agora. A espironolactona, por favor, são as mesmas alfapoetinas que estão. Vou guardar pra você.
+PACIENTE: Tá.
+MÉDICO: Se eu for juntar com os seus exames pra senhora pegar a medicação, tudo bem? Daqui a dois meses nós vamos usar aqui, tudo bem? Só vou falar mais uma coisa pra senhora, é que a equipe de diálise espiritual, lembra que a senhora escolheu aquela da barriga? Eu vou pedir pra eles ligarem pra senhora, pra fazer uma consulta com a senhora pra explicar como é que funciona o procedimento e tudo mais, tá bom? Combinado? É uma consulta só, tá bom? Se Deus ajudar tá bom? Vai ajudar um beijo pra vocês, tá? Tchau, tchau, vai com Deus, tá? Valeu, tchau, tchau.

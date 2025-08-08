@@ -1,0 +1,74 @@
+MÉDICO: Dona Isabel, a última consulta da senhora aqui em cima? Isso, aí é a assinatura na última consulta da senhora aqui. A senhora estava sem os exames, não foi? Porque a senhora tinha ficado internada, não foi?
+PACIENTE: Foi, dava.
+MÉDICO: Isso, agora a gente conseguiu coletar os exames, né?
+PACIENTE: Sim.
+MÉDICO: Da última consulta até hoje, pode terminar de assinar?
+PACIENTE: Tá.
+MÉDICO: Terminou não? Sem óculos. Obrigado. Isso aí, gatona. Me conta uma coisa aqui. Na última consulta, da última consulta pra cá. A senhora teve alguma intercorrência?
+PACIENTE: Não.
+MÉDICO: Internação, alguma outra coisa?
+PACIENTE: Nada, ficou bem.
+MÉDICO: Bem demais, show de bola. Os remédios, a senhora está usando direitinho?
+PACIENTE: Tudo.
+MÉDICO: Está usando tudo direitinho, né? Eu já anotei os exames da senhora aqui. Eu também peguei o resultado.
+PACIENTE: É, mas eu já anotei aqui. Que são os exames do dia 6 de março, não foi? Você fez os... os exames, não foi?
+MÉDICO: Show de bola. Então, da última consulta pra cá. Nenhuma intercorrência, show. Me conta... me conta... me conta como é que está o controle da pressão em casa. Está ficando boa? Está quanto? É 13, é... 13, 12, 12 está ficando? 13, por aí, por aí.
+PACIENTE: Ah, não sei falar.
+MÉDICO: Não sabe falar não, meu amor. Não tem problema. Vamos ver aqui como é que está. E o cardiologista, a senhora está indo?
+PACIENTE: Ó, o cardiologista me deu alta.
+MÉDICO: Te deu alta? Tem certeza?
+PACIENTE: Quando eu tive o último infarto. Ele... Fiquei fazendo um acompanhamento. Depois ele me deu alta.
+MÉDICO: Ele te deu alta? E por que a senhora fez o elétrico particular? Está pulando o peito alguma coisa?
+PACIENTE: Não, não é porque eu gosto de fazer.
+MÉDICO: Você gosta de fazer? Mas algum cardiologista olhou esse elétrico?
+PACIENTE: Foi! Dr. Mauro.
+MÉDICO: Ah, tá! Ele falou que estava normal?
+PACIENTE: Falou.
+MÉDICO: Beleza, show! A pressão agora deu 13 por 6. Está mais controladinha mesmo de 12 em 12 horas, certo? Eu nem trouxe, tem muito remédio. Isso, mas de cabeça a senhora não vai saber, não sei não. E me conta uma coisa, glicazida, não vai saber se eu falar, não vai saber ou vai saber? Não vai, então vamos lá. Hidralazina de 50 de 12 em 12 horas.
+MÉDICO: Isossorbita 20mg de 12 em 12 horas, Carvedilol 2 comprimidos de 12 em 12 horas, Trimetazidina 1 comprimido de 12 em 12 horas, Glicazida, 2 comprimidos de manhã, AS, Plenance que é o Rosuvastatina com Azetimibe, Amlodipina 2 comprimidos de noite, Alopurinol e Furosemida, certo? Beleza, urina e fezes estão tudo normal?
+PACIENTE: Tá, tá tudo normal.
+MÉDICO: Show de bola, vamos lá. Olha só os exames da senhora aqui, eles estão mostrando que a função do rim da senhora tem sim uma alteração. A gente já sabe dessa alteração e essa alteração ela permanece estável, ela está até um pouco melhor do que os exames que a senhora teve lá em outubro.
+PACIENTE: Foi o que a doutora falou que o remédio da herpes prejudicou, né?
+MÉDICO: Exatamente, isso que eu ia falar pra senhora, provavelmente teve uma prejudicação, o exame foi prejudicado por conta da pílula. Muito remédio, exatamente. Lembrar sempre que a gente não deve usar anti-inflamatórios. Considerando que a sua pressão está boa eu vou manter os remédios de pressão da senhora. Agora, os demais exames da senhora aqui, está tudo muito bom. O colesterol está bom, fósforo, potássio, está tudo dentro do normal graças a Deus, tá? Está tudo muito bem, inclusive o próprio controle aqui da glicose do sangue está tudo muito bom, o colesterol está tudo ótimo na verdade, tá? E não tem também nenhuma complicação da senhora relacionada a essa alteração de função renal, tudo bem? Combinado? Beleza.
+PACIENTE: Eu vou viajar pra onde? Portugal.
+MÉDICO: Você vai trazer presente pra mim?
+PACIENTE: Fazer o perfume.
+MÉDICO: Isso aí, então tá bom. E outra coisa, e quando eu voltar? Pra continuar, como assim? Continuar com o senhor quando você vai voltar?
+PACIENTE: Vou ficar pra uns 5 meses e quando você vai?
+MÉDICO: Eu vou no dia 12 de abril.
+PACIENTE: 12 de abril, tá, eu vou te passar aqui um retorno pra senhora pra 6 meses. Isso pra senhora ficar bem e a senhora está muito bem, não tem importância a senhora ir pra Portugal não, tá bom?
+MÉDICO: Não, eu vou viajar com a minha filha e vou pra casa das outras lá, vou passear. Mas tem mais gente lá? Tem 4.
+PACIENTE: 4 filhas? Cuidado com o Trump se bater nos Estados Unidos, o Trump vai mandar você embora.
+MÉDICO: Vai te prender, vai te acorrentar. 
+PACIENTE: É verdade, né? Não, mas eu não, as meninas já tem tempo que elas estão pra lá. Eu já fui lá, já voltei.
+MÉDICO: Você já foi lá? Já? Você tá chique? 
+PACIENTE: Também, mulher. Minha filha tá tudo lá, né?
+MÉDICO: Entendi, e os remédios a senhora vai levar daqui?
+PACIENTE: Vou levar um bastante mas lá também tem as meninas me levam também, né? Se precisar vou levar receita nova e tem uma na Bélgica.
+MÉDICO: Vou pra Bélgica?
+PACIENTE: Eita, nois a senhora tá chique demais, hein? Porque já tem 10 anos que eu fui lá agora eu quero aproveitar um pouquinho.
+MÉDICO: Ah, não, vai passear pelo amor de Deus, vai passear. Aí eu vou avisando vai lá na Bélgica, vai tomar cerveja?
+PACIENTE: Não, cerveja não pode tomar, não eu parei. Eu tomo de vez em quando um vinhozinho.
+MÉDICO: Um vinhozinho lá vai tomar um vinhozinho também, né? Não tá certo, é isso aí. E lá em Portugal as meninas tomam muito vinho.
+OUTRA_PESSOA: Comeram bacalhau?
+MÉDICO: Opa comeram bacalhau, vinho do Porto, um bacalhau, né? Coisa boa, hein? Você vai arrasar.
+PACIENTE: Aí eu vou, se Deus quiser.
+MÉDICO: A senhora vai sozinha daqui?
+PACIENTE: Não, eu vou com a minha filha.
+MÉDICO: Ah, tem uma aqui que vai também que mora aqui, mais três que tá lá. Entendi, então a senhora vai dar um rolê lá na Portugal na Bélgica. Dá uma passeada. A senhora vai precisar de receita? Receita? Receita?
+PACIENTE: Pois, eu queria uma receita nova pra levar. Eu já peguei receita azul do doutor, que é do remédio controlado, né?
+MÉDICO: Entendi. Vou fazer pra senhora aqui, tá? Levar uma receita nova, né? Show de bola. Show de bola, show de bola. A senhora tá ótima, mulher.
+PACIENTE: Ah, vou aproveitar enquanto eu tô podendo. Dá uma passeadinha, né?
+MÉDICO: Tem que dar, vai ver os netos. Bisneto. Bisneto tem também?
+PACIENTE: Tem o quê? Quatro.
+MÉDICO: Você tá doida? E lá vem outra aí. Eita, nois. Deixa eu ir lá pegar alguns papéis pra senhora.
+OUTRA_PESSOA: Tá.
+MÉDICO: Vocês vão lá pra cá só pô, eu não consigo. (inaudível). Vamos lá, minha princesa. Dona Isabel, eu vou marcar aqui os exames para a senhora. A senhora vai coletar esses exames depois de seis meses. Depois da Bélgica. Você não vai me exagerar na dieta lá não, tá? Você tome cuidado, hein?
+PACIENTE: Eu tenho já a minha receita. Da dieta, né?
+MÉDICO: Então tá bom. Você cuidado, hein mulher? Aqui são os remédios da senhora que a gente vai manter os mesmos, tá bom? E aqui é o retorno.
+MÉDICO: Da senhora que eu vou marcar. Eu vou marcar seis meses. Tá ótimo. Combinado?
+PACIENTE: Estou ansioso pelo meu presente. Lá tem perfume. 
+MÉDICO: Bom, vou trazer o perfume. É isso, então traz o perfume que eu estou ansioso pelo presente, hein? Um beijo, viu Dona Isabel? Vai com Deus, tá? Até a volta, tá? Tudo de bom, gatona. Vai com Deus, viu? Tudo de bom. Tchau, tchau. 
+PACIENTE: Tchau. 
+OUTRA_PESSOA: Pra cá, pra cá. Vai embora pra cá. Vai. Se aqui está se perdendo, imagina a Manoel. 
+MÉDICO: Vai com Deus. Vai.

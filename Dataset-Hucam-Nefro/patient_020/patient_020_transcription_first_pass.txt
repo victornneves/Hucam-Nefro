@@ -1,0 +1,107 @@
+MÉDICO: Já estudou aí?
+PACIENTE: Sim.
+MÉDICO: A gente está participando de um programa de inteligência artificial. A única autorização é para a gravação da consulta, tá? 
+PACIENTE: Sim.
+MÉDICO: Se o senhor estiver de acordo. Vamos lá. Deixa eu só abrir aqui o seu prontuário. Só um minutinho. Você teve consulta com a gastro no dia 13 de fevereiro, não foi isso? 
+PACIENTE: Foi. 13 de fevereiro.
+MÉDICO: E a nossa cirurgia da parede digestiva. Ah, você passou pela parede digestiva também. 
+PACIENTE: Isso.
+MÉDICO: Esse ultrassom você repetiu? Ele já tinha um ultrassom que tinha visto pólipo. 
+PACIENTE: É, já o ano de novembro, né? 
+MÉDICO: Isso. E é mais novo. Aí a doutora pediu outro? 
+PACIENTE: Entendi, doutora Priscila Avila.
+MÉDICO: E o nosso consultor da Nefro foi em outubro, não foi isso?
+PACIENTE: Isso. 
+MÉDICO: Deixa eu anotar essa... A gente foi lá no César também, né? Lá em cima na avaliação da diálise peritoneal, certo? 
+PACIENTE: Foi lá em cima. 
+MÉDICO: Então, minha atenção é sua. A gente pediu mais, inclusive, uma outra sonografia que eu vou fazer amanhã. 
+PACIENTE: A gente faz a ressonância... Eu tô com tecnologia. Caso eu preciso de uma tecnologia, eu tô com o cérebro, entendeu? 
+MÉDICO: Acho que a gente vai ter que... Uma avaliação de idade... Foi de 19, do S de 24?
+PACIENTE: Ultrassom. Eu marquei amanhã para 9h40, lá na Amor Saúde. 
+MÉDICO: Ultrassom? Esse médico, ele pediu um ultrassom. Do urologista? 
+PACIENTE: É.
+MÉDICO: Tá, aí vamos lá. O urologista, você foi em março, pediu um ultrassom e é esse de próstata? 
+PACIENTE: É. Eu vou fazer amanhã o ultrassom que eu pedi da próstata.
+MÉDICO: Tá, na verdade, o que a gente quer que a urologia veja, o urologista daqui, você vai?
+PACIENTE: Tá.
+MÉDICO: O urologista daqui. Tá, eu vou deixar claro, mas a nossa
+MÉDICO: Ele veja o ultrassom de rim... o cisto no rim. Você tem alguma coisa para fazer no cisto no rim direito, entendeu? Eu acho que não.
+PACIENTE: Ele não viu isso não, eu acho, entendeu? 
+MÉDICO: Você tentou explicar isso para ele?
+PACIENTE: Ele falou que tem que liberar a barriga e tal.
+MÉDICO: Isso. Tem que usar massa tectonial. Isso. Eu acho que ele não percebeu.
+PACIENTE: Isso aí, exatamente. Eu acho que ele não pegou também não, pelo que eu estou vendo aqui. Eu expliquei, não tem problema.
+MÉDICO: Os exames de sangue dele estão aqui no sistema? Você imprimiu ou não?
+ACOMPANHANTE: Não, não imprimi.
+MÉDICO: Tá, deixa eu pegar aqui. Vamos lá, ver os exames. Os exames foram coletados no dia 3 de janeiro. Foi isso, né? E agora que você está ao seu lado, ok? 
+MÉDICO: E esse aqui foi uma repetição do ultrassom de abdômen superior Ultrassom de abdômen superior Do dia 10 de 2005 Imagens nodulares intravesiculares Considerar a possibilidade de órgãos vesiculares Imagens nodulares sólidas Hipercogênicas
+MÉDICO: A impressão dele para mim, Rafa, foi de aspecto... Isso. Imóveis. Imóveis. Imóveis.
+ACOMPANHANTE: E como ficou?
+MÉDICO: Tem válvula hepática? 
+ACOMPANHANTE: Não sei...
+MÉDICO: Hum... É bem divergente, né? Pulse divergente? A PAD divergente? Hum-hum. A carga viral você fez também, né?
+ACOMPANHANTE: Sim, fiz.
+MÉDICO: E a válvula, está no LACEN. Lá a minha possibilidade de ter acesso, lá.
+MÉDICO: Hum... É bem divergente? É. Não está no protocolo? 
+ACOMPANHANTE: Não.
+MÉDICO: Talvez o diagnóstico seja o FSGS ou a VFN2. Só que a VFN2 é uma remuneração, né?
+ACOMPANHANTE: É, mas o que foi que isso? Que diferença? 
+MÉDICO: A remuneração foi... 
+ACOMPANHANTE: Bem... Rápido, sim. Entrou uma mudança no ser adiante. 
+MÉDICO: Sim, aconteceu, com tudo. Vamos tentar controlá-lo.
+MÉDICO: num tratamento conservador, tentando ver e avaliar outras complicações que estão presentes ou não. Tudo bem? Hoje, além dessa melhora da creatinina, a gente tem sim uma... Quanto ficou? Desculpa, a pressão? 
+PACIENTE: É, estava 16%. A pressão em casa está ficando como? 
+MÉDICO: Quando a gente mede ela, ela dá 15%. 
+PACIENTE: Dá 15%, né? Dá todo. 
+MÉDICO: Tá. A gente vai ter que associar, melhorar um pouco essa parte da pressão alta e a parte do diabetes também, a gente não teve a dosagem da hemoglobina glicada agora para a gente poder avaliar, mas teve sim. A hemoglobina glicada estava tudo bem, estava tudo certinho. Beleza? Em relação às complicações, o que eu achei estranho é que o senhor está sem anemia, o ácido úrico já está alto, mas a gente já sabia que era um ácido úrico mais alto, mas o senhor não tem crise de gota, essas coisas. Mas o que chamou a atenção foi o fósforo do senhor. O fósforo do senhor saiu de normal para 8,6. O senhor não deu uma escapada boa da dieta aí, não? 
+PACIENTE: Estou já aí. A minha alimentação está sendo normal. 
+MÉDICO: É? Sempre normal. Queijo, leite, derivados do leite. 
+PACIENTE: Leite eu tomo um copinho. Queijo não. 
+MÉDICO: Queijo não? 
+PACIENTE: Não, eu parei dele, que a gente já falou, eu não comi mais queijo. 
+MÉDICO: Leite você toma todo dia? 
+PACIENTE: Tomo um copinho todo dia. 
+MÉDICO: É? Eu acho que nós vamos ter que... Parar com esse leite aí. Sem problema. Pode ser? 
+PACIENTE: Sem problema. 
+MÉDICO: Por conta desse fósforo que assim, ele saltou, ele foi de 3,9 para 8,6. O normal é 4, entendeu? A gente para com ele. 
+PACIENTE: Então a gente tem que tentar parar com ele sim, tá bom? 
+MÉDICO: Com certeza. O que mais importa é essa questão dele. Tem quanto tempo que vocês não vão lá no nutricionista ou tem pouco tempo? 
+PACIENTE: Eu não lembro. Eu acho que a cabeça não lembra.
+MÉDICO: Não, não, não, não, não tem tempo, né? 
+PACIENTE: Não, nós vamos reencaminhá-lo para o nutricionista, tá? 
+MÉDICO: Os remédios que você está usando são... Duas vezes por dia. O carbonato de cálcio você está usando 2 de manhã, 2 de tarde e 2 de noite, certo? 
+PACIENTE: Isso, isso. 
+MÉDICO: Tem que fazer receita. Tem que fazer receita. Faço. 
+PACIENTE: Então eu vou parar com um copinho de leite que eu tomo cedo. Hoje eu tomo um copinho de leite por causa do remédio. O remédio é o remédio.
+MÉDICO: Aham. Anlo de pina. Você está tomando 1 de manhã, 1 de tarde. 
+PACIENTE: Aham. 
+MÉDICO: Hidralazina você está tomando 100mg de 8 em 8. Isso. É, né? Tá. E a insulina 10 de manhã e
+MÉDICO: Ele melhorou a função renal. A chance da gente ter uma creatinina basal em torno de 3.9 e tal é grande. Para essa creatinina ter vindo mais baixo a gente associar um IECA para agora e ele subir e a gente ficar achando que foi o IECA que causou. Então não acho que é um paciente que cabe IECA bravo no momento. Acho que é um paciente que a gente vai ter que optar, por exemplo, para clonidina para ver se a gente consegue atingir um ícone pressórico melhor. Tá? A gente tem que baixar essa pressão do senhor. Ah, sim. Eu vou associar um novo remédio para isso. Tá bom? Tá jóia. Então, ó...
+PACIENTE: É o modal remédio, né?
+MÉDICO: Hoje eu estou meio cedo, né? Associo clonidina em um prêmio de 12 em 12 horas, solicito raio-x de monos e punhos, bacia, mais de classificação, mas a gente com certeza procurou aqui para ver se tem. Oh, ok, de novo. Ai, Jesus! Vou manter o carbonato de cálcio, tá? 
+PECIENTE: Não tem nada na válvula, senhor?
+MÉDICO: Não tem nada na válvula do reato, não. Não sei o que eu estou passando... Ah, não. Entra aí, ó. Eu não posso avaliar, abrir o processo de aceleramento, porque ele tem um fosfo normal aqui, entendeu? Não é sequencial alto, entendeu?
+ACOMPANHANTE: Era alto. Era alto. Aqui, 4,9. 
+MÉDICO: Então, eu vou fazer... Ele bem controlado. Não sei se vai cobrar no momento. Anemia. Ele está com uma glândula de 11,7. Uma medicação de PO. O fósforo dele foi para 8,6. 8,6. Ele já elevou o fósforo. Apesar de tudo estar em estabilização... Divergência de M. Estou considerando. Então, a pulsação altera o fósforo e traz indícios. Termina com disenteria. O que mediu? Desentendido. Nitrogenase. 
+MÉDICO: Beleza. Atorno 2 meses. Beleza. Ano Divino. Eu vou passar por 2 minutos da noite. Tomar 2 minutos. Mais 2 minutos. Para ver se. Eu vou passar por 2 minutos. Carbonato de cálcio. Furosemida de 11,16. Hidralazina. Hidralazina você toma de 25. E toma 4 comprimidos de 88. Certo? A insulina é 10 E 4. Isso. Nota. Beleza. Professor Philip nel Ele Express usado para ver. Espartanos.
+MÉDICO: Esse eco que você fez, deixa eu ver... Esse MX já é... Pode retornar daqui a dois meses. Capriche na questão do leite, por favor.
+MÉDICO: O carbonato de cálcio, que é o remédio que toma com o almoço e a janta, quer 500 miligramas, vamos ter que parar ele, apesar do fósforo estar alto. Temos que parar ele agora, nesse momento. 
+MÉDICO: Como a pressão não está ficando bem controlada do jeito que a gente quer, eu vou passar mais um remédio de pressão, tá?
+PACIENTE: Beleza, show. Junto com aquele?
+MÉDICO: Junto com aqueles que você toma. Aqui pra guardar?
+PACIENTE: Pode, deixa só um prazer.
+MÉDICO: Vamos lá, esse aqui é nosso, aqui, aqui. São os remédios. Eu vou colocar aqui, suspensão, suspender carbonato de cálcio.
+PACIENTE: Isso aí, suspender já?
+MÉDICO: Suspender já, já tomei o selo. Aqui ó, é a clomidina que eu tô associando. O restante dos remédios vai ficar normal, tudo bem?
+PACIENTE: Nada, tudo aqui.
+MÉDICO: As receitas e aqui os exames pra coletar em dois meses, beleza?
+PACIENTE: Jóia, fechou.
+MÉDICO: Meu amigo, tá fechado. Tudo de bom pro senhor?
+PACIENTE: Igualmente. Vai com Deus, tá? Bom trabalho pra vocês.
+MÉDICO: Tudo de bom, Seu Jair. Forte abraço, tá?
+PACIENTE: Obrigado, obrigado, amigo, obrigado. Obrigado, um abraço, sabe. Aquilo que o senhor viu, ali tem comprimido, não?
+PESSOA_NÃO_RELACIONADA: Qual? O que tá no pronto que o senhor colheu na tela? Exame de sangue?
+PACIENTE: É, esse aqui, é o pedido do exame que eu comprei. Você conseguiu ele no laboratório?
+PESSOA_NÃO_RELACIONADA: É, tá certo, vou marcar então. Pode ser?
+PACIENTE: Pode ser, porque aqui demora muito mais, entendeu?
+PESSOA_NÃO_RELACIONADA: Obrigado, valeu, obrigado.

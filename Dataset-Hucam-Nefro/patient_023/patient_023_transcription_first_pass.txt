@@ -1,0 +1,144 @@
+MÉDICO: Dona Maria, a senhora mora onde? Bom dia, meu nome é Leandro, eu sou médico nefrologista, é a primeira vez de vocês aqui, não é isso? 
+PACIENTE: Sim. 
+MÉDICO: A senhora tem 74 anos, certo? 
+PACIENTE: Sim. 
+MÉDICO: A senhora mora onde? 
+PACIENTE: Eu moro aqui no Rio de Janeiro, em São Cristóvão. 
+MÉDICO: Mora em São Cristóvão? 
+PACIENTE: Sim. 
+MÉDICO: Está aposentada? 
+PACIENTE: Não. 
+MÉDICO: Você, seu nome é? 
+ACOMPANHANTE: Tassiane. 
+MÉDICO: Você é filha dela? 
+ACOMPANHANTE: Isso. 
+MÉDICO: Bem-vindos ao programa Prevenir, onde a gente tem uma equipe multidisciplinar para atendimento dos pacientes portadores de doença renal crônica. A senhora foi acompanhada pela endocrinologista, não foi isso? 
+PACIENTE: Foi. 
+MÉDICO: Do nosso segmento, passou por uma teleconsulta, mas a teleconsulta estava meio ruim de sinal, não foi isso? 
+PACIENTE: Isso. 
+MÉDICO: E aí veio nessa consulta aqui presencial, não é isso? 
+PACIENTE: Sim. 
+MÉDICO: Certo. Pelo que eu vejo aqui, eu percebi que a senhora tem algumas comorbidades. Né? Essas comorbidades são principalmente o diabetes, né? 
+PACIENTE: Sim. 
+MÉDICO: A senhora acompanha aqui no CAM? 
+PACIENTE: Sim. 
+MÉDICO: Quem é a mão dessa doutora aqui? 
+PACIENTE: É a doutora Ana Carla. 
+MÉDICO: E o parte cardíaca também, né? De pressão alta e de... Que a senhora já fez uma cirurgia de coração, não foi isso? 
+PACIENTE: Sim. 
+MÉDICO: Em 2013? 
+PACIENTE: Sim. 
+MÉDICO: E depois colocou uns stents, não foi isso? 
+PACIENTE: Sim. 
+MÉDICO: No coração também, né? 
+PACIENTE: Sim. 
+MÉDICO: Dois infartos prévios, uma cirurgia e depois os stents 2015 e 2017, não é isso? 
+PACIENTE: Sim. 
+MÉDICO: Além de um stent também na perna, não foi isso? 
+PACIENTE: Sim. 
+MÉDICO: Me conta uma coisa aqui. A senhora conseguiu fazer os exames que a doutora Olivia pediu? 
+PACIENTE: Não. 
+MÉDICO: E a senhora? Como é que a senhora tá se sentindo? Tá tudo certo? 
+PACIENTE: Tá tudo bem. A única coisa que eu sinto é, de vez em quando, uma dor assim no lado da hora que eu levanto. E quando eu mudo de posição na cama, me dói. Mas eu já fiz todos os exames também. 
+MÉDICO: Tá. E conta uma coisa.
+MÉDICO: Remédios a senhora tá tomando direitinho? Tá tomando direitinho?
+PACIENTE: Sim.
+MÉDICO: Então, remédio. E essa sabe, tem muito remédio. É, né? A senhora, dos remédios que a senhora toma, quem que cuida dos remédios da senhora? A senhora mesmo, sua filha, como é que é?
+PACIENTE: Eu mesmo.
+MÉDICO: Você mesmo?
+PACIENTE: Eu mesmo.
+MÉDICO: E aí, você perde não nos remédios lá em casa?
+PACIENTE: Não. Perco não.
+MÉDICO: Perco não, né? Fica em cima, né? Meu remédio é tudo ali. E me conta uma coisa. Como é que tá ficando a pressão com esses remédios aí? A pressão fica controlada?
+PACIENTE: Controla. Controla. Doze por oito.
+MÉDICO: Doze por oito? Show de bola. A única coisa que dá uma descontrolada nesse pano é o diabetes, né?
+PACIENTE: Aham.
+ACOMPANHANTE: Aí esse mês agora mesmo, semana retrasada, o diabetes deu até o ponto de 64. Aham. Caiu, né?
+PACIENTE: Foi.
+ACOMPANHANTE: Aí ela deu uma ponteira, começou a ver tudo embaçado, ficou sentindo isso uns três, quatro dias, né mãe?
+PACIENTE: Três dias. 
+ACOMPANHANTE: Tá. Tá. Vamos rever isso também aqui. Aqui. Três, quatro, seis. Três, quatro, seis. Uma coisa também que tá incomodando um pouco ela, doutor, é a perna dela. É o inchaço e as dores nos pés.
+PACIENTE: Nós vamos ouvir isso agora. Eu não sei se é maciedade, porque eu tô cada dia engordando, engordando mais. E tô fazendo de tudo pra poder... Eu não sei se é o PDP, mas eu não sei se eu acho algo certo, não. Eu vou mostrar o exame pra vocês. E aí? Beleza.
+MÉDICO: Vamos lá. Deixa eu ver os remédios que a senhora toma. É... Deu alguma coisa alterada? Eu vou explicar pra senhora, tá tranquilo. A S... ...Betrate... ...Carpenilol 2,2... ...Carpenilol 2,2,12... É de coração. Carpenilol... ...Taclon. Tá. Os que a senhora tá usando são esses aqui?
+PACIENTE: É, todos que tá ali... 
+MÉDICO: Todos que tá aqui são os que tá usando, né?
+PACIENTE: É, isto. 
+MÉDICO: Colecalciferol 7,5 uma vez por semana. Mas, mas esse aí ela mandou eu parar.
+PACIENTE: Hum. Que... ...Dou um probleminha lá.
+MÉDICO: Tá. Furosemida. Toma. Um comprimido de manhã.
+PACIENTE: Sim. 
+MÉDICO: Ué, mas esse aqui tá tudo errado. Tá. Deixa eu fazer aqui. Furosemida 40 miligramas pela manhã. A S... ...Depois do almoço. Sim. Aí vem Carvenilol 2 comprimidos de 12,12. Desculpa, a senhora me falou, mas a senhora faz acompanhamento do coração aonde? Aqui?
+PACIENTE: É. Aqui quem é a senhora médica? Doutora Paula. Até fui a ela agora, essa semana, quinta-feira. Eu fui a ela, ela... ...Ela falou que eu tenho que botar muito estéril.
+MÉDICO: Ah é? É, já deu até...
+MÉDICO: Operado. Silostazol, 100 miligramas após o almoço. Aas 100 miligramas à noite. Furosemida 1 pela manhã. Você já tomou Losartana?
+PACIENTE: Sim.
+MÉDICO: Eritropoietina 1 mil IU, Calcitriol 2 microgramas, certo?
+PACIENTE: Sim.
+MÉDICO: Esse senhor é operado e utiliza Hidralazina, certo?
+PACIENTE: Sim.
+MÉDICO: P4 50 mais 25 mais 2.5 microgramas e insulina 36, 36, 36, é isso mesmo?
+ACOMPANHANTE: Sim, e a dose regular: 8 pela manhã, 26 microgramas antes do almoço, 26 da regular e a noite são 8. Dá pra entender, né?
+MÉDICO: Sim, parece que está tudo correto. Tem sentido muita dor nos pés?
+PACIENTE: Sim, eu tomo medicação de manhã e à noite por conta disso.
+MÉDICO: Está tomando metformina, glifagem?
+PACIENTE: Não, não estou.
+MÉDICO: Certo, é Omeprazol, não é? Você pode guardar esses exames aí. Vou ver aqui os seus resultados. Sua pressão está bem controlada, 12 por 6. Suas pernas estão inchando?
+PACIENTE: Sim, todas estão inchadas. Às vezes ficam vermelhas, está muito inchado. Sinto muita dor na planta dos pés. Parece que a carne vai sair dos ossos.
+MÉDICO: Isso é por conta da neuropatia. Você fez algum outro exame?
+PACIENTE: Sim, fiz outro. 
+MÉDICO: Qual?
+PACIENTE: Esse aqui.
+MÉDICO: Certo, vamos ver. Seus exames mostram uma alteração da função do rim. Isso é crônico e provavelmente já tem há muito tempo. Provavelmente o seu rim foi afetado principalmente por conta da pressão alta e do diabetes, então precisamos controlar bem essas duas doenças para não piorar a função do rim. Você tem um bom controle da pressão alta, mas não do diabetes. O diabetes é fundamental para controle da doença renal, então não tem um remédio que eu vou dar para o rim...
+MÉDICO: Remédio aqui igual remédio de pressão por exemplo, toma esse remédio de pressão sua pressão vai abaixar, no rim não é assim, toma um remédio para o rim que o rim vai melhorar, não tem isso na verdade a gente tem que atuar em cima do diabetes, tá? Então, o diabetes ele sim é um uma um ator importante aqui no caso da senhora considerando já que a pressão está controlada tudo bem, mas não é uma alteração de função do rim muito grave não, é uma coisa que merece requer acompanhamento, requer seguimento, a senhora vai ter que viver a vida inteira consultando um nefrologista igual vai no doutor Dilson, na doutora Ana Carla, igual vai na doutora Paula vai começar a vir no nefrologista também, tá? Mas não precisa ser nem comigo, eu atendo os pacientes mais graves assim, a senhora pode ir para os menos graves que é onde eu vou encaminhar a senhora, tudo bem? Tá, o restante dos exames da senhora apesar de a senhora estar tomando esses remédios, né? E o objetivo dos remédios vem de ser cobrido, que é o bom controle do colesterol, o colesterol está muito bem controlado, ainda mais a senhora que já teve um infarto antes tudo mais, tá? Mas o que realmente está deixando a desejar um pouquinho aqui é o diabetes, tá? O diabetes ele não está adequado, a gente precisa controlar ele muito mais e a senhora já toma uma dose de insulina bem boa assim bem alta na verdade, né? Bem alta é, bem alta tá? Eu vou associar um outro remédio para a senhora que pega na farmácia da Dan, na farmácia popular, tá? Que é o Forxiga eu não sei se a senhora já usou não.
+PACIENTE: Parei porque estava me dando muito diarreia.
+MÉDICO: Diarreia é? Eu falei com ela mas eu não achava que era o Forxiga, então vamos tentar voltar com ele. Ele ajuda a controlar que?
+PACIENTE: O diabetes?
+MÉDICO: Sim, sim, então eu vou voltar. Minha proposta é voltar com ele para você, tá? Considerando que essa parte da insulina eu não vou mexer, vou deixar o endocrinologista mexer, tá? Mas eu vou voltar com a senhora com o Forxiga, tá? E eu vou encaminhar a senhora também para a nutricionista, tudo bem? A gente tem uma nutricionista aqui do nosso serviço, onde que a gente vai ter ali algumas dicas que ela pode te dar em relação a alimentação, restrição perda de peso e tudo mais, tudo bem? Combinado? Beleza? No mais os exames estão.
+MÉDICO: Todos tranquilos, assim, coisas que a gente precisa acompanhar mas a gente não precisa ter medo do que "ai meu rim como é que tá", não precisa ficar assim, mas saber que tem sim uma alteração e que essa alteração merece e requer cuidados, tudo bem? Combinado? E a urina também tá regulada? A urina tem, a senhora tá sentindo alguma coisa na urina? 
+PACIENTE: Não, até eu sinto aquele peso assim no pé da barriga e tô sentindo assim a urina tá meio solta.
+MÉDICO: É? É então, isso várias coisas podem contribuir mas não tá queimando, ardendo, fértil, nada disso não, né? A urina do normal aqui no exame da senhora, tá? Essa sensação de peso aí a gente tem que ficar ligado se não tá ardendo, queimando, alguma coisa tu pensa que é infecção urinária, tá? 
+PACIENTE: Essa semana passada eu tava com 87 e eu ligou ela, ela falou que ela tinha um problema de dor de cabelo e eu engordei de lá pra cá que hoje até tomei um susto a hora da hora de caminhar é a boca, manhã vamos para a boca o que que eu como? Eu almoço eu boto umas três colherzinhas de arroz meia coxa de feijão um pedacinho de carne e uma salada e o pão, né? E o pãozinho? 
+ACOMPANHANTE: Meu filho, o pão é de manhã eu como o pão até a doutora na casa falou assim não, o pão você pode comer e fora de horas de três, três horas você come uma fruta mas nem todo dia a gente tem a fruta em casa aí a hora que eu tomo café de tarde é lá pras quatro, quatro e pouca e depois janta um pouquinho que ela disse que eu não posso parar de jantar porque eu já tomei muito remédio quando ela fica sem jantar mesmo que ela come uma fruta ou alguma coisa ela passa mal a noite? 
+PACIENTE: Sim, não pode porque ela toma insulina.
+MÉDICO: Isso aí, não pode passar sem jantar se o diabetes vai a sério eu passo mal também mas é porque a senhora é é porque a senhora já se acostumou com uma dose de glicose mais alta aí quando ela vai pra cem, a senhora vai passar mal entendeu? 
+PACIENTE: Igual deu sessenta e quatro.
+MÉDICO: Sessenta e quatro é isso, Pedro? Sessenta e quatro quando me dá assim eu nem do lugar eu saio. 
+PACIENTE: Aí ela falou então pra mim, quando eu tiver esse dinheiro que tá baixando é pra eu botar um doce na boca um pedacinho de doce pra poder ela voltar o normal dela aí é o que eu faço mas tem dias que eu sou gostinha e eu já posso medir que que já tá baixando entendi a furosemida também, que é aquele remédio que eu.
+MÉDICO: Vamos aumentar a dosagem do seu medicamento para duas vezes por dia. Vai tomar uma de manhã às oito horas e outra às dezesseis horas, tá bom? 
+PACIENTE: Mas ele me faz ir no banheiro demais.
+MÉDICO: Isso mesmo. Para desinchar, tem que eliminar essa água toda. Mas, não pode exagerar na quantidade de líquido que ingere. Se a senhora toma dois litros de água, vai ter que eliminar esses dois litros de água. E a única maneira de fazer isso é urinando. Então, é preciso também reduzir a quantidade de líquido ingerida. Entendeu?
+PACIENTE: Entendi. E o medicamento é para desinchar?
+MÉDICO: Exatamente, é pra desinchar. A senhora já está tomando um por dia, e agora vamos passar para dois. Vai notar um aumento na frequência do banheiro.
+PACIENTE: Eu já vivo indo ao banheiro de cinco em cinco minutos. Se demoro, fica pior. A urina não para.
+MÉDICO: Eu entendo. Só um minutinho que eu vou verificar o histórico da senhora. Vi aqui que a senhora não foi vacinada ou não tem imunidade para a hepatite B, certo? Vou lhe dar um encaminhamento para levar no posto de saúde para ser vacinada contra a hepatite B e para outras vacinas que tiverem pendentes lá no cartão da senhora. Tá bom? Aguarde um minutinho, por favor.
+PACIENTE: Ok, vou aguardar.
+ACOMPANHANTE: Ela não toma vacinas regularmente.
+PACIENTE: Eu tomo, eu tomo! Só estou esquecendo um pouco ultimamente. Tenho até que criar um lembrete.
+ACOMPANHANTE: Ela também tem diabetes.
+PACIENTE: Eu não deixo de tomar meu medicamento, eu tomo. Só que eu não costumo almoçar um pouco tarde, às duas da tarde. Eu estou muito esquecida ultimamente. Fiquei aqui uma semana passada.
+MÉDICO: Entendi, então vamos cuidar também da diabetes e garantir que está bem controlada.
+MÉDICO: Não tem problema nenhum. O importante é tomar. 
+PACIENTE: Mas hoje foi uma de um e meio e eu vim fazer a consulta com a senhora. 
+MÉDICO: Me mostra o nome que eu vou checar isso.
+ACOMPANHANTE: Você anotou o nome, né? 
+MÉDICO: Não. Mas... e ela quis que eu mandasse para a Câmara Geral, entendeu? Deixa eu ver, qual é o nome dela. 
+PACIENTE: Maria Aparecida. 
+MÉDICO: Tudo bem, dona Maria? 
+PACIENTE: Tudo bem. 
+MÉDICO: Não, deixa eu anotar esse nome que eu vou checar. Tranquilo. Beleza. Mas agora eu vou ficar mais de olho nisso. Aqui, dona Maria, ó. Aqui o exame para a senhora coletar em quatro meses. Tudo bem? Beleza? Aí a senhora vai retornar no ambulatório de néfro geral, que a senhora vai marcar ali na frente, tá bom? 
+PACIENTE: Lá onde eu fiz esse que... 
+MÉDICO: Não, é na recepção aqui. Tranquilo. Valeu. A senhora vai sair daqui e vai marcar a consulta ali para daqui a quatro meses. 
+PACIENTE: Vou marcar o exame para coletar daqui a quatro meses. 
+MÉDICO: É. Relatório para a unidade de saúde para fazer a vacinação, lá que eu te falei. E aqui a receitinha do forxiga e da furosemida de manhã e de tarde, tá bom? A restante dos remédios a senhora vai continuar usando as mesmas coisas, tá bom. 
+PACIENTE: Isso ali na minha coisa. 
+ACOMPANHANTE: Mas deixa eu te falar. 
+MÉDICO: Fala. 
+ACOMPANHANTE: Mas será que a atendente vai marcar? Porque é uma luta da mãe para a gente conseguir marcar. 
+MÉDICO: Fica tranquila, vai marcar sim, tá bom? Beleza? Tá bom. Tudo de bom para a senhora. 
+PACIENTE: Obrigada. 
+MÉDICO: Vai com Deus, tá? Tudo de bom para vocês, viu? Tchau, querida. 
+PACIENTE: Tchau. 
+MÉDICO: Tudo de bom, viu? Até mais. Tchau, tchau. 
+ACOMPANHANTE: Tchau, tchau. Até mais. Fica com Deus. 
+MÉDICO: Tchau. 
+PACIENTE: Tchau.

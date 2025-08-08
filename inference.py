@@ -5,7 +5,7 @@ import dotenv
 dotenv.load_dotenv()
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
-DATASET_DIR = "/mnt/external8tb/datasets/Dataset-Hucam-Nefro"
+DATASET_DIR = "/home/victorneves/Hucam-Nefro/Dataset-Hucam-Nefro"
 PRIMER_PATH = "GptPrompts/Primer.txt"
 MAX_TOKENS = 3000
 
@@ -47,59 +47,8 @@ def process_transcription(primer, text_chunk):
         return None
 
 
-def process_refinement(primer, processed_chunk):
-    """Run the second pass for fine adjustments."""
-    refinement_primer = (
-        f"{primer}\n\n"
-        "Refine the following dialogue by:\n"
-        "- Correcting words out of context or non-existent words.\n"
-        "- Substituting incorrect terms with the most likely clinical terms, especially for nephrology.\n"
-        "- Removing noise, incoherent text, or redundant phrases.\n\n"
-        "Dialogue for refinement:\n"
-    )
-    try:
-        response = client.chat.completions.create(
-            model="gpt-4",
-            messages=[
-                {"role": "system", "content": refinement_primer},
-                {"role": "user", "content": processed_chunk},
-            ],
-            max_tokens=MAX_TOKENS,
-        )
-        return response.choices[0].message.content
-    except Exception as e:
-        print(f"Error refining transcription: {e}")
-        return None
-
-
-def process_interaction_coherence(primer, refined_chunk):
-    """Run the third pass to ensure interaction coherence."""
-    coherence_primer = (
-        f"{primer}\n\n"
-        "Ensure coherence in interactions by:\n"
-        "- Verifying that the speech aligns with the role of each participant.\n"
-        "- Doctors give guidance, ask technical questions, and request exams or treatment adjustments.\n"
-        "- Patients answer questions, report symptoms or concerns, and confirm instructions.\n"
-        "- Accompanying persons refer to the patient in the third person and may ask for clarifications.\n\n"
-        "Review the dialogue below and correct any inconsistencies:\n"
-    )
-    try:
-        response = client.chat.completions.create(
-            model="gpt-4",
-            messages=[
-                {"role": "system", "content": coherence_primer},
-                {"role": "user", "content": refined_chunk},
-            ],
-            max_tokens=MAX_TOKENS,
-        )
-        return response.choices[0].message.content
-    except Exception as e:
-        print(f"Error ensuring interaction coherence: {e}")
-        return None
-
-
 def get_speaker(patient_id):
-    gt_file = f"/mnt/external8tb/datasets/Dataset-Hucam-Nefro/patient_{patient_id}/patient_{patient_id}_transcription_gt.txt"
+    gt_file = f"{DATASET_DIR}/patient_{patient_id}/patient_{patient_id}_transcription_gt.txt"
     with open(gt_file) as fp:
         lines = fp.readlines()
     speakers = [x.split(":")[0] for x in lines]
@@ -113,15 +62,13 @@ def save_processed_transcription(output_path, content):
 
 
 def process_all_files():
-    for i in range(19, 27):
+    for i in range(27, 35):
         primer = load_primer(PRIMER_PATH)
         patient_id = f"{i:03}"
         whisper_file = f"{DATASET_DIR}/patient_{patient_id}/patient_{patient_id}_transcription_whisper.txt"
 
         # Output files for each pass
         output_file_first_pass = f"{DATASET_DIR}/patient_{patient_id}/patient_{patient_id}_transcription_first_pass.txt"
-        output_file_second_pass = f"{DATASET_DIR}/patient_{patient_id}/patient_{patient_id}_transcription_second_pass.txt"
-        output_file_third_pass = f"{DATASET_DIR}/patient_{patient_id}/patient_{patient_id}_transcription_third_pass.txt"
 
         speakers = get_speaker(patient_id)
         primer = f"{primer}\n\nOs participantes da conversa são: {', '.join(speakers)}"
@@ -136,65 +83,23 @@ def process_all_files():
             )
 
             first_pass_results = []
-            second_pass_results = []
-            third_pass_results = []
 
             for idx, chunk in enumerate(chunks):
                 print(f"Processing chunk {idx + 1}/{len(chunks)} (First Pass)...")
                 first_result = process_transcription(primer, chunk)
                 if first_result:
                     first_pass_results.append(first_result)
-                    # print(f"Refining chunk {idx + 1}/{len(chunks)} (Second Pass)...")
-                    # refined_result = process_refinement(primer, first_result)
-                    # if refined_result:
-                    #     second_pass_results.append(refined_result)
-                    #     print(
-                    #         f"Ensuring coherence in chunk {idx + 1}/{len(chunks)} (Third Pass)..."
-                    #     )
-                    #     coherence_result = process_interaction_coherence(
-                    #         primer, refined_result
-                    #     )
-                    #     third_pass_results.append(
-                    #         coherence_result if coherence_result else refined_result
-                    #     )
-                    # else:
-                    #     second_pass_results.append(first_result)
-                    #     third_pass_results.append(first_result)
                 else:
                     first_pass_results.append("[ERROR PROCESSING CHUNK]")
-                    # second_pass_results.append("[ERROR PROCESSING CHUNK]")
-                    # third_pass_results.append("[ERROR PROCESSING CHUNK]")
 
             # Save the results of each pass
             save_processed_transcription(
                 output_file_first_pass, "\n".join(first_pass_results)
             )
-            # save_processed_transcription(
-            #     output_file_second_pass, "\n".join(second_pass_results)
-            # )
-            # save_processed_transcription(
-            #     output_file_third_pass, "\n".join(third_pass_results)
-            # )
 
             print(f"Saved first pass to {output_file_first_pass}")
-            # print(f"Saved second pass to {output_file_second_pass}")
-            # print(f"Saved third pass to {output_file_third_pass}")
 
 
 if __name__ == "__main__":
     process_all_files()
 
-"""
-# usar o1 também
-
-1 - fazer a predição do diagnotisco a partir do dialog predito e do ground truth, comparar
-2 - ver como o diagnositico groud truth (do medico) compara com os dois
-
-Se o ponto 1 ficar muito discrepantes, boa no paper a comparação com 2, pra ver o quão distante ficou
-
-Testar passando os exames, e sem os exames (os exames como uma "melhoria fácil" do sistema)
-
-O ponto 1, comparar o GT feito na mão com o  resultado final, diz o quão bom a gpt é 
-considerando um método melhor de extrair os áudios (inclusive sabendo quem são os interlocutores)
-(trabalhos futuros)
-"""

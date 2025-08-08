@@ -1,0 +1,62 @@
+PESSOA_NÃO_RELACIONADA: Show de bola! Vamos lá, meu amigo! Tudo bem com o senhor? 
+PACIENTE: Tudo bem! Tranquilo, né? Eu fiz o exame ontem, porque a menina, eu acho que na hora de agendar, ela agendou para hoje. E aí, não sei se já está no sistema. 
+PESSOA_NÃO_RELACIONADA: Ah, meu Deus do céu! Ah, não, está aqui, ó. Deixa eu ver aqui. A maioria está pronta, sim. 
+MÉDICO: Bem, tudo bem, tio? 
+PACIENTE: Tudo jóia, graças a Deus. Tranquilo, né? Hoje estava muito agudo. Aí, eu achei que marcou para de manhã, quase que eu não ia vir na consulta, porque agora que eu estava atendendo à tarde, né? Aí, mas ontem eu vim aqui. Aí... Aí, meu amigo, eu resolvi olhar o papel. 
+MÉDICO: Entendi. Aí, falei, sete da manhã. Ferrou! Vamos lá, ó. Estou mandando imprimir seus exames aqui. Deixa eu te perguntar. A nossa última consulta foi há três meses atrás, não foi? 
+PACIENTE: Sim. 
+MÉDICO: A gente tinha pedido para o senhor associar, aumentar a hidralazina para tomar dois comprimidos de oito e oito horas, não foi isso? 
+PACIENTE: A hidralazina é qual? Aquele de dez? 
+MÉDICO: A presolinha, aquele de cinquenta. 
+PACIENTE: A de cinquenta. Você está tomando três vezes por dia? 
+MÉDICO: Não, é três vezes por dia. Três vezes por dia, ok. Beleza. E eu tinha pedido também que o senhor começasse um alopurinol, que é o remédio quase do único. 
+PACIENTE: Estou tomando, sim. 
+MÉDICO: Está tomando, sim. Beleza. Alguma intercorrência da última consulta para cá, ou não? 
+PACIENTE: Não, só... Nada, né? Eu dei um pouco de gripe, mas depois que eu tomei a vacina da gripe... Não, não, não. Show. Você teve mais alguma... Estou ligado. Aqueles episódios de desmaio, aquelas coisas... 
+PACIENTE: Graças a Deus, está em bom tempo. 
+MÉDICO: E hipoglicemia também não? 
+PACIENTE: Não. 
+MÉDICO: Tá. Você está em acompanhamento com endócrino aqui, né? 
+PACIENTE: Sim. 
+MÉDICO: Quem que é o doutor? 
+PACIENTE: O doutor Mara. 
+MÉDICO: O doutor Mara. Isso, beleza. Estenose. Estenose. Estenose. De 20 a 30% na bifurcação. Bifurcação. Carótida direita. Estenose. De 30 a 20%. Carótida esquerda. E estenose. De 30 a 40%. Bifurcação. Bifurcação. Bifurcação. Da carótida. Esquerda. Beleza. Show de bola. Aqui você tem algumas alterações nas carótidas, mas nada para fazer cirurgia, nada para... Na verdade, para controlar o colesterol com remédio, que é o que a gente já está fazendo, tá? Então, nada para mudar da sua vida aqui não, tá bom? Beleza? Eu vou lá pegar os exames do senhor que eu mandei para ele, tá? Só um minutinho, por favor. Vamos lá. 
+MÉDICO: É. A... O senhor
+MÉDICO: Prescreveu essa vasatina?
+PACIENTE: Sim, que a moça lá da farmácia disse que o senhor prescreveu de 10, de 20 e de 40, pelo visto para ser opcional, quando não tiver de 40, e no entanto não tem nenhuma. Não tem nenhuma. É, mas ela pediu para prescrever de 10 e de 40, quando não tiver...
+MÉDICO: De 20 e de 40.
+PACIENTE: Ah, de 20 e de 40. Ah, de 20 e de 40. Então, se eu tiver uma, pega a menor. Esses dias eu fui, tinha só as de 20, mas eles não me deram, porque a minha era de 40. 
+MÉDICO: Não, foi de 40, eu entendi. Tá. Deixa eu ver seus exames aqui. Deixa eu ver o que está no número 5. Eu sei que uma caminhada na praia... Ah! Pelo amor de Deus, né? 
+PACIENTE: É porque meu sobrinho, aquele que eu falei que pesa 160 quilos... 
+MÉDICO: Aham. 
+PACIENTE: Ele também começou a se cuidar. Ele está indo caminhar todo dia de manhã, né? Então a gente leva a filha dele na escola... Pequenininha, né? Numa escolinha ali perto da movimentação, depois a gente vai lá para perto da praia, e faz uma hora de caminhada.
+MÉDICO: Hum, legal. Só que essa semana não foi nenhum dia, né? 
+PACIENTE: É, porque um dia eu fui para a Vila Velha, outro dia fui para o Churrasco. Outro dia ele não podia ir. Amanhã. Vou ver se eu vou, né? Estou sozinho, pelo amor de Deus. Está já. Ah, está fora, hein? Todo mundo me abandona, rapaz. 
+MÉDICO: E a dieta, como é que está? 
+PACIENTE: A dieta não está boa. 
+MÉDICO: Não está boa, não? Não. Ah, por quê? 
+PACIENTE: Ontem eu fiz umas verduras no forno, na grelha, para eu comer só com o meu... Você sabe que eu moro sozinho? 
+MÉDICO: Você mora sozinho? 
+PACIENTE: Eu moro sozinho. Aham. Para fazer com peito de frango, com aveia. A minha irmã acha que eu estou comendo menos. Hum. Aí, não sei. Emagreci um quilo, né? Da última, eu era 106, hoje está 105, né? 
+MÉDICO: Hum, valeu. Deixa eu ver aqui. Não sei. Não sei. Não sei. Se você não está usando nem losatana...
+PACIENTE: Nem losatana. 
+MÉDICO: Nem fosinoprila mais. 
+PACIENTE: Nem fosinoprila. Tá. Vai decidindo. A sua creatinina, ela vinha em 2,8, aí depois 2,8, depois 2,7. Ela tinha baixado um pouco mais, entendeu? E a creatinina hoje ela veio de 3,86. Não consegui identificar muito bem por que, não sei. Oi? Você é um atleta?
+PACIENTE: Sim?
+MÉDICO: É isso? Isso me preocupa um pouco, entendeu? Por que ela subiu tanto? Ela tinha subido naquela época, lá da parte que você começou a tomar o foxiga, aí a gente suspendeu e aí ela caiu. Essa vez agora, ela veio elevada. Não
+MÉDICO: Aconteceu nada nesse período do exame de ontem que você contou, não tem nenhum sinal infeccioso, tosse, febre, alguma coisa, nada. Não fez uso de anti-inflamatório também, não.
+PACIENTE: Não. 
+MÉDICO: Os remédios do HMV estão todos os mesmos, tudo normal. E ninguém voltou, Losartana? 
+PACIENTE: Não. 
+MÉDICO: Foxiga, nada com você não. Foxiga, nada com você não. Beleza. Respira. Solta. Beleza. Certo. Seguinte, então, uma coisa que nos preocupa é esse aumento da creatinina. 
+PACIENTE: Eu senti um pouco de dor nos rins o mês passado. Na hora de deitar, na hora de mover, eu achei que era gases e coisas. E agora, estou sentindo muita dor nos ossos, assim, pra me alçar, levantar, né? Coisa, muita dolorida nos ossos, dificuldade de locomover, assim. Pra calçar uma meia é uma dificuldade, né?
+MÉDICO: É. É. É. É. 
+PACIENTE: Que trecho há dentro da língua! 
+MÉDICO: [RUÍDO]
+PACIENTE: [RUÍDO]
+MÉDICO: [RUÍDO]
+PACIENTE: [RUÍDO]
+MÉDICO: Exames para daqui a dois meses. Ok. Seu papel de retorno eu te dou ali na frente. Clonidina é o remédio que a gente vai acrescentar para a pressão. Esse é comprado? 
+PACIENTE: Esse é comprado, mas ele é bem baratinho. 
+MÉDICO: Aqui as suas receitas. 
+MÉDICO: Aqui a receita. Aqui a receita. Show de bola? Fechou meu chegado? Retorno. Seu retorno está aqui. Dois meses. Fechou? Dúvidas?

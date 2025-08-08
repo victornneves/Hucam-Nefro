@@ -1,0 +1,119 @@
+PACIENTE: Como você está, mãe? 
+MÃE: Estou bem.. não estou sentindo nada. 
+PACIENTE: Está bem? 
+MÃE: Sim, graças a Deus. 
+MÉDICA: Deixa eu ver se tem uma aqui. Quando você fez o exame, foi para alguma infecção? 
+PACIENTE: Agora? Não, eu fiz na semana passada. Foi dia 7 de maio. 
+MÉDICA: Foi na outra semana então, para fazer, 15 dias. 
+PACIENTE: Eu fiz 15 dias. Não estava com nada. 
+MÉDICA: Para fazer agora... Deixa eu ver. Eu tinha ficado com um pouco de gripe... Eu estava com um pouco de tossindo... Não foi gripe. 
+PACIENTE: Ele passou rápido. 
+MÉDICA: Tem perdido peso, Sônia, alguma coisa do tipo? 
+PACIENTE: Não, tenho ganhado. 
+MÉDICA: Tem ganhado peso? 
+PACIENTE: Eu pesei hoje, eu ganhei 2 kg, eu estava com 63, eu pesei 65 e eu ganhei 80. Eu ganhei 2,8 kg, 2,8 kg eu ganhei. 
+MÉDICA: Entendi. Você está assim, então você está sem enjoo, sem nada? 
+PACIENTE: Sem nada. Tem se sentido bem? 
+MÉDICA: Tenho. Não se enjoo não. Sua função é 14%. É isso aí, né? Sua pistola está funcionando, né? 
+PACIENTE: Tá. Quando você estiver bem, a gente vai segurando, sem estresse. 
+MÉDICA: E sua dor no calcanhar? Melhorou também? 
+PACIENTE: Ah, você está sentindo mais dor no calcanhar, quando eu vou descer, quando eu descer a escada, coisa assim. As câimbras? Também diminuiu um pouco. 
+MÉDICA: E aquela, você estava falando que estava hipersensível a cicatriz? Melhorou? 
+PACIENTE: Melhorou um pouco. Não, comecei a usar aquele contra tubéx. 
+MÉDICA: Contra tubéx, aham. Já não é melhor nada. Ótimo. Às vezes eu faço uma ruim de mão assim, fica assim, postando em cima assim, eu não conseguia, ficava mudando o tecido assim.
+PACIENTE: A função renal está assim. Mas o resto está bem. O resto está tudo bem, tá? 
+MÉDICA: Deixa eu só rever uma coisa aqui. Você está usando hidroclorotiazida, amlodipino, sinvastatina, ácido fólico, sulfato ferroso, oxígeno. A vitamina D parou? 
+PACIENTE: Não, continua indo. Continua uma vez por semana. 
+MÉDICA: Uma semana. O carbonato de cálcio parou? 
+PACIENTE: O carbonato de cálcio também está usando ainda. 
+MÉDICA: Está usando, né? Ótimo. Deve continuar usando, tá? Losartana que a gente parou? 
+PACIENTE: Losartana parou. 
+MÉDICA: Tem mais alguma coisa que você está falando? 
+PACIENTE: Não, só isso. Deve usar só o amlodipino agora. Não vou usar o amlodipino agora. Não vou usar o amlodipino não. 
+MÉDICA: Tá. Losartana de manhã ou de noite? Isso. A única coisa que eu vou fazer hoje é aumentar... Você toma uma sinvastatina, não é? 
+PACIENTE: É. 
+MÉDICA: Você vai tomar duas. Tudo bem? Você quer diminuir o colesterol? 
+PACIENTE: Não, não está muito assim. 
+MÉDICA: Eu entendi, mas para quem é renal, a gente quer um valor bem baixo. Se você não tivesse doença renal, seria maravilhoso, assim. Mas a recomendação para quem tem doença renal é a gente diminuir um pouquinho mais ainda. O colesterol pode ser mais baixo. Você está muito bom. Se você não tivesse doença renal... Entendeu? Vamos manter o carbonato de cálcio como eu já tinha recomendado na última consulta, né? 
+PACIENTE: Uhum. 
+MÉDICA: Mas as taxas estão ótimas. Cálcio bom, fosforo bom. Sua anemia está controlada. A vitamina D está boa. Todos os outros parâmetros, assim, estão ótimos. Tá? A única coisa que eu vou pedir é para você fazer o seguinte. Você está em jejum? 
+PACIENTE: Não. 
+MÉDICA: Não? 
+PACIENTE: Eu tomei só um pouquinho de café. Eu não comi nada. 
+MÉDICA: Então tá bom. Você vai fazer o seguinte. 
+PACIENTE: Não, eu não comi antes de sair de casa. Eu não lembro se tomei o café cedo. 
+MÉDICA: Foi 5h40, né? 
+PACIENTE: Não lembro. 
+MÉDICA:  Então, o que você vai fazer? Eu vou pedir um exame de sangue para você e para você fazer para voltar na consulta, tá bom, Sônia? Mas eu quero que... Porque está tudo bem. Você está estável com esses valores, com esse número de creatinina 1,5, 1,4. Eu tenho paciente aqui com 8 que não entraram em diálise ainda, tá? Você está super bem. Não tem indicação, não tem nada para a gente... Já está com a fístula pronta. Então, vida normal. Vida normal, assim, tratando e tudo mais, entendeu? Mas pode ficar tranquila em relação à doença renal.
+MÉDICA: Em relação a isso. A única coisa que eu vou te pedir é para você repetir agora... Você mora onde mesmo? 
+PACIENTE: Em Aliança. 
+MÉDICA: Aliança mesmo? 
+PACIENTE: Em Aliança. 
+MÉDICA: Hã? 
+PACIENTE: Aliança. 
+MÉDICA: Aliança. Eu sei que é muita gente. Não. Não consigo gravar. Ó, você vai fazer agora. Você vai falar que você está em jejum, tá bom? 
+PACIENTE: Hum. 
+MÉDICA: É porque é como se tivesse, assim... Esse exame não interfere o jejum, mas eles são chatos se você falar que... Ah, não sei o que é, gente. Não vamos passar, tá? Só quero que você esteja bem. Mas assim, eu quero repetir só o seu hemograma, porque vi uma alteraçãozinha. Eu acho que pode ser de algum quadro infeccioso, por isso eu perguntei se estava gripado, alguma coisa que às vezes você não percebeu. Às vezes não tinha sintoma, assim, claro. Mas só para ter certeza, você vai fazer hoje. Você pode ir embora, eu vou checar à tarde, quando estiver pronto. 
+PACIENTE: Ah, tá. 
+MÉDICA: Ou segunda-feira, quando eu voltar aqui, tá? Se tiver alguma coisa que precise de você, eu mando mensagem, sinal. Eu vou olhar, aí você volta só quando vier a consulta. 
+PACIENTE: Tá. 
+MÉDICA: Pode ser? 
+PACIENTE: Pode ser. E a receita? 
+MÉDICA: Vou te dar a receita de novo. Alucurinol, você está tomando? 
+PACIENTE: Estou. 
+MÉDICA: Amiloride, Amlodipina, Bicarbonato, AAS, Hidroclorotiazida, Sinvastatina, Sulfato ferroso, está tomando também? 
+PACIENTE: Está tudo certo. 
+MÉDICA: Então está certinho. Só então, que eu vou aumentar a Sinvastatina, vou aumentar para 40, ok? Em dois minutos, que eu vou dizer, dois minutos. Então, eu vou deixar na sua mão dois pedidos de exame. Um para você fazer hoje e um para você deixar marcado para consulta. 
+PACIENTE: Tá. 
+MÉDICA: Aí eu vou deixar um como urgente, o outro você pede para já deixar marcado. Tá? 
+PACIENTE: Tá? Quando eu já der a consulta ali, eu vou lá e dou o exame, né? Mesmo na próxima. 
+MÉDICA: Como é que é? 
+PACIENTE: Eu vou agendar a consulta ali, depois eu vou lá e dou o exame, né? Porque eu já estou fazendo o próximo exame. 
+MÉDICA: É, exatamente. Aí você já aproveita e já tenta fazer um hoje, tá? É. É bem pouquinho de sangue, mas vai ter que tirar dois potinhos, né? Então, são diferentes. E se não conseguir hoje, ou não tem opção de não conseguir? Então, não ter opção é uma coisa difícil de dizer. Mas é importante ter uma boa decisão. Então, é importante ter uma boa decisão. Então, a gente vai fazer o exame hoje, né? 
+PACIENTE: Sim. 
+MÉDICA: E a gente vai fazer o exame hoje, né? A gente vai fazer hoje, né? É. Porque
+MÉDICA: Geralmente é agendado, né? Porque geralmente é agendado. Não, mas assim, quando a gente pede urgência assim, talvez você tenha que esperar um pouco, né? A gente costuma dar certo. É o colesterol que está alterado? Ele está aumentando na infecção não, é na uremia. 
+PACIENTE: No uremia? 
+MÉDICA: Sim. Mas aí vai aumentando o colesterol. Mas aí vai aumentar uma medicação. Ah, por colesterol. Então, isso que eu falei. Assim, se você olhar uma pessoa que não é nefrologista, vai olhar e vai falar que está ótima. É porque para quem é renal, a gente precisa de valores mais baixos ainda de colesterol, entendeu? Mas o dado é que está bom. Mas tem uma dieta, por exemplo, que ela não está cumprindo?
+PACIENTE: Não, não está cumprindo não. 
+MÉDICA: No caso dela, isso não. Isso aqui já é difícil de baixar mesmo. O dela está bom, está com 80 de... Uma pessoa que não tem doença nenhuma, a gente poderia tolerar um colesterol ruim de até 130. O dela está 80. O problema é que para quem é renal, tem que estar menor de 70. Entendeu? Ele está elevado. É. É uma exigência, porque a gente sabe que o risco de ter um problema é muito maior.  
+ACOMPANHANTE: Mas o que é a sua opinião? 
+MÉDICA: Eu acho que é necessário atenção. E precisamos gerenciar isso, porque o problema é justamente o colesterol, entendeu? Acho que precisamos controlar isso. Por quê não? Porque eu sou médica, então eu dei esses números pra eu mesmo entender melhor. E você, tem alguma pergunta, dúvida? 
+PACIENTE: Eu preciso saber, quando? Você poderia me dizer? 
+MÉDICA: A princípio, eu vou ver na minha agenda, mas eu pretendia agendar pra você um retorno comigo. Eu vou verificar porque eu tenho necessidade de colocar aqui essa consulta na sua ficha. Ok? 
+PACIENTE: Sim, entendi. 
+MÉDICA: Ótimo, vamos continuar então. Olha só, eu não proíbo nada, a não ser carambola.
+PACIENTE: Então, assim Ela não pode comer carne seca todo dia, toda semana?
+MÉDICA: Não só não pode. Mas uma vez ou outra. Uma ocasião especial. Uma vez por mês, comer um pedaço de carne seca. Não vai ser isso, não vai mudar. Mas no máximo. Eu diria que o ideal seria espaçar o máximo possível e deixar por ocasiões especiais. Entendeu?
+MÉDICA: Um minutinho, só olha. Hoje está com a super rápida. Está tudo bem. A parte mais difícil já foi, que é fazer a ficha. Organizar as coisas. Agora é só acompanhar. Ajustar detalhes, entendeu? Tem que ter tudo igual. Exceto. Isso aqui são as receitas, tá? Isso aqui é o que é pra fazer urgente. Isso aqui é pra fazer hoje, tá?
+MÉDICA: Deixa eu botar aqui na minha programação e só. Pra mais tarde, quando tiver aí. Se eu não conseguir ver hoje. Eu vejo na segunda-feira. Tá? Quero botar aqui amanhã uma segunda toda. Mas acho que é normal, tá? Então fica tranquilo.
+MÉDICA: E esse aqui é pra próxima consulta. Que será dia...
+MÉDICA: Então, deixa eu ver aqui. A outra vez que eu vim aqui foi em janeiro, né? 
+PACIENTE: Aí, um paciente tava com dois meses. Aí eu cheguei lá fora. A menina marcou pra um dia em abril. Aí eu fiz tudo. Aí depois ela chegou em abril.
+PACIENTE: Uma menina dela que é a minha agora. 
+MÉDICA: Que é a sua? Muito bom. 
+PACIENTE: É. Porque a gente tava com um problema de saúde sério, na agenda. Aí eu fiquei... Fiquei o quê? Cinco meses. 
+MÉDICA: Não, eu fiquei... É, cinco meses. Ficou cinco meses sem vir?
+PACIENTE: Até ela tá vindo aqui. Acho que é a segunda vez da consulta de Janeiro, né? 
+MÉDICA: Pra pegar... Mas graças a Deus. Então você já tem ficha? Ou ficou até mais tranquilo? 
+PACIENTE: Ficou mais.... Menos, né? 
+MÉDICA: Então eu vou fazer o seguinte. Vou até te mostrar. Mandar umas... Marcar pra início de agosto. Não sei... Dia 7 de agosto. Vai estar dois meses e meio. Dá pra gente esticar? Porque a gente tá muito lotada.
+MÉDICA: Então eu mesma pedi que o pessoal dê uma espaçada. Porque eu não tô dando conta. Tô surtando, entendeu?
+PACIENTE: Sim. Porque eu estou assim. Você tá bem. Você tá cheio aqui. Mas assim... Você lembra como era no início quando você chegou, né? 
+MÉDICA: Então assim. Eu fico muito tempo. Eu não consigo. Você sabe que tem médico que nem demora mais tempo pra ir fazendo, né? É. Você sabe que tem médico que nem... Mas eu gosto de começar a explicar, olhar e tirar dúvida. Então assim. Eu demoro muito a consulta. Só que aí eu tô...
+MÉDICA: Tô falando do que? Eu tenho, pelo amor de Deus. Vamos diminuir um pouco a minha agenda. Eu saio daqui uma hora. À tarde.
+PACIENTE: Tá tudo bem. Hoje eu cheguei atrasada. Realmente. Mas porque eu tive um probleminha de manhã. Mas mesmo assim é muita gente, entendeu? 
+MÉDICA: Então, acabou que você que precisava vir cedo, o pessoal não tem muito controle disso, né? De meio que jogar assim.
+PACIENTE: Sim. Enfim. Mas deu certo graças a Deus.
+MÉDICA: Então você vai fazer esse exame aqui hoje, tá? E esse outro aqui vai marcar. Vai dar certo. Se por acaso não der certo, se você quiser fazer lá em Viana, mas aí você vai ter que pagar porque é particular.
+PACIENTE: Entendi. Só tem cinco exames aqui na verdade. Esse aqui nem precisaria.
+MÉDICA: Eu só vou marcar esses, você vai conseguir fazer aqui, tá? Não vem com que não consegue. Eu não sei se eu consigo marcar urgente, mas vou tentar.
+PACIENTE: Entendi. Se não conseguir aqui vou fazer particular só pra adiantar.
+MÉDICA:  Aí você vai, aí não precisa fazer esse aqui que tá marcado com X só os outros. E você tem o telefone de Prevenir?
+PACIENTE: Não.
+MÉDICA: Vou te dar, anota aí. Que aí você, quando precisar, se comunicar com a gente. Digamos que não conseguiu fazer hoje. Aí você pode fazer lá num posto particular que você achar melhor. E você vai ligar no Prevenir. Prevenir é o nome do ambulatório, tá? Aí você vai ligar. É um DDD, um WhatsApp. DDD 27 3 3 3 5 75 6. Aí você mandaria isso aí pra esse número e fala assim, doutora Olivia pediu que mandasse esse número que aí eles passam pra mim.
+ACOMPANHANTE: Entendi. Ah, doutora, a gente quer saber também sobre anestésicos. Ela pode fazer sobre a diálise?
+MÉDICA: Pode, pode sim. Não tem problema não. Então nenhum anestésico tem problema. Eles passam lidocaína, só uma pomadinha. Não tem problema não. Pode usar tranquilo.
+PACIENTE: Tá bom. Doutora, pode?
+MÉDICA: É isso, meu bem. Tá liberada. Prazer te ver. Mande um beijo, tá bom? 
+PACIENTE: Tá.
