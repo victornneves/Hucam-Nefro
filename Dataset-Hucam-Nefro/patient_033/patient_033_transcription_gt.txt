@@ -156,7 +156,7 @@ MÉDICO: Sim.
 PACIENTE: Deve vir aqui uma vez por semana que o senhor tem [ininteligível] 5 da manhã?
 MÉDICO: Deus me livre. Não estou aguentando nem vir uma vez por semana. Foda, bicho, sai de lá no escuro. É Freud. Tem jeito, né? Tem que vir, né? Vou pedir os exames do senhor, tá?
 PESSOA_NÃO_RELACIONADA: [ininteligível].
-PACIENTE:O triglicerídeo que está alto a causa é carne vermelha ou?
+PACIENTE: O triglicerídeo que está alto a causa é carne vermelha ou?
 MÉDICO: Alimentação.
 PACIENTE: Alimentação. É ácido úrico que é carne vermelha?
 MÉDICO: Isso.

@@ -46,7 +46,7 @@ MÉDICO: Os exames de sangue dele estão aqui no sistema? Você imprimiu ou não
 PACIENTE: Não imprimi não.
 MÉDICO: Você não imprimiu não, né? Tá, deixa eu pegar aqui. Vamos lá, ver os exames. Os exames foram coletados no dia 3 de janeiro. Foi isso, né? Vamos lá. 3 do 1 de 25. Deixa eu anotar os exames do senhor aqui primeiro. Ácido úrico de 10.3, cálcio de 9.9, creatinina de 3.34, cloro de 98, fósforo de 8,6, sódio, glicose de 142, hemoglobina glicada de 6,2, magnésio de 2,56, potássio de 4., sódio de 138, ureia de 151, [ininteligível] vitamina d e hemograma. Beleza? E esse aqui foi uma repetição do ultrassom de abdômen superior. Ultrassom de abdômen superior do dia 10 do 2 de 25. Imagens nodulares intravesiculares.
 PESSOA_NÃO_RELACIONADA: Tudo bom? [ininteligível].
-PACIENTE> Bom com o senhor.
+PACIENTE: Bom com o senhor.
 MÉDICO: Considerar a possibilidade de pólipos vesiculares. [ininteligível]. Imagens nodulares sólidas hiperecogênicas. Vê a pressão dele para mim, Rafa, por favor? De aspecto polipoide
 PESSOA_NÃO_RELACIONADA: Chega aqui, chega mais perto um pouquinho? Isso.
 MÉDICO: e contornos regulares [ininteligível].

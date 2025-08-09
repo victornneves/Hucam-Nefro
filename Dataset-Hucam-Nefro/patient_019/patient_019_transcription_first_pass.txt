@@ -68,7 +68,7 @@ PACIENTE: Eu tenho já a minha receita. Da dieta, né?
 MÉDICO: Então tá bom. Você cuidado, hein mulher? Aqui são os remédios da senhora que a gente vai manter os mesmos, tá bom? E aqui é o retorno.
 MÉDICO: Da senhora que eu vou marcar. Eu vou marcar seis meses. Tá ótimo. Combinado?
 PACIENTE: Estou ansioso pelo meu presente. Lá tem perfume. 
-MÉDICO: Bom, vou trazer o perfume. É isso, então traz o perfume que eu estou ansioso pelo presente, hein? Um beijo, viu Dona Isabel? Vai com Deus, tá? Até a volta, tá? Tudo de bom, gatona. Vai com Deus, viu? Tudo de bom. Tchau, tchau. 
+MÉDICO: Bom, vou trazer o perfume. É isso, então traz o perfume que eu estou ansioso pelo presente, hein? Um beijo, viu Dona Isabel? Vai com Deus, tá? Até a volta, tá? Tudo de bom, gatona. Vai com Deus, viu? Tudo de bom. Tchau, tchau.
 PACIENTE: Tchau. 
 OUTRA_PESSOA: Pra cá, pra cá. Vai embora pra cá. Vai. Se aqui está se perdendo, imagina a Manoel. 
 MÉDICO: Vai com Deus. Vai.

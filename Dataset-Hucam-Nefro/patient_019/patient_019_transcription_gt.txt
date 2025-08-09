@@ -126,5 +126,5 @@ PACIENTE: Eu tenho já a minha receita.
 MÉDICO: Da dieta, né? Então tá bom. Você cuidado, hein mulher? Aqui são os remédios da senhora que a gente vai manter os mesmos, tá bom? E aqui é o retorno da senhora que eu vou marcar. Eu vou marcar seis meses.
 PACIENTE: Tá ótimo.
 MÉDICO: Combinado? Estou ansioso pelo meu presente. Lá tem perfume.
-Bom, vou trazer o perfume.
+PACIENTE: Bom, vou trazer o perfume.
 MÉDICO: É isso, então traz o perfume que eu estou ansioso pelo presente, hein? Um beijo, viu Dona Isabel? Vai com Deus, tá? Até a volta, tá? Tudo de bom.

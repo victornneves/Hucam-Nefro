@@ -217,7 +217,6 @@ MÉDICO: Vamos segurar, porque está acima de 30, a gente segura, depois a gente
 PACIENTE: Beleza. 
 MÉDICO: Você quer botar meu... Quer sim. 
 MÉDICO_SUPERVISOR: Leandro, conta para a gente.
-(Muitas palavras sem sentido são ditas até que o diálogo se retoma)
 MÉDICO: Fazer atividade física para a senhora é difícil, não é? 
 PACIENTE: É difícil, é difícil.  
 MÉDICO: E acaba não fazendo nada, né?  

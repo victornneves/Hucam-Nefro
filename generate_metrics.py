@@ -30,7 +30,7 @@ def get_speakers(patient_id):
 
 results = []
 
-for patient in range(27, 35):
+for patient in range(1, 35):
     print(f"Processing paciente {patient}")
     with open(f"/home/victorneves/Hucam-Nefro/Dataset-Hucam-Nefro/patient_{patient:03d}/patient_{patient:03d}_transcription_gt.txt", "r") as f:
         ground_truth = f.read()
@@ -59,16 +59,12 @@ for patient in range(27, 35):
     ground_truth_clean = " ".join([line.split(": ", 1)[1] for line in ground_truth.splitlines()])
     ground_truth_clean = preprocess_text(ground_truth_clean)
 
-    
     prediction_clean = " ".join([line.split(": ", 1)[1] for line in prediction.splitlines()])
     prediction_clean = preprocess_text(prediction_clean)
     
     # Metrics for the Whole text
-    # print("\nWhole text")
-    # Use SequenceMatcher to compare the preprocessed word lists
     matcher = difflib.SequenceMatcher(None, ground_truth_clean, prediction_clean)
     similarity_ratio = matcher.ratio()
-    # print(f"Similarity Ratio: {similarity_ratio:.2f}")
     patient_results["all_similarity_ratio"] = similarity_ratio
     
     # Compute cosine similarity between the two TF-IDF vectors
@@ -76,24 +72,16 @@ for patient in range(27, 35):
     vectorizer = TfidfVectorizer()
     tfidf_matrix = vectorizer.fit_transform(texts)
     cosine_sim = cosine_similarity(tfidf_matrix[0], tfidf_matrix[1])
-    # print(f"Cosine Similarity: {cosine_sim[0][0]:.2f}")
     patient_results["all_cosine_similarity"] = cosine_sim[0][0]
     
     # ROUGE metric evaluation
     scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
     scores = scorer.score(" ".join(ground_truth_clean), " ".join(prediction_clean))
-    # patient_results["all_rouge1_recall"] = scores['rouge1'].recall
-    # patient_results["all_rouge1_precision"] = scores['rouge1'].precision
-    # patient_results["all_rouge1_f1"] = scores['rouge1'].fmeasure
-    # patient_results["all_rouge2_recall"] = scores['rouge2'].recall
-    # patient_results["all_rouge2_precision"] = scores['rouge2'].precision
-    # patient_results["all_rouge2_f1"] = scores['rouge2'].fmeasure
     patient_results["all_rougeL_recall"] = scores['rougeL'].recall
     patient_results["all_rougeL_precision"] = scores['rougeL'].precision
     patient_results["all_rougeL_f1"] = scores['rougeL'].fmeasure
     
     # Metrics for each speaker
-    # speakers = get_speakers(patient)
     speakers = ['MEDIC_TEAM', 'PATIENT_AND_FAMILY']  
     for speaker in speakers:
         gt_text = concatenate_speaker_lines(ground_truth, speaker)
@@ -127,20 +115,11 @@ for patient in range(27, 35):
         scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
         scores = scorer.score(" ".join(gt_text_clean), " ".join(pred_text_clean))
 
-        # patient_results[f"{speaker}_rouge1_recall"] = scores['rouge1'].recall
-        # patient_results[f"{speaker}_rouge1_precision"] = scores['rouge1'].precision
-        # patient_results[f"{speaker}_rouge1_f1"] = scores['rouge1'].fmeasure
-        # patient_results[f"{speaker}_rouge2_recall"] = scores['rouge2'].recall
-        # patient_results[f"{speaker}_rouge2_precision"] = scores['rouge2'].precision
-        # patient_results[f"{speaker}_rouge2_f1"] = scores['rouge2'].fmeasure
         patient_results[f"{speaker}_rougeL_recall"] = scores['rougeL'].recall
         patient_results[f"{speaker}_rougeL_precision"] = scores['rougeL'].precision
         patient_results[f"{speaker}_rougeL_f1"] = scores['rougeL'].fmeasure
         
-        
     results.append(patient_results)
-
-
 
 df = pd.DataFrame(results)
 

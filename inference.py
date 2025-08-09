@@ -62,7 +62,7 @@ def save_processed_transcription(output_path, content):
 
 
 def process_all_files():
-    for i in range(27, 35):
+    for i in range(1, 35):
         primer = load_primer(PRIMER_PATH)
         patient_id = f"{i:03}"
         whisper_file = f"{DATASET_DIR}/patient_{patient_id}/patient_{patient_id}_transcription_whisper.txt"
